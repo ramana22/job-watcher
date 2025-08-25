@@ -1,0 +1,39 @@
+name: Job Watcher
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch: {}
+
+permissions:
+  contents: write    # allow committing state file
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run watcher
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          STATE_FILE: state_seen.txt
+        run: |
+          python job_watcher.py
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "gh-actions"
+            git config user.email "actions@github.com"
+            git add state_seen.txt
+            git commit -m "chore: update job watcher state"
+            git push
+          fi
