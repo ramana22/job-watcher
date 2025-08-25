@@ -111,7 +111,13 @@ def preferred_location_score(conf, location):
 # ---------- filtering helpers ----------
 def title_allowed(conf, title: str) -> bool:
     t = (title or "").lower()
-    for pat in conf.get("filters", {}).get("titles_must_not", []):
+    f = conf.get("filters", {})
+    # must include at least one "software engineer/developer" type token
+    must_inc = f.get("titles_must_include", [])
+    if must_inc and not any(re.search(p, t) for p in must_inc):
+        return False
+    # must not include senior/manager/architect/etc.
+    for pat in f.get("titles_must_not", []):
         if re.search(pat, t):
             return False
     return True
