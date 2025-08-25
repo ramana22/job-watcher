@@ -1,0 +1,54 @@
+keywords:
+  any:
+    - '\b(\.net|c#|asp\.net|web api|mvc|blazor|wpf)\b'
+    - '\b(react|angular|typescript)\b'
+    - '\b(aws|azure|kubernetes|k8s|docker|microservices)\b'
+    - '\b(full[- ]?stack|backend|software (engineer|developer)|swe|sde)\b'
+  must_not:
+    - 'intern|internship|new grad|unpaid|volunteer'
+
+
+locations_prefer:
+  - 'Remote'
+  - 'United States'
+  - 'Dallas'
+  - 'Austin'
+  - 'Texas'
+
+companies:
+  greenhouse:
+    - brex
+    - paylocity
+    - stripe
+    - snowflake
+    - cloudflare
+    - okta
+    - retool
+    - doordash
+    - databricks
+    - coinbase
+  lever:
+    - datadog
+    - block
+    - robinhood
+    - notion
+    - rippling
+    - airbnb
+    - discord
+    - plaid
+    - twilio
+    - dropbox
+  ashby: []  # add org slugs when desired (e.g., 'vercel', 'linear', ...)
+
+watchlist_companies:
+  - meta
+  - microsoft
+  - amazon
+  - gm financial
+  - goldman sachs
+  - servicenow
+  - pdi
+
+email:
+  from_name: 'Job Watcher'
+  subject_prefix: '[NEW JOB]'

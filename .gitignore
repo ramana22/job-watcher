@@ -1,0 +1,31 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE/editor junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local databases and state
+seen_jobs.sqlite3
+state_seen.txt
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
