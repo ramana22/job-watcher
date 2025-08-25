@@ -5,15 +5,68 @@ keywords:
     - '\b(aws|azure|kubernetes|k8s|docker|microservices)\b'
     - '\b(full[- ]?stack|backend|software (engineer|developer)|swe|sde)\b'
   must_not:
-    - 'intern|internship|new grad|unpaid|volunteer'
-
+    # job types / levels you don't want
+    - '\b(intern|internship|new grad|new\-graduate|apprentice|co\-op)\b'
+    - '\b(contract|contractor|consultant)\b'
 
 locations_prefer:
   - 'Remote'
   - 'United States'
+  - 'Remote US'
+  - 'Remote, US'
+  - 'U.S.'
+  - 'USA'
   - 'Dallas'
   - 'Austin'
   - 'Texas'
+
+# NEW: hard filters
+filters:
+  # Exclude titles with seniority:
+  titles_must_not:
+    - '\b(staff|principal|lead|manager|head|director|vp)\b'
+    # - '\b(senior|sr\.|staff|principal|lead|manager|head|director|vp)\b'
+
+  # Experience: allow up to 5 years, exclude >=6
+  exp_max_years: 5
+
+  # (optional) extra-negative patterns if companies write “7+ years”, “10 years” etc.
+  exp_must_not_patterns:
+    - '\b([6-9]|1[0-9]|2[0-9])\s*\+?\s*(years?|yrs?)\b'
+
+  # Location allow list: at least one of these must appear in the job location string
+  locations_allow_any:
+    - 'United States'
+    - 'U.S.'
+    - 'USA'
+    - 'Remote US'
+    - 'Remote, US'
+    - 'Remote - US'
+    - 'US-Remote'
+    - 'Remote (US)'
+    - 'Texas'
+    - 'Dallas'
+    - 'Austin'
+    - 'Remote'
+
+  # Location block list (common non-US terms)
+  locations_must_not:
+    - 'singapore'
+    - 'india'
+    - 'canada'
+    - 'europe'
+    - 'emea'
+    - 'apac'
+    - 'london'
+    - 'united kingdom'
+    - 'uk'
+    - 'germany'
+    - 'poland'
+    - 'australia'
+    - 'new zealand'
+    - 'mexico'
+    - 'brazil'
+    - 'latam'
 
 companies:
   greenhouse:
@@ -39,7 +92,7 @@ companies:
     - twilio
     - dropbox
   ashby: []  # add org slugs when desired (e.g., 'vercel', 'linear', ...)
-
+ 
 watchlist_companies:
   - meta
   - microsoft

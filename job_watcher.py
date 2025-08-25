@@ -108,6 +108,65 @@ def preferred_location_score(conf, location):
             score += (100 - i)
     return score
 
+# ---------- filtering helpers ----------
+def title_allowed(conf, title: str) -> bool:
+    t = (title or "").lower()
+    for pat in conf.get("filters", {}).get("titles_must_not", []):
+        if re.search(pat, t):
+            return False
+    return True
+
+_exp_single = re.compile(r"\b(\d{1,2})\s*(?:\+|plus)?\s*(?:years?|yrs?)\b", re.I)
+_exp_range  = re.compile(r"\b(\d{1,2})\s*-\s*(\d{1,2})\s*(?:years?|yrs?)\b", re.I)
+
+def max_years_mentioned(text: str):
+    if not text:
+        return None
+    mx = None
+    for a, b in _exp_range.findall(text):
+        hi = max(int(a), int(b))
+        mx = hi if mx is None or hi > mx else mx
+    for n, in _exp_single.findall(text):
+        val = int(n)
+        mx = val if mx is None or val > mx else mx
+    return mx
+
+def experience_allowed(conf, title: str, desc: str) -> bool:
+    filt = conf.get("filters", {})
+    max_ok = int(filt.get("exp_max_years", 5))
+    text = f"{title or ''}\n{desc or ''}"
+    # hard negatives like 6+ years, 10 years
+    for pat in filt.get("exp_must_not_patterns", []):
+        if re.search(pat, text, flags=re.I):
+            return False
+    mx = max_years_mentioned(text)
+    if mx is None:
+        # allow if years not explicitly stated
+        return True
+    return mx <= max_ok
+
+def location_allowed(conf, location: str) -> bool:
+    loc = (location or "").lower().strip()
+    filt = conf.get("filters", {})
+    # disallow if any blocked region present
+    for bad in filt.get("locations_must_not", []):
+        if bad.lower() in loc:
+            return False
+    allow_any = filt.get("locations_allow_any", [])
+    if not allow_any:
+        return True
+    return any(allow.lower() in loc for allow in allow_any)
+
+def passes_all_filters(conf, job) -> bool:
+    if not title_allowed(conf, job["title"]):
+        return False
+    if not experience_allowed(conf, job["title"], job["desc"]):
+        return False
+    if not location_allowed(conf, job.get("location", "")):
+        return False
+    return matches_keywords(conf, job["title"], job["desc"])
+# ---------------------------------------
+
 # ---------- Fetchers (public/ToS-safe) ----------
 def fetch_greenhouse(slug):
     url = f"https://boards-api.greenhouse.io/v1/boards/{quote_plus(slug)}/jobs?content=true"
@@ -197,10 +256,9 @@ def send_email(conf, items):
 
 def main():
     conf = load_conf()
-    ensure_env()  # <--- validate env before using them
+    ensure_env()  # validate env before using
 
     if TEST_EMAIL:
-        # Send a simple email to verify SMTP works
         send_email(conf, [])
         print("Sent test email.")
         return
@@ -212,18 +270,23 @@ def main():
     def consider(j):
         key = f"{j['source']}::{j['id']}"
 
-        # File-based state (e.g., GitHub Actions)
+        # File-based state (GitHub Actions)
         if state_ids is not None:
             if key in state_ids:
                 return
-            if matches_keywords(conf, j["title"], j["desc"]):
+            if passes_all_filters(conf, j):
                 new_hits.append(j)
                 if not DRY_RUN:
                     state_ids.add(key)
+            else:
+                if DRY_RUN:
+                    print(f"[FILTERED] {j['title']} — {j.get('location','').strip()}  {j['url']}")
             return
 
         # SQLite (local)
-        if not (matches_keywords(conf, j["title"], j["desc"])):
+        if not passes_all_filters(conf, j):
+            if DRY_RUN:
+                print(f"[FILTERED] {j['title']} — {j.get('location','').strip()}  {j['url']}")
             return
         cur = conn.execute("SELECT 1 FROM seen WHERE source=? AND external_id=?", (j["source"], j["id"]))
         if cur.fetchone() is None:
@@ -258,7 +321,6 @@ def main():
     new_hits.sort(key=lambda x: (-preferred_location_score(conf, x["location"]), x["title"].lower()))
 
     if DRY_RUN:
-        # Print what would be sent, without touching state or email
         if new_hits:
             print("[DRY RUN] New matches that would be emailed:\n")
             for it in new_hits:
@@ -268,7 +330,6 @@ def main():
         return
 
     if new_hits:
-        # persist STATE_FILE if used
         if state_ids is not None:
             save_state_ids(state_ids)
         send_email(conf, new_hits)
