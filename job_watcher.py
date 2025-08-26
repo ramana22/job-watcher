@@ -135,11 +135,9 @@ def tech_stack_allowed(conf, title: str, desc: str) -> bool:
     text = f"{(title or '').lower()}\n{(desc or '').lower()}"
     must_all = tf.get("must_all", [])
     must_any = tf.get("must_any", [])
-    # all must_all patterns must be present
     for pat in must_all:
         if not re.search(pat, text):
             return False
-    # at least one of must_any (if provided)
     if must_any and not any(re.search(p, text) for p in must_any):
         return False
     return True
@@ -163,13 +161,11 @@ def experience_allowed(conf, title: str, desc: str) -> bool:
     filt = conf.get("filters", {})
     max_ok = int(filt.get("exp_max_years", 5))
     text = f"{title or ''}\n{desc or ''}"
-    # hard negatives like 6+ years, 10 years
     for pat in filt.get("exp_must_not_patterns", []):
         if re.search(pat, text, flags=re.I):
             return False
     mx = max_years_mentioned(text)
     if mx is None:
-        # allow if years not explicitly stated
         return True
     return mx <= max_ok
 
@@ -294,8 +290,20 @@ def fetch_playwright_css(entry):
         page = ctx.new_page()
         page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
+        # Wait for items to appear if the page is JS-rendered
+        try:
+            page.wait_for_selector(item_sel, timeout=10000)
+        except Exception:
+            ctx.close()
+            browser.close()
+            return
+
         items = page.locator(item_sel)
-        count = items.count()
+        try:
+            count = items.count()
+        except Exception:
+            count = 0
+
         for i in range(count):
             it = items.nth(i)
             try:
@@ -314,7 +322,6 @@ def fetch_playwright_css(entry):
                 link = ""
 
             if link and link.startswith("/"):
-                # make absolute
                 base = url.split("/", 3)[:3]
                 link = "/".join(base) + link
 
@@ -356,6 +363,9 @@ def send_email(conf, items):
 
     ctx = ssl.create_default_context()
     with smtplib.SMTP(host, port) as s:
+        # Optional protocol debug (enable with SMTP_DEBUG=1)
+        if os.environ.get("SMTP_DEBUG", "0") == "1":
+            s.set_debuglevel(1)
         s.starttls(context=ctx)
         s.login(user, pwd)
         s.sendmail(mail_from, [mail_to], msg.as_string())
@@ -423,7 +433,7 @@ def main():
         except Exception as e:
             print(f"[warn] ashby {org}: {e}", file=sys.stderr)
 
-    # Poll custom sites via Playwright (Meta/Amazon/Google/MSFT etc. via public search pages)
+    # Poll custom sites via Playwright (e.g., Meta/Amazon/Google/Microsoft via public search pages)
     for entry in (conf.get("custom_sites") or []):
         try:
             kind = entry.get("kind")

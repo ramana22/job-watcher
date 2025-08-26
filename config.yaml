@@ -214,6 +214,40 @@ watchlist_companies:
   - servicenow
   - pdi
 
+
+custom_sites:
+  - name: "google"
+    kind: "playwright_css"
+    url: "https://careers.google.com/jobs/results/?location=United%20States&employment_type=FULL_TIME"
+    item: "[data-testid='job-card']"
+    title: "[data-testid='job-card-title']"
+    location: "[data-testid='job-card-location']"
+    link: "a[href*='/jobs/results/']"
+
+  - name: "microsoft"
+    kind: "playwright_css"
+    url: "https://jobs.careers.microsoft.com/global/en/search?q=software%20engineer&lc=United%20States"
+    item: "div.jobs-list-item"
+    title: "a.job-title"
+    location: "span.job-location"
+    link: "a.job-title"
+
+  - name: "amazon"
+    kind: "playwright_css"
+    url: "https://www.amazon.jobs/en/search?base_query=software%20engineer&loc_query=United%20States&country=USA"
+    item: "div.job-tile"
+    title: "h3.job-title"
+    location: "p.location-and-id"
+    link: "a[href*='/jobs/']"
+
+  - name: "meta"
+    kind: "playwright_css"
+    url: "https://www.metacareers.com/jobs/?q=Software%20Engineer&location=United%20States"
+    item: "[data-testid='result-card']"
+    title: "[data-testid='job-title']"
+    location: "[data-testid='job-location']"
+    link: "a[href*='/jobs/']"
+
 email:
   from_name: 'Job Watcher'
   subject_prefix: '[NEW JOB]'
