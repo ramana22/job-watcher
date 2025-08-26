@@ -1,3 +1,14 @@
+greenhouse:affirm::6555054003
+greenhouse:affirm::6593201003
+greenhouse:affirm::6652518003
+greenhouse:affirm::6652999003
+greenhouse:affirm::6659528003
+greenhouse:affirm::6661800003
+greenhouse:affirm::6675282003
+greenhouse:affirm::6684362003
+greenhouse:affirm::6684370003
+greenhouse:airbnb::6992043
+greenhouse:airbnb::7132194
 greenhouse:coinbase::5948429
 greenhouse:coinbase::5948499
 greenhouse:coinbase::5948501
