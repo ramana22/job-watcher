@@ -1,25 +1,38 @@
 name: Job Watcher
+
 on:
   schedule:
-    # - cron: "*/10 * * * *"   # every 10 minutes
-    - cron: "0 */2 * * *"   # every 2 hours
-  workflow_dispatch: {}
+    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+  workflow_dispatch: {}      # allow manual trigger
 
 permissions:
-  contents: write    # allow committing state file
+  contents: write    # allow committing state file back
 
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - run: pip install -r requirements.txt
+
+      # ✅ Make sure the state file exists before first run
+      - name: Initialize state file if missing
+        run: |
+          if [ ! -f state_seen.txt ]; then
+            touch state_seen.txt
+            echo "Initialized state_seen.txt"
+          fi
+
+      # ✅ Run your watcher script
       - name: Run watcher
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
@@ -29,12 +42,13 @@ jobs:
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO:   ${{ secrets.MAIL_TO }}
           STATE_FILE: state_seen.txt
+        run: python job_watcher.py
+
+      # ✅ Commit and push updated state file
+      - name: Commit updated state
         run: |
-          python job_watcher.py
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "gh-actions"
-            git config user.email "actions@github.com"
-            git add state_seen.txt
-            git commit -m "chore: update job watcher state"
-            git push
-          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state_seen.txt
+          git commit -m "chore: update state_seen.txt" || echo "No changes to commit"
+          git push
