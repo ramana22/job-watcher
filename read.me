@@ -1,0 +1,5 @@
+pip install -r requirements.txt
+python -m playwright install chromium
+python job_watcher.py --dry-run       # inspect
+python job_watcher.py                 # emails if matches
+python job_watcher.py --email-empty   # always emails (heartbeat)
