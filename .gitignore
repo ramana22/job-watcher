@@ -21,7 +21,7 @@ Thumbs.db
 
 # Local databases and state
 seen_jobs.sqlite3
-state_seen.txt
+# state_seen.txt
 
 # Logs
 *.log
