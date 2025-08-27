@@ -96,23 +96,33 @@ def matches_keywords(conf, title, desc):
     t = normalize(title) + "\n" + normalize(desc)
     any_pats = conf["keywords"]["any"]
     must_not = conf["keywords"].get("must_not", [])
-    if any(re.search(p, t) for p in must_not):
+    if any(re.search(p, t, flags=re.I) for p in must_not):
         return False
-    return any(re.search(p, t) for p in any_pats)
-
-def preferred_location_score(conf, location):
-    loc = normalize(location or "")
-    score = 0
-    for i, want in enumerate(conf.get("locations_prefer", [])):
-        if normalize(want) in loc:
-            score += (100 - i)
-    return score
+    return any(re.search(p, t, flags=re.I) for p in any_pats)
 
 # ---------- filtering helpers ----------
+def _any_regex_match(patterns, text):
+    return any(re.search(p, text, flags=re.I) for p in patterns or [])
+
+def _all_regex_match(patterns, text):
+    return all(re.search(p, text, flags=re.I) for p in patterns or [])
+
+def title_includes(conf, title: str) -> bool:
+    """Honor titles_must_include (any) and optional titles_must_include_all (all)."""
+    t = title or ""
+    flt = conf.get("filters", {})
+    must_any = flt.get("titles_must_include", [])
+    must_all = flt.get("titles_must_include_all", [])
+    if must_any and not _any_regex_match(must_any, t):
+        return False
+    if must_all and not _all_regex_match(must_all, t):
+        return False
+    return True
+
 def title_allowed(conf, title: str) -> bool:
     t = (title or "").lower()
     for pat in conf.get("filters", {}).get("titles_must_not", []):
-        if re.search(pat, t):
+        if re.search(pat, t, flags=re.I):
             return False
     return True
 
@@ -135,36 +145,47 @@ def experience_allowed(conf, title: str, desc: str) -> bool:
     filt = conf.get("filters", {})
     max_ok = int(filt.get("exp_max_years", 5))
     text = f"{title or ''}\n{desc or ''}"
-    # hard negatives like 6+ years, 10 years
     for pat in filt.get("exp_must_not_patterns", []):
         if re.search(pat, text, flags=re.I):
             return False
     mx = max_years_mentioned(text)
     if mx is None:
-        # allow if years not explicitly stated
         return True
     return mx <= max_ok
 
+def _normalize_location_tokens(loc: str) -> str:
+    if not loc:
+        return ""
+    loc = loc.lower()
+    loc = loc.replace("united states", "us").replace("u.s.", "us").replace("usa", "us")
+    loc = loc.replace("remote (us)", "remote us").replace("us-remote", "remote us")
+    return loc
+
 def location_allowed(conf, location: str) -> bool:
-    loc = (location or "").lower().strip()
+    loc = _normalize_location_tokens((location or "").strip().lower())
     filt = conf.get("filters", {})
-    # disallow if any blocked region present
     for bad in filt.get("locations_must_not", []):
         if bad.lower() in loc:
             return False
     allow_any = filt.get("locations_allow_any", [])
     if not allow_any:
         return True
-    return any(allow.lower() in loc for allow in allow_any)
+    return any(a.lower() in loc for a in allow_any)
 
 def passes_all_filters(conf, job) -> bool:
-    if not title_allowed(conf, job["title"]):
+    title = job["title"]
+    desc = job["desc"]
+    location = job.get("location", "")
+
+    if not title_allowed(conf, title):
         return False
-    if not experience_allowed(conf, job["title"], job["desc"]):
+    if not title_includes(conf, title):
         return False
-    if not location_allowed(conf, job.get("location", "")):
+    if not experience_allowed(conf, title, desc):
         return False
-    return matches_keywords(conf, job["title"], job["desc"])
+    if not location_allowed(conf, location):
+        return False
+    return matches_keywords(conf, title, desc)
 # ---------------------------------------
 
 # ---------- Fetchers (public/ToS-safe) ----------
@@ -172,7 +193,8 @@ def fetch_greenhouse(slug):
     url = f"https://boards-api.greenhouse.io/v1/boards/{quote_plus(slug)}/jobs?content=true"
     r = requests.get(url, timeout=POLL_TIMEOUT)
     r.raise_for_status()
-    for j in r.json().get("jobs", []):
+    data = r.json() or {}
+    for j in data.get("jobs", []):
         yield {
             "source": f"greenhouse:{slug}",
             "id": str(j.get("id")),
@@ -186,7 +208,8 @@ def fetch_lever(handle):
     url = f"https://api.lever.co/v0/postings/{quote_plus(handle)}?mode=json"
     r = requests.get(url, timeout=POLL_TIMEOUT)
     r.raise_for_status()
-    for j in r.json():
+    arr = r.json() or []
+    for j in arr:
         jid = j.get("id") or j.get("lever_id") or j.get("hostedUrl") or j.get("applyUrl")
         yield {
             "source": f"lever:{handle}",
@@ -198,35 +221,102 @@ def fetch_lever(handle):
         }
 
 def fetch_ashby(org_slug):
-    # Public non-user GraphQL endpoint that many Ashby boards expose.
-    q = {
-        "operationName": "FindJobs",
-        "variables": {"organizationSlug": org_slug, "page": 1},
-        "query": """query FindJobs($organizationSlug: String!, $page: Int) {
-            jobPostings(organizationSlug:$organizationSlug, page:$page, statuses:[PUBLISHED]) {
-              totalCount
-              jobPostings { id title locationSlug locationName absoluteUrl descriptionText }
-            }
-        }"""
-    }
     url = "https://jobs.ashbyhq.com/api/non-user-graphql"
-    r = requests.post(url, json=q, timeout=POLL_TIMEOUT)
+    page = 1
+    while True:
+        q = {
+            "operationName": "FindJobs",
+            "variables": {"organizationSlug": org_slug, "page": page},
+            "query": """query FindJobs($organizationSlug: String!, $page: Int) {
+                jobPostings(organizationSlug:$organizationSlug, page:$page, statuses:[PUBLISHED]) {
+                  totalCount
+                  jobPostings { id title locationSlug locationName absoluteUrl descriptionText }
+                }
+            }"""
+        }
+        r = requests.post(url, json=q, timeout=POLL_TIMEOUT)
+        r.raise_for_status()
+        data = r.json() or {}
+        posts = (((data.get("data") or {}).get("jobPostings") or {}).get("jobPostings") or [])
+        if not posts:
+            break
+        for j in posts:
+            yield {
+                "source": f"ashby:{org_slug}",
+                "id": str(j.get("id")),
+                "title": j.get("title") or "",
+                "location": j.get("locationName") or j.get("locationSlug") or "",
+                "desc": j.get("descriptionText") or "",
+                "url": j.get("absoluteUrl") or "",
+            }
+        page += 1
+
+def fetch_smartrecruiters(company_slug):
+    # Not all companies are on SR; safe to try.
+    base = f"https://api.smartrecruiters.com/v1/companies/{quote_plus(company_slug)}/postings"
+    page = 0
+    while True:
+        r = requests.get(base, params={"offset": page * 100, "limit": 100}, timeout=POLL_TIMEOUT)
+        if r.status_code == 404:
+            break
+        r.raise_for_status()
+        data = r.json() or {}
+        items = data.get("content") or []
+        if not items:
+            break
+        for j in items:
+            jid = j.get("id") or j.get("refNumber") or j.get("name")
+            title = (j.get("name") or "")
+            loc_city = (j.get("location") or {}).get("city") or ""
+            loc_country = (j.get("location") or {}).get("countryCode") or ""
+            loc = ", ".join([x for x in [loc_city, loc_country] if x]).strip(", ")
+            url = j.get("ref") or j.get("applyUrl") or j.get("companyCareerUrl") or ""
+            desc = ((j.get("jobAd") or {}).get("sections", {}) or {}).get("jobDescription", {}).get("text", "") or ""
+            yield {
+                "source": f"smartrecruiters:{company_slug}",
+                "id": str(jid),
+                "title": title,
+                "location": loc,
+                "desc": desc,
+                "url": url,
+            }
+        page += 1
+
+def fetch_recruitee(company_slug):
+    # Not all companies are on Recruitee; safe to try.
+    url = f"https://api.recruitee.com/c/{quote_plus(company_slug)}/careers/offers"
+    r = requests.get(url, timeout=POLL_TIMEOUT)
+    if r.status_code == 404:
+        return
     r.raise_for_status()
-    data = r.json()
-    posts = (((data or {}).get("data") or {}).get("jobPostings") or {}).get("jobPostings") or []
-    for j in posts:
+    data = r.json() or {}
+    for j in data.get("offers", []):
+        jid = j.get("id") or j.get("slug") or j.get("title")
+        title = j.get("title") or ""
+        loc_city = (j.get("location") or {}).get("city") or ""
+        loc_cc = (j.get("location") or {}).get("country_code") or ""
+        loc = ", ".join([x for x in [loc_city, loc_cc] if x]).strip(", ")
+        url = j.get("careers_url") or j.get("apply_url") or ""
+        desc = j.get("description") or ""
         yield {
-            "source": f"ashby:{org_slug}",
-            "id": str(j.get("id")),
-            "title": j.get("title") or "",
-            "location": j.get("locationName") or j.get("locationSlug") or "",
-            "desc": j.get("descriptionText") or "",
-            "url": j.get("absoluteUrl") or "",
+            "source": f"recruitee:{company_slug}",
+            "id": str(jid),
+            "title": title,
+            "location": loc,
+            "desc": desc,
+            "url": url,
         }
 # -------------------------------------------------
 
+def preferred_location_score(conf, location):
+    loc = normalize(location or "")
+    score = 0
+    for i, want in enumerate(conf.get("locations_prefer", [])):
+        if normalize(want) in loc:
+            score += (100 - i)
+    return score
+
 def send_email(conf, items):
-    # Use .get() safely; ensure_env() will guard against missing values
     host = os.environ.get("SMTP_HOST"); port = int(os.environ.get("SMTP_PORT", "587"))
     user = os.environ.get("SMTP_USER"); pwd = os.environ.get("SMTP_PASS")
     mail_from = os.environ.get("MAIL_FROM"); mail_to = os.environ.get("MAIL_TO")
@@ -254,6 +344,228 @@ def send_email(conf, items):
         s.login(user, pwd)
         s.sendmail(mail_from, [mail_to], msg.as_string())
 
+
+# ---------- NEW: Amazon & Workday CxS fetchers ----------
+
+def fetch_amazon(params: dict):
+    """
+    Amazon public jobs endpoint (read-only).
+    You can pass filters from config.yaml under companies.amazon.params.
+    Example base: https://www.amazon.jobs/en/search.json
+    """
+    base = params.get("base", "https://www.amazon.jobs/en/search.json")
+    # sensible defaults; override in config as needed
+    query = {
+        "offset": 0,
+        "result_limit": 100,
+        "sort": "recent",
+        # Common filters: "category", "normalized_country_code", "query", "business_category"
+        # We'll merge with user-specified params below.
+    }
+    # merge user params
+    for k, v in (params.get("query_params") or {}).items():
+        query[k] = v
+
+    seen = 0
+    while True:
+        r = requests.get(base, params=query, timeout=POLL_TIMEOUT)
+        if r.status_code == 404:
+            break
+        r.raise_for_status()
+        data = r.json() or {}
+        jobs = data.get("jobs", []) or data.get("hits", []) or []
+        if not jobs:
+            break
+
+        for j in jobs:
+            # Fields differ slightly depending on Amazon endpoint version.
+            jid = str(j.get("id") or j.get("job_id") or j.get("posting_id") or j.get("slug") or j.get("title"))
+            title = j.get("title") or j.get("normalized_job_title") or ""
+            loc = j.get("location") or j.get("city_state_country") or j.get("cityStateCountry") or ""
+            url = j.get("url") or j.get("job_path") or ""
+            # Many results give only a path; prepend domain if needed
+            if url and url.startswith("/"):
+                url = "https://www.amazon.jobs" + url
+            desc = j.get("description") or j.get("basic_qualifications") or ""
+            yield {
+                "source": "amazon",
+                "id": jid,
+                "title": title,
+                "location": loc,
+                "desc": desc,
+                "url": url,
+            }
+
+        seen += len(jobs)
+        # paginate by bumping offset; stop if fewer than page size returned
+        query["offset"] = int(query.get("offset", 0)) + int(query.get("result_limit", 100))
+        if len(jobs) < int(query.get("result_limit", 100)):
+            break
+
+
+def fetch_workday_cxs(site: dict):
+    """
+    Generic Workday CxS reader (read-only).
+    Works for many Workday-powered sites that expose the public CxS jobs API.
+    You specify host/tenant/org and optional 'search' payload in config.
+    Example base: https://<host>/wday/cxs/<tenant>/<org>/jobs
+    """
+    host = site.get("host")  # e.g., "careers.microsoft.com", "www.metacareers.com"
+    tenant = site.get("tenant")  # Workday tenant code (varies by company)
+    org = site.get("org")        # Org slug (varies)
+    if not host or not tenant or not org:
+        return
+
+    base = f"https://{host}/wday/cxs/{quote_plus(tenant)}/{quote_plus(org)}/jobs"
+    payload = site.get("search") or {}
+    # Typical CxS supports paging via "page" or "limit"/"offset" fields in the POST payload.
+    # We'll try a "page" loop if not specified.
+    page = 1
+    max_pages = int(site.get("max_pages", 30))
+    while page <= max_pages:
+        # include page if caller didn't specify one
+        body = dict(payload)
+        body.setdefault("page", page)
+        try:
+            r = requests.post(base, json=body, timeout=POLL_TIMEOUT)
+            if r.status_code == 404:
+                break
+            r.raise_for_status()
+            data = r.json() or {}
+        except Exception:
+            break
+
+        # Common shapes:
+        # data["jobPostings"] or data["jobs"] or data["positions"]
+        postings = (
+            data.get("jobPostings")
+            or data.get("jobs")
+            or data.get("positions")
+            or []
+        )
+        if not postings:
+            # Some CxS variants nest under data["total"] and data["jobPostings"]
+            container = data.get("result" or "data" or "") or {}
+            postings = container.get("jobPostings") or []
+        if not postings:
+            break
+
+        for j in postings:
+            jid = str(
+                j.get("id")
+                or j.get("jobPostingId")
+                or j.get("externalUrl")
+                or j.get("title")
+            )
+            title = j.get("title") or j.get("postingTitle") or ""
+            loc = (
+                j.get("location")
+                or j.get("locationsText")
+                or j.get("city")
+                or ""
+            )
+            url = j.get("externalUrl") or j.get("absoluteUrl") or j.get("hostedUrl") or ""
+            desc = j.get("description") or j.get("jobText") or j.get("postingDescription") or ""
+
+            yield {
+                "source": f"workday:{host}",
+                "id": jid,
+                "title": title,
+                "location": loc,
+                "desc": desc,
+                "url": url,
+            }
+
+        # stop if the page returned fewer than expected (best-effort)
+        page += 1
+
+
+def fetch_google_careers(params: dict):
+    """
+    Google Careers (read-only). Google changes versions occasionally, so we try a few bases.
+    You can tweak query in config under companies.google.query_params.
+    Common query keys that tend to work: q, page, page_size, skills, degree, location, employment_type.
+    """
+    bases = params.get("bases") or [
+        "https://careers.google.com/api/v3/search/",
+        "https://careers.google.com/api/v2/search/",
+        "https://careers.google.com/api/v1/search/",
+    ]
+    q = {
+        "page": 1,
+        "page_size": 100,
+    }
+    for k, v in (params.get("query_params") or {}).items():
+        q[k] = v
+
+    for base in bases:
+        page = 1
+        while True:
+            q["page"] = page
+            try:
+                r = requests.get(base, params=q, timeout=POLL_TIMEOUT)
+                if r.status_code == 404:
+                    break
+                r.raise_for_status()
+                data = r.json() or {}
+            except Exception:
+                break
+
+            # Google has used different shapes over time; try a few
+            jobs = (
+                data.get("jobs") or
+                data.get("results") or
+                data.get("positions") or
+                []
+            )
+            if not jobs:
+                break
+
+            for j in jobs:
+                # Try to normalize fields
+                jid = str(
+                    j.get("id") or
+                    j.get("job_id") or
+                    j.get("slug") or
+                    j.get("apply_url") or
+                    j.get("title") or ""
+                )
+                title = j.get("title") or j.get("job_title") or ""
+                # locations might be a string, list of strings, or list of dicts with "display" fields
+                loc = j.get("location") or j.get("locations") or ""
+                if isinstance(loc, list):
+                    loc = ", ".join(
+                        [x.get("display") if isinstance(x, dict) else str(x) for x in loc]
+                    )
+                url = (
+                    j.get("apply_url") or
+                    j.get("job_url") or
+                    j.get("canonical_url") or
+                    ""
+                )
+                desc = (
+                    j.get("description") or
+                    j.get("description_html") or
+                    j.get("summary") or
+                    ""
+                )
+
+                yield {
+                    "source": "google-careers",
+                    "id": jid,
+                    "title": title,
+                    "location": loc or "",
+                    "desc": desc or "",
+                    "url": url or "",
+                }
+
+            # stop if short page
+            if len(jobs) < int(q.get("page_size", 100)):
+                break
+            page += 1
+
+
+
 def main():
     conf = load_conf()
     ensure_env()  # validate env before using
@@ -270,7 +582,7 @@ def main():
     def consider(j):
         key = f"{j['source']}::{j['id']}"
 
-        # File-based state (GitHub Actions)
+        # File-based state (e.g., GitHub Actions)
         if state_ids is not None:
             if key in state_ids:
                 return
@@ -316,6 +628,43 @@ def main():
             for j in fetch_ashby(org): consider(j)
         except Exception as e:
             print(f"[warn] ashby {org}: {e}", file=sys.stderr)
+
+    for org in conf["companies"].get("smartrecruiters", []):
+        try:
+            for j in fetch_smartrecruiters(org): consider(j)
+        except Exception as e:
+            print(f"[warn] smartrecruiters {org}: {e}", file=sys.stderr)
+
+    for org in conf["companies"].get("recruitee", []):
+        try:
+            for j in fetch_recruitee(org): consider(j)
+        except Exception as e:
+            print(f"[warn] recruitee {org}: {e}", file=sys.stderr)
+
+        # NEW: Amazon (single entry with params)
+    
+    amazon_conf = conf["companies"].get("amazon")
+    if amazon_conf:
+        try:
+            for j in fetch_amazon(amazon_conf): consider(j)
+        except Exception as e:
+            print(f"[warn] amazon: {e}", file=sys.stderr)
+
+    # NEW: Workday CxS (list of sites)
+    for site in conf["companies"].get("workday_cxs", []):
+        try:
+            for j in fetch_workday_cxs(site): consider(j)
+        except Exception as e:
+            host = site.get("host", "<unknown>")
+            print(f"[warn] workday_cxs {host}: {e}", file=sys.stderr)
+
+    # NEW: Google Careers (read-only monitor)
+    google_conf = conf["companies"].get("google")
+    if google_conf:
+        try:
+            for j in fetch_google_careers(google_conf): consider(j)
+        except Exception as e:
+            print(f"[warn] google-careers: {e}", file=sys.stderr)
 
     # Sort for readability
     new_hits.sort(key=lambda x: (-preferred_location_score(conf, x["location"]), x["title"].lower()))
