@@ -94,11 +94,18 @@ def normalize(t):
 
 def matches_keywords(conf, title, desc):
     t = normalize(title) + "\n" + normalize(desc)
-    any_pats = conf["keywords"]["any"]
     must_not = conf["keywords"].get("must_not", [])
     if any(re.search(p, t, flags=re.I) for p in must_not):
         return False
-    return any(re.search(p, t, flags=re.I) for p in any_pats)
+
+    require_any = conf["keywords"].get("require_any", [])
+    if require_any and not any(re.search(p, t, flags=re.I) for p in require_any):
+        return False  # hard gate: must mention .NET stack
+
+    any_pats = conf["keywords"].get("any", [])
+    # if you want require_any to be sufficient, you could return True here when matched.
+    return (not any_pats) or any(re.search(p, t, flags=re.I) for p in any_pats)
+
 
 # ---------- filtering helpers ----------
 def _any_regex_match(patterns, text):
@@ -164,13 +171,18 @@ def _normalize_location_tokens(loc: str) -> str:
 def location_allowed(conf, location: str) -> bool:
     loc = _normalize_location_tokens((location or "").strip().lower())
     filt = conf.get("filters", {})
-    for bad in filt.get("locations_must_not", []):
-        if bad.lower() in loc:
+
+    # use regex for must_not
+    for pat in filt.get("locations_must_not", []):
+        if re.search(pat, loc, flags=re.I):
             return False
+
     allow_any = filt.get("locations_allow_any", [])
     if not allow_any:
         return True
-    return any(a.lower() in loc for a in allow_any)
+
+    # use regex for allow_any
+    return any(re.search(pat, loc, flags=re.I) for pat in allow_any)
 
 def passes_all_filters(conf, job) -> bool:
     title = job["title"]
