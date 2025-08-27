@@ -399,6 +399,17 @@ amazon::fcd5e6bf-f2c3-42c7-b4d0-605a8cb447b9
 amazon::fd4d480e-9a46-4981-a85f-76e65b5cacf2
 amazon::fdbb5b58-7399-49a4-a694-611c5339eccf
 amazon::ff63154b-fbeb-43d1-bfa1-3a2760d3bf64
+google-careers::jobs/102123857967489734
+google-careers::jobs/104389950627029702
+google-careers::jobs/108509541254996678
+google-careers::jobs/112310710792266438
+google-careers::jobs/119743582000030406
+google-careers::jobs/122258040807137990
+google-careers::jobs/134512328753193670
+google-careers::jobs/137116824838775494
+google-careers::jobs/86166349360833222
+google-careers::jobs/90128240869286598
+google-careers::jobs/92101758746010310
 greenhouse:airbnb::6992043
 greenhouse:airbnb::7113677
 greenhouse:airbnb::7132194
@@ -509,6 +520,7 @@ greenhouse:twilio::7145004
 greenhouse:twilio::7167660
 greenhouse:twilio::7181223
 greenhouse:twilio::7186949
+greenhouse:twilio::7188174
 lever:plaid::09417a46-2e16-489d-bca2-c17deaad981d
 lever:plaid::09c36a48-b2db-4ce2-b7c2-019a10a83544
 lever:plaid::49139a62-a9bc-4400-ae89-789818b34cb8
