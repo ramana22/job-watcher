@@ -250,6 +250,7 @@ amazon::a557ea80-567f-4fa0-878b-41927e17da26
 amazon::a56ecfea-c4c1-424a-9ee8-2344a7c8a081
 amazon::a57ba052-58f4-4e82-b431-873969cd1bff
 amazon::a593c2a3-908c-4462-b367-04f9bbdcb80c
+amazon::a5c87fbe-a3c1-4861-b390-ccb2c08c3a59
 amazon::a661c897-2eb5-4842-93ad-36a04fd4c64d
 amazon::a71f8c3e-0c4e-4a8c-a492-a2db877a1e41
 amazon::a84af327-9077-4945-9fd8-dbba61dd301d
@@ -414,6 +415,7 @@ google-careers::jobs/119743582000030406
 google-careers::jobs/122258040807137990
 google-careers::jobs/134512328753193670
 google-careers::jobs/137116824838775494
+google-careers::jobs/78645276436243142
 google-careers::jobs/86166349360833222
 google-careers::jobs/90128240869286598
 google-careers::jobs/92101758746010310
