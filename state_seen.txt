@@ -1,5 +1,6 @@
 amazon::006d494e-8909-4742-9071-21ae24e856d3
 amazon::00efa6c8-728f-42cf-b285-62dace001c8e
+amazon::01495470-9bf4-47a5-b7d7-ab9d66dc3cd2
 amazon::026fc605-d1d4-411e-b886-a868a2136bdd
 amazon::028580b0-69d8-40b8-8c78-806b3fc3c89e
 amazon::0314698f-6266-4694-bf4b-8c16d6e24559
@@ -423,6 +424,7 @@ amazon::ef955b56-b939-4e5b-9365-f4b8aeffba50
 amazon::f0041a84-99e7-4a3a-a1f4-7ab1096fbff7
 amazon::f01fb40d-17cc-486e-a8b3-30aa8fd29df5
 amazon::f12f19e1-d91c-46d8-baf4-6db9496cc798
+amazon::f239d8ad-1eab-47b3-9030-8b6026d09601
 amazon::f26f6b2c-403b-4279-a48e-6afeb32bc530
 amazon::f2f8edcd-ec2e-4a59-9680-3349e59ad9e5
 amazon::f3623e09-8fb6-4412-8c9c-a680fc639645
@@ -455,7 +457,9 @@ google-careers::jobs/104732748878357190
 google-careers::jobs/108509541254996678
 google-careers::jobs/112310710792266438
 google-careers::jobs/119743582000030406
+google-careers::jobs/120920712545215174
 google-careers::jobs/122258040807137990
+google-careers::jobs/133352684362048198
 google-careers::jobs/134512328753193670
 google-careers::jobs/137116824838775494
 google-careers::jobs/142295922963817158
