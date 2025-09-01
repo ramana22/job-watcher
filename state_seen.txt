@@ -197,6 +197,7 @@ amazon::7c5f9b77-1df0-4adf-a4a3-13c0f1f3c521
 amazon::7c674450-a697-42bf-a01b-f8509063b07e
 amazon::7cace546-c039-43a7-a91a-2537b419ab77
 amazon::7cdf69f7-0692-41e4-afbc-e9ceab617703
+amazon::7d491f91-d995-4502-ac71-c4fbc49d9e7e
 amazon::7d5661a7-8fa4-48cb-bd3a-0cb4885ea680
 amazon::7e8a64e4-44db-491f-ac01-548730efda2a
 amazon::7eae1d30-7b6c-4ee5-84de-f0a1e4a05317
@@ -310,6 +311,7 @@ amazon::b3a9e03a-3375-4470-bd1a-f2188559fce9
 amazon::b3d4f7b2-6484-4580-90c9-81d97966daf4
 amazon::b464d646-934e-4d47-b8ec-7d4990ff5e1a
 amazon::b51da6f6-a896-4b60-8811-e601aff5edb8
+amazon::b535fdf6-abe7-4018-9f8c-f66a89ee477c
 amazon::b5ae3582-bdff-4630-b16b-3b95f315d306
 amazon::b5f37c45-b983-4604-b8cc-f773be927ece
 amazon::b6f51f21-6a2a-485d-9039-77363319e3f1
@@ -456,6 +458,7 @@ google-careers::jobs/137116824838775494
 google-careers::jobs/142295922963817158
 google-careers::jobs/78645276436243142
 google-careers::jobs/86166349360833222
+google-careers::jobs/87913923235193542
 google-careers::jobs/90128240869286598
 google-careers::jobs/92101758746010310
 greenhouse:airbnb::6992043
