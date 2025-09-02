@@ -1,6 +1,7 @@
 amazon::006d494e-8909-4742-9071-21ae24e856d3
 amazon::00efa6c8-728f-42cf-b285-62dace001c8e
 amazon::01495470-9bf4-47a5-b7d7-ab9d66dc3cd2
+amazon::015160eb-dd1f-4c19-b1b8-724c9c39543e
 amazon::026fc605-d1d4-411e-b886-a868a2136bdd
 amazon::028580b0-69d8-40b8-8c78-806b3fc3c89e
 amazon::0314698f-6266-4694-bf4b-8c16d6e24559
@@ -78,6 +79,7 @@ amazon::2e6c7b74-6a7f-46c0-8bcf-9696e035d9b3
 amazon::2f685a93-9d6f-4af8-b92b-c23844f7a01b
 amazon::2f996070-0041-423e-be32-6cfe1b9771c6
 amazon::2fe88404-3b45-4f16-a4aa-9ce3d4530ec8
+amazon::301ef3d8-e937-43ce-894c-cdcf5c400a24
 amazon::31b7b80a-8184-4572-85df-ab2da2511833
 amazon::3251695f-abe2-4dac-88df-7d8e48f1c145
 amazon::328f143f-11a9-4897-ad1d-b1140668e554
@@ -475,6 +477,7 @@ google-careers::jobs/86166349360833222
 google-careers::jobs/87913923235193542
 google-careers::jobs/90128240869286598
 google-careers::jobs/92101758746010310
+greenhouse:airbnb::6786628
 greenhouse:airbnb::6992043
 greenhouse:airbnb::7113677
 greenhouse:airbnb::7132194
