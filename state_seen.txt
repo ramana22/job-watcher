@@ -480,6 +480,7 @@ google-careers::jobs/119743582000030406
 google-careers::jobs/120920712545215174
 google-careers::jobs/122258040807137990
 google-careers::jobs/133352684362048198
+google-careers::jobs/134173046268142278
 google-careers::jobs/134512328753193670
 google-careers::jobs/137116824838775494
 google-careers::jobs/140214364916327110
@@ -576,6 +577,7 @@ greenhouse:retool::4520708005
 greenhouse:retool::4533988005
 greenhouse:retool::4559232005
 greenhouse:robinhood::5702135
+greenhouse:robinhood::6669758
 greenhouse:robinhood::6674980
 greenhouse:robinhood::6842446
 greenhouse:robinhood::6859100
