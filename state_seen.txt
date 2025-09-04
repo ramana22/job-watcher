@@ -358,6 +358,7 @@ amazon::bbfbffac-6dfa-4a6a-815b-13df54b9b535
 amazon::bc0cae73-4803-4290-b4f3-4d2f6ac70911
 amazon::bc176e13-6f10-46f9-8c6f-56629cd15e69
 amazon::bc4c3ee9-8d4d-41c0-a2d5-1d5a947d432a
+amazon::bc53fb7d-e95c-4bed-ba6d-c070d6efbfb8
 amazon::bc971902-484c-4f76-8567-efb558205d5e
 amazon::bd5ac6e3-c4de-448b-a554-d80f17a99bdd
 amazon::bd7b19b3-e5a5-4c25-b4c1-44efaf697a64
@@ -505,6 +506,7 @@ google-careers::jobs/137116824838775494
 google-careers::jobs/140214364916327110
 google-careers::jobs/142295922963817158
 google-careers::jobs/142948180319707846
+google-careers::jobs/77139638069666502
 google-careers::jobs/77141567583724230
 google-careers::jobs/78645276436243142
 google-careers::jobs/86166349360833222
@@ -512,6 +514,7 @@ google-careers::jobs/86924145874346694
 google-careers::jobs/87913923235193542
 google-careers::jobs/90128240869286598
 google-careers::jobs/92101758746010310
+google-careers::jobs/97083074969248454
 greenhouse:airbnb::6786628
 greenhouse:airbnb::6992043
 greenhouse:airbnb::7113677
@@ -608,6 +611,7 @@ greenhouse:robinhood::7014467
 greenhouse:robinhood::7022255
 greenhouse:robinhood::7022476
 greenhouse:robinhood::7026567
+greenhouse:robinhood::7158994
 greenhouse:stripe::5738419
 greenhouse:stripe::6241651
 greenhouse:stripe::6623777
