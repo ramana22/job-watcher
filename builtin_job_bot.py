@@ -60,6 +60,8 @@ KEYWORDS: List[str] = [
     ".NET Engineer",
     "ASP.NET Core",
     "Full Stack .NET",
+    "C#",
+
 ]
 
 REMOTE_ONLY = False                 # adds &remote_only=true
