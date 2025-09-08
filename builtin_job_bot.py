@@ -41,6 +41,7 @@ from datetime import datetime, timedelta
 from urllib.parse import urlencode, urlparse, parse_qsl, urlunparse, quote_plus
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.utils import formataddr
 
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
@@ -245,23 +246,27 @@ def send_email(subject: str, html_body: str) -> None:
     if not all([SMTP["host"], SMTP["port"], SMTP["user"], SMTP["pass"], SMTP["to"], SMTP["from"]]):
         raise RuntimeError("SMTP configuration incomplete (need SMTP_*, MAIL_TO/MAIL_FROM or EMAIL_*).")
 
-    # Split from env, then add hard-coded one
     recipients = [addr.strip() for addr in SMTP["to"].split(",") if addr.strip()]
 
-    # Add an extra recipient from code
-    sahil_recipient = "ramana@jobhuntmails.com"
-    if sahil_recipient not in recipients:
-        recipients.append(sahil_recipient)
+    # Add an extra recipient directly in code (optional)
+    extra_recipient = "ramana@jobhuntmails.com"
+    if extra_recipient not in recipients:
+        recipients.append(extra_recipient)
 
+    # ✅ Define the message object before using it
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
-    msg["From"] = SMTP["from"]
+
+    # ✅ Now set the From header with a display name
+    from_name = "Ramana Job Bot"
+    msg["From"] = formataddr((from_name, SMTP["from"]))
+
     msg["To"] = ", ".join(recipients)
     msg.attach(MIMEText(html_body, "html"))
 
     ctx = ssl.create_default_context()
     with smtplib.SMTP(SMTP["host"], SMTP["port"]) as server:
-        server.starttls(context=ctx)  # Gmail 587
+        server.starttls(context=ctx)
         server.login(SMTP["user"], SMTP["pass"])
         server.sendmail(SMTP["from"], recipients, msg.as_string())
 
@@ -615,7 +620,7 @@ def main():
     if not fresh_jobs:
         print("Nothing new to email (SQLite dedupe).")
         return
-    subject = f"[Built In-Ramana Gajula] {len(fresh_jobs)} new matches • {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+    subject = f"[Built In] {len(fresh_jobs)} new matches • {datetime.now().strftime('%Y-%m-%d %H:%M')}"
     body = render_email(fresh_jobs)
     send_email(subject, body)
     db_mark_sent(con, fresh_jobs)
