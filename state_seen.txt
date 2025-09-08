@@ -17,6 +17,7 @@ amazon::07410347-213b-4993-a8ff-c48529efd8bc
 amazon::0753b0c2-94e1-4994-b363-a07a547ba15f
 amazon::07aa8d65-5c08-4f14-bb28-a2e98d1413af
 amazon::07c21af8-9ba2-4fde-890f-ebc20df3f4c0
+amazon::07d558a3-8cb0-4d43-9318-6afdee2e298d
 amazon::081c8b92-af42-4593-b0e2-33ef4fd2eaca
 amazon::084a3ec6-d3bb-456e-9bef-ba349b28711e
 amazon::0865f669-b0fc-402a-bb40-84a108d92a0c
@@ -349,6 +350,7 @@ amazon::adec505b-a210-44df-9ec3-13a238528f25
 amazon::ae16f6e0-7264-4748-b2a9-2fd5005a778f
 amazon::ae2ff6db-a78a-4ee9-892e-b74d41b04088
 amazon::af728908-4780-473d-a3dc-73eac2d805a6
+amazon::afa62261-15ca-433f-bdc5-42a23b428a56
 amazon::affa9aca-79a1-492e-9d19-f158519b5fe3
 amazon::b13fcf4b-3bd8-400c-98cd-7df3257e66fe
 amazon::b1a306da-ed50-4966-aa77-9f13647124ff
@@ -415,6 +417,7 @@ amazon::cea9c176-0d8c-41f8-b7de-2d1b75e6d465
 amazon::cf497d56-409d-4d13-8183-4f3cb2d02c3f
 amazon::d0eb6bd5-290f-490e-a4ef-a67799aafae7
 amazon::d21924c3-f709-4086-8833-0eb443332703
+amazon::d22c6beb-c5dd-4472-a19f-9010cb35efe0
 amazon::d2e0457d-b433-4ed7-ac35-2c089bc243ff
 amazon::d451ee66-8484-4b44-94ba-0713e97b5ddd
 amazon::d49b2c0d-9f2a-4633-ab90-f6ae1a38eb87
@@ -519,6 +522,7 @@ google-careers::jobs/119743582000030406
 google-careers::jobs/120920712545215174
 google-careers::jobs/122258040807137990
 google-careers::jobs/130997270609830598
+google-careers::jobs/133233346548245190
 google-careers::jobs/133352684362048198
 google-careers::jobs/134173046268142278
 google-careers::jobs/134512328753193670
@@ -620,6 +624,7 @@ greenhouse:okta::7160420
 greenhouse:okta::7176742
 greenhouse:okta::7181560
 greenhouse:okta::7181561
+greenhouse:okta::7230318
 greenhouse:retool::4003629005
 greenhouse:retool::4520708005
 greenhouse:retool::4533988005
@@ -637,6 +642,7 @@ greenhouse:robinhood::7014467
 greenhouse:robinhood::7022255
 greenhouse:robinhood::7022476
 greenhouse:robinhood::7026567
+greenhouse:robinhood::7066594
 greenhouse:robinhood::7158994
 greenhouse:stripe::5738419
 greenhouse:stripe::6241651
@@ -650,6 +656,7 @@ greenhouse:stripe::6967304
 greenhouse:stripe::6995841
 greenhouse:stripe::7088616
 greenhouse:stripe::7174299
+greenhouse:stripe::7230452
 greenhouse:twilio::6987416
 greenhouse:twilio::6988653
 greenhouse:twilio::7070267
