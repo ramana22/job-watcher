@@ -53,6 +53,7 @@ jobs:
           #   [".NET Engineer","ASP.NET Core","Full Stack .NET"]
           # DAYS_SINCE_UPDATED: "1"   # or "None"
           # POSTED_WITHIN_DAYS: "14"
+          # EXP_LEVELS_JSON=["Entry Level","Junior","Mid Level"]
         run: python builtin_job_bot.py
 
       - name: Commit Built In state

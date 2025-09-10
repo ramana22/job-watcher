@@ -55,6 +55,7 @@ load_dotenv()
 SEARCH_URLS: List[str] = [
     # Example:
     # "https://builtin.com/jobs?search=.NET+Engineer&country=USA&allLocations=true&daysSinceUpdated=1",
+    # "https://builtin.com/jobs/entry-level/junior/mid-level?search=C%23&daysSinceUpdated=1&country=USA&allLocations=true"
 ]
 
 KEYWORDS: List[str] = [
@@ -153,7 +154,10 @@ class Job:
 # =========================
 
 def build_search_url_from_keyword(keyword: str) -> str:
-    base = "https://builtin.com/jobs"
+    base = "https://builtin.com/jobs" \
+    "" \
+    "" \
+    "/entry-level/junior/mid-level"
     params = {
         "search": keyword,
         "country": "USA",
@@ -258,7 +262,7 @@ def send_email(subject: str, html_body: str) -> None:
     msg["Subject"] = subject
 
     # ✅ Now set the From header with a display name
-    from_name = "Ramana Job Bot"
+    from_name = "Sahil Job Bot"
     msg["From"] = formataddr((from_name, SMTP["from"]))
 
     msg["To"] = ", ".join(recipients)
