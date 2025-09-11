@@ -87,6 +87,8 @@ https://builtin.com/job/shipping-coordinator-c-shift/7104914
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-ii-geoprocessing-and-map-viewer-analysis/7087582
 https://builtin.com/job/software-developer-net/7085455
+https://builtin.com/job/software-developer-web/7107192
+https://builtin.com/job/software-developer-web/7107208
 https://builtin.com/job/software-developer/7076670
 https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer/7103044
@@ -102,6 +104,7 @@ https://builtin.com/job/software-engineer-ii/7091020
 https://builtin.com/job/software-engineer-ii/7091225
 https://builtin.com/job/software-engineer-ii/7091709
 https://builtin.com/job/software-engineer-ii/7102298
+https://builtin.com/job/software-engineer-ii/7106522
 https://builtin.com/job/software-engineer-iii/7073822
 https://builtin.com/job/software-engineer-net-c/7085029
 https://builtin.com/job/software-engineer-net-devops-developer/7091425
@@ -121,6 +124,7 @@ https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-solutions-architect-rapidscale/7082287
 https://builtin.com/job/software-test-engineer-i/7091218
+https://builtin.com/job/software-test-engineer-i/7106408
 https://builtin.com/job/spring-2026-internship-software-engineering/7077255
 https://builtin.com/job/sr-net-developer/7087703
 https://builtin.com/job/sr-react-developer/7083737
