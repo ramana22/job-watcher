@@ -1,6 +1,7 @@
 https://builtin.com/job/2026-associate-software-engineer/7086188
 https://builtin.com/job/2026-consumer-community-banking-risk-modeling-associate-program-summer-internship/7067369
 https://builtin.com/job/api-integrations-analyst/7101730
+https://builtin.com/job/associate-game-designer-technical-contingent/7104039
 https://builtin.com/job/associate-software-developer/7101538
 https://builtin.com/job/associate-software-engineer/7086410
 https://builtin.com/job/azure-integration-developer/7090910
@@ -17,6 +18,7 @@ https://builtin.com/job/data-engineer-aws-azure-gcp/7098786
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098791
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098794
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098796
+https://builtin.com/job/deploy-software-engineer/7103991
 https://builtin.com/job/design-engineer/7090578
 https://builtin.com/job/digital-rotational-program-associate/7070223
 https://builtin.com/job/director-product-management-risk-platform/7085429
@@ -37,6 +39,7 @@ https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
 https://builtin.com/job/it-intern/7074408
 https://builtin.com/job/jr-net-developer/7089431
+https://builtin.com/job/junior-software-engineer-remote/7103959
 https://builtin.com/job/lead-security-engineer-automation/7069076
 https://builtin.com/job/lead-software-developer/7077530
 https://builtin.com/job/lead-software-engineer-c-net-angular/7079718
