@@ -1,6 +1,7 @@
 https://builtin.com/job/2026-associate-software-engineer/7086188
 https://builtin.com/job/2026-consumer-community-banking-risk-modeling-associate-program-summer-internship/7067369
 https://builtin.com/job/api-integrations-analyst/7101730
+https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
 https://builtin.com/job/associate-software-developer/7101538
 https://builtin.com/job/associate-software-engineer/7086410
@@ -82,6 +83,7 @@ https://builtin.com/job/senior-software-engineering-support/7096600
 https://builtin.com/job/senior-solutions-architects-atlas-stream-processing/7091277
 https://builtin.com/job/senior-solutions-integration-architect-736/7079522
 https://builtin.com/job/sharepoint-engineer/7085159
+https://builtin.com/job/shipping-coordinator-c-shift/7104914
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-ii-geoprocessing-and-map-viewer-analysis/7087582
 https://builtin.com/job/software-developer-net/7085455
