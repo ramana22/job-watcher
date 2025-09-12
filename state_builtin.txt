@@ -1,6 +1,7 @@
 https://builtin.com/job/2026-associate-software-engineer/7086188
 https://builtin.com/job/2026-consumer-community-banking-risk-modeling-associate-program-summer-internship/7067369
 https://builtin.com/job/ai-ml-engineer/7111989
+https://builtin.com/job/android-software-engineer-tactical-command-and-control/7114835
 https://builtin.com/job/api-integrations-analyst/7101730
 https://builtin.com/job/application-developer/7112639
 https://builtin.com/job/application-developer/7112642
@@ -12,6 +13,7 @@ https://builtin.com/job/associate-systems-engineer/7111412
 https://builtin.com/job/associate-technology/7108930
 https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/business-programming-consultant/7089567
+https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
@@ -41,12 +43,14 @@ https://builtin.com/job/firmware-intern/7091645
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
 https://builtin.com/job/full-stack-net-developer/7074499
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
+https://builtin.com/job/integration-engineer-remote-opportunity/7114801
 https://builtin.com/job/internship-computer-science-engineer/7088796
 https://builtin.com/job/internship-customer-success-software-engineer-summer-2026/7087904
 https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
 https://builtin.com/job/it-intern/7074408
 https://builtin.com/job/jr-net-developer/7089431
+https://builtin.com/job/junior-dynamics-365-developer-remote-opportunity/7114819
 https://builtin.com/job/junior-software-engineer-remote/7103959
 https://builtin.com/job/lead-security-engineer-automation/7069076
 https://builtin.com/job/lead-software-developer/7077530
@@ -86,6 +90,7 @@ https://builtin.com/job/senior-software-engineer-content-suitability/7087779
 https://builtin.com/job/senior-software-engineer-finance-development/7083472
 https://builtin.com/job/senior-software-engineer-genai/7077099
 https://builtin.com/job/senior-software-engineer-manufacturing-test/7068731
+https://builtin.com/job/senior-software-engineer-remote/7115222
 https://builtin.com/job/senior-software-engineer/7085128
 https://builtin.com/job/senior-software-engineer/7091030
 https://builtin.com/job/senior-software-engineering-support/7096600
@@ -99,6 +104,7 @@ https://builtin.com/job/software-developer-net/7085455
 https://builtin.com/job/software-developer-web/7107192
 https://builtin.com/job/software-developer-web/7107208
 https://builtin.com/job/software-developer/7076670
+https://builtin.com/job/software-developer/7114000
 https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer/7103044
 https://builtin.com/job/software-development-manager/7087819
@@ -151,6 +157,7 @@ https://builtin.com/job/staff-software-engineer/7078153
 https://builtin.com/job/summer-2026-internship-nuclear-engineer/7078082
 https://builtin.com/job/support-engineer/7101611
 https://builtin.com/job/systems-integration-engineer/7079644
+https://builtin.com/job/technical-solutions-associate/7114948
 https://builtin.com/job/technical-staff-engineer-software-ai-ml/7078408
 https://builtin.com/job/technical-team-lead-ediscovery-archiving-technology-strategic-data-archive-avp/7103715
 https://builtin.com/job/technical-writer/7102720
