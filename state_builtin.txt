@@ -19,6 +19,7 @@ https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/bi-sr-analyst/7119841
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/c-microservices-developer/7122007
+https://builtin.com/job/c-software-engineer/7126317
 https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
@@ -184,6 +185,7 @@ https://builtin.com/job/technical-solutions-associate/7114948
 https://builtin.com/job/technical-staff-engineer-software-ai-ml/7078408
 https://builtin.com/job/technical-team-lead-ediscovery-archiving-technology-strategic-data-archive-avp/7103715
 https://builtin.com/job/technical-writer/7102720
+https://builtin.com/job/technology-apprentice/7126054
 https://builtin.com/job/technology-development-program-associate-february-2026/7086868
 https://builtin.com/job/test-automation-architect/7091256
 https://builtin.com/job/test-development-engineer/7080496
