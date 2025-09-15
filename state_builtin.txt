@@ -13,6 +13,7 @@ https://builtin.com/job/associate-software-developer/7101538
 https://builtin.com/job/associate-software-development-engineer-contractor/7123014
 https://builtin.com/job/associate-software-engineer/7086410
 https://builtin.com/job/associate-software-engineer/7125152
+https://builtin.com/job/associate-software-engineer/7135323
 https://builtin.com/job/associate-systems-engineer/7111412
 https://builtin.com/job/associate-technology/7108930
 https://builtin.com/job/automation-engineer-iii/7123691
@@ -23,6 +24,7 @@ https://builtin.com/job/c-microservices-developer/7122007
 https://builtin.com/job/c-software-engineer/7126317
 https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/core-development-program/7071302
+https://builtin.com/job/customer-account-specialist/7137194
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
 https://builtin.com/job/cybersecurity-product-architect/7091588
@@ -48,6 +50,7 @@ https://builtin.com/job/expert-combat-designer/7085470
 https://builtin.com/job/expert-software-engineer-backend-remote/7073949
 https://builtin.com/job/federal-training-lead/7074861
 https://builtin.com/job/firmware-intern/7091645
+https://builtin.com/job/full-case-order-selector/7137193
 https://builtin.com/job/full-stack-application-developer/7120025
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
 https://builtin.com/job/full-stack-net-developer/7074499
@@ -89,6 +92,8 @@ https://builtin.com/job/power-platform-developer/7131499
 https://builtin.com/job/power-platform-software-engineer/7090511
 https://builtin.com/job/principal-product-developer-identity-provider/7073984
 https://builtin.com/job/qa-engineer-i-visualization/7123529
+https://builtin.com/job/qa-lead/7136577
+https://builtin.com/job/qa-lead/7137175
 https://builtin.com/job/quality-assurance-engineer/7077531
 https://builtin.com/job/quality-development-program/7071392
 https://builtin.com/job/security-operations-center-engineer/7091122
@@ -134,6 +139,7 @@ https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer-test-verifications/7117075
 https://builtin.com/job/software-development-engineer/7103044
 https://builtin.com/job/software-development-manager/7087819
+https://builtin.com/job/software-development-specialist/7136212
 https://builtin.com/job/software-engineer-2026-new-graduate/7077259
 https://builtin.com/job/software-engineer-apps-i/7129197
 https://builtin.com/job/software-engineer-backend/7074419
@@ -150,9 +156,11 @@ https://builtin.com/job/software-engineer-ii/7102298
 https://builtin.com/job/software-engineer-ii/7106522
 https://builtin.com/job/software-engineer-iii-c/7126915
 https://builtin.com/job/software-engineer-iii/7073822
+https://builtin.com/job/software-engineer-microsoft-azure-technologies/7136645
 https://builtin.com/job/software-engineer-net-c/7085029
 https://builtin.com/job/software-engineer-net-devops-developer/7091425
 https://builtin.com/job/software-engineer-net/7074449
+https://builtin.com/job/software-engineer-net/7136698
 https://builtin.com/job/software-engineer-new-college-grad-2026/7076213
 https://builtin.com/job/software-engineer-new-college-grad-2026/7076235
 https://builtin.com/job/software-engineer-new-college-grad-2026/7076239
@@ -162,9 +170,11 @@ https://builtin.com/job/software-engineer-new-college-grad-2026/7091585
 https://builtin.com/job/software-engineer-platform/7080676
 https://builtin.com/job/software-engineer-platform/7080679
 https://builtin.com/job/software-engineer-serviceability/7079620
+https://builtin.com/job/software-engineer-underwriting/7136509
 https://builtin.com/job/software-engineer/7076501
 https://builtin.com/job/software-engineer/7090535
 https://builtin.com/job/software-engineer/7108369
+https://builtin.com/job/software-engineer/7135931
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-quality-assurance-engineer/7122208
