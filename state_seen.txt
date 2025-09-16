@@ -61,6 +61,7 @@ amazon::1553e78e-d892-4808-82d5-b77926a1dff4
 amazon::155c7c42-ed9e-4e7c-b92b-074a3ac7b716
 amazon::1660cf61-8679-4cdd-b514-1cafe409c05b
 amazon::16dd6215-a71f-410a-8dc3-04f1a92622ae
+amazon::16e24a93-8c73-43eb-970e-3f627a13be82
 amazon::17973f14-2922-4f01-a8cc-819a0daa933b
 amazon::17bc0049-bee3-4f84-9eec-e60a4756b495
 amazon::1878dddf-ebf3-402f-aa93-cebc2bf2e36c
@@ -181,6 +182,7 @@ amazon::4da702d0-5e95-44a1-89e4-e49a42fbd2c9
 amazon::4dd760e9-27cb-489f-855e-c64d822f246d
 amazon::4df9f042-18b5-4b62-8f8e-292c917bf6ad
 amazon::4e39e99a-c5aa-41fa-9f67-14a948920a1a
+amazon::4e4b90d6-7f2a-4173-b305-8091da80049f
 amazon::4e85357c-8624-42af-a6c2-c5cda111ceef
 amazon::4ef0032a-a3af-4fb8-a80d-10297db125af
 amazon::5020cbe5-85c8-4ca1-a168-8e3577af41e5
@@ -218,6 +220,7 @@ amazon::60c50532-8013-45c5-aa5e-349fa324e286
 amazon::6124d132-783d-4b7a-9803-a57b005aacd3
 amazon::614411b3-302b-4638-b616-75c6529196cb
 amazon::614bc357-6174-448a-9b06-19160ec017c2
+amazon::616f465f-33d5-42f2-8b0c-5fd38b06a028
 amazon::61b1adbf-3ca4-4bc9-b10a-b185df928b12
 amazon::61b6cfc9-9fb6-4742-adab-e2def4b8a033
 amazon::61cf8464-ec95-4604-a0c7-670de165bb30
@@ -303,6 +306,7 @@ amazon::82ba239b-a5e5-439b-b245-a754674b8425
 amazon::82d22523-9342-4e74-9864-4e5f1a5de67f
 amazon::82d6a717-790d-40f9-bc0f-45459b666383
 amazon::82e9d0c1-fbf7-49c6-97fd-31297eaa5da4
+amazon::83001de4-8a16-4ed1-a6ae-17071fe2bb1a
 amazon::84883918-44ab-46dc-9db2-20eb20028045
 amazon::8509c829-f57a-461f-8d95-f3505396db0b
 amazon::856349cf-ba52-4519-b69a-e55a925a8350
@@ -417,6 +421,7 @@ amazon::af728908-4780-473d-a3dc-73eac2d805a6
 amazon::afa62261-15ca-433f-bdc5-42a23b428a56
 amazon::affa9aca-79a1-492e-9d19-f158519b5fe3
 amazon::b02f15a6-0314-4e05-b8f4-55feb857a202
+amazon::b05473d3-16d1-4661-935a-611fd0952ae8
 amazon::b0c634b6-e11b-46e7-9a56-0e0ba617f759
 amazon::b13fcf4b-3bd8-400c-98cd-7df3257e66fe
 amazon::b1a306da-ed50-4966-aa77-9f13647124ff
@@ -496,6 +501,7 @@ amazon::d22c6beb-c5dd-4472-a19f-9010cb35efe0
 amazon::d2e0457d-b433-4ed7-ac35-2c089bc243ff
 amazon::d451ee66-8484-4b44-94ba-0713e97b5ddd
 amazon::d49b2c0d-9f2a-4633-ab90-f6ae1a38eb87
+amazon::d51f9b62-2d61-4df8-a775-5e3c43bd126c
 amazon::d5cb08bf-6626-4867-9bc2-a35225f565ca
 amazon::d65ffc4d-444c-44d7-abb4-58e6eb8d2892
 amazon::d66b964a-6cbe-4c0f-bac3-c5fc0f3318e4
@@ -768,10 +774,12 @@ google-careers::jobs/78817206124585670
 google-careers::jobs/78964088637399750
 google-careers::jobs/79042653252920006
 google-careers::jobs/79279782692299462
+google-careers::jobs/79296496020660934
 google-careers::jobs/79605303951139526
 google-careers::jobs/79609053138821830
 google-careers::jobs/80029360785892038
 google-careers::jobs/80032402176385734
+google-careers::jobs/80364581372732102
 google-careers::jobs/80822416833422022
 google-careers::jobs/80928836794884806
 google-careers::jobs/81074859978695366
@@ -789,6 +797,7 @@ google-careers::jobs/85643388774163142
 google-careers::jobs/85754748686213830
 google-careers::jobs/86143942248014534
 google-careers::jobs/86166349360833222
+google-careers::jobs/86201429043094214
 google-careers::jobs/86295525870969542
 google-careers::jobs/86924145874346694
 google-careers::jobs/87489698577949382
@@ -874,6 +883,7 @@ greenhouse:coinbase::7075489
 greenhouse:coinbase::7075490
 greenhouse:coinbase::7088264
 greenhouse:coinbase::7094719
+greenhouse:coinbase::7097428
 greenhouse:coinbase::7114605
 greenhouse:coinbase::7135188
 greenhouse:coinbase::7135192
