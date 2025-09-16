@@ -10,6 +10,7 @@ https://builtin.com/job/application-support-developer/7140512
 https://builtin.com/job/assistant-manager-lincolnwood-t-c/7134198
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
+https://builtin.com/job/associate-net-software-engineer/7149992
 https://builtin.com/job/associate-software-developer/7101538
 https://builtin.com/job/associate-software-development-engineer-contractor/7123014
 https://builtin.com/job/associate-software-engineer/7086410
@@ -26,6 +27,8 @@ https://builtin.com/job/c-microservices-developer/7122007
 https://builtin.com/job/c-software-engineer/7126317
 https://builtin.com/job/cema-senior-software-engineer/7142091
 https://builtin.com/job/cloud-operations-developer/7114938
+https://builtin.com/job/consultant-offensive-security/7147042
+https://builtin.com/job/consultant-offensive-security/7147066
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
 https://builtin.com/job/customer-account-specialist/7137194
@@ -60,6 +63,7 @@ https://builtin.com/job/full-stack-developer-devops-deployment-specialist/710896
 https://builtin.com/job/full-stack-net-developer/7074499
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
+https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
 https://builtin.com/job/infrastructure-engineer/7122441
 https://builtin.com/job/integration-engineer-remote-opportunity/7114801
 https://builtin.com/job/internship-computer-science-engineer/7088796
@@ -82,6 +86,7 @@ https://builtin.com/job/lead-specialty-software-engineer/7066744
 https://builtin.com/job/lender-software-engineer-c-aws/7073982
 https://builtin.com/job/mainframe-developer-assembler-c-java/7143917
 https://builtin.com/job/manager-software-engineering/7082335
+https://builtin.com/job/nde-engineer/7149892
 https://builtin.com/job/net-architect/7076901
 https://builtin.com/job/net-developer/7100234
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
@@ -124,6 +129,7 @@ https://builtin.com/job/senior-software-engineer-genai/7077099
 https://builtin.com/job/senior-software-engineer-genai/7122161
 https://builtin.com/job/senior-software-engineer-manufacturing-test/7068731
 https://builtin.com/job/senior-software-engineer-remote/7115222
+https://builtin.com/job/senior-software-engineer-security-and-vulnerability-management/7149542
 https://builtin.com/job/senior-software-engineer/7085128
 https://builtin.com/job/senior-software-engineer/7091030
 https://builtin.com/job/senior-software-engineering-support/7096600
@@ -144,6 +150,7 @@ https://builtin.com/job/software-developer/7119183
 https://builtin.com/job/software-developer/7123756
 https://builtin.com/job/software-development-engineer-ii/7123869
 https://builtin.com/job/software-development-engineer-iii/7089472
+https://builtin.com/job/software-development-engineer-san-jose-ca/7146896
 https://builtin.com/job/software-development-engineer-test-verifications/7117075
 https://builtin.com/job/software-development-engineer-test/7142910
 https://builtin.com/job/software-development-engineer/7103044
@@ -168,6 +175,8 @@ https://builtin.com/job/software-engineer-ii/7139350
 https://builtin.com/job/software-engineer-iii-c/7126915
 https://builtin.com/job/software-engineer-iii/7073822
 https://builtin.com/job/software-engineer-iii/7139373
+https://builtin.com/job/software-engineer-iii/7145722
+https://builtin.com/job/software-engineer-iii/7149162
 https://builtin.com/job/software-engineer-microsoft-azure-technologies/7136645
 https://builtin.com/job/software-engineer-net-c/7085029
 https://builtin.com/job/software-engineer-net-devops-developer/7091425
@@ -212,6 +221,7 @@ https://builtin.com/job/systems-administrator-ii/7125521
 https://builtin.com/job/systems-integration-engineer/7079644
 https://builtin.com/job/technical-architect-specialist/7122022
 https://builtin.com/job/technical-artist/7139525
+https://builtin.com/job/technical-artist/7148417
 https://builtin.com/job/technical-solutions-associate/7114948
 https://builtin.com/job/technical-staff-engineer-software-ai-ml/7078408
 https://builtin.com/job/technical-team-lead-ediscovery-archiving-technology-strategic-data-archive-avp/7103715
