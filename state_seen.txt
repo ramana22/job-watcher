@@ -513,6 +513,7 @@ amazon::ddc69309-801c-40a9-936c-892516ec9775
 amazon::ddf415dc-6a7d-4f5d-93b3-277e56e9c934
 amazon::dec7dfa1-ea01-4130-9023-5af05d615481
 amazon::df1a7ddd-8d00-4c60-ba51-3ade41a2af76
+amazon::df441cd6-ff58-4ce7-b7cc-f67f53572af4
 amazon::df9a3435-4551-450e-96a0-8acad425c4dc
 amazon::dfa0649e-4d64-4ac8-afd3-7ac1cb32cacc
 amazon::e0067c3d-0b6e-448f-8fa8-5693c29b1fe3
@@ -649,12 +650,15 @@ google-careers::jobs/115588772103365318
 google-careers::jobs/115652162783978182
 google-careers::jobs/116172546742592198
 google-careers::jobs/116326077864780486
+google-careers::jobs/116554821917385414
 google-careers::jobs/117861396602856134
 google-careers::jobs/118311813849719494
 google-careers::jobs/118556866430018246
+google-careers::jobs/119081512522916550
 google-careers::jobs/119274971540136646
 google-careers::jobs/119277436582929094
 google-careers::jobs/119743582000030406
+google-careers::jobs/119821346409456326
 google-careers::jobs/120270800241468102
 google-careers::jobs/120326037815861958
 google-careers::jobs/120350910239908550
@@ -696,6 +700,7 @@ google-careers::jobs/133636446408843974
 google-careers::jobs/133684076253979334
 google-careers::jobs/134173046268142278
 google-careers::jobs/134399159586169542
+google-careers::jobs/134414739043164870
 google-careers::jobs/134512328753193670
 google-careers::jobs/134887001299002054
 google-careers::jobs/135721958779036358
@@ -769,6 +774,7 @@ google-careers::jobs/82324160738403014
 google-careers::jobs/82774765084779206
 google-careers::jobs/82789074842067654
 google-careers::jobs/83496525748937414
+google-careers::jobs/83757365018403526
 google-careers::jobs/83826509160030918
 google-careers::jobs/84471802763322054
 google-careers::jobs/85466152653726406
@@ -929,6 +935,7 @@ greenhouse:robinhood::7026567
 greenhouse:robinhood::7066594
 greenhouse:robinhood::7158994
 greenhouse:robinhood::7250113
+greenhouse:stripe::5206007
 greenhouse:stripe::5738419
 greenhouse:stripe::6241651
 greenhouse:stripe::6623777
