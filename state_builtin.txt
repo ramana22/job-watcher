@@ -6,6 +6,7 @@ https://builtin.com/job/android-software-engineer-tactical-command-and-control/7
 https://builtin.com/job/api-integrations-analyst/7101730
 https://builtin.com/job/application-developer/7112639
 https://builtin.com/job/application-developer/7112642
+https://builtin.com/job/application-support-developer/7140512
 https://builtin.com/job/assistant-manager-lincolnwood-t-c/7134198
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
@@ -23,6 +24,7 @@ https://builtin.com/job/bi-sr-analyst/7119841
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/c-microservices-developer/7122007
 https://builtin.com/job/c-software-engineer/7126317
+https://builtin.com/job/cema-senior-software-engineer/7142091
 https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
@@ -78,6 +80,7 @@ https://builtin.com/job/lead-software-engineer-c-net-angular/7079718
 https://builtin.com/job/lead-software-engineer/7074544
 https://builtin.com/job/lead-specialty-software-engineer/7066744
 https://builtin.com/job/lender-software-engineer-c-aws/7073982
+https://builtin.com/job/mainframe-developer-assembler-c-java/7143917
 https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/net-architect/7076901
 https://builtin.com/job/net-developer/7100234
@@ -142,6 +145,7 @@ https://builtin.com/job/software-developer/7123756
 https://builtin.com/job/software-development-engineer-ii/7123869
 https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer-test-verifications/7117075
+https://builtin.com/job/software-development-engineer-test/7142910
 https://builtin.com/job/software-development-engineer/7103044
 https://builtin.com/job/software-development-manager/7087819
 https://builtin.com/job/software-development-specialist/7136212
