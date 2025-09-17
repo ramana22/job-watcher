@@ -2,6 +2,7 @@ amazon::006d494e-8909-4742-9071-21ae24e856d3
 amazon::00efa6c8-728f-42cf-b285-62dace001c8e
 amazon::01495470-9bf4-47a5-b7d7-ab9d66dc3cd2
 amazon::015160eb-dd1f-4c19-b1b8-724c9c39543e
+amazon::021b560f-376a-4356-a47a-d596c8bf08b5
 amazon::02372a14-e39e-4204-9897-e56e0fb972f3
 amazon::026fc605-d1d4-411e-b886-a868a2136bdd
 amazon::028580b0-69d8-40b8-8c78-806b3fc3c89e
@@ -269,6 +270,7 @@ amazon::74474cb5-6393-4725-bd2b-d01c31f80f4f
 amazon::74a4b6b8-e6ae-47e6-85f2-0ece2f6fd609
 amazon::74aeaaa9-b7c3-4b74-ade7-69b8ae6cf98b
 amazon::754372cb-fe88-4d93-8fee-451f4a79a453
+amazon::75d5b92b-d775-46bc-95a8-a29d421930f5
 amazon::76784fef-e929-4ba6-821a-802abd0cbdbd
 amazon::767b23d7-0c93-4ed0-abf9-af2f951ec187
 amazon::768a2032-bffe-40fa-9ada-2eb1f7f51ee5
@@ -350,6 +352,7 @@ amazon::95fa1ca9-56cd-4cee-96bd-b2c19cdd0138
 amazon::968d4cd2-a515-4f2d-95ac-16dc702a37a2
 amazon::96bfc39f-61d2-4dbb-aa2d-ac53256e0b51
 amazon::972aebc2-5c0c-4ae0-858d-e9137fa56b93
+amazon::976c8cc3-4bc7-4653-a828-802b57db2479
 amazon::97cf342b-05c8-4fbc-a44f-d112e1119406
 amazon::9806a05d-8cc9-4c1f-9026-62580cfb5dba
 amazon::98903ca9-d2c0-4b4a-9fee-477241548b86
@@ -475,6 +478,7 @@ amazon::c4a4f0cd-8ff5-46a5-b24d-fdf458f89bdb
 amazon::c4fc96ba-ca44-42fc-afd9-3741ef81b401
 amazon::c5719971-3770-4134-ae43-b463c372c688
 amazon::c5c51d27-08c9-4721-94c0-cc4e569ff805
+amazon::c620343f-ce3c-445c-aa07-f1182403a97c
 amazon::c6251af3-6e5b-4ea4-b987-e173e3e67c8c
 amazon::c62e6e0c-1261-418d-95d7-28f2e7e48d45
 amazon::c672faba-741f-4034-b567-1a1d7b99cf88
@@ -726,6 +730,7 @@ google-careers::jobs/134512328753193670
 google-careers::jobs/134887001299002054
 google-careers::jobs/135721958779036358
 google-careers::jobs/136033525638800070
+google-careers::jobs/136716905938330310
 google-careers::jobs/136927941840773830
 google-careers::jobs/137116824838775494
 google-careers::jobs/137144404971266758
