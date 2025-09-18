@@ -124,6 +124,7 @@ https://builtin.com/job/power-platform-developer/7100465
 https://builtin.com/job/power-platform-developer/7131499
 https://builtin.com/job/power-platform-software-engineer/7090511
 https://builtin.com/job/principal-product-developer-identity-provider/7073984
+https://builtin.com/job/principal-software-engineer-acoustics/7166980
 https://builtin.com/job/principal-software-engineer-net-c-xaml/7163106
 https://builtin.com/job/programmer-analyst/7138059
 https://builtin.com/job/qa-engineer-i-visualization/7123529
