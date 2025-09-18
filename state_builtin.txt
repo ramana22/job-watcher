@@ -30,6 +30,7 @@ https://builtin.com/job/automation-engineer-iii/7123691
 https://builtin.com/job/automation-engineer/7137854
 https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/bi-sr-analyst/7119841
+https://builtin.com/job/bi-sr-analyst/7165333
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/c-17-structural-analysis-engineer-associate-experienced-and-lead-level/7164372
 https://builtin.com/job/c-l-analyst/7160117
@@ -77,6 +78,7 @@ https://builtin.com/job/full-case-order-selector/7137193
 https://builtin.com/job/full-stack-application-developer/7120025
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
 https://builtin.com/job/full-stack-net-developer/7074499
+https://builtin.com/job/general-assembly-virtual-engineer/7165196
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
 https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
@@ -116,6 +118,7 @@ https://builtin.com/job/not-work-study-student-assistant-journalism-bh-c/7128286
 https://builtin.com/job/nuclear-engineer-2026-new-graduate/7077245
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pentesting-remote/7151647
 https://builtin.com/job/paswopsreplbauon390-technical-services-administrator/7130551
+https://builtin.com/job/personal-banker-northern-lights-and-c-street/7165452
 https://builtin.com/job/pos-specialist/7073905
 https://builtin.com/job/power-platform-developer/7100465
 https://builtin.com/job/power-platform-developer/7131499
