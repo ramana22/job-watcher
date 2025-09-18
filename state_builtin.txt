@@ -107,11 +107,13 @@ https://builtin.com/job/manager-hr-business-partner/7161230
 https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/microsoft-net-software-developer/7151498
 https://builtin.com/job/mid-senior-software-developer/7150231
+https://builtin.com/job/mobile-engineer/7170909
 https://builtin.com/job/nde-engineer/7149892
 https://builtin.com/job/net-architect/7076901
 https://builtin.com/job/net-developer/7100234
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-full-stack-data-engineer/7112486
+https://builtin.com/job/net-graphql-engineer-w2-role/7171132
 https://builtin.com/job/net-software-developer/7101671
 https://builtin.com/job/net-web-developer/7083246
 https://builtin.com/job/not-work-study-student-assistant-journalism-bh-c/7128286
@@ -134,6 +136,7 @@ https://builtin.com/job/qa-software-engineer-ii/7139775
 https://builtin.com/job/quality-assurance-engineer/7077531
 https://builtin.com/job/quality-development-program/7071392
 https://builtin.com/job/security-operations-center-engineer/7091122
+https://builtin.com/job/senior-associate-fund-accounting/7169708
 https://builtin.com/job/senior-associate/7161481
 https://builtin.com/job/senior-c-developer-and-scrum-master/7077287
 https://builtin.com/job/senior-consulting-engineer/7073842
