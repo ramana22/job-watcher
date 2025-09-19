@@ -114,6 +114,7 @@ https://builtin.com/job/mainframe-developer-assembler-c-java/7143917
 https://builtin.com/job/manager-hr-business-partner/7161230
 https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/microsoft-net-software-developer/7151498
+https://builtin.com/job/mid-level-full-stack-developer/7182307
 https://builtin.com/job/mid-senior-software-developer/7150231
 https://builtin.com/job/mobile-engineer/7170909
 https://builtin.com/job/nde-engineer/7149892
@@ -144,6 +145,7 @@ https://builtin.com/job/qa-lead/7137175
 https://builtin.com/job/qa-software-engineer-ii/7139775
 https://builtin.com/job/quality-assurance-engineer/7077531
 https://builtin.com/job/quality-development-program/7071392
+https://builtin.com/job/security-engineer-iii-saas-intelligence/7183476
 https://builtin.com/job/security-operations-center-engineer/7091122
 https://builtin.com/job/senior-associate-fund-accounting/7169708
 https://builtin.com/job/senior-associate/7161481
@@ -219,9 +221,11 @@ https://builtin.com/job/software-engineer-ii/7139350
 https://builtin.com/job/software-engineer-ii/7150292
 https://builtin.com/job/software-engineer-ii/7172643
 https://builtin.com/job/software-engineer-ii/7177584
+https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c/7126915
 https://builtin.com/job/software-engineer-iii-net-developer/7171853
+https://builtin.com/job/software-engineer-iii-test-automation/7183441
 https://builtin.com/job/software-engineer-iii/7073822
 https://builtin.com/job/software-engineer-iii/7139373
 https://builtin.com/job/software-engineer-iii/7145722
@@ -295,3 +299,4 @@ https://builtin.com/job/test-development-engineer/7101195
 https://builtin.com/job/web-app-pen-tester/7100182
 https://builtin.com/job/web-application-developer-ts-sci-poly/7160298
 https://builtin.com/job/web-developer/7171594
+https://builtin.com/job/x-developer-levridge/7183624
