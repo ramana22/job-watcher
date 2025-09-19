@@ -27,6 +27,7 @@ amazon::081c8b92-af42-4593-b0e2-33ef4fd2eaca
 amazon::084a3ec6-d3bb-456e-9bef-ba349b28711e
 amazon::0865f669-b0fc-402a-bb40-84a108d92a0c
 amazon::088b98a4-b30a-404e-b159-ff4a63195542
+amazon::08c9fbb6-ea7a-4ef2-94ec-270af6ee2eb7
 amazon::08dc9617-3081-4c66-ab81-c1cf9d419bc1
 amazon::092766b3-99c2-407b-b1f8-00c9bea468bb
 amazon::0944b157-e81c-48d2-a10f-3ad42ace90ff
@@ -48,6 +49,7 @@ amazon::0fe8cd74-471c-4a02-86b0-398397457b70
 amazon::0ff0f1e7-ab9f-4fd7-81b2-db0172972231
 amazon::1025b225-9d0e-4d77-8d75-7739e38b0722
 amazon::1028c734-380e-4298-9918-9f292f332477
+amazon::104133ed-d9cf-423e-bc96-799ee7463dd2
 amazon::10f26819-3b14-4afa-9069-24d3a50a75d0
 amazon::10fa1ae4-ea32-4897-8b89-636fef4d659d
 amazon::11d068ba-88c7-49a7-ab41-cadd24ee30e8
@@ -186,6 +188,7 @@ amazon::4adbcfe6-f40c-4862-bcc8-83df2e7deba4
 amazon::4c24620b-21af-45d9-b900-b2a3d2e9e8de
 amazon::4cb6f5f5-cce4-4c08-85fe-3937aa65cb03
 amazon::4cf1e0e5-3604-4fc6-a838-545efabf1561
+amazon::4d0f676d-a784-472a-9fbd-51a7718e06a7
 amazon::4d16839e-6464-406e-8253-da54287ba3de
 amazon::4d9fcabb-4750-413f-a3f3-534463916d9a
 amazon::4da702d0-5e95-44a1-89e4-e49a42fbd2c9
@@ -269,6 +272,7 @@ amazon::6ead5d65-dfaa-44ab-8933-459d05fc08bf
 amazon::6f71a632-6ab4-46ac-a13a-22a3909b7825
 amazon::6f912268-83c8-4288-a4a7-88a0237d7547
 amazon::70add5ce-8ee0-459a-94a7-5fc72a52e2a4
+amazon::710f807e-0d78-4a19-90ba-650542525a4a
 amazon::724f51e4-d0a7-4bf0-9540-41bdafaa2bad
 amazon::726b6d82-08dc-4b8e-9e53-d44f4e882c62
 amazon::72ada0ae-edfa-403e-b9cf-d84407256ebc
@@ -523,6 +527,7 @@ amazon::d451ee66-8484-4b44-94ba-0713e97b5ddd
 amazon::d49b2c0d-9f2a-4633-ab90-f6ae1a38eb87
 amazon::d51f9b62-2d61-4df8-a775-5e3c43bd126c
 amazon::d5cb08bf-6626-4867-9bc2-a35225f565ca
+amazon::d632ab51-9c11-4de3-8272-922353f24e8d
 amazon::d65ffc4d-444c-44d7-abb4-58e6eb8d2892
 amazon::d66b964a-6cbe-4c0f-bac3-c5fc0f3318e4
 amazon::d6b21cbe-7b67-403f-8c90-a112a00e2de7
@@ -558,6 +563,7 @@ amazon::e0df98ef-a7b0-4872-b400-e4af5184825c
 amazon::e1f4ab03-2f2c-4d96-a0a1-ccfcccb419c2
 amazon::e2678479-ad5e-4c0b-883f-2468b12c1682
 amazon::e2aed856-01ec-4f8e-8ae2-aa403fd3fabc
+amazon::e2efbdd5-9a1d-423c-93bc-066b928f3d58
 amazon::e32b8a66-20f0-42c7-86ab-e1ada03fa989
 amazon::e3374c85-72a8-484f-b0c3-b169a0e637a3
 amazon::e33e3d91-f8a0-49bb-b52c-50cb6caf3225
@@ -956,6 +962,7 @@ greenhouse:databricks::8150154002
 greenhouse:discord::7990178002
 greenhouse:discord::8101845002
 greenhouse:discord::8101855002
+greenhouse:discord::8177727002
 greenhouse:okta::4923902
 greenhouse:okta::6716858
 greenhouse:okta::6794640
