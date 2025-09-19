@@ -113,6 +113,7 @@ amazon::2b879d7c-0add-43b4-ba02-cb91bff4f8d6
 amazon::2e124efd-57c1-4458-a5fb-d9d90c3dfaed
 amazon::2e448e51-cf49-438b-9540-a99bba7b4ab0
 amazon::2e6c7b74-6a7f-46c0-8bcf-9696e035d9b3
+amazon::2f506700-43c9-4efd-b4cf-5997b5138725
 amazon::2f685a93-9d6f-4af8-b92b-c23844f7a01b
 amazon::2f996070-0041-423e-be32-6cfe1b9771c6
 amazon::2fe88404-3b45-4f16-a4aa-9ce3d4530ec8
@@ -654,6 +655,7 @@ google-careers::jobs/106182901367743174
 google-careers::jobs/106205509270282950
 google-careers::jobs/106313455757075142
 google-careers::jobs/106861505932075718
+google-careers::jobs/106980313317417670
 google-careers::jobs/107560044244935366
 google-careers::jobs/107598455211205318
 google-careers::jobs/108320403780182726
@@ -970,6 +972,7 @@ greenhouse:okta::7176742
 greenhouse:okta::7181560
 greenhouse:okta::7181561
 greenhouse:okta::7230318
+greenhouse:okta::7262831
 greenhouse:retool::4003629005
 greenhouse:retool::4520708005
 greenhouse:retool::4533988005
