@@ -91,6 +91,7 @@ https://builtin.com/job/full-stack-net-developer/7074499
 https://builtin.com/job/full-stack-software-developer/7185380
 https://builtin.com/job/general-assembly-virtual-engineer/7165196
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
+https://builtin.com/job/graphql-net-engineer-w2-role/7190188
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
 https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
 https://builtin.com/job/infrastructure-engineer/7122441
@@ -223,6 +224,7 @@ https://builtin.com/job/software-engineer-i/7078452
 https://builtin.com/job/software-engineer-i/7122178
 https://builtin.com/job/software-engineer-ii-c-net/7096906
 https://builtin.com/job/software-engineer-ii-net/7139773
+https://builtin.com/job/software-engineer-ii-test-automation/7190118
 https://builtin.com/job/software-engineer-ii-user-experience-hybrid/7176565
 https://builtin.com/job/software-engineer-ii/7091020
 https://builtin.com/job/software-engineer-ii/7091225
