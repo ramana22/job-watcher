@@ -105,6 +105,7 @@ https://builtin.com/job/java-developer/7124151
 https://builtin.com/job/jr-net-developer/7089431
 https://builtin.com/job/jr-software-engineer/7188218
 https://builtin.com/job/junior-dynamics-365-developer-remote-opportunity/7114819
+https://builtin.com/job/junior-research-and-development-engineer-req-176/7189444
 https://builtin.com/job/junior-software-developer/7127518
 https://builtin.com/job/junior-software-engineer-ai-agents/7122849
 https://builtin.com/job/junior-software-engineer-ai-agents/7122854
@@ -232,6 +233,7 @@ https://builtin.com/job/software-engineer-ii/7139350
 https://builtin.com/job/software-engineer-ii/7150292
 https://builtin.com/job/software-engineer-ii/7172643
 https://builtin.com/job/software-engineer-ii/7177584
+https://builtin.com/job/software-engineer-ii/7189141
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c/7126915
