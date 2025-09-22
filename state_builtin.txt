@@ -42,6 +42,7 @@ https://builtin.com/job/c-17-structural-analysis-engineer-associate-experienced-
 https://builtin.com/job/c-l-analyst/7160117
 https://builtin.com/job/c-microservices-developer/7122007
 https://builtin.com/job/c-software-engineer/7126317
+https://builtin.com/job/casting-operator/7191437
 https://builtin.com/job/cema-senior-software-engineer/7142091
 https://builtin.com/job/cleared-onsite-software-engineer-pending-award/7172693
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
@@ -51,6 +52,7 @@ https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
+https://builtin.com/job/cos-operator-i/7191439
 https://builtin.com/job/customer-account-specialist/7137194
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
@@ -136,6 +138,7 @@ https://builtin.com/job/net-web-developer/7083246
 https://builtin.com/job/not-work-study-student-assistant-journalism-bh-c/7128286
 https://builtin.com/job/nuclear-engineer-2026-new-graduate/7077245
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pentesting-remote/7151647
+https://builtin.com/job/pasting-operator-i/7191442
 https://builtin.com/job/paswopsreplbauon390-technical-services-administrator/7130551
 https://builtin.com/job/personal-banker-northern-lights-and-c-street/7165452
 https://builtin.com/job/pos-specialist/7073905
