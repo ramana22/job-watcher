@@ -26,6 +26,7 @@ https://builtin.com/job/associate-software-engineer/7086410
 https://builtin.com/job/associate-software-engineer/7125152
 https://builtin.com/job/associate-software-engineer/7135323
 https://builtin.com/job/associate-software-engineer/7173207
+https://builtin.com/job/associate-staff-accountant/7195313
 https://builtin.com/job/associate-systems-engineer/7111412
 https://builtin.com/job/associate-technology/7108930
 https://builtin.com/job/associate-ui-software-engineer/7151286
@@ -51,6 +52,7 @@ https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
+https://builtin.com/job/core-c-engineer-advertising/7195452
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
 https://builtin.com/job/cos-operator-i/7191439
@@ -85,6 +87,7 @@ https://builtin.com/job/entry-level-software-engineer/7101125
 https://builtin.com/job/expert-combat-designer/7085470
 https://builtin.com/job/expert-software-engineer-backend-remote/7073949
 https://builtin.com/job/federal-training-lead/7074861
+https://builtin.com/job/financial-operations-consulting-support-analyst-pa-dsr-q4-3/7195531
 https://builtin.com/job/firmware-intern/7091645
 https://builtin.com/job/full-case-order-selector/7137193
 https://builtin.com/job/full-stack-application-developer/7120025
@@ -147,6 +150,7 @@ https://builtin.com/job/pos-specialist/7073905
 https://builtin.com/job/power-platform-developer/7100465
 https://builtin.com/job/power-platform-developer/7131499
 https://builtin.com/job/power-platform-software-engineer/7090511
+https://builtin.com/job/power-systems-modeling-engineer/7195937
 https://builtin.com/job/principal-product-developer-identity-provider/7073984
 https://builtin.com/job/principal-software-engineer-acoustics/7166980
 https://builtin.com/job/principal-software-engineer-net-c-xaml/7163106
