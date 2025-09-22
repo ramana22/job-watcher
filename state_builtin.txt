@@ -39,6 +39,7 @@ https://builtin.com/job/bi-sr-analyst/7165333
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/business-project-analyst/7175058
 https://builtin.com/job/c-17-structural-analysis-engineer-associate-experienced-and-lead-level/7164372
+https://builtin.com/job/c-developer/7194192
 https://builtin.com/job/c-l-analyst/7160117
 https://builtin.com/job/c-microservices-developer/7122007
 https://builtin.com/job/c-software-engineer/7126317
@@ -114,6 +115,7 @@ https://builtin.com/job/junior-software-engineer-ai-agents/7122849
 https://builtin.com/job/junior-software-engineer-ai-agents/7122854
 https://builtin.com/job/junior-software-engineer-remote/7103959
 https://builtin.com/job/lead-security-engineer-automation/7069076
+https://builtin.com/job/lead-services-specialist-digital-customer-support-eng/7194764
 https://builtin.com/job/lead-software-developer/7077530
 https://builtin.com/job/lead-software-engineer-c-net-angular/7079718
 https://builtin.com/job/lead-software-engineer/7074544
