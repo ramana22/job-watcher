@@ -418,6 +418,7 @@ amazon::a3078052-9513-4126-92db-8ebb20b5d0ed
 amazon::a3d841b2-856d-473a-a381-9f040a3605f7
 amazon::a44cdf0a-ee1a-4c1d-b683-af3de46583da
 amazon::a4566062-67a0-42cb-9c2c-8053c383317f
+amazon::a510aa5e-64cc-4902-9615-1bfdd462ec37
 amazon::a525102e-c835-4ce0-90d2-c91997ae45bf
 amazon::a557ea80-567f-4fa0-878b-41927e17da26
 amazon::a56ecfea-c4c1-424a-9ee8-2344a7c8a081
@@ -920,6 +921,7 @@ google-careers::jobs/94104233292243654
 google-careers::jobs/94114015080260294
 google-careers::jobs/94310482453635782
 google-careers::jobs/94885056199172806
+google-careers::jobs/94983385180447430
 google-careers::jobs/95000919921304262
 google-careers::jobs/95264618028376774
 google-careers::jobs/95840685885661894
@@ -1068,6 +1070,7 @@ greenhouse:stripe::6995841
 greenhouse:stripe::7088616
 greenhouse:stripe::7174299
 greenhouse:stripe::7230452
+greenhouse:stripe::7261865
 greenhouse:twilio::6987416
 greenhouse:twilio::6988653
 greenhouse:twilio::7070267
