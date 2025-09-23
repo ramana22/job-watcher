@@ -660,6 +660,7 @@ amazon::fe0a741b-2076-4cc3-92e6-42312e8d1bd3
 amazon::feddf957-b565-4de2-b8b8-ab752b0b6b24
 amazon::ff63154b-fbeb-43d1-bfa1-3a2760d3bf64
 google-careers::jobs/100428867377734342
+google-careers::jobs/100489945570779846
 google-careers::jobs/101114992698237638
 google-careers::jobs/101598227521774278
 google-careers::jobs/101827248599769798
@@ -709,6 +710,8 @@ google-careers::jobs/112024014209065670
 google-careers::jobs/112029108191273670
 google-careers::jobs/112036894815986374
 google-careers::jobs/112310710792266438
+google-careers::jobs/112835949322216134
+google-careers::jobs/113337189185528518
 google-careers::jobs/113435653458272966
 google-careers::jobs/113626060632793798
 google-careers::jobs/113689321206096582
@@ -835,6 +838,7 @@ google-careers::jobs/74286730202489542
 google-careers::jobs/74354514986967750
 google-careers::jobs/74883137414275782
 google-careers::jobs/74941564538757830
+google-careers::jobs/75349955799065286
 google-careers::jobs/76216178225095366
 google-careers::jobs/76501661480035014
 google-careers::jobs/76609607429956294
@@ -844,6 +848,7 @@ google-careers::jobs/76908711519363782
 google-careers::jobs/77139638069666502
 google-careers::jobs/77141567583724230
 google-careers::jobs/77870840145683142
+google-careers::jobs/77871342119985862
 google-careers::jobs/77905111837221574
 google-careers::jobs/77955272223400646
 google-careers::jobs/78330227431744198
@@ -899,6 +904,7 @@ google-careers::jobs/91438259581657798
 google-careers::jobs/91570036694491846
 google-careers::jobs/91819218885845702
 google-careers::jobs/91833224774197958
+google-careers::jobs/91860772157563590
 google-careers::jobs/91879365607858886
 google-careers::jobs/91903383064978118
 google-careers::jobs/91922598748660422
@@ -911,6 +917,7 @@ google-careers::jobs/92957593793635014
 google-careers::jobs/93346568312103622
 google-careers::jobs/93854848968991430
 google-careers::jobs/94104233292243654
+google-careers::jobs/94114015080260294
 google-careers::jobs/94310482453635782
 google-careers::jobs/94885056199172806
 google-careers::jobs/95000919921304262
