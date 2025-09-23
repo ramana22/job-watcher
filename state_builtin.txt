@@ -22,6 +22,7 @@ https://builtin.com/job/associate-client-services-software-engineer-c/7151278
 https://builtin.com/job/associate-director-sales-engineering/7162626
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
 https://builtin.com/job/associate-net-software-engineer/7149992
+https://builtin.com/job/associate-security-engineer/7206989
 https://builtin.com/job/associate-software-developer/7101538
 https://builtin.com/job/associate-software-developer/7162837
 https://builtin.com/job/associate-software-development-engineer-contractor/7123014
@@ -66,6 +67,7 @@ https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-a
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
 https://builtin.com/job/cybersecurity-product-architect/7091588
 https://builtin.com/job/cybersecurity-sr-software-engineer/7082333
+https://builtin.com/job/data-analyst/7207837
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098758
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098779
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098785
@@ -90,6 +92,8 @@ https://builtin.com/job/enterprise-architect/7150071
 https://builtin.com/job/entry-level-c-software-developer/7164404
 https://builtin.com/job/entry-level-c-software-developer/7164411
 https://builtin.com/job/entry-level-software-engineer/7101125
+https://builtin.com/job/experienced-c-software-engineer/7207728
+https://builtin.com/job/experienced-class-yard-switcher-hostler/7206517
 https://builtin.com/job/expert-combat-designer/7085470
 https://builtin.com/job/expert-software-engineer-backend-remote/7073949
 https://builtin.com/job/federal-training-lead/7074861
@@ -100,11 +104,13 @@ https://builtin.com/job/full-case-order-selector/7137193
 https://builtin.com/job/full-stack-application-developer/7120025
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
 https://builtin.com/job/full-stack-developer-safe-agile-experience/7176636
+https://builtin.com/job/full-stack-engineer/7207108
 https://builtin.com/job/full-stack-net-developer/7074499
 https://builtin.com/job/full-stack-software-developer/7185380
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7199407
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7200373
 https://builtin.com/job/general-assembly-virtual-engineer/7165196
+https://builtin.com/job/graduate-c-software-engineer/7207731
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/graphql-net-engineer-w2-role/7190188
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
