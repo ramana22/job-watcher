@@ -119,6 +119,7 @@ https://builtin.com/job/graduate-c-software-engineer/7207731
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/graphql-net-engineer-w2-role/7190188
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
+https://builtin.com/job/icqa-specialist/7220840
 https://builtin.com/job/implementation-specialist/7199893
 https://builtin.com/job/implementation-specialist/7200033
 https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
@@ -237,6 +238,7 @@ https://builtin.com/job/sharepoint-engineer/7085159
 https://builtin.com/job/shipping-coordinator-c-shift/7104914
 https://builtin.com/job/site-reliability-engineer/7120310
 https://builtin.com/job/site-reliability-engineer/7137827
+https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-ii-geoprocessing-and-map-viewer-analysis/7087582
 https://builtin.com/job/software-developer-ii/7200483
