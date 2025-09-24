@@ -257,6 +257,7 @@ amazon::63234abe-9658-4369-89db-46bd58c5548a
 amazon::6352a5b5-dbef-478b-9383-f10a84b7eef3
 amazon::637808aa-2718-4eba-8f2f-7001cf442294
 amazon::64624080-bc53-49e0-acc9-6c81eff4e37a
+amazon::65569417-a7bb-401f-9d1b-7d8843d858b5
 amazon::655bb441-cf82-4a80-b84a-9a0e78247ff8
 amazon::65dd451b-fdf2-4fcd-b94c-0f854460e64f
 amazon::65e74fbd-0528-49eb-90e1-c9fc097f3679
@@ -289,6 +290,7 @@ amazon::710f807e-0d78-4a19-90ba-650542525a4a
 amazon::724f51e4-d0a7-4bf0-9540-41bdafaa2bad
 amazon::726b6d82-08dc-4b8e-9e53-d44f4e882c62
 amazon::72ada0ae-edfa-403e-b9cf-d84407256ebc
+amazon::73605b51-0740-4d88-b81b-4b6db69cc6cd
 amazon::73a85e96-217c-4ed9-b864-d804e130d963
 amazon::7406b644-8f49-497b-a7c0-8089b74d3991
 amazon::742d2a80-88bd-4c1b-94ff-5c28ab90cad6
@@ -441,6 +443,7 @@ amazon::a84af327-9077-4945-9fd8-dbba61dd301d
 amazon::a9210e39-c617-4cbb-80c5-18f74cf8cd90
 amazon::a956459f-a918-4898-92f3-b973fe07778e
 amazon::a9a21a83-ca59-4dc1-a2ca-da232ccb7699
+amazon::a9f39b36-86c7-45fe-b7f1-49b7670ab13e
 amazon::a9fc1454-7936-427c-9ca4-8eb4d291dd15
 amazon::aa40977d-e032-48a9-8719-343e9fc341fc
 amazon::aa753599-5ba3-4165-9f2e-d6da20f725db
@@ -645,6 +648,7 @@ amazon::f42c451b-88c0-4e42-ad21-6a36cfb8d85d
 amazon::f44f6441-efce-402c-917d-ce80d1ed9318
 amazon::f469a2de-e85c-4b64-a90d-157fd1dc8600
 amazon::f4d01ec8-4504-4f5d-9c72-60ab6ff6d689
+amazon::f4e15824-9833-44c8-a7eb-3ccd1e35e09b
 amazon::f5697965-aa34-48ca-a7f4-eec12a4f0bac
 amazon::f588b04c-f3d4-4dff-b065-5e64e313c68b
 amazon::f60e6222-f59a-4b2e-a157-c4955671a8d6
@@ -817,6 +821,7 @@ google-careers::jobs/137144404971266758
 google-careers::jobs/137318504691835590
 google-careers::jobs/137396004692337350
 google-careers::jobs/137774347673576134
+google-careers::jobs/137974444445311686
 google-careers::jobs/138002267780326086
 google-careers::jobs/138549714512421574
 google-careers::jobs/138870919547232966
@@ -975,6 +980,7 @@ greenhouse:coinbase::5948429
 greenhouse:coinbase::5948499
 greenhouse:coinbase::5948501
 greenhouse:coinbase::5948951
+greenhouse:coinbase::5948954
 greenhouse:coinbase::5949636
 greenhouse:coinbase::5963361
 greenhouse:coinbase::6105978
