@@ -40,6 +40,8 @@ https://builtin.com/job/automation-engineer/7137854
 https://builtin.com/job/awesome-full-stack-software-engineer-jr-mid-levels-2-years-experience/7187583
 https://builtin.com/job/azure-ai-apps-architect/7221640
 https://builtin.com/job/azure-integration-developer/7090910
+https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226292
+https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226361
 https://builtin.com/job/backend-net-developer/7175214
 https://builtin.com/job/bi-sr-analyst/7119841
 https://builtin.com/job/bi-sr-analyst/7165333
@@ -49,6 +51,10 @@ https://builtin.com/job/c-17-structural-analysis-engineer-associate-experienced-
 https://builtin.com/job/c-c-software-development-engineer-ii-data-management/7225717
 https://builtin.com/job/c-developer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210441
 https://builtin.com/job/c-developer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210450
+https://builtin.com/job/c-developer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226288
+https://builtin.com/job/c-developer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226304
+https://builtin.com/job/c-developer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226363
+https://builtin.com/job/c-developer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226370
 https://builtin.com/job/c-developer/7194192
 https://builtin.com/job/c-l-analyst/7160117
 https://builtin.com/job/c-microservices-developer/7122007
@@ -147,8 +153,14 @@ https://builtin.com/job/jr-net-developer/7089431
 https://builtin.com/job/jr-software-engineer/7188218
 https://builtin.com/job/jr-software-engineer/7198712
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7212658
+https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226290
+https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226371
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210415
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210459
+https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226287
+https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226300
+https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226360
+https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226367
 https://builtin.com/job/junior-dynamics-365-developer-remote-opportunity/7114819
 https://builtin.com/job/junior-net-software-developer/7212236
 https://builtin.com/job/junior-research-and-development-engineer-req-176/7189444
