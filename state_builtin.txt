@@ -190,6 +190,7 @@ https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/microsoft-net-software-developer/7151498
 https://builtin.com/job/mid-level-full-stack-developer/7182307
 https://builtin.com/job/mid-senior-software-developer/7150231
+https://builtin.com/job/mid-senior-software-developer/7243081
 https://builtin.com/job/mobile-engineer/7170909
 https://builtin.com/job/nasa-lunar-gateway-data-services-web-software-developer/7197107
 https://builtin.com/job/nde-engineer/7149892
