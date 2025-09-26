@@ -129,6 +129,7 @@ https://builtin.com/job/full-stack-engineer/7207108
 https://builtin.com/job/full-stack-engineer/7221625
 https://builtin.com/job/full-stack-net-developer/7074499
 https://builtin.com/job/full-stack-software-developer/7185380
+https://builtin.com/job/full-stack-software-engineer/7238081
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7199407
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7200373
@@ -152,6 +153,7 @@ https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/intrusion-analyst-3-ccas-accepted/7176637
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
 https://builtin.com/job/it-intern/7074408
+https://builtin.com/job/it-performance-testing-analyst/7237624
 https://builtin.com/job/java-developer/7124151
 https://builtin.com/job/jr-net-developer/7089431
 https://builtin.com/job/jr-software-engineer/7188218
@@ -374,6 +376,7 @@ https://builtin.com/job/software-engineer/7223872
 https://builtin.com/job/software-engineer/7225086
 https://builtin.com/job/software-engineer/7236153
 https://builtin.com/job/software-engineer/7236933
+https://builtin.com/job/software-engineer/7237868
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
