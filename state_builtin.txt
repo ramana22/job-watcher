@@ -74,6 +74,7 @@ https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
+https://builtin.com/job/consulting-engineer/7244928
 https://builtin.com/job/core-c-engineer-advertising/7195452
 https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
@@ -94,13 +95,16 @@ https://builtin.com/job/data-engineer-aws-azure-gcp/7098794
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098796
 https://builtin.com/job/data-integration-engineer/7174551
 https://builtin.com/job/data-scientist/7163685
+https://builtin.com/job/data-scientist/7247421
 https://builtin.com/job/deploy-software-engineer/7103991
 https://builtin.com/job/design-engineer/7090578
 https://builtin.com/job/design-system-developer-engineer/7225951
 https://builtin.com/job/developer-agentic-process-automation/7222745
 https://builtin.com/job/developer-agentic-process-automation/7222755
+https://builtin.com/job/developer-iv-onbase-c-cgs-administrators-llc-nashville-tn/7247155
 https://builtin.com/job/developer-junior-consultant/7244700
 https://builtin.com/job/digital-rotational-program-associate/7070223
+https://builtin.com/job/digital-twin-analyst/7246971
 https://builtin.com/job/director-product-management-risk-platform/7085429
 https://builtin.com/job/dynamics-365-f-o-technical-solution-engineer/7175464
 https://builtin.com/job/edi-software-engineer/7077347
