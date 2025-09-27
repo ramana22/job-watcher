@@ -366,6 +366,7 @@ https://builtin.com/job/software-engineer-iii/7073822
 https://builtin.com/job/software-engineer-iii/7139373
 https://builtin.com/job/software-engineer-iii/7145722
 https://builtin.com/job/software-engineer-iii/7149162
+https://builtin.com/job/software-engineer-lead-net-asp-mvc-blazor/7250529
 https://builtin.com/job/software-engineer-microsoft-azure-technologies/7136645
 https://builtin.com/job/software-engineer-net-c/7085029
 https://builtin.com/job/software-engineer-net-devops-developer/7091425
