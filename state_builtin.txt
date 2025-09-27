@@ -49,6 +49,7 @@ https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226292
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226361
 https://builtin.com/job/backend-net-developer/7175214
+https://builtin.com/job/battery-lab-systems-integration-engineer/7249944
 https://builtin.com/job/bi-sr-analyst/7119841
 https://builtin.com/job/bi-sr-analyst/7165333
 https://builtin.com/job/business-programming-consultant/7089567
@@ -338,6 +339,7 @@ https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
 https://builtin.com/job/software-engineer-i/7078452
 https://builtin.com/job/software-engineer-i/7122178
+https://builtin.com/job/software-engineer-i/7250014
 https://builtin.com/job/software-engineer-ii-c-net/7096906
 https://builtin.com/job/software-engineer-ii-net/7139773
 https://builtin.com/job/software-engineer-ii-test-automation/7190118
