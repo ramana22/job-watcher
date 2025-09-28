@@ -48,6 +48,7 @@ https://builtin.com/job/azure-ai-apps-architect/7221640
 https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226292
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226361
+https://builtin.com/job/backend-engineer-rider-account/7251135
 https://builtin.com/job/backend-net-developer/7175214
 https://builtin.com/job/battery-lab-systems-integration-engineer/7249944
 https://builtin.com/job/bi-sr-analyst/7119841
@@ -139,6 +140,7 @@ https://builtin.com/job/full-stack-developer/7234314
 https://builtin.com/job/full-stack-engineer/7207108
 https://builtin.com/job/full-stack-engineer/7221625
 https://builtin.com/job/full-stack-net-developer/7074499
+https://builtin.com/job/full-stack-net-developer/7251198
 https://builtin.com/job/full-stack-software-developer/7185380
 https://builtin.com/job/full-stack-software-engineer/7238081
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
@@ -310,6 +312,7 @@ https://builtin.com/job/software-developer/7119183
 https://builtin.com/job/software-developer/7123756
 https://builtin.com/job/software-developer/7211184
 https://builtin.com/job/software-developer/7230711
+https://builtin.com/job/software-developer/7251274
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
 https://builtin.com/job/software-development-engineer-ii/7123869
