@@ -25,6 +25,7 @@ https://builtin.com/job/associate-director-business-systems-analysis/7244996
 https://builtin.com/job/associate-director-sales-engineering/7162626
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
 https://builtin.com/job/associate-manager-operations/7212104
+https://builtin.com/job/associate-mathematician/7256008
 https://builtin.com/job/associate-net-software-engineer/7149992
 https://builtin.com/job/associate-security-engineer/7206989
 https://builtin.com/job/associate-software-developer/7101538
@@ -147,6 +148,7 @@ https://builtin.com/job/fullstack-net-developer-analyst/7225016
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7199407
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7200373
 https://builtin.com/job/general-assembly-virtual-engineer/7165196
+https://builtin.com/job/general-interest-backend-engineer/7255832
 https://builtin.com/job/graduate-c-software-engineer/7207731
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/graphql-net-engineer-w2-role/7190188
@@ -294,6 +296,7 @@ https://builtin.com/job/senior-solutions-integration-architect-736/7079522
 https://builtin.com/job/senior-technical-account-manager-amer/7158745
 https://builtin.com/job/sharepoint-engineer/7085159
 https://builtin.com/job/shipping-coordinator-c-shift/7104914
+https://builtin.com/job/simulation-engineer-experienced-mid-level/7255731
 https://builtin.com/job/site-reliability-engineer/7120310
 https://builtin.com/job/site-reliability-engineer/7137827
 https://builtin.com/job/software-database-developer/7218948
@@ -313,6 +316,7 @@ https://builtin.com/job/software-developer/7123756
 https://builtin.com/job/software-developer/7211184
 https://builtin.com/job/software-developer/7230711
 https://builtin.com/job/software-developer/7251274
+https://builtin.com/job/software-developer/7257305
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
 https://builtin.com/job/software-development-engineer-ii/7123869
