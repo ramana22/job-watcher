@@ -339,6 +339,7 @@ https://builtin.com/job/software-engineer-backend/7152756
 https://builtin.com/job/software-engineer-c-level-4/7085683
 https://builtin.com/job/software-engineer-c-level-4/7236207
 https://builtin.com/job/software-engineer-c-netcore-devops/7091430
+https://builtin.com/job/software-engineer-c-networking/7253900
 https://builtin.com/job/software-engineer-c-rust/7200890
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
