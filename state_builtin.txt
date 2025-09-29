@@ -185,6 +185,7 @@ https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-
 https://builtin.com/job/junior-dynamics-365-developer-remote-opportunity/7114819
 https://builtin.com/job/junior-net-software-developer/7212236
 https://builtin.com/job/junior-research-and-development-engineer-req-176/7189444
+https://builtin.com/job/junior-software-developer-tech-support/7259974
 https://builtin.com/job/junior-software-developer/7127518
 https://builtin.com/job/junior-software-engineer-ai-agents/7122849
 https://builtin.com/job/junior-software-engineer-ai-agents/7122854
@@ -201,6 +202,7 @@ https://builtin.com/job/lender-software-engineer-c-aws/7073982
 https://builtin.com/job/loader-dayshift/7198185
 https://builtin.com/job/mainframe-developer-assembler-c-java/7143917
 https://builtin.com/job/manager-hr-business-partner/7161230
+https://builtin.com/job/manager-it-product/7259827
 https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/microsoft-net-software-developer/7151498
@@ -208,6 +210,7 @@ https://builtin.com/job/mid-level-full-stack-developer/7182307
 https://builtin.com/job/mid-senior-software-developer/7150231
 https://builtin.com/job/mid-senior-software-developer/7243081
 https://builtin.com/job/mobile-engineer/7170909
+https://builtin.com/job/modeling-and-simulation-engineer/7260082
 https://builtin.com/job/mulesoft-engineer-ii/7244340
 https://builtin.com/job/nasa-lunar-gateway-data-services-web-software-developer/7197107
 https://builtin.com/job/nde-engineer/7149892
@@ -416,6 +419,7 @@ https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
 https://builtin.com/job/software-qa-analyst/7177836
 https://builtin.com/job/software-quality-assurance-engineer/7122208
+https://builtin.com/job/software-research-engineer/7259955
 https://builtin.com/job/software-solutions-architect-rapidscale/7082287
 https://builtin.com/job/software-test-engineer-2/7159961
 https://builtin.com/job/software-test-engineer-i-mobile/7178005
@@ -431,6 +435,7 @@ https://builtin.com/job/sr-react-developer/7083737
 https://builtin.com/job/sr-software-engineer-fullstack/7210871
 https://builtin.com/job/sr-software-engineer-net/7073992
 https://builtin.com/job/sr-software-engineer/7076585
+https://builtin.com/job/sr-software-engineer/7257759
 https://builtin.com/job/sr-staff-engineer/7076353
 https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/7078025
 https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/7224118
