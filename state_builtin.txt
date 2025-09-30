@@ -201,6 +201,7 @@ https://builtin.com/job/lead-software-engineer/7074544
 https://builtin.com/job/lead-specialty-software-engineer/7066744
 https://builtin.com/job/lender-software-engineer-c-aws/7073982
 https://builtin.com/job/loader-dayshift/7198185
+https://builtin.com/job/loader/7262973
 https://builtin.com/job/mainframe-developer-assembler-c-java/7143917
 https://builtin.com/job/manager-engineering/7262569
 https://builtin.com/job/manager-hr-business-partner/7161230
@@ -437,6 +438,7 @@ https://builtin.com/job/software-test-engineer-i/7106408
 https://builtin.com/job/software-verification-engineer-ii-crm/7223324
 https://builtin.com/job/solutions-engineer-auth0/7209301
 https://builtin.com/job/solutions-engineering-pre-sales-remote/7175121
+https://builtin.com/job/specialist-p-c-statistical-reporting/7262962
 https://builtin.com/job/spring-2026-internship-software-engineering/7077255
 https://builtin.com/job/sr-backend-engineer-c-hybrid/7198959
 https://builtin.com/job/sr-net-developer/7087703
