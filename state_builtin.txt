@@ -18,6 +18,7 @@ https://builtin.com/job/assistant-chief-engineer-c/7185857
 https://builtin.com/job/assistant-manager-brandywine-t-c/7186547
 https://builtin.com/job/assistant-manager-lincolnwood-t-c/7134198
 https://builtin.com/job/assistant-manager-polaris-t-c/7246221
+https://builtin.com/job/associate-account-manager/7267639
 https://builtin.com/job/associate-accounting-analyst-accounting-finance-graduates-2026/7159246
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-client-services-software-engineer-c/7151278
@@ -92,6 +93,7 @@ https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-a
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
 https://builtin.com/job/cybersecurity-product-architect/7091588
 https://builtin.com/job/cybersecurity-sr-software-engineer/7082333
+https://builtin.com/job/data-analyst-junior-c-developer/7266595
 https://builtin.com/job/data-analyst/7207837
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098758
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098779
@@ -139,6 +141,7 @@ https://builtin.com/job/full-stack-developer-computer-engineer-ii/7249215
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
 https://builtin.com/job/full-stack-developer-safe-agile-experience/7176636
 https://builtin.com/job/full-stack-developer/7234314
+https://builtin.com/job/full-stack-engineer-net/7266264
 https://builtin.com/job/full-stack-engineer/7207108
 https://builtin.com/job/full-stack-engineer/7221625
 https://builtin.com/job/full-stack-net-developer/7074499
@@ -331,6 +334,7 @@ https://builtin.com/job/software-developer/7251274
 https://builtin.com/job/software-developer/7257305
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
+https://builtin.com/job/software-development-engineer-ii-computer-vision/7266458
 https://builtin.com/job/software-development-engineer-ii/7123869
 https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer-san-jose-ca/7146896
