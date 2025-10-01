@@ -265,6 +265,7 @@ https://builtin.com/job/product-engineer-i-gis-applications-desktop-web/7210204
 https://builtin.com/job/product-engineer-ii-data-reviewer/7187600
 https://builtin.com/job/product-engineer-ii-generative-ai-assistants-arcgis-pro/7173514
 https://builtin.com/job/programmer-analyst/7138059
+https://builtin.com/job/qa-analyst/7276529
 https://builtin.com/job/qa-engineer-i-visualization/7123529
 https://builtin.com/job/qa-engineer/7230457
 https://builtin.com/job/qa-lead/7136577
@@ -327,6 +328,7 @@ https://builtin.com/job/site-reliability-engineer/7137827
 https://builtin.com/job/software-application-development-engineer/7272683
 https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-developer-2/7080988
+https://builtin.com/job/software-developer-genai-remote-us/7277501
 https://builtin.com/job/software-developer-greenwood-sc-hybrid/7269927
 https://builtin.com/job/software-developer-ii-geoprocessing-and-map-viewer-analysis/7087582
 https://builtin.com/job/software-developer-ii/7200483
@@ -383,6 +385,9 @@ https://builtin.com/job/software-engineer-i/7122178
 https://builtin.com/job/software-engineer-i/7250014
 https://builtin.com/job/software-engineer-ii-c-net/7096906
 https://builtin.com/job/software-engineer-ii-net/7139773
+https://builtin.com/job/software-engineer-ii-north-american-sports/7276316
+https://builtin.com/job/software-engineer-ii-north-american-sports/7276318
+https://builtin.com/job/software-engineer-ii-north-american-sports/7276321
 https://builtin.com/job/software-engineer-ii-platform-runtime-services/7272307
 https://builtin.com/job/software-engineer-ii-platform-runtime-services/7272309
 https://builtin.com/job/software-engineer-ii-test-automation/7190118
