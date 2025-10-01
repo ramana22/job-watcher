@@ -204,6 +204,7 @@ amazon::469ec108-83d2-4c2f-b587-5e069ebf2618
 amazon::46e78e9e-34f7-44d1-b5b6-8c72179065c1
 amazon::46e85482-43ab-4cc8-973b-6f313e75698a
 amazon::479cea9e-5743-4df7-ba3e-a705b45c8f87
+amazon::47a12a0c-0271-41af-9257-6eca437bfbc7
 amazon::48389929-7899-46aa-9c1c-a6e4f40b6fce
 amazon::486ed6d8-8678-4d88-9fdc-0bb5e9276f63
 amazon::491155b5-406f-47bc-ac03-5231b632f8b9
@@ -1119,6 +1120,7 @@ greenhouse:discord::7990178002
 greenhouse:discord::8101845002
 greenhouse:discord::8101855002
 greenhouse:discord::8177727002
+greenhouse:discord::8187906002
 greenhouse:okta::4923902
 greenhouse:okta::6716858
 greenhouse:okta::6794640
