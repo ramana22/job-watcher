@@ -335,7 +335,9 @@ https://builtin.com/job/shipping-coordinator-c-shift/7104914
 https://builtin.com/job/simulation-engineer-experienced-mid-level/7255731
 https://builtin.com/job/site-reliability-engineer/7120310
 https://builtin.com/job/site-reliability-engineer/7137827
+https://builtin.com/job/software-application-development-engineer-middleware/7283862
 https://builtin.com/job/software-application-development-engineer/7272683
+https://builtin.com/job/software-application-development-engineer/7283860
 https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-genai-remote-us/7277501
@@ -490,6 +492,7 @@ https://builtin.com/job/software-verification-engineer-ii-crm/7223324
 https://builtin.com/job/solutions-engineer-auth0/7209301
 https://builtin.com/job/solutions-engineering-post-sales-remote/7282844
 https://builtin.com/job/solutions-engineering-pre-sales-remote/7175121
+https://builtin.com/job/solutions-engineering-specialist-okta/7284094
 https://builtin.com/job/specialist-p-c-statistical-reporting/7262962
 https://builtin.com/job/spring-2026-internship-software-engineering/7077255
 https://builtin.com/job/sr-backend-engineer-c-hybrid/7198959
