@@ -276,6 +276,7 @@ https://builtin.com/job/product-engineer-ii-data-reviewer/7187600
 https://builtin.com/job/product-engineer-ii-generative-ai-assistants-arcgis-pro/7173514
 https://builtin.com/job/programmer-analyst/7138059
 https://builtin.com/job/qa-analyst/7276529
+https://builtin.com/job/qa-analyst/7288424
 https://builtin.com/job/qa-engineer-i-visualization/7123529
 https://builtin.com/job/qa-engineer/7230457
 https://builtin.com/job/qa-lead/7136577
@@ -400,6 +401,7 @@ https://builtin.com/job/software-engineer-i-net-node-js-react/7269660
 https://builtin.com/job/software-engineer-i/7078452
 https://builtin.com/job/software-engineer-i/7122178
 https://builtin.com/job/software-engineer-i/7250014
+https://builtin.com/job/software-engineer-ii-backend-platform/7287475
 https://builtin.com/job/software-engineer-ii-c-net/7096906
 https://builtin.com/job/software-engineer-ii-c-python/7283382
 https://builtin.com/job/software-engineer-ii-net/7139773
@@ -476,6 +478,8 @@ https://builtin.com/job/software-engineer/7260727
 https://builtin.com/job/software-engineer/7262607
 https://builtin.com/job/software-engineer/7278686
 https://builtin.com/job/software-engineer/7281166
+https://builtin.com/job/software-engineer/7288287
+https://builtin.com/job/software-engineer/7288480
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
@@ -519,6 +523,7 @@ https://builtin.com/job/summer-2026-internship-nuclear-engineer/7078082
 https://builtin.com/job/support-engineer/7101611
 https://builtin.com/job/sustainability-specialist-analytics/7236470
 https://builtin.com/job/systems-administrator-ii/7125521
+https://builtin.com/job/systems-engineer/7287237
 https://builtin.com/job/systems-integration-engineer/7079644
 https://builtin.com/job/tdm-engineer/7164512
 https://builtin.com/job/technical-architect-specialist/7122022
