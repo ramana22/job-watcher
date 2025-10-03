@@ -191,6 +191,7 @@ https://builtin.com/job/infrastructure-engineer-remote/7225409
 https://builtin.com/job/infrastructure-engineer/7122441
 https://builtin.com/job/insurance-solutions-specialist/7198459
 https://builtin.com/job/integration-engineer-remote-opportunity/7114801
+https://builtin.com/job/intermediate-backend-engineer-payments-platform/7299594
 https://builtin.com/job/internship-computer-science-engineer/7088796
 https://builtin.com/job/internship-customer-success-software-engineer-summer-2026/7087904
 https://builtin.com/job/internship-software-engineer-summer-2026/7087912
@@ -267,6 +268,7 @@ https://builtin.com/job/nuclear-engineer-2026-new-graduate/7077245
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-penetration-testing-remote/7281892
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pentesting-remote/7151647
 https://builtin.com/job/operations-associate-c-shift/7212442
+https://builtin.com/job/operations-automation-analyst/7299322
 https://builtin.com/job/pasting-operator-i/7191442
 https://builtin.com/job/pasting-operator-i/7204204
 https://builtin.com/job/paswopsreplbauon390-technical-services-administrator/7130551
@@ -332,6 +334,7 @@ https://builtin.com/job/senior-software-engineer-finance-development/7083472
 https://builtin.com/job/senior-software-engineer-genai/7077099
 https://builtin.com/job/senior-software-engineer-genai/7122161
 https://builtin.com/job/senior-software-engineer-genai/7150707
+https://builtin.com/job/senior-software-engineer-linux-device-authenticators/7301009
 https://builtin.com/job/senior-software-engineer-manufacturing-test/7068731
 https://builtin.com/job/senior-software-engineer-remote/7115222
 https://builtin.com/job/senior-software-engineer-security-and-vulnerability-management/7149542
