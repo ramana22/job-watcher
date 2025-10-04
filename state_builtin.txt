@@ -147,6 +147,19 @@ https://builtin.com/job/enterprise-architect-hospitality-solutions/7088741
 https://builtin.com/job/enterprise-architect/7150071
 https://builtin.com/job/entry-level-c-software-developer/7164404
 https://builtin.com/job/entry-level-c-software-developer/7164411
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304133
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304134
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304135
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304139
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304140
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304141
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304142
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304143
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304147
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304149
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304152
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304153
+https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304154
 https://builtin.com/job/entry-level-software-engineer/7101125
 https://builtin.com/job/experienced-c-software-engineer/7207728
 https://builtin.com/job/experienced-class-yard-switcher-hostler/7206517
@@ -342,6 +355,7 @@ https://builtin.com/job/senior-software-engineer-linux-device-authenticators/730
 https://builtin.com/job/senior-software-engineer-manufacturing-test/7068731
 https://builtin.com/job/senior-software-engineer-remote/7115222
 https://builtin.com/job/senior-software-engineer-security-and-vulnerability-management/7149542
+https://builtin.com/job/senior-software-engineer-systems-monitoring-java/7304067
 https://builtin.com/job/senior-software-engineer/7085128
 https://builtin.com/job/senior-software-engineer/7091030
 https://builtin.com/job/senior-software-engineer/7223620
