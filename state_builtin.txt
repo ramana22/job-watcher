@@ -126,6 +126,7 @@ https://builtin.com/job/data-scientist/7247421
 https://builtin.com/job/deploy-software-engineer/7103991
 https://builtin.com/job/design-engineer/7090578
 https://builtin.com/job/design-system-developer-engineer/7225951
+https://builtin.com/job/dev-hft-c-core-systems-developer-3-10-years-experience/7307205
 https://builtin.com/job/developer-agentic-process-automation/7222745
 https://builtin.com/job/developer-agentic-process-automation/7222755
 https://builtin.com/job/developer-iv-onbase-c-cgs-administrators-llc-nashville-tn/7247155
