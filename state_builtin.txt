@@ -103,6 +103,7 @@ https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
 https://builtin.com/job/cos-operator-i/7191439
 https://builtin.com/job/cos-operator-i/7204206
+https://builtin.com/job/cos-operator/7305371
 https://builtin.com/job/customer-account-specialist/7137194
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
@@ -573,6 +574,7 @@ https://builtin.com/job/technical-architect-specialist/7122022
 https://builtin.com/job/technical-artist/7139525
 https://builtin.com/job/technical-artist/7148417
 https://builtin.com/job/technical-artist/7243575
+https://builtin.com/job/technical-client-support-analyst/7305405
 https://builtin.com/job/technical-solutions-associate/7114948
 https://builtin.com/job/technical-specialist-junior-remote/7164361
 https://builtin.com/job/technical-staff-engineer-software-ai-ml/7078408
