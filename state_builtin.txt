@@ -90,6 +90,7 @@ https://builtin.com/job/c-junioe-software-developer/7287995
 https://builtin.com/job/c-junior-software-developer/7292092
 https://builtin.com/job/c-l-analyst/7160117
 https://builtin.com/job/c-microservices-developer/7122007
+https://builtin.com/job/c-net-developer/7318747
 https://builtin.com/job/c-programmer/7217295
 https://builtin.com/job/c-software-engineer-abq/7313008
 https://builtin.com/job/c-software-engineer-dayton/7313009
@@ -267,6 +268,7 @@ https://builtin.com/job/loader-dayshift/7198185
 https://builtin.com/job/loader/7262973
 https://builtin.com/job/logistics-operator-4-800-c/7314571
 https://builtin.com/job/mainframe-developer-assembler-c-java/7143917
+https://builtin.com/job/manager-database-marketing-c-level-communities/7316560
 https://builtin.com/job/manager-engineering/7262569
 https://builtin.com/job/manager-hr-business-partner/7161230
 https://builtin.com/job/manager-it-product/7259827
@@ -434,7 +436,9 @@ https://builtin.com/job/software-development-engineer-san-jose-ca/7146896
 https://builtin.com/job/software-development-engineer-test-ii/7247928
 https://builtin.com/job/software-development-engineer-test-sdet-contract-remote/7270017
 https://builtin.com/job/software-development-engineer-test-sdet/7187226
+https://builtin.com/job/software-development-engineer-test-sports-platform/7318411
 https://builtin.com/job/software-development-engineer-test-verifications/7117075
+https://builtin.com/job/software-development-engineer-test-verifications/7318430
 https://builtin.com/job/software-development-engineer-test/7142910
 https://builtin.com/job/software-development-engineer/7103044
 https://builtin.com/job/software-development-engineer/7172036
@@ -461,6 +465,7 @@ https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/73
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7313292
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
 https://builtin.com/job/software-engineer-entry-level/7282703
+https://builtin.com/job/software-engineer-fullstack/7317579
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
 https://builtin.com/job/software-engineer-i-net-node-js-react/7269660
 https://builtin.com/job/software-engineer-i/7078452
@@ -492,6 +497,7 @@ https://builtin.com/job/software-engineer-ii/7197250
 https://builtin.com/job/software-engineer-ii/7201024
 https://builtin.com/job/software-engineer-ii/7271544
 https://builtin.com/job/software-engineer-ii/7282436
+https://builtin.com/job/software-engineer-ii/7316960
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c/7126915
@@ -600,6 +606,7 @@ https://builtin.com/job/system-software-development-engineer/7303186
 https://builtin.com/job/systems-administrator-ii/7125521
 https://builtin.com/job/systems-engineer/7287237
 https://builtin.com/job/systems-integration-engineer/7079644
+https://builtin.com/job/systems-integrator-tempus/7316918
 https://builtin.com/job/tdm-engineer/7164512
 https://builtin.com/job/technical-architect-specialist/7122022
 https://builtin.com/job/technical-artist/7139525
