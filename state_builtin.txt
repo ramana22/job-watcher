@@ -105,6 +105,7 @@ https://builtin.com/job/client-manager-p-c-accounts/7269713
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-operations-developer/7114938
+https://builtin.com/job/consultant-accounting-p-c-controllership/7315961
 https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
 https://builtin.com/job/consulting-engineer/7244928
@@ -584,6 +585,7 @@ https://builtin.com/job/sr-software-engineer/7257759
 https://builtin.com/job/sr-staff-engineer/7076353
 https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/7078025
 https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/7224118
+https://builtin.com/job/staff-deploy-software-engineer/7315735
 https://builtin.com/job/staff-full-stack-application-developer/7103361
 https://builtin.com/job/staff-r-d-software-engineer-simulation/7082115
 https://builtin.com/job/staff-software-build-engineer-hybrid/7268014
