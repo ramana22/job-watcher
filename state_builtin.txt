@@ -139,6 +139,7 @@ https://builtin.com/job/data-engineer-aws-azure-gcp/7098791
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098794
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098796
 https://builtin.com/job/data-engineer-i/7291371
+https://builtin.com/job/data-engineer-ii/7330275
 https://builtin.com/job/data-integration-engineer/7174551
 https://builtin.com/job/data-integration-engineer/7269494
 https://builtin.com/job/data-scientist/7163685
@@ -239,6 +240,7 @@ https://builtin.com/job/internship-computer-science-engineer/7088796
 https://builtin.com/job/internship-customer-success-software-engineer-summer-2026/7087904
 https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/intrusion-analyst-3-ccas-accepted/7176637
+https://builtin.com/job/ios-native-sdet/7329293
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
 https://builtin.com/job/it-intern/7074408
 https://builtin.com/job/it-performance-testing-analyst/7237624
@@ -291,6 +293,7 @@ https://builtin.com/job/market-manager/7326164
 https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/microsoft-net-software-developer/7151498
 https://builtin.com/job/mid-level-full-stack-developer/7182307
+https://builtin.com/job/mid-level-software-developer/7330473
 https://builtin.com/job/mid-level-software-engineer/7314999
 https://builtin.com/job/mid-level-software-engineer/7315002
 https://builtin.com/job/mid-level-test-engineer-dhs/7260379
@@ -308,6 +311,7 @@ https://builtin.com/job/net-developer/7188669
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-full-stack-data-engineer/7112486
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
+https://builtin.com/job/net-graphql-engineer-w2-role/7330049
 https://builtin.com/job/net-software-developer/7101671
 https://builtin.com/job/net-software-engineer-ii/7289102
 https://builtin.com/job/net-software-engineer-platform-upgrade-tooling-platform-experience/7221048
