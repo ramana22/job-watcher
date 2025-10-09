@@ -128,6 +128,7 @@ https://builtin.com/job/cos-operator-i/7204206
 https://builtin.com/job/cos-operator/7305371
 https://builtin.com/job/customer-account-specialist/7137194
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
+https://builtin.com/job/customer-authentication-engineer/7335888
 https://builtin.com/job/cyber-penetration-testing-team-lead/7089462
 https://builtin.com/job/cybersecurity-product-architect/7091588
 https://builtin.com/job/cybersecurity-sr-software-engineer/7082333
@@ -197,6 +198,7 @@ https://builtin.com/job/expert-software-engineer-backend-remote/7073949
 https://builtin.com/job/federal-training-lead/7074861
 https://builtin.com/job/finance-business-partner-ba-and-c/7213441
 https://builtin.com/job/financial-engineer/7271036
+https://builtin.com/job/financial-operations-analyst-pa-lo-ax-q2-1/7334366
 https://builtin.com/job/financial-operations-consulting-support-analyst-pa-dsr-q4-3/7195531
 https://builtin.com/job/firmware-engineer/7327058
 https://builtin.com/job/firmware-intern/7091645
@@ -361,6 +363,7 @@ https://builtin.com/job/qa-engineer/7230457
 https://builtin.com/job/qa-lead/7136577
 https://builtin.com/job/qa-lead/7137175
 https://builtin.com/job/qa-software-engineer-ii/7139775
+https://builtin.com/job/quality-analyst-world-warcraft-boston-ma/7337086
 https://builtin.com/job/quality-assurance-engineer/7077531
 https://builtin.com/job/quality-development-program/7071392
 https://builtin.com/job/quality-specialist-ii/7210504
@@ -455,6 +458,7 @@ https://builtin.com/job/software-developer/7251274
 https://builtin.com/job/software-developer/7257305
 https://builtin.com/job/software-developer/7280005
 https://builtin.com/job/software-developer/7314216
+https://builtin.com/job/software-developer/7336661
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
@@ -564,6 +568,7 @@ https://builtin.com/job/software-engineer-platform/7080679
 https://builtin.com/job/software-engineer-quantitative/7271644
 https://builtin.com/job/software-engineer-quantitative/7271647
 https://builtin.com/job/software-engineer-recent-graduate-hybrid-norcross-ga/7302464
+https://builtin.com/job/software-engineer-reliability/7337240
 https://builtin.com/job/software-engineer-research-systems/7164868
 https://builtin.com/job/software-engineer-serviceability/7079620
 https://builtin.com/job/software-engineer-support/7243835
@@ -594,6 +599,8 @@ https://builtin.com/job/software-engineer/7288480
 https://builtin.com/job/software-engineer/7302530
 https://builtin.com/job/software-engineer/7321988
 https://builtin.com/job/software-engineer/7321993
+https://builtin.com/job/software-engineer/7335892
+https://builtin.com/job/software-engineer/7338038
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
