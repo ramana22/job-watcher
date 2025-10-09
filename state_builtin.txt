@@ -570,6 +570,7 @@ https://builtin.com/job/software-engineer-quantitative/7271647
 https://builtin.com/job/software-engineer-recent-graduate-hybrid-norcross-ga/7302464
 https://builtin.com/job/software-engineer-reliability/7337240
 https://builtin.com/job/software-engineer-research-systems/7164868
+https://builtin.com/job/software-engineer-senior-software-engineer/7338921
 https://builtin.com/job/software-engineer-serviceability/7079620
 https://builtin.com/job/software-engineer-support/7243835
 https://builtin.com/job/software-engineer-underwriting/7136509
@@ -675,6 +676,7 @@ https://builtin.com/job/test-development-engineer/7080496
 https://builtin.com/job/test-development-engineer/7101195
 https://builtin.com/job/test-engineer/7225406
 https://builtin.com/job/test-engineer/7225419
+https://builtin.com/job/tier-2-noc-engineer/7338665
 https://builtin.com/job/tools-engineer/7243576
 https://builtin.com/job/us-software-engineer-ii-r37/7271017
 https://builtin.com/job/us-software-engineer-iii-r37/7271015
