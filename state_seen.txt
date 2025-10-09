@@ -239,6 +239,7 @@ amazon::49678c0a-b1c5-449c-bae2-2760daeafdaf
 amazon::496dd5d8-7fa2-489b-999b-a0c441a75c46
 amazon::4a0cf796-fabd-4ca7-908c-e8053913fba0
 amazon::4a3e8d60-4bdd-47fc-ad1f-87f98700f6e6
+amazon::4a43be9c-bbbb-48df-a449-b0d3cd49b897
 amazon::4a961648-6b1e-4ecd-9dbe-e4694bfdaad2
 amazon::4a9da4c3-01ed-4f43-b31f-13c33af193e5
 amazon::4adbcfe6-f40c-4862-bcc8-83df2e7deba4
@@ -659,6 +660,7 @@ amazon::ce430281-6eaa-48ca-abeb-ba3b30a75d80
 amazon::ce9bad59-a035-4274-a3f7-dd54239aea88
 amazon::cea9c176-0d8c-41f8-b7de-2d1b75e6d465
 amazon::ceb9cea1-f15f-4d3f-9546-559b8c05e746
+amazon::ceff93cc-8734-418a-96da-212727f981fa
 amazon::cf039e17-f43c-4587-9c33-2f2fb7b09d3e
 amazon::cf497d56-409d-4d13-8183-4f3cb2d02c3f
 amazon::d001a375-34cb-4509-8298-ae0d2c3f0921
@@ -1180,6 +1182,7 @@ greenhouse:coinbase::7169747
 greenhouse:coinbase::7226106
 greenhouse:coinbase::7233872
 greenhouse:coinbase::7289100
+greenhouse:coinbase::7311430
 greenhouse:databricks::6569772002
 greenhouse:databricks::6569774002
 greenhouse:databricks::6875433002
