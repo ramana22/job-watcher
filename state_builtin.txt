@@ -15,6 +15,7 @@ https://builtin.com/job/analyst-i-falcon-complete-hybrid/7321589
 https://builtin.com/job/analyst-ii-falcon-complete-hybrid/7321579
 https://builtin.com/job/android-software-engineer-tactical-command-and-control/7114835
 https://builtin.com/job/api-integrations-analyst/7101730
+https://builtin.com/job/application-developer-hybrid-norcross-ga/7342738
 https://builtin.com/job/application-developer/7112639
 https://builtin.com/job/application-developer/7112642
 https://builtin.com/job/application-infrastructure-developer/7160069
@@ -39,6 +40,7 @@ https://builtin.com/job/associate-mathematician/7256008
 https://builtin.com/job/associate-mathematician/7332714
 https://builtin.com/job/associate-net-software-engineer/7149992
 https://builtin.com/job/associate-operations-lh-bpo/7282472
+https://builtin.com/job/associate-product-developer-edi/7344211
 https://builtin.com/job/associate-security-engineer/7206989
 https://builtin.com/job/associate-software-developer/7101538
 https://builtin.com/job/associate-software-developer/7162837
@@ -78,6 +80,8 @@ https://builtin.com/job/backhauler-unloader/7289899
 https://builtin.com/job/battery-lab-systems-integration-engineer/7249944
 https://builtin.com/job/bi-sr-analyst/7119841
 https://builtin.com/job/bi-sr-analyst/7165333
+https://builtin.com/job/build-programmer/7342599
+https://builtin.com/job/build-programmer/7342604
 https://builtin.com/job/business-intelligence-analyst-intermediate-level/7302822
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/business-project-analyst/7175058
@@ -115,6 +119,7 @@ https://builtin.com/job/client-manager-p-c-accounts/7269713
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-operations-developer/7114938
+https://builtin.com/job/cloud-software-developer-hybrid/7343710
 https://builtin.com/job/consultant-accounting-p-c-controllership/7315961
 https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
@@ -142,7 +147,9 @@ https://builtin.com/job/data-engineer-aws-azure-gcp/7098791
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098794
 https://builtin.com/job/data-engineer-aws-azure-gcp/7098796
 https://builtin.com/job/data-engineer-i/7291371
+https://builtin.com/job/data-engineer-i/7344275
 https://builtin.com/job/data-engineer-ii/7330275
+https://builtin.com/job/data-engineer-ii/7344262
 https://builtin.com/job/data-integration-engineer/7174551
 https://builtin.com/job/data-integration-engineer/7269494
 https://builtin.com/job/data-scientist/7163685
@@ -497,6 +504,7 @@ https://builtin.com/job/software-engineer-c-netcore-devops/7091430
 https://builtin.com/job/software-engineer-c-networking/7253900
 https://builtin.com/job/software-engineer-c-rust/7200890
 https://builtin.com/job/software-engineer-c/7334627
+https://builtin.com/job/software-engineer-c/7343440
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7312410
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7313292
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
@@ -504,6 +512,7 @@ https://builtin.com/job/software-engineer-digital-solutions-implementations/7334
 https://builtin.com/job/software-engineer-entry-level/7282703
 https://builtin.com/job/software-engineer-fullstack/7317579
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
+https://builtin.com/job/software-engineer-hybrid-or-remote/7344015
 https://builtin.com/job/software-engineer-i-mern-aws-net/7320156
 https://builtin.com/job/software-engineer-i-net-node-js-react/7269660
 https://builtin.com/job/software-engineer-i/7078452
