@@ -15,6 +15,7 @@ https://builtin.com/job/analyst-i-falcon-complete-hybrid/7152362
 https://builtin.com/job/analyst-i-falcon-complete-hybrid/7321589
 https://builtin.com/job/analyst-ii-falcon-complete-hybrid/7321579
 https://builtin.com/job/android-software-engineer-tactical-command-and-control/7114835
+https://builtin.com/job/angular-developer/7356833
 https://builtin.com/job/api-integrations-analyst/7101730
 https://builtin.com/job/application-developer-hybrid-norcross-ga/7342738
 https://builtin.com/job/application-developer/7112639
@@ -151,6 +152,7 @@ https://builtin.com/job/data-engineer-i/7291371
 https://builtin.com/job/data-engineer-i/7344275
 https://builtin.com/job/data-engineer-ii/7330275
 https://builtin.com/job/data-engineer-ii/7344262
+https://builtin.com/job/data-engineer/7359479
 https://builtin.com/job/data-integration-engineer/7174551
 https://builtin.com/job/data-integration-engineer/7269494
 https://builtin.com/job/data-scientist/7163685
@@ -179,6 +181,7 @@ https://builtin.com/job/engineer-ii-go-java-react-microservices-kubernetes/72713
 https://builtin.com/job/engineer-ii-software/7073643
 https://builtin.com/job/engineer-ii-software/7200266
 https://builtin.com/job/engineer-ii/7313959
+https://builtin.com/job/engineering-manager-specialties/7366184
 https://builtin.com/job/enshadow-software-engineer/7289951
 https://builtin.com/job/enterprise-architect-hospitality-solutions/7088741
 https://builtin.com/job/enterprise-architect/7150071
@@ -311,6 +314,7 @@ https://builtin.com/job/market-manager/7326164
 https://builtin.com/job/marketplace-platform-product-manager/7347018
 https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/microsoft-net-software-developer/7151498
+https://builtin.com/job/mid-level-backend-engineer/7366367
 https://builtin.com/job/mid-level-full-stack-developer/7182307
 https://builtin.com/job/mid-level-software-developer/7330473
 https://builtin.com/job/mid-level-software-engineer/7314999
@@ -328,6 +332,7 @@ https://builtin.com/job/net-architect/7076901
 https://builtin.com/job/net-developer-maui-contract/7348575
 https://builtin.com/job/net-developer/7100234
 https://builtin.com/job/net-developer/7188669
+https://builtin.com/job/net-developer/7359420
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-full-stack-data-engineer/7112486
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
@@ -440,6 +445,7 @@ https://builtin.com/job/senior-software-engineering-support/7096600
 https://builtin.com/job/senior-solutions-architects-atlas-stream-processing/7091277
 https://builtin.com/job/senior-solutions-integration-architect-736/7079522
 https://builtin.com/job/senior-technical-account-manager-amer/7158745
+https://builtin.com/job/senior-web-developer-usa/7359985
 https://builtin.com/job/sharepoint-engineer/7085159
 https://builtin.com/job/shipping-coordinator-c-shift/7104914
 https://builtin.com/job/simulation-engineer-experienced-mid-level/7255731
@@ -481,6 +487,7 @@ https://builtin.com/job/software-developer/7280005
 https://builtin.com/job/software-developer/7314216
 https://builtin.com/job/software-developer/7336661
 https://builtin.com/job/software-developer/7354824
+https://builtin.com/job/software-developer/7362815
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
@@ -488,6 +495,7 @@ https://builtin.com/job/software-development-engineer-ii-computer-vision/7266458
 https://builtin.com/job/software-development-engineer-ii/7123869
 https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer-san-jose-ca/7146896
+https://builtin.com/job/software-development-engineer-test-bothell-wa/7366549
 https://builtin.com/job/software-development-engineer-test-ii/7247928
 https://builtin.com/job/software-development-engineer-test-sdet-contract-remote/7270017
 https://builtin.com/job/software-development-engineer-test-sdet/7187226
@@ -565,6 +573,7 @@ https://builtin.com/job/software-engineer-ii/7339440
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c/7126915
+https://builtin.com/job/software-engineer-iii-net-c/7365870
 https://builtin.com/job/software-engineer-iii-net-developer/7171853
 https://builtin.com/job/software-engineer-iii-test-automation/7183441
 https://builtin.com/job/software-engineer-iii/7073822
@@ -686,6 +695,7 @@ https://builtin.com/job/technical-architect-specialist/7122022
 https://builtin.com/job/technical-artist/7139525
 https://builtin.com/job/technical-artist/7148417
 https://builtin.com/job/technical-artist/7243575
+https://builtin.com/job/technical-artist/7365144
 https://builtin.com/job/technical-client-support-analyst/7305405
 https://builtin.com/job/technical-client-support-analyst/7334797
 https://builtin.com/job/technical-solutions-associate/7114948
