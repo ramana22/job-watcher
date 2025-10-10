@@ -457,6 +457,7 @@ https://builtin.com/job/software-application-development-engineer/7334319
 https://builtin.com/job/software-application-development-engineer/7334332
 https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-developer-2/7080988
+https://builtin.com/job/software-developer-2/7354433
 https://builtin.com/job/software-developer-genai-remote-us/7277501
 https://builtin.com/job/software-developer-greenwood-sc-hybrid/7269927
 https://builtin.com/job/software-developer-i/7348701
@@ -479,6 +480,7 @@ https://builtin.com/job/software-developer/7257305
 https://builtin.com/job/software-developer/7280005
 https://builtin.com/job/software-developer/7314216
 https://builtin.com/job/software-developer/7336661
+https://builtin.com/job/software-developer/7354824
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
@@ -641,6 +643,7 @@ https://builtin.com/job/software-solutions-architect-rapidscale/7082287
 https://builtin.com/job/software-support-engineer/7271575
 https://builtin.com/job/software-test-engineer-2/7159961
 https://builtin.com/job/software-test-engineer-i-mobile/7178005
+https://builtin.com/job/software-test-engineer-i-mobile/7354634
 https://builtin.com/job/software-test-engineer-i/7091218
 https://builtin.com/job/software-test-engineer-i/7106408
 https://builtin.com/job/software-verification-engineer-ii-crm/7223324
@@ -696,6 +699,7 @@ https://builtin.com/job/technology-development-program-associate-february-2026/7
 https://builtin.com/job/technology-transformation-manager/7280243
 https://builtin.com/job/teller-40-hours-circle-c/7284804
 https://builtin.com/job/test-automation-architect/7091256
+https://builtin.com/job/test-automation-engineer/7355081
 https://builtin.com/job/test-automation-firmware-engineer/7240587
 https://builtin.com/job/test-development-engineer-i/7210397
 https://builtin.com/job/test-development-engineer/7080496
