@@ -353,6 +353,7 @@ https://builtin.com/job/not-work-study-student-assistant-journalism-bh-c/7128286
 https://builtin.com/job/nuclear-engineer-2026-new-graduate/7077245
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-penetration-testing-remote/7281892
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pentesting-remote/7151647
+https://builtin.com/job/oi-system-engineer/7374131
 https://builtin.com/job/operations-associate-c-shift/7212442
 https://builtin.com/job/operations-automation-analyst/7299322
 https://builtin.com/job/operations-supervisor-integration-mechanisms/7314631
@@ -743,6 +744,7 @@ https://builtin.com/job/us-software-engineer-iii-r37/7271015
 https://builtin.com/job/v2x-test-and-development-engineer/7302826
 https://builtin.com/job/web-app-pen-tester/7100182
 https://builtin.com/job/web-application-developer-ts-sci-poly/7160298
+https://builtin.com/job/web-applications-developer/7374548
 https://builtin.com/job/web-developer/7171594
 https://builtin.com/job/x-developer-levridge/7183624
 https://builtin.com/job/yard-jockey-non-cdl/7247221
