@@ -37,6 +37,7 @@ https://builtin.com/job/associate-client-services-software-engineer-c/7151278
 https://builtin.com/job/associate-director-business-systems-analysis/7244996
 https://builtin.com/job/associate-director-sales-engineering/7162626
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
+https://builtin.com/job/associate-manager-financial-services-operations-support/7379580
 https://builtin.com/job/associate-manager-hedge-fund-accounting-east-coast-region/7261486
 https://builtin.com/job/associate-manager-middle-office-operations/7373093
 https://builtin.com/job/associate-manager-operations/7212104
@@ -118,6 +119,7 @@ https://builtin.com/job/cam-development-engineer/7198257
 https://builtin.com/job/casting-operator/7191437
 https://builtin.com/job/casual-mobile-free-play-unity-game-programmer/7284654
 https://builtin.com/job/cema-senior-software-engineer/7142091
+https://builtin.com/job/claims-examiner/7379634
 https://builtin.com/job/cleared-onsite-software-engineer-pending-award/7172693
 https://builtin.com/job/client-manager-p-c-accounts/7269713
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
@@ -664,6 +666,7 @@ https://builtin.com/job/software-engineer/7372606
 https://builtin.com/job/software-engineer/7372608
 https://builtin.com/job/software-engineer/7372619
 https://builtin.com/job/software-engineer/7372620
+https://builtin.com/job/software-engineer/7380317
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
