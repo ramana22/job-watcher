@@ -83,6 +83,7 @@ https://builtin.com/job/backend-net-developer/7175214
 https://builtin.com/job/backend-software-engineer/7321389
 https://builtin.com/job/backhauler-unloader-hourly/7297373
 https://builtin.com/job/backhauler-unloader/7289899
+https://builtin.com/job/backhauler-unloader/7386334
 https://builtin.com/job/battery-lab-systems-integration-engineer/7249944
 https://builtin.com/job/bi-sr-analyst/7119841
 https://builtin.com/job/bi-sr-analyst/7165333
@@ -260,6 +261,7 @@ https://builtin.com/job/hedge-fund-representative-associate/7222641
 https://builtin.com/job/icqa-specialist/7220840
 https://builtin.com/job/implementation-specialist/7199893
 https://builtin.com/job/implementation-specialist/7200033
+https://builtin.com/job/inbound-safety-and-quality-logistics-analyst/7388327
 https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
 https://builtin.com/job/industry-solutions-consultant-remote-central-eastern-time-zone-preference/7368798
 https://builtin.com/job/industry-x-mes-siemens-opcenter-associate-manager-manager/7385015
@@ -274,6 +276,7 @@ https://builtin.com/job/internship-customer-success-software-engineer-summer-202
 https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/intrusion-analyst-3-ccas-accepted/7176637
 https://builtin.com/job/ios-native-sdet/7329293
+https://builtin.com/job/it-associate-developer-june-2026/7386498
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
 https://builtin.com/job/it-intern/7074408
 https://builtin.com/job/it-performance-testing-analyst/7237624
@@ -626,6 +629,7 @@ https://builtin.com/job/software-engineer-new-college-grad-2026/7076239
 https://builtin.com/job/software-engineer-new-college-grad-2026/7076261
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091579
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091585
+https://builtin.com/job/software-engineer-onsite/7386424
 https://builtin.com/job/software-engineer-platform/7080676
 https://builtin.com/job/software-engineer-platform/7080679
 https://builtin.com/job/software-engineer-quantitative/7271644
