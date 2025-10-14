@@ -262,6 +262,7 @@ https://builtin.com/job/implementation-specialist/7199893
 https://builtin.com/job/implementation-specialist/7200033
 https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
 https://builtin.com/job/industry-solutions-consultant-remote-central-eastern-time-zone-preference/7368798
+https://builtin.com/job/industry-x-mes-siemens-opcenter-associate-manager-manager/7385015
 https://builtin.com/job/infrastructure-engineer-remote/7225409
 https://builtin.com/job/infrastructure-engineer/7122441
 https://builtin.com/job/insurance-solutions-specialist/7198459
@@ -373,6 +374,7 @@ https://builtin.com/job/pasting-operator-i/7204204
 https://builtin.com/job/paswopsreplbauon390-technical-services-administrator/7130551
 https://builtin.com/job/penetration-tester-associate-vice-president/7271023
 https://builtin.com/job/personal-banker-northern-lights-and-c-street/7165452
+https://builtin.com/job/personal-lines-sales-producer-p-c-insurance/7385344
 https://builtin.com/job/platform-engineer-cloud-platform-net-azure-kubernetes/7313284
 https://builtin.com/job/platform-professional-services-analyst-remote/7321596
 https://builtin.com/job/policy-analyst-c-uxs/7200379
@@ -413,6 +415,7 @@ https://builtin.com/job/r-d-software-developer-transformers/7214043
 https://builtin.com/job/range-air-traffic-controller-ratc-c/7262604
 https://builtin.com/job/risk-quantitative-analyst-allowance-credit-loss/7334639
 https://builtin.com/job/sales-engineer/7370455
+https://builtin.com/job/sde-ii-backend/7385579
 https://builtin.com/job/sdet/7248666
 https://builtin.com/job/security-engineer-iii-saas-intelligence/7183476
 https://builtin.com/job/security-operations-center-engineer/7091122
