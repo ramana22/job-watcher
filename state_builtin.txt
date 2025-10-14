@@ -34,6 +34,7 @@ https://builtin.com/job/associate-account-manager/7267639
 https://builtin.com/job/associate-accounting-analyst-accounting-finance-graduates-2026/7159246
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-client-services-software-engineer-c/7151278
+https://builtin.com/job/associate-data-scientist/7381899
 https://builtin.com/job/associate-director-business-systems-analysis/7244996
 https://builtin.com/job/associate-director-sales-engineering/7162626
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
@@ -227,10 +228,13 @@ https://builtin.com/job/fta-unloader-days/7198164
 https://builtin.com/job/full-case-order-selector/7137193
 https://builtin.com/job/full-stack-application-developer/7120025
 https://builtin.com/job/full-stack-application-developer/7282110
+https://builtin.com/job/full-stack-developer-associate-investor-portal/7381722
 https://builtin.com/job/full-stack-developer-computer-engineer-ii/7249215
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
 https://builtin.com/job/full-stack-developer-safe-agile-experience/7176636
+https://builtin.com/job/full-stack-developer-safe-agile-experience/7380508
 https://builtin.com/job/full-stack-developer/7234314
+https://builtin.com/job/full-stack-developer/7380877
 https://builtin.com/job/full-stack-engineer-net/7266264
 https://builtin.com/job/full-stack-engineer-technical-services-c/7322849
 https://builtin.com/job/full-stack-engineer/7207108
@@ -418,6 +422,7 @@ https://builtin.com/job/senior-associate-fund-accounting-private-markets-west-co
 https://builtin.com/job/senior-associate-fund-accounting/7169708
 https://builtin.com/job/senior-associate-hedge-fund-accounting/7261490
 https://builtin.com/job/senior-associate-private-equity-accounting-east-coast-region/7243806
+https://builtin.com/job/senior-associate-private-equity-accounting/7381647
 https://builtin.com/job/senior-associate-private-markets/7212102
 https://builtin.com/job/senior-associate-private-markets/7282476
 https://builtin.com/job/senior-associate/7161481
