@@ -319,6 +319,7 @@ https://builtin.com/job/junior-software-engineer-remote/7103959
 https://builtin.com/job/lead-business-systems-analysis/7246494
 https://builtin.com/job/lead-engineer-hybrid/7264645
 https://builtin.com/job/lead-engineer-systems-engineering/7223327
+https://builtin.com/job/lead-engineer/7398755
 https://builtin.com/job/lead-security-engineer-automation/7069076
 https://builtin.com/job/lead-services-specialist-digital-customer-support-eng/7194764
 https://builtin.com/job/lead-software-developer/7077530
@@ -714,6 +715,7 @@ https://builtin.com/job/software-test-engineer-i-mobile/7178005
 https://builtin.com/job/software-test-engineer-i-mobile/7354634
 https://builtin.com/job/software-test-engineer-i/7091218
 https://builtin.com/job/software-test-engineer-i/7106408
+https://builtin.com/job/software-tester/7398269
 https://builtin.com/job/software-verification-engineer-ii-crm/7223324
 https://builtin.com/job/solutions-engineer-auth0/7209301
 https://builtin.com/job/solutions-engineering-post-sales-remote/7282844
