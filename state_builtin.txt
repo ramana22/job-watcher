@@ -41,6 +41,7 @@ https://builtin.com/job/associate-director-business-systems-analysis/7244996
 https://builtin.com/job/associate-director-sales-engineering/7162626
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
 https://builtin.com/job/associate-manager-financial-services-operations-support/7379580
+https://builtin.com/job/associate-manager-fund-accounting-lh-bpo/7396143
 https://builtin.com/job/associate-manager-hedge-fund-accounting-east-coast-region/7261486
 https://builtin.com/job/associate-manager-middle-office-operations/7373093
 https://builtin.com/job/associate-manager-operations/7212104
@@ -163,6 +164,7 @@ https://builtin.com/job/data-engineer-i/7344275
 https://builtin.com/job/data-engineer-ii/7330275
 https://builtin.com/job/data-engineer-ii/7344262
 https://builtin.com/job/data-engineer/7359479
+https://builtin.com/job/data-integration-developer/7395261
 https://builtin.com/job/data-integration-engineer/7174551
 https://builtin.com/job/data-integration-engineer/7269494
 https://builtin.com/job/data-scientist/7163685
@@ -177,6 +179,7 @@ https://builtin.com/job/developer-agentic-process-automation/7222755
 https://builtin.com/job/developer-iv-onbase-c-cgs-administrators-llc-nashville-tn/7247155
 https://builtin.com/job/developer-junior-consultant/7244700
 https://builtin.com/job/devops-analyst/7314675
+https://builtin.com/job/devops-engineer/7395258
 https://builtin.com/job/digital-rotational-program-associate/7070223
 https://builtin.com/job/digital-twin-analyst/7246971
 https://builtin.com/job/director-product-management-risk-platform/7085429
@@ -767,6 +770,7 @@ https://builtin.com/job/technology-apprentice/7126054
 https://builtin.com/job/technology-development-program-associate-february-2026/7086868
 https://builtin.com/job/technology-transformation-manager/7280243
 https://builtin.com/job/teller-40-hours-circle-c/7284804
+https://builtin.com/job/territory-specialist-personal-lines-p-c-insurance/7394659
 https://builtin.com/job/test-automation-architect/7091256
 https://builtin.com/job/test-automation-engineer/7355081
 https://builtin.com/job/test-automation-firmware-engineer/7240587
