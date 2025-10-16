@@ -79,6 +79,7 @@ https://builtin.com/job/automation-engineer-iii/7123691
 https://builtin.com/job/automation-engineer/7137854
 https://builtin.com/job/automation-engineer/7244502
 https://builtin.com/job/automation-engineer/7326435
+https://builtin.com/job/automation-engineer/7409285
 https://builtin.com/job/automation-software-engineer/7229919
 https://builtin.com/job/awesome-full-stack-software-engineer-jr-mid-levels-2-years-experience/7187583
 https://builtin.com/job/azure-ai-apps-architect/7221640
@@ -609,6 +610,7 @@ https://builtin.com/job/software-engineer-i/7078452
 https://builtin.com/job/software-engineer-i/7122178
 https://builtin.com/job/software-engineer-i/7250014
 https://builtin.com/job/software-engineer-i/7294249
+https://builtin.com/job/software-engineer-i/7408967
 https://builtin.com/job/software-engineer-ii-ai/7405713
 https://builtin.com/job/software-engineer-ii-ai/7405723
 https://builtin.com/job/software-engineer-ii-backend-platform/7287475
