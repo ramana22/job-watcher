@@ -176,6 +176,7 @@ https://builtin.com/job/data-engineer/7359479
 https://builtin.com/job/data-integration-developer/7395261
 https://builtin.com/job/data-integration-engineer/7174551
 https://builtin.com/job/data-integration-engineer/7269494
+https://builtin.com/job/data-platform-developer-c/7411108
 https://builtin.com/job/data-scientist/7163685
 https://builtin.com/job/data-scientist/7247421
 https://builtin.com/job/deploy-software-engineer/7103991
@@ -541,6 +542,8 @@ https://builtin.com/job/software-developer-net/7188587
 https://builtin.com/job/software-developer-net/7188683
 https://builtin.com/job/software-developer-web/7107192
 https://builtin.com/job/software-developer-web/7107208
+https://builtin.com/job/software-developer-web/7410408
+https://builtin.com/job/software-developer-web/7410475
 https://builtin.com/job/software-developer/7076670
 https://builtin.com/job/software-developer/7114000
 https://builtin.com/job/software-developer/7119183
