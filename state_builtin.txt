@@ -27,8 +27,10 @@ https://builtin.com/job/application-developer/7112639
 https://builtin.com/job/application-developer/7112642
 https://builtin.com/job/application-developer/7405974
 https://builtin.com/job/application-developer/7419475
+https://builtin.com/job/application-developer/7424638
 https://builtin.com/job/application-infrastructure-developer/7160069
 https://builtin.com/job/application-support-developer/7140512
+https://builtin.com/job/application-support/7426352
 https://builtin.com/job/assistant-chief-engineer-c/7185857
 https://builtin.com/job/assistant-deli-manager/7312949
 https://builtin.com/job/assistant-embedded-software-engineer/7400267
@@ -43,6 +45,7 @@ https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-client-services-software-engineer-c/7151278
 https://builtin.com/job/associate-data-scientist/7381899
 https://builtin.com/job/associate-director-business-systems-analysis/7244996
+https://builtin.com/job/associate-director-index-quantitative-analyst-global-markets/7426071
 https://builtin.com/job/associate-director-sales-engineering/7162626
 https://builtin.com/job/associate-game-designer-technical-contingent/7104039
 https://builtin.com/job/associate-manager-financial-services-operations-support/7379580
@@ -91,6 +94,11 @@ https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226292
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226361
 https://builtin.com/job/backend-engineer-rider-account/7251135
 https://builtin.com/job/backend-net-developer/7175214
+https://builtin.com/job/backend-software-engineer-java-springboot/7425336
+https://builtin.com/job/backend-software-engineer-java-springboot/7425341
+https://builtin.com/job/backend-software-engineer-java-springboot/7425343
+https://builtin.com/job/backend-software-engineer-java-springboot/7425347
+https://builtin.com/job/backend-software-engineer-java-springboot/7425351
 https://builtin.com/job/backend-software-engineer/7321389
 https://builtin.com/job/backhauler-unloader-hourly/7297373
 https://builtin.com/job/backhauler-unloader/7289899
@@ -524,6 +532,7 @@ https://builtin.com/job/senior-software-engineer/7244668
 https://builtin.com/job/senior-software-engineer/7349737
 https://builtin.com/job/senior-software-engineer/7416388
 https://builtin.com/job/senior-software-engineer/7416392
+https://builtin.com/job/senior-software-engineer/7425256
 https://builtin.com/job/senior-software-engineering-support/7096600
 https://builtin.com/job/senior-solutions-architects-atlas-stream-processing/7091277
 https://builtin.com/job/senior-solutions-integration-architect-736/7079522
@@ -602,6 +611,7 @@ https://builtin.com/job/software-engineer-2026-new-graduate/7077259
 https://builtin.com/job/software-engineer-3-cloud-intel/7198420
 https://builtin.com/job/software-engineer-3/7210462
 https://builtin.com/job/software-engineer-account-management/7303251
+https://builtin.com/job/software-engineer-accounting/7425985
 https://builtin.com/job/software-engineer-ai-systems/7212299
 https://builtin.com/job/software-engineer-ai-systems/7212838
 https://builtin.com/job/software-engineer-apps-i/7129197
@@ -639,6 +649,9 @@ https://builtin.com/job/software-engineer-ii-ai/7405723
 https://builtin.com/job/software-engineer-ii-backend-platform/7287475
 https://builtin.com/job/software-engineer-ii-c-net/7096906
 https://builtin.com/job/software-engineer-ii-c-python/7283382
+https://builtin.com/job/software-engineer-ii-java-retail/7427250
+https://builtin.com/job/software-engineer-ii-java-retail/7427252
+https://builtin.com/job/software-engineer-ii-java-retail/7427258
 https://builtin.com/job/software-engineer-ii-net/7139773
 https://builtin.com/job/software-engineer-ii-north-american-sports/7276316
 https://builtin.com/job/software-engineer-ii-north-american-sports/7276318
@@ -756,6 +769,7 @@ https://builtin.com/job/software-engineer/7404157
 https://builtin.com/job/software-engineer/7406599
 https://builtin.com/job/software-engineer/7411484
 https://builtin.com/job/software-engineer/7416025
+https://builtin.com/job/software-engineer/7426675
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
@@ -807,6 +821,7 @@ https://builtin.com/job/stop-loss-filing-coordinator/7390094
 https://builtin.com/job/summer-2026-internship-nuclear-engineer/7078082
 https://builtin.com/job/support-engineer/7101611
 https://builtin.com/job/sustainability-specialist-analytics/7236470
+https://builtin.com/job/system-engineer-i/7427239
 https://builtin.com/job/system-software-development-engineer/7303186
 https://builtin.com/job/systems-administrator-ii/7125521
 https://builtin.com/job/systems-engineer/7287237
