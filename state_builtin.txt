@@ -8,6 +8,7 @@ https://builtin.com/job/acp-generalist-dayshift/7392391
 https://builtin.com/job/actuarial-sr-analyst-p-c/7244765
 https://builtin.com/job/advanced-software-engineer/7122414
 https://builtin.com/job/ai-developer-ui-ux-frontend-owner-incl-chatbots-voice-bots-api-platform-integration/7392159
+https://builtin.com/job/ai-developer/7429889
 https://builtin.com/job/ai-engineer/7372655
 https://builtin.com/job/ai-ml-engineer/7111989
 https://builtin.com/job/ai-operations-engineer/7344578
@@ -304,6 +305,7 @@ https://builtin.com/job/grain-elevator-operator-c-s-grains-camilla-ga/7269683
 https://builtin.com/job/graphql-net-engineer-w2-role/7190188
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
 https://builtin.com/job/hedge-fund-representative-associate/7222641
+https://builtin.com/job/hubspot-integrations-developer/7429892
 https://builtin.com/job/icqa-specialist/7220840
 https://builtin.com/job/implementation-specialist/7199893
 https://builtin.com/job/implementation-specialist/7200033
@@ -386,6 +388,7 @@ https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/microsoft-net-software-developer/7151498
 https://builtin.com/job/mid-level-backend-engineer/7366367
 https://builtin.com/job/mid-level-full-stack-developer/7182307
+https://builtin.com/job/mid-level-software-developer-net/7429890
 https://builtin.com/job/mid-level-software-developer/7330473
 https://builtin.com/job/mid-level-software-engineer/7314999
 https://builtin.com/job/mid-level-software-engineer/7315002
