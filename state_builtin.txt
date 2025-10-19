@@ -801,6 +801,7 @@ https://builtin.com/job/software-test-engineer-i/7106408
 https://builtin.com/job/software-test-engineer/7428723
 https://builtin.com/job/software-tester/7398269
 https://builtin.com/job/software-verification-engineer-ii-crm/7223324
+https://builtin.com/job/solution-architect/7430679
 https://builtin.com/job/solutions-engineer-auth0/7209301
 https://builtin.com/job/solutions-engineering-post-sales-remote/7282844
 https://builtin.com/job/solutions-engineering-pre-sales-remote/7175121
