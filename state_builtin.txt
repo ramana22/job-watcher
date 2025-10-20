@@ -213,6 +213,7 @@ https://builtin.com/job/digital-twin-analyst/7246971
 https://builtin.com/job/director-product-management-risk-platform/7085429
 https://builtin.com/job/dynamics-365-developer-remote-opportunity/7272393
 https://builtin.com/job/dynamics-365-f-o-technical-solution-engineer/7175464
+https://builtin.com/job/ecornell-salesforce-developer-remote/7431133
 https://builtin.com/job/edi-software-engineer/7077347
 https://builtin.com/job/editor-software-developer-liveops-developer-experience/7345894
 https://builtin.com/job/embedded-software-engineer/7290861
@@ -792,6 +793,7 @@ https://builtin.com/job/software-quality-assurance-engineer/7390006
 https://builtin.com/job/software-quality-engineer/7292823
 https://builtin.com/job/software-research-engineer/7259955
 https://builtin.com/job/software-solutions-architect-rapidscale/7082287
+https://builtin.com/job/software-support-analyst/7431093
 https://builtin.com/job/software-support-engineer/7271575
 https://builtin.com/job/software-test-engineer-2/7159961
 https://builtin.com/job/software-test-engineer-i-mobile/7178005
