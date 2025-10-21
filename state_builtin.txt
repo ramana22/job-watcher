@@ -149,6 +149,7 @@ https://builtin.com/job/c-software-engineer-dayton/7313009
 https://builtin.com/job/c-software-engineer-dc-nova/7313006
 https://builtin.com/job/c-software-engineer-ii-arcgis-geocoding/7223808
 https://builtin.com/job/c-software-engineer/7126317
+https://builtin.com/job/c-software-engineer/7441370
 https://builtin.com/job/cam-development-engineer/7198257
 https://builtin.com/job/casting-operator/7191437
 https://builtin.com/job/casual-mobile-free-play-unity-game-programmer/7284654
@@ -766,6 +767,7 @@ https://builtin.com/job/software-engineer-test/7366845
 https://builtin.com/job/software-engineer-third-party-integrations/7424250
 https://builtin.com/job/software-engineer-ts-sci-required-consent-obtain-ci/7344982
 https://builtin.com/job/software-engineer-underwriting/7136509
+https://builtin.com/job/software-engineer-us-remote/7441692
 https://builtin.com/job/software-engineer-voice-ai-agent/7310937
 https://builtin.com/job/software-engineer/7076501
 https://builtin.com/job/software-engineer/7090535
