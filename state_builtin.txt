@@ -120,6 +120,7 @@ https://builtin.com/job/build-programmer/7342599
 https://builtin.com/job/build-programmer/7342604
 https://builtin.com/job/business-analyst-platform-support/7431263
 https://builtin.com/job/business-development-representative-p-c-group-captives-southeast/7433402
+https://builtin.com/job/business-development-specialist-managed-accounts/7440154
 https://builtin.com/job/business-intelligence-analyst-intermediate-level/7302822
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/business-project-analyst/7175058
@@ -155,6 +156,7 @@ https://builtin.com/job/cema-senior-software-engineer/7142091
 https://builtin.com/job/claims-examiner/7379634
 https://builtin.com/job/cleared-onsite-software-engineer-pending-award/7172693
 https://builtin.com/job/client-manager-p-c-accounts/7269713
+https://builtin.com/job/client-success-coordinator-managed-accounts/7440152
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-operations-developer/7114938
