@@ -719,6 +719,7 @@ https://builtin.com/job/software-engineer-ii/7332669
 https://builtin.com/job/software-engineer-ii/7339440
 https://builtin.com/job/software-engineer-ii/7416979
 https://builtin.com/job/software-engineer-ii/7427964
+https://builtin.com/job/software-engineer-ii/7443979
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c/7126915
@@ -816,6 +817,9 @@ https://builtin.com/job/software-engineer/7426675
 https://builtin.com/job/software-engineer/7433207
 https://builtin.com/job/software-engineer/7433516
 https://builtin.com/job/software-engineer/7436152
+https://builtin.com/job/software-engineer/7443856
+https://builtin.com/job/software-engineer/7443876
+https://builtin.com/job/software-engineer/7444435
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
