@@ -495,6 +495,7 @@ https://builtin.com/job/product-engineer-i-gis-applications-desktop-web/7210204
 https://builtin.com/job/product-engineer-ii-data-reviewer/7187600
 https://builtin.com/job/product-engineer-ii-generative-ai-assistants-arcgis-pro/7173514
 https://builtin.com/job/product-engineer-ii-geocoding-data-engineering-and-automation/7347341
+https://builtin.com/job/product-support-engineer/7455085
 https://builtin.com/job/programmer-analyst/7138059
 https://builtin.com/job/programmer-ii-full-stack-software-developer/7399414
 https://builtin.com/job/programmer-ii/7368064
@@ -776,6 +777,7 @@ https://builtin.com/job/software-engineer-quantitative/7271644
 https://builtin.com/job/software-engineer-quantitative/7271647
 https://builtin.com/job/software-engineer-recent-graduate-hybrid-norcross-ga/7302464
 https://builtin.com/job/software-engineer-reliability/7337240
+https://builtin.com/job/software-engineer-research-development/7453846
 https://builtin.com/job/software-engineer-research-systems/7164868
 https://builtin.com/job/software-engineer-ruby-rails/7449519
 https://builtin.com/job/software-engineer-senior-software-engineer/7338921
