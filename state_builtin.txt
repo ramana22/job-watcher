@@ -335,6 +335,7 @@ https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7199407
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7200373
 https://builtin.com/job/general-assembly-virtual-engineer/7165196
 https://builtin.com/job/general-interest-backend-engineer/7255832
+https://builtin.com/job/gis-analyst-consultant-remote/7466714
 https://builtin.com/job/graduate-c-software-engineer/7207731
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/grain-elevator-operator-c-s-grains-camilla-ga/7269683
@@ -364,6 +365,7 @@ https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/intrusion-analyst-3-ccas-accepted/7176637
 https://builtin.com/job/intrusion-analyst-3/7444784
 https://builtin.com/job/investment-analyst/7457870
+https://builtin.com/job/investran-funds-services-systems-analyst/7466724
 https://builtin.com/job/ios-native-sdet/7329293
 https://builtin.com/job/it-associate-developer-june-2026/7386498
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
@@ -573,6 +575,7 @@ https://builtin.com/job/senior-net-developer-ai-product/7068625
 https://builtin.com/job/senior-net-software-developer/7348674
 https://builtin.com/job/senior-principal-software-engineer/7077230
 https://builtin.com/job/senior-robotics-engineer-perception/7315204
+https://builtin.com/job/senior-software-developer-net/7466769
 https://builtin.com/job/senior-software-engineer-backend-net/7083593
 https://builtin.com/job/senior-software-engineer-backend/7251043
 https://builtin.com/job/senior-software-engineer-backend/7282658
