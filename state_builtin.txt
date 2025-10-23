@@ -287,6 +287,7 @@ https://builtin.com/job/financial-engineer/7271036
 https://builtin.com/job/financial-operations-analyst-pa-lo-ax-q2-1/7334366
 https://builtin.com/job/financial-operations-consulting-support-analyst-pa-dsr-q4-3/7195531
 https://builtin.com/job/firmware-engineer/7327058
+https://builtin.com/job/firmware-engineer/7464260
 https://builtin.com/job/firmware-intern/7091645
 https://builtin.com/job/founding-engineer-relocate-uk/7342097
 https://builtin.com/job/founding-software-engineer-healthcare/7416347
@@ -311,6 +312,7 @@ https://builtin.com/job/full-stack-developer-safe-agile-experience/7380508
 https://builtin.com/job/full-stack-developer-ui-ux-expertise/7445419
 https://builtin.com/job/full-stack-developer/7234314
 https://builtin.com/job/full-stack-developer/7380877
+https://builtin.com/job/full-stack-engineer-net-react/7464612
 https://builtin.com/job/full-stack-engineer-net/7266264
 https://builtin.com/job/full-stack-engineer-technical-services-c/7322849
 https://builtin.com/job/full-stack-engineer/7207108
@@ -796,6 +798,7 @@ https://builtin.com/job/software-engineer-reliability/7337240
 https://builtin.com/job/software-engineer-research-development/7453846
 https://builtin.com/job/software-engineer-research-systems/7164868
 https://builtin.com/job/software-engineer-ruby-rails/7449519
+https://builtin.com/job/software-engineer-sales-development/7464564
 https://builtin.com/job/software-engineer-senior-software-engineer/7338921
 https://builtin.com/job/software-engineer-serviceability/7079620
 https://builtin.com/job/software-engineer-support/7243835
