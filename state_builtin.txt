@@ -84,6 +84,7 @@ https://builtin.com/job/associate-software-engineer/7173207
 https://builtin.com/job/associate-software-engineer/7230467
 https://builtin.com/job/associate-software-engineer/7269212
 https://builtin.com/job/associate-solutions-analyst/7433522
+https://builtin.com/job/associate-solutions-analyst/7476874
 https://builtin.com/job/associate-staff-accountant/7195313
 https://builtin.com/job/associate-systems-engineer/7111412
 https://builtin.com/job/associate-technology/7108930
@@ -186,6 +187,7 @@ https://builtin.com/job/core-development-program/7071302
 https://builtin.com/job/cos-operator-i/7140150
 https://builtin.com/job/cos-operator-i/7191439
 https://builtin.com/job/cos-operator-i/7204206
+https://builtin.com/job/cos-operator-i/7476950
 https://builtin.com/job/cos-operator/7305371
 https://builtin.com/job/customer-account-specialist/7137194
 https://builtin.com/job/customer-authentication-engineer-site-birmingham-al-or-atlanta-ga/7091426
@@ -280,6 +282,7 @@ https://builtin.com/job/entry-level-software-engineer-labs/7312031
 https://builtin.com/job/entry-level-software-engineer/7101125
 https://builtin.com/job/entry-level-software-engineer/7456438
 https://builtin.com/job/etl-developer-lead-consultant/7390415
+https://builtin.com/job/executive-assistant-c-suite/7478519
 https://builtin.com/job/exhibitions-creative-engineer-project-based-role/7350718
 https://builtin.com/job/experienced-c-software-engineer/7207728
 https://builtin.com/job/experienced-class-yard-switcher-hostler/7206517
@@ -335,6 +338,7 @@ https://builtin.com/job/full-stack-software-developer/7185380
 https://builtin.com/job/full-stack-software-developer/7399434
 https://builtin.com/job/full-stack-software-engineer-c-net-typescript-sql-fhir-api-devlopment/7369731
 https://builtin.com/job/full-stack-software-engineer/7238081
+https://builtin.com/job/full-stack-software-engineer/7476854
 https://builtin.com/job/full-stack-software-test-engineer/7290881
 https://builtin.com/job/fullstack-developer/7427939
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
@@ -781,6 +785,7 @@ https://builtin.com/job/software-engineer-iii/7139373
 https://builtin.com/job/software-engineer-iii/7145722
 https://builtin.com/job/software-engineer-iii/7149162
 https://builtin.com/job/software-engineer-iii/7313787
+https://builtin.com/job/software-engineer-iv/7478213
 https://builtin.com/job/software-engineer-lead-net-asp-mvc-blazor/7250529
 https://builtin.com/job/software-engineer-microsoft-azure-technologies/7136645
 https://builtin.com/job/software-engineer-mr/7303396
