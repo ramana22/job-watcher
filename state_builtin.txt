@@ -910,6 +910,7 @@ https://builtin.com/job/sr-engineer-it-mfg-tpg/7407618
 https://builtin.com/job/sr-net-developer/7087703
 https://builtin.com/job/sr-react-developer/7083737
 https://builtin.com/job/sr-site-reliability-engineer-talent-day/7449636
+https://builtin.com/job/sr-software-development-engineer-test/7471217
 https://builtin.com/job/sr-software-engineer-fullstack/7210871
 https://builtin.com/job/sr-software-engineer-go-java-react-microservices-kubernetes/7271387
 https://builtin.com/job/sr-software-engineer-net/7073992
