@@ -287,6 +287,8 @@ https://builtin.com/job/entry-level-software-engineer-application-ripplematch/73
 https://builtin.com/job/entry-level-software-engineer-labs/7312031
 https://builtin.com/job/entry-level-software-engineer/7101125
 https://builtin.com/job/entry-level-software-engineer/7456438
+https://builtin.com/job/epic-client-systems-administrator-application-ripplematch/7484800
+https://builtin.com/job/epic-software-developer-application-ripplematch/7484799
 https://builtin.com/job/etl-developer-lead-consultant/7390415
 https://builtin.com/job/executive-assistant-c-suite/7478519
 https://builtin.com/job/exhibitions-creative-engineer-project-based-role/7350718
@@ -423,6 +425,7 @@ https://builtin.com/job/junior-software-engineer-ai-agents/7122849
 https://builtin.com/job/junior-software-engineer-ai-agents/7122854
 https://builtin.com/job/junior-software-engineer-remote/7103959
 https://builtin.com/job/junior-software-engineer/7411478
+https://builtin.com/job/junior-software-engineer/7484591
 https://builtin.com/job/l4-software-engineer-c-spectacles/7438259
 https://builtin.com/job/lead-business-systems-analysis/7246494
 https://builtin.com/job/lead-engineer-hybrid/7264645
