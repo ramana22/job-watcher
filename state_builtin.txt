@@ -54,6 +54,7 @@ https://builtin.com/job/assistant-manager-turkey-creek-s-c/7314147
 https://builtin.com/job/associate-account-executive-p-c-account-manager/7437945
 https://builtin.com/job/associate-account-manager/7267639
 https://builtin.com/job/associate-accounting-analyst-accounting-finance-graduates-2026/7159246
+https://builtin.com/job/associate-accounting-analyst/7490502
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-client-services-software-engineer-c/7151278
 https://builtin.com/job/associate-data-scientist/7381899
@@ -265,6 +266,7 @@ https://builtin.com/job/engineer-ii-software/7200266
 https://builtin.com/job/engineer-ii/7313959
 https://builtin.com/job/engineer-ii/7469360
 https://builtin.com/job/engineer-test-automation/7482110
+https://builtin.com/job/engineer-vehicle-ee-system-validation/7489854
 https://builtin.com/job/engineering-manager-specialties/7366184
 https://builtin.com/job/enshadow-software-engineer/7289951
 https://builtin.com/job/enterprise-architect-hospitality-solutions/7088741
@@ -311,6 +313,7 @@ https://builtin.com/job/founding-software-engineer-healthcare/7416347
 https://builtin.com/job/foundry-automation-software-application-engineer/7434676
 https://builtin.com/job/foundry-automation-software-application-engineer/7434680
 https://builtin.com/job/freezer-hi-lo-dayshift/7350254
+https://builtin.com/job/freezer-loader/7490510
 https://builtin.com/job/front-end-engineer/7402131
 https://builtin.com/job/front-end-software-developer/7423287
 https://builtin.com/job/fta-generalist-dayshift/7433351
@@ -755,6 +758,7 @@ https://builtin.com/job/software-engineer-i/7122178
 https://builtin.com/job/software-engineer-i/7250014
 https://builtin.com/job/software-engineer-i/7294249
 https://builtin.com/job/software-engineer-i/7408967
+https://builtin.com/job/software-engineer-identity-access-management-iam/7489082
 https://builtin.com/job/software-engineer-ii-ai/7405713
 https://builtin.com/job/software-engineer-ii-ai/7405723
 https://builtin.com/job/software-engineer-ii-backend-platform/7287475
