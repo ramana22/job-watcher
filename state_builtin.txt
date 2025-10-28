@@ -44,6 +44,7 @@ https://builtin.com/job/application-developer/7419475
 https://builtin.com/job/application-developer/7424638
 https://builtin.com/job/application-development-senior-consultant-business-transformation/7427418
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
+https://builtin.com/job/application-engineer-remote-us-based-candidates/7504636
 https://builtin.com/job/application-engineer/7448803
 https://builtin.com/job/application-infrastructure-developer/7160069
 https://builtin.com/job/application-support-developer/7140512
@@ -113,6 +114,10 @@ https://builtin.com/job/automation-engineer/7326435
 https://builtin.com/job/automation-engineer/7409285
 https://builtin.com/job/automation-software-engineer/7229919
 https://builtin.com/job/awesome-full-stack-software-engineer-jr-mid-levels-2-years-experience/7187583
+https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504709
+https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504717
+https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504722
+https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504725
 https://builtin.com/job/azure-ai-apps-architect/7221640
 https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/back-office-software-developer/7416828
@@ -249,10 +254,12 @@ https://builtin.com/job/developer-agentic-process-automation/7222745
 https://builtin.com/job/developer-agentic-process-automation/7222755
 https://builtin.com/job/developer-iv-onbase-c-cgs-administrators-llc-nashville-tn/7247155
 https://builtin.com/job/developer-junior-consultant/7244700
+https://builtin.com/job/developer-relations-technical-solutions-engineer/7502730
 https://builtin.com/job/devops-analyst/7314675
 https://builtin.com/job/devops-engineer-ii-fintech-commissions-substantiation-hybrid/7470334
 https://builtin.com/job/devops-engineer-ii/7402183
 https://builtin.com/job/devops-engineer/7395258
+https://builtin.com/job/devrel-technical-solutions-engineer/7502709
 https://builtin.com/job/digital-rotational-program-associate/7070223
 https://builtin.com/job/digital-twin-analyst/7246971
 https://builtin.com/job/director-product-management-risk-platform/7085429
@@ -572,6 +579,7 @@ https://builtin.com/job/qa-analyst/7289300
 https://builtin.com/job/qa-automation-engineer/7290762
 https://builtin.com/job/qa-engineer-i-visualization/7123529
 https://builtin.com/job/qa-engineer/7230457
+https://builtin.com/job/qa-engineer/7504255
 https://builtin.com/job/qa-lead/7136577
 https://builtin.com/job/qa-lead/7137175
 https://builtin.com/job/qa-software-engineer-ii/7139775
@@ -824,6 +832,7 @@ https://builtin.com/job/software-engineer-ii/7427964
 https://builtin.com/job/software-engineer-ii/7443979
 https://builtin.com/job/software-engineer-ii/7495549
 https://builtin.com/job/software-engineer-ii/7496857
+https://builtin.com/job/software-engineer-ii/7503698
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c/7126915
@@ -940,6 +949,8 @@ https://builtin.com/job/software-engineer/7492114
 https://builtin.com/job/software-engineer/7492789
 https://builtin.com/job/software-engineer/7492794
 https://builtin.com/job/software-engineer/7500283
+https://builtin.com/job/software-engineer/7503883
+https://builtin.com/job/software-engineer/7503884
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -1050,6 +1061,7 @@ https://builtin.com/job/ux-integration-engineer/7406550
 https://builtin.com/job/ux-integration-engineer/7416317
 https://builtin.com/job/v2x-test-and-development-engineer/7302826
 https://builtin.com/job/visualization-engineer/7447838
+https://builtin.com/job/vulnerability-assessments-automation-developer/7505203
 https://builtin.com/job/web-app-pen-tester/7100182
 https://builtin.com/job/web-application-developer-ts-sci-poly/7160298
 https://builtin.com/job/web-applications-developer/7374548
