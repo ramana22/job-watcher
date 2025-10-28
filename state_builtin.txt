@@ -171,6 +171,7 @@ https://builtin.com/job/c-software-engineer-ii-arcgis-geocoding/7223808
 https://builtin.com/job/c-software-engineer/7126317
 https://builtin.com/job/c-software-engineer/7441370
 https://builtin.com/job/cam-development-engineer/7198257
+https://builtin.com/job/casting-operator-i/7496214
 https://builtin.com/job/casting-operator/7191437
 https://builtin.com/job/casual-mobile-free-play-unity-game-programmer/7284654
 https://builtin.com/job/cema-senior-software-engineer/7142091
@@ -623,6 +624,7 @@ https://builtin.com/job/senior-manager-customer-analytics/7074001
 https://builtin.com/job/senior-net-developer-ai-product/7068625
 https://builtin.com/job/senior-net-software-developer/7348674
 https://builtin.com/job/senior-principal-software-engineer/7077230
+https://builtin.com/job/senior-product-development-analyst-p-c-insurance/7493157
 https://builtin.com/job/senior-robotics-engineer-perception/7315204
 https://builtin.com/job/senior-software-developer-net/7466769
 https://builtin.com/job/senior-software-engineer-backend-net/7083593
@@ -723,6 +725,7 @@ https://builtin.com/job/software-development-engineer-test-sports-platform/73184
 https://builtin.com/job/software-development-engineer-test-verifications/7117075
 https://builtin.com/job/software-development-engineer-test-verifications/7318430
 https://builtin.com/job/software-development-engineer-test/7142910
+https://builtin.com/job/software-development-engineer-test/7496227
 https://builtin.com/job/software-development-engineer/7103044
 https://builtin.com/job/software-development-engineer/7172036
 https://builtin.com/job/software-development-engineer/7209935
