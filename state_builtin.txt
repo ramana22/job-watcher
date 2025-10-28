@@ -43,6 +43,7 @@ https://builtin.com/job/application-developer/7405974
 https://builtin.com/job/application-developer/7419475
 https://builtin.com/job/application-developer/7424638
 https://builtin.com/job/application-development-senior-consultant-business-transformation/7427418
+https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-engineer/7448803
 https://builtin.com/job/application-infrastructure-developer/7160069
 https://builtin.com/job/application-support-developer/7140512
@@ -455,6 +456,7 @@ https://builtin.com/job/lead-software-developer/7077530
 https://builtin.com/job/lead-software-engineer-c-net-angular/7079718
 https://builtin.com/job/lead-software-engineer/7074544
 https://builtin.com/job/lead-specialty-software-engineer/7066744
+https://builtin.com/job/legal-counsel/7500276
 https://builtin.com/job/lender-software-engineer-c-aws/7073982
 https://builtin.com/job/line-trouble-shooter-1-c-t-d/7434416
 https://builtin.com/job/line-trouble-shooter-1-c-t-d/7434425
@@ -502,6 +504,7 @@ https://builtin.com/job/net-developer-maui-contract/7348575
 https://builtin.com/job/net-developer/7100234
 https://builtin.com/job/net-developer/7188669
 https://builtin.com/job/net-developer/7359420
+https://builtin.com/job/net-developer/7500242
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-full-stack-data-engineer/7112486
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
@@ -936,6 +939,7 @@ https://builtin.com/job/software-engineer/7491473
 https://builtin.com/job/software-engineer/7492114
 https://builtin.com/job/software-engineer/7492789
 https://builtin.com/job/software-engineer/7492794
+https://builtin.com/job/software-engineer/7500283
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
