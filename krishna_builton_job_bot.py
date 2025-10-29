@@ -252,10 +252,7 @@ def send_email(subject: str, html_body: str) -> None:
     recipients = [addr.strip() for addr in SMTP["to"].split(",") if addr.strip()]
 
     # Add an extra recipient directly in code (optional)
-    # extra_recipient = "ramana@jobhuntmails.com"
-    if extra_recipient not in recipients:
-        recipients.append(extra_recipient)
-
+ 
     # ✅ Define the message object before using it
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
