@@ -85,7 +85,7 @@ SMTP = {
     "port": int(os.getenv("SMTP_PORT", "587")),  # STARTTLS
     "user": os.getenv("SMTP_USER"),
     "pass": os.getenv("SMTP_PASS"),
-    "to":   os.getenv("MAIL_TO") or os.getenv("EMAIL_TO"),
+    "to":   "Krishnavarma2788@gmail.com",
     "from": os.getenv("MAIL_FROM") or os.getenv("EMAIL_FROM") or os.getenv("SMTP_USER"),
 }
 
@@ -246,13 +246,13 @@ def looks_recent(posted_text: str) -> bool:
     return True
 
 def send_email(subject: str, html_body: str) -> None:
-    if not all([SMTP["host"], SMTP["port"], SMTP["user"], SMTP["pass"], "Krishnavarma2788@gmail.com", SMTP["from"]]):
+    if not all([SMTP["host"], SMTP["port"], SMTP["user"], SMTP["pass"], SMTP["to"], SMTP["from"]]):
         raise RuntimeError("SMTP configuration incomplete (need SMTP_*, MAIL_TO/MAIL_FROM or EMAIL_*).")
 
     recipients = [addr.strip() for addr in SMTP["to"].split(",") if addr.strip()]
 
     # Add an extra recipient directly in code (optional)
-    extra_recipient = "ramana@jobhuntmails.com"
+    # extra_recipient = "ramana@jobhuntmails.com"
     if extra_recipient not in recipients:
         recipients.append(extra_recipient)
 
