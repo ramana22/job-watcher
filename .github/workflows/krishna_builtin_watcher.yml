@@ -1,0 +1,65 @@
+name: BuiltIn Job Watcher
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  builtin-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright (Chromium)
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Initialize Built In state file if missing
+        run: |
+          if [ ! -f krishna_state_builtin.txt ]; then
+            touch krishna_state_builtin.txt
+            echo "Initialized krishna_state_builtin.txt"
+          fi
+
+      - name: Run Built In watcher
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          STATE_FILE: krishna_state_builtin.txt
+          HEADLESS: "1"
+          # Optional:
+          # SEARCH_URLS_JSON: >
+          #   ["https://builtin.com/jobs?search=.NET+Engineer&country=USA&allLocations=true&daysSinceUpdated=1"]
+          # KEYWORDS_JSON: >
+          #   [".NET Engineer","ASP.NET Core","Full Stack .NET"]
+          # DAYS_SINCE_UPDATED: "1"   # or "None"
+          # POSTED_WITHIN_DAYS: "14"
+          # EXP_LEVELS_JSON=["Entry Level","Junior","Mid Level"]
+        run: python krishna_builton_job_bot.py
+
+      - name: Commit Built In state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f krishna_state_builtin.txt
+          git commit -m "chore: update krishna_state_builtin.txt" || echo "No changes to commit"
+          git push
