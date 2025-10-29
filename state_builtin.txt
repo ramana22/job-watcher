@@ -793,6 +793,7 @@ https://builtin.com/job/software-engineer-fullstack/7317579
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
 https://builtin.com/job/software-engineer-hybrid-or-remote/7344015
 https://builtin.com/job/software-engineer-i-applications/7491559
+https://builtin.com/job/software-engineer-i-c/7508227
 https://builtin.com/job/software-engineer-i-mern-aws-net/7320156
 https://builtin.com/job/software-engineer-i-net-node-js-react/7269660
 https://builtin.com/job/software-engineer-i/7078452
