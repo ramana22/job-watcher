@@ -6,18 +6,21 @@ from email.mime.text import MIMEText
 from datetime import datetime
 from dotenv import load_dotenv
 import time
+import random
 
 load_dotenv()
 
 API_URL = "https://hiring.cafe/api/search-jobs"
 STATE_FILE = "state.json"
 
+# One combined search (reduces API hits from 4 → 1)
 SEARCH_KEYWORDS = [
     ".NET Developer",
     "Full Stack .NET",
     "C# Developer",
     "Azure Developer",
 ]
+
 
 # ---------- PAYLOAD TEMPLATE ----------
 BASE_PAYLOAD = {
@@ -37,8 +40,8 @@ BASE_PAYLOAD = {
             "workplace_types": [],
             "options": {"flexible_regions": ["anywhere_in_continent", "anywhere_in_world"]}
         }],
-        # "Simple" or "Time Consuming"
-        "applicationFormEase" : [],
+         # "Simple" or "Time Consuming"
+        "applicationFormEase": [],
         "workplaceTypes": ["Remote", "Hybrid", "Onsite"],
         "commitmentTypes": ["Full Time", "Contract"],
         "seniorityLevel": ["No Prior Experience Required", "Entry Level", "Mid Level"],
@@ -52,11 +55,11 @@ BASE_PAYLOAD = {
 # ---------- STATE MANAGEMENT ----------
 def load_state():
     if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            try:
+        try:
+            with open(STATE_FILE, "r") as f:
                 return set(json.load(f))
-            except json.JSONDecodeError:
-                return set()
+        except Exception:
+            return set()
     return set()
 
 def save_state(seen):
@@ -85,7 +88,8 @@ def send_email(new_jobs):
     <html>
       <body>
         <h3>New HiringCafe Job Listings ({datetime.now().strftime('%Y-%m-%d %H:%M')})</h3>
-        <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; font-family: Arial, sans-serif; font-size: 13px;">
+        <table border="1" cellspacing="0" cellpadding="6" 
+               style="border-collapse: collapse; font-family: Arial, sans-serif; font-size: 13px;">
           <thead>
             <tr style="background-color:#f2f2f2;">
               <th>Job Title</th>
@@ -121,40 +125,50 @@ def fetch_jobs_for_keyword(keyword):
     payload = BASE_PAYLOAD.copy()
     payload["searchState"] = dict(BASE_PAYLOAD["searchState"])
     payload["searchState"]["searchQuery"] = keyword
+
+    # Full browser headers to bypass cloud firewalls
     headers = {
-        "User-Agent": "Mozilla/5.0 (HiringCafeWatcher/1.0; +https://github.com/yourrepo)"
+        "User-Agent": f"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
+        "Accept": "application/json, text/plain, */*",
+        "Referer": "https://hiring.cafe/",
+        "Origin": "https://hiring.cafe",
+        "Connection": "keep-alive"
     }
 
-    max_retries = 3
-    wait = 5
+    proxies = {}
+    if os.getenv("HTTP_PROXY"):
+        proxies = {"https": os.getenv("HTTP_PROXY")}
+
+    max_retries = 5
+    wait = 10
 
     for attempt in range(max_retries):
         try:
-            response = requests.post(API_URL, json=payload, headers=headers, timeout=30)
+            response = requests.post(API_URL, json=payload, headers=headers, timeout=45, proxies=proxies)
             if response.status_code == 429:
-                print(f"⚠️ Rate limited for '{keyword}', waiting {wait}s (attempt {attempt+1}/{max_retries})...")
-                time.sleep(wait)
+                print(f"⚠️ Rate limited, waiting {wait}s (attempt {attempt+1}/{max_retries})...")
+                time.sleep(wait + random.randint(5, 10))
                 wait *= 2
                 continue
             response.raise_for_status()
-            # Parse safely even if JSON header missing
             try:
                 data = response.json()
             except ValueError:
                 data = json.loads(response.text)
             break
         except Exception as e:
-            print(f"❌ Error fetching jobs for {keyword}: {e}")
+            print(f"❌ Error fetching jobs: {e}")
             if attempt < max_retries - 1:
                 time.sleep(wait)
                 wait *= 2
             else:
                 return []
     else:
-        print(f"🚫 Skipping '{keyword}' after repeated errors.")
+        print("🚫 Skipping fetch after repeated errors.")
         return []
 
-    time.sleep(5)  # polite pause before next keyword
+    # Random sleep to mimic human delay
+    time.sleep(random.randint(8, 15))
 
     jobs = []
     for j in data.get("results", []):
@@ -185,7 +199,9 @@ def fetch_jobs_for_keyword(keyword):
             "searchKey": keyword
         })
 
-    print(f"✅ {len(jobs)} jobs fetched for {keyword}")
+
+
+    print(f"✅ {len(jobs)} jobs fetched successfully.")
     return jobs
 
 # ---------- MAIN ----------
