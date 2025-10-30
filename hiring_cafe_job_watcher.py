@@ -123,7 +123,7 @@ def send_email(new_jobs):
 
     # ---- Build Subject ----
     if new_jobs:
-        subject = f"{subject_prefix} {len(new_jobs)} matching role(s)"
+        subject = f"{subject_prefix} {len(new_jobs)} matching role(s) • {datetime.now().strftime('%Y-%m-%d %H:%M')}"
     else:
         subject = "[TEST] HiringCafe Job Watcher SMTP OK"
 
