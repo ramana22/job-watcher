@@ -1,18 +1,35 @@
 name: HiringCafe Job Watcher
+
 on:
   schedule:
     - cron: "0 */2 * * *"  # every 2 hours
   workflow_dispatch:
+
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install requests python-dotenv
-      - run: python hiring_cafe_job_watcher.py
+
+      # ✅ Restore previous state.json (so we don't resend same jobs)
+      - name: Restore previous job state
+        uses: actions/cache@v4
+        with:
+          path: state.json
+          key: hiring-cafe-job-state
+          restore-keys: |
+            hiring-cafe-job-state
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Run Job Watcher
+        run: python hiring_cafe_job_watcher.py
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -21,3 +38,13 @@ jobs:
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO:   ${{ secrets.MAIL_TO }}
           SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
+
+      # ✅ Save updated state.json for next run
+      - name: Save updated job state
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: state.json
+          key: hiring-cafe-job-state-${{ github.run_id }}
+          restore-keys: |
+            hiring-cafe-job-state
