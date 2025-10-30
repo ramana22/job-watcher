@@ -113,9 +113,25 @@ def send_email(new_jobs):
     """
 
     msg = MIMEText(html_content, "html", "utf-8")
-    msg["Subject"] = f"[HiringCafe] {len(new_jobs)} New Jobs Found"
-    msg["From"] = os.getenv("SMTP_USER")
-    msg["To"] = os.getenv("MAIL_TO", os.getenv("SMTP_USER"))
+
+
+    # ---- Configurable Email Settings ----
+    subject_prefix = os.getenv("EMAIL_SUBJECT_PREFIX", "[HiringCafe]")
+    from_name = os.getenv("EMAIL_FROM_NAME", "HiringCafe Job Watcher")
+    mail_from = os.getenv("MAIL_FROM", os.getenv("SMTP_USER"))
+    mail_to = os.getenv("MAIL_TO", mail_from)
+
+    # ---- Build Subject ----
+    if new_jobs:
+        subject = f"{subject_prefix} {len(new_jobs)} matching role(s)"
+    else:
+        subject = "[TEST] HiringCafe Job Watcher SMTP OK"
+
+    # ---- Construct Email ----
+    msg["Subject"] = subject
+    msg["From"] = formataddr((from_name, mail_from))
+    msg["To"] = mail_to
+
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(os.getenv("SMTP_USER"), os.getenv("SMTP_PASS"))
