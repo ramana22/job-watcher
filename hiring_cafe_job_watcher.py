@@ -140,7 +140,7 @@ def fetch_jobs_for_keyword(keyword):
         proxies = {"https": os.getenv("HTTP_PROXY")}
 
     max_retries = 5
-    wait = 10
+    wait = 30
 
     for attempt in range(max_retries):
         try:
