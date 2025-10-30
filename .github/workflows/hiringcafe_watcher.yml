@@ -1,0 +1,19 @@
+name: HiringCafe Job Watcher
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # every 2 hours
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests python-dotenv
+      - run: python hiring_cafe_job_watcher.py
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
