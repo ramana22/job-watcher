@@ -10,7 +10,10 @@ import random
 
 load_dotenv()
 
+SCRAPINGBEE_API_KEY = os.getenv("SCRAPINGBEE_API_KEY")
 API_URL = "https://hiring.cafe/api/search-jobs"
+PROXY_URL = f"https://app.scrapingbee.com/api/v1/?api_key={SCRAPINGBEE_API_KEY}&url="
+
 STATE_FILE = "state.json"
 
 # One combined search (reduces API hits from 4 → 1)
@@ -140,11 +143,12 @@ def fetch_jobs_for_keyword(keyword):
         proxies = {"https": os.getenv("HTTP_PROXY")}
 
     max_retries = 5
-    wait = 30
+    wait = 10
 
     for attempt in range(max_retries):
         try:
-            response = requests.post(API_URL, json=payload, headers=headers, timeout=45, proxies=proxies)
+            target_url = f"{PROXY_URL}{API_URL}"
+            response = requests.post(target_url, json=payload, headers=headers, timeout=45)
             if response.status_code == 429:
                 print(f"⚠️ Rate limited, waiting {wait}s (attempt {attempt+1}/{max_retries})...")
                 time.sleep(wait + random.randint(5, 10))
