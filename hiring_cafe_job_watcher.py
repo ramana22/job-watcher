@@ -5,6 +5,7 @@ import smtplib
 from email.mime.text import MIMEText
 from datetime import datetime
 from dotenv import load_dotenv
+from email.utils import formataddr
 import time
 import random
 
