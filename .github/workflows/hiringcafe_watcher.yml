@@ -2,37 +2,42 @@ name: HiringCafe Job Watcher
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # every 2 hours
-  workflow_dispatch:
+    - cron: "0 */2 * * *"  # every 2 hours (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # 👈 Required for git push
 
 jobs:
-  run:
+  hiringcafe-run:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      # Step 1: Checkout repo with push permission
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      # Step 2: Set up Python
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # ✅ Persistent cache for state.json between runs
-      - name: Restore state file cache
-        id: cache-state
-        uses: actions/cache@v4
-        with:
-          path: state.json
-          key: hiring-cafe-job-state
-          restore-keys: |
-            hiring-cafe-job-state
-
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: pip install requests python-dotenv
 
+      # Step 4: Ensure state.json exists
+      - name: Initialize state.json if missing
+        run: |
+          if [ ! -f state.json ]; then
+            echo "[]" > state.json
+            echo "✅ Initialized empty state.json"
+          fi
+
+      # Step 5: Run HiringCafe watcher
       - name: Run HiringCafe Job Watcher
-        run: python hiring_cafe_job_watcher.py
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -43,13 +48,13 @@ jobs:
           SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
           EMAIL_SUBJECT_PREFIX: "[HiringCafe]"
           EMAIL_FROM_NAME: "Job Watcher Bot"
+        run: python hiring_cafe_job_watcher.py
 
-      # ✅ Save (update) the cache with new state.json for next run
-      - name: Save updated state file
-        if: always()
-        uses: actions/cache@v4
-        with:
-          path: state.json
-          key: hiring-cafe-job-state-${{ github.run_id }}
-          restore-keys: |
-            hiring-cafe-job-state
+      # Step 6: Commit & push updated state.json
+      - name: Commit updated state.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f state.json
+          git commit -m "chore: update state.json [skip ci]" || echo "No changes to commit"
+          git push
