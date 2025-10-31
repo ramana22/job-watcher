@@ -557,6 +557,7 @@ https://builtin.com/job/net-azure-developer-ai-first-modernization/7518508
 https://builtin.com/job/net-developer-hybrid/7404273
 https://builtin.com/job/net-developer-maui-contract/7348575
 https://builtin.com/job/net-developer-microservices-interfaces/7542948
+https://builtin.com/job/net-developer-remote-us/7569921
 https://builtin.com/job/net-developer-site/7563400
 https://builtin.com/job/net-developer/7100234
 https://builtin.com/job/net-developer/7188669
@@ -564,6 +565,7 @@ https://builtin.com/job/net-developer/7359420
 https://builtin.com/job/net-developer/7500242
 https://builtin.com/job/net-developer/7515984
 https://builtin.com/job/net-developer/7539003
+https://builtin.com/job/net-developer/7568205
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-full-stack-data-engineer/7112486
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
@@ -671,6 +673,7 @@ https://builtin.com/job/security-operations-center-engineer/7091122
 https://builtin.com/job/senior-accountant/7311937
 https://builtin.com/job/senior-algorithm-engineer-remote/7445886
 https://builtin.com/job/senior-analyst-data-engineering-i6/7460460
+https://builtin.com/job/senior-application-development-engineer/7570068
 https://builtin.com/job/senior-associate-data-insights/7368715
 https://builtin.com/job/senior-associate-fund-accounting-private-markets-west-coast/7293646
 https://builtin.com/job/senior-associate-fund-accounting/7169708
@@ -1038,6 +1041,7 @@ https://builtin.com/job/software-engineer/7527443
 https://builtin.com/job/software-engineer/7528083
 https://builtin.com/job/software-engineer/7543916
 https://builtin.com/job/software-engineer/7553786
+https://builtin.com/job/software-engineer/7569611
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
