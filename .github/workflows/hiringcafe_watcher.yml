@@ -10,29 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout your repository
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # Step 3: Restore previous job state (so we don't resend same jobs)
-      - name: Restore previous state.json
-        uses: actions/download-artifact@v4
-        continue-on-error: true
+      # ✅ Persistent cache for state.json between runs
+      - name: Restore state file cache
+        id: cache-state
+        uses: actions/cache@v4
         with:
-          name: state-file
-          path: .
+          path: state.json
+          key: hiring-cafe-job-state
+          restore-keys: |
+            hiring-cafe-job-state
 
-      # Step 4: Install dependencies
       - name: Install dependencies
         run: pip install requests python-dotenv
 
-      # Step 5: Run job watcher script
       - name: Run HiringCafe Job Watcher
         run: python hiring_cafe_job_watcher.py
         env:
@@ -46,10 +44,12 @@ jobs:
           EMAIL_SUBJECT_PREFIX: "[HiringCafe]"
           EMAIL_FROM_NAME: "Job Watcher Bot"
 
-      # Step 6: Save updated state.json for next run
-      - name: Save updated state.json
+      # ✅ Save (update) the cache with new state.json for next run
+      - name: Save updated state file
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/cache@v4
         with:
-          name: state-file
           path: state.json
+          key: hiring-cafe-job-state-${{ github.run_id }}
+          restore-keys: |
+            hiring-cafe-job-state
