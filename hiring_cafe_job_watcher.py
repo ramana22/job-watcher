@@ -226,6 +226,21 @@ def fetch_jobs_for_keyword(keyword):
     print(f"✅ {len(jobs)} jobs fetched successfully.")
     return jobs
 
+
+def deduplicate_jobs(jobs):
+    """Eliminate duplicates based on job ID (or company+title+location fallback)."""
+    seen_keys = set()
+    unique = []
+    for job in jobs:
+        # prefer stable job ID if present
+        key = job.get("id") or f"{job['company'].strip()}|{job['title'].strip()}|{job['location'].strip()}"
+        if key not in seen_keys:
+            seen_keys.add(key)
+            unique.append(job)
+    return unique
+
+
+
 # ---------- MAIN ----------
 def main():
     seen = load_state()
@@ -239,6 +254,9 @@ def main():
             current_ids.add(job["id"])
             if job["id"] not in seen:
                 all_new_jobs.append(job)
+
+ # ✅ remove duplicates that may appear across different keywords
+    all_new_jobs = deduplicate_jobs(all_new_jobs)
 
     if all_new_jobs:
         send_email(all_new_jobs)
