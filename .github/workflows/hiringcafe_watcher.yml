@@ -10,25 +10,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      # Step 1: Checkout your repository
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # ✅ Restore previous state.json (so we don't resend same jobs)
-      - name: Restore previous job state
-        uses: actions/cache@v4
+      # Step 3: Restore previous job state (so we don't resend same jobs)
+      - name: Restore previous state.json
+        uses: actions/download-artifact@v4
+        continue-on-error: true
         with:
-          path: state.json
-          key: hiring-cafe-job-state
-          restore-keys: |
-            hiring-cafe-job-state
+          name: state-file
+          path: .
 
+      # Step 4: Install dependencies
       - name: Install dependencies
         run: pip install requests python-dotenv
 
-      - name: Run Job Watcher
+      # Step 5: Run job watcher script
+      - name: Run HiringCafe Job Watcher
         run: python hiring_cafe_job_watcher.py
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
@@ -38,13 +43,13 @@ jobs:
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO:   ${{ secrets.MAIL_TO }}
           SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
+          EMAIL_SUBJECT_PREFIX: "[HiringCafe]"
+          EMAIL_FROM_NAME: "Job Watcher Bot"
 
-      # ✅ Save updated state.json for next run
-      - name: Save updated job state
+      # Step 6: Save updated state.json for next run
+      - name: Save updated state.json
         if: always()
-        uses: actions/cache@v4
+        uses: actions/upload-artifact@v4
         with:
+          name: state-file
           path: state.json
-          key: hiring-cafe-job-state-${{ github.run_id }}
-          restore-keys: |
-            hiring-cafe-job-state
