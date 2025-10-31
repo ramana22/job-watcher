@@ -52,7 +52,8 @@ BASE_PAYLOAD = {
         "roleTypes": ["Individual Contributor"],
         "roleYoeRange": [0, 4],
         "dateFetchedPastNDays": 2,
-        "sortBy": "default"
+        # "sortBy": "default"
+        "sortBy": "date"
     }
 }
 
