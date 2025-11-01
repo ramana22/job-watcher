@@ -32,6 +32,10 @@ https://builtin.com/job/java-developer/7540324
 https://builtin.com/job/java-developer/7545068
 https://builtin.com/job/java-developer/7556727
 https://builtin.com/job/java-engineer/7535293
+https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7575304
+https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7575342
+https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7575347
+https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7575383
 https://builtin.com/job/lead-ai-engineer-ai-foundations/7503993
 https://builtin.com/job/lead-software-engineer-back-end-global-payment-network/7516685
 https://builtin.com/job/lead-software-engineer-full-stack/7516655
@@ -76,6 +80,7 @@ https://builtin.com/job/software-engineer-ii/7519633
 https://builtin.com/job/software-engineer-ii/7531722
 https://builtin.com/job/software-engineer-ii/7532457
 https://builtin.com/job/software-engineer-ii/7574106
+https://builtin.com/job/software-engineer-iii-aws-cloud-engineer/7575195
 https://builtin.com/job/software-engineer-iii-devops-release-engineer/7568943
 https://builtin.com/job/software-engineer-iii-java-mobile-automation-engineer/7575143
 https://builtin.com/job/software-engineer-iii-viewpoint/7519067
