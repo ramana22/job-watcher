@@ -77,6 +77,7 @@ https://builtin.com/job/software-engineer-ii/7531722
 https://builtin.com/job/software-engineer-ii/7532457
 https://builtin.com/job/software-engineer-ii/7574106
 https://builtin.com/job/software-engineer-iii-devops-release-engineer/7568943
+https://builtin.com/job/software-engineer-iii-java-mobile-automation-engineer/7575143
 https://builtin.com/job/software-engineer-iii-viewpoint/7519067
 https://builtin.com/job/software-engineer-infrastructure/7565092
 https://builtin.com/job/software-engineer-java-spring-microservices/7497420
