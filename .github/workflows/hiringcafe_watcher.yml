@@ -47,7 +47,7 @@ jobs:
           MAIL_TO:   ${{ secrets.MAIL_TO }}
           SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
           EMAIL_SUBJECT_PREFIX: "[HiringCafe]"
-          EMAIL_FROM_NAME: "Job Watcher Bot"
+          EMAIL_FROM_NAME: "Hiring Cafe Job Watcher"
         run: python hiring_cafe_job_watcher.py
 
       # Step 6: Commit & push updated state.json
