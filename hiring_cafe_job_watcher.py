@@ -20,9 +20,20 @@ STATE_FILE = "state.json"
 # One combined search (reduces API hits from 4 → 1)
 SEARCH_KEYWORDS = [
     ".NET Developer",
+    ".NET Core Developer",
+    "ASP.NET Developer",
     "Full Stack .NET",
+    "Full-Stack .NET Developer",
+    "Backend .NET Developer",
+    "AWS .NET Developer",
+    "React.js Developer",
+    "ReactJS Developer",
+    "Full-Stack Developer (React/.NET)",
+    "JavaScript Developer",
+    "Frontend Engineer (JavaScript)",
     "C# Developer",
     "Azure Developer",
+    "Front End Developer"
 ]
 
 
