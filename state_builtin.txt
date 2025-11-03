@@ -574,6 +574,7 @@ https://builtin.com/job/net-developer/7500242
 https://builtin.com/job/net-developer/7515984
 https://builtin.com/job/net-developer/7539003
 https://builtin.com/job/net-developer/7568205
+https://builtin.com/job/net-developer/7577284
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-full-stack-data-engineer/7112486
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
@@ -838,6 +839,7 @@ https://builtin.com/job/software-engineer-account-management/7303251
 https://builtin.com/job/software-engineer-accounting/7425985
 https://builtin.com/job/software-engineer-ai-systems/7212299
 https://builtin.com/job/software-engineer-ai-systems/7212838
+https://builtin.com/job/software-engineer-ai/7577129
 https://builtin.com/job/software-engineer-apps-i/7129197
 https://builtin.com/job/software-engineer-associate/7435307
 https://builtin.com/job/software-engineer-backend/7074419
