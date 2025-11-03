@@ -587,6 +587,7 @@ https://builtin.com/job/net-software-developer/7493262
 https://builtin.com/job/net-software-developer/7505981
 https://builtin.com/job/net-software-engineer-ii/7289102
 https://builtin.com/job/net-software-engineer-platform-upgrade-tooling-platform-experience/7221048
+https://builtin.com/job/net-software-engineer-platform-upgrade-tooling/7581817
 https://builtin.com/job/net-software-engineer/7281764
 https://builtin.com/job/net-software-engineer/7494323
 https://builtin.com/job/net-technical-consultant-c-and-erp/7310072
@@ -865,6 +866,7 @@ https://builtin.com/job/software-engineer-client/7481858
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7312410
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7313292
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
+https://builtin.com/job/software-engineer-consultant-ii-net-c/7582295
 https://builtin.com/job/software-engineer-digital-solutions-implementations/7334505
 https://builtin.com/job/software-engineer-duck-creek/7458808
 https://builtin.com/job/software-engineer-electrical-test/7350132
