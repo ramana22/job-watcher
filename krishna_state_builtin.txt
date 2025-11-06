@@ -13,8 +13,10 @@ https://builtin.com/job/application-support-engineer/7574954
 https://builtin.com/job/asic-engineer/7513877
 https://builtin.com/job/assoc-developer/7590181
 https://builtin.com/job/associate-data-analyst/7572796
+https://builtin.com/job/associate-software-developer/7623145
 https://builtin.com/job/associate-software-engineer/7522136
 https://builtin.com/job/associate-software-engineer/7587630
+https://builtin.com/job/associate-software-engineer/7619581
 https://builtin.com/job/atm-senior-software-engineer/7516670
 https://builtin.com/job/attack-monitoring-analyst-gsoc/7590457
 https://builtin.com/job/automated-trading-strategies-associate/7524764
