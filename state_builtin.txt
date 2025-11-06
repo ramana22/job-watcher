@@ -806,6 +806,7 @@ https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-debugging-engineer/7417194
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-2/7354433
+https://builtin.com/job/software-developer-engineer-test/7617113
 https://builtin.com/job/software-developer-full-stack-c-net-hybrid/7543607
 https://builtin.com/job/software-developer-genai-remote-us/7277501
 https://builtin.com/job/software-developer-greenwood-sc-hybrid/7269927
