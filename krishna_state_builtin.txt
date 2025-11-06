@@ -43,6 +43,7 @@ https://builtin.com/job/data-management-analyst/7519597
 https://builtin.com/job/decision-analytics-associate-washington-dc/7611875
 https://builtin.com/job/developer-software-engineer-cloud-java-awd/7603900
 https://builtin.com/job/devops-contract/7585579
+https://builtin.com/job/devops-engineer/7625395
 https://builtin.com/job/engineer-platform-engineering/7517336
 https://builtin.com/job/engineer-workday/7585598
 https://builtin.com/job/enterprise-sales-engineer/7554470
@@ -52,6 +53,7 @@ https://builtin.com/job/founding-full-stack-software-engineer-senior-staff-vc-ba
 https://builtin.com/job/front-end-java-developer/7529901
 https://builtin.com/job/full-stack-developer-remote-opportunity/7565114
 https://builtin.com/job/full-stack-software-engineer/7514071
+https://builtin.com/job/full-stack-software-engineer/7625396
 https://builtin.com/job/fullstack-developer-java-react/7613331
 https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/integration-engineer/7616559
@@ -67,6 +69,7 @@ https://builtin.com/job/java-developer/7545068
 https://builtin.com/job/java-developer/7556727
 https://builtin.com/job/java-developer/7580399
 https://builtin.com/job/java-engineer/7535293
+https://builtin.com/job/java-fullstack-developer/7625897
 https://builtin.com/job/java-kotlin-engineer/7610676
 https://builtin.com/job/java-software-engineers/7600664
 https://builtin.com/job/java-spring-iam-software-engineer-iii/7599298
@@ -123,6 +126,7 @@ https://builtin.com/job/site-reliability-engineer/7618941
 https://builtin.com/job/software-application-developer/7586769
 https://builtin.com/job/software-dev-engineer-i/7601640
 https://builtin.com/job/software-dev-engineer-ii-backend-data/7564117
+https://builtin.com/job/software-developer-c-cuda/7625417
 https://builtin.com/job/software-developer-engineer-test/7617113
 https://builtin.com/job/software-developer-senior-software-developer/7517800
 https://builtin.com/job/software-development-engineer-iii/7516117
@@ -190,6 +194,7 @@ https://builtin.com/job/software-engineer-mts-force-com-developer/7573421
 https://builtin.com/job/software-engineer-multiple-positions-available/7502437
 https://builtin.com/job/software-engineer-multiple-positions-available/7583740
 https://builtin.com/job/software-engineer-platform/7574126
+https://builtin.com/job/software-engineer-rr-level-1-polygraph-required/7625400
 https://builtin.com/job/software-engineer-sandbox/7575480
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585945
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585949
@@ -209,6 +214,8 @@ https://builtin.com/job/software-engineer/7573783
 https://builtin.com/job/software-engineer/7592419
 https://builtin.com/job/software-engineer/7593751
 https://builtin.com/job/software-engineer/7616577
+https://builtin.com/job/software-engineer/7624984
+https://builtin.com/job/software-engineer/7625398
 https://builtin.com/job/solutions-engineer-sled/7591025
 https://builtin.com/job/specialist-application-engineer/7616574
 https://builtin.com/job/specialist-software-engineer-java-j2ee/7554663
