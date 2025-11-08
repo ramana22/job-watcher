@@ -745,6 +745,7 @@ https://builtin.com/job/senior-accountant/7311937
 https://builtin.com/job/senior-algorithm-engineer-remote/7445886
 https://builtin.com/job/senior-analyst-data-engineering-i6/7460460
 https://builtin.com/job/senior-application-development-engineer/7570068
+https://builtin.com/job/senior-application-development-engineer/7644171
 https://builtin.com/job/senior-associate-data-insights/7368715
 https://builtin.com/job/senior-associate-fund-accounting-private-markets-west-coast/7293646
 https://builtin.com/job/senior-associate-fund-accounting/7169708
@@ -1299,6 +1300,8 @@ https://builtin.com/job/web-app-pen-tester/7100182
 https://builtin.com/job/web-application-developer-ts-sci-poly/7160298
 https://builtin.com/job/web-applications-developer/7374548
 https://builtin.com/job/web-data-extraction-engineer/7633955
+https://builtin.com/job/web-database-developer/7644059
+https://builtin.com/job/web-database-developer/7644073
 https://builtin.com/job/web-developer-entry-level/7572804
 https://builtin.com/job/web-developer-i-ui-arcgis-enterprise/7388872
 https://builtin.com/job/web-developer/7171594
