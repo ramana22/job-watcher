@@ -14,6 +14,7 @@ https://builtin.com/job/analytics-engineer-ii/7577304
 https://builtin.com/job/analytics-strategy-multiple-positions-available/7502555
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-support-engineer/7574954
+https://builtin.com/job/application-support-engineer/7646156
 https://builtin.com/job/asic-engineer/7513877
 https://builtin.com/job/assistant-technical-support-representative/7642596
 https://builtin.com/job/assoc-developer/7590181
@@ -131,6 +132,7 @@ https://builtin.com/job/product-engineer-ii-arcgis-enterprise-sharing-api/761649
 https://builtin.com/job/product-engineer-java-spring-boot/7549148
 https://builtin.com/job/product-software-engineer-java-developer/7550376
 https://builtin.com/job/qa-analyst-ii/7566538
+https://builtin.com/job/qa-automation-engineer/7644474
 https://builtin.com/job/quality-assurance-specialist-automated-testing-mainframe/7644376
 https://builtin.com/job/remote-software-developer/7587552
 https://builtin.com/job/rsa-software-engineer-2-cloud-java/7579409
