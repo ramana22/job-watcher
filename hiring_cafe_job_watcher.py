@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from email.utils import formataddr
 import time
 import random
+from datetime import datetime, timezone
 
 load_dotenv()
 
@@ -202,6 +203,7 @@ def fetch_jobs_for_keyword(keyword):
 
     # Random sleep to mimic human delay
     time.sleep(random.randint(8, 15))
+    
 
     jobs = []
     for j in data.get("results", []):
@@ -231,8 +233,7 @@ def fetch_jobs_for_keyword(keyword):
             "salary": salary_text,
             "searchKey": keyword
         })
-
-
+       
 
     print(f"✅ {len(jobs)} jobs fetched successfully.")
     return jobs
@@ -268,6 +269,29 @@ def main():
 
  # ✅ remove duplicates that may appear across different keywords
     all_new_jobs = deduplicate_jobs(all_new_jobs)
+    jobs_backend = []
+    test = "https://jobwatch-api-g6a3cjenesbna5gv.canadacentral-01.azurewebsites.net/api/applications"
+    for jb in all_new_jobs:
+         
+        jobs_backend.append({
+            "job_id": jb["id"],
+            "job_title": jb["title"],
+            "company": jb["company"],
+            "location": jb["company"],
+            "salary": jb["salary"],
+            "description": "None",
+            "apply_link": jb["url"],
+            "search_key": jb["searchKey"],
+            "posted_time": datetime.now(timezone.utc).isoformat(),
+            "source": "HiringCafe",
+            "matching_score": 0.0
+        })
+    response = requests.post(test, json=jobs_backend, verify=False)
+    try:
+        print("Ingested jobs:", response.json())
+    except ValueError:
+        print("Ingested jobs:", response.text or "(no content)")
+
 
     if all_new_jobs:
         send_email(all_new_jobs)
