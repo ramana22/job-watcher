@@ -141,20 +141,35 @@ def send_email(new_jobs):
 
 # ---------- PLAYWRIGHT FALLBACK ----------
 def playwright_fetch_jobs(api_url, payload):
-    """Fetch jobs using a real browser to bypass 401/403 issues in GitHub Actions."""
+    """Fetch jobs using a real browser to bypass 401/403/429 in GitHub Actions."""
     print("🌐 Using Playwright browser to fetch jobs...")
+    from json import JSONDecodeError
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
         page = context.new_page()
-        response = page.request.post(api_url, data=json.dumps(payload), headers={
-            "Content-Type": "application/json",
-            "Accept": "application/json, text/plain, */*",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-            "Origin": "https://hiring.cafe",
-            "Referer": "https://hiring.cafe/"
-        })
-        data = response.json()
+        response = page.request.post(
+            api_url,
+            data=json.dumps(payload),
+            headers={
+                "Content-Type": "application/json",
+                "Accept": "application/json, text/plain, */*",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                "Origin": "https://hiring.cafe",
+                "Referer": "https://hiring.cafe/"
+            },
+            timeout=45000
+        )
+
+        # Safely handle possible HTML / empty body
+        text = response.text()
+        try:
+            data = response.json()
+        except JSONDecodeError:
+            print(f"⚠️ Playwright got non-JSON response (HTTP {response.status}) — likely rate-limited.")
+            print("Response snippet:", text[:200])
+            data = {"results": []}
+
         browser.close()
         return data
 
