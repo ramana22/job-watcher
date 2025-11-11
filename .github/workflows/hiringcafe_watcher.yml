@@ -3,32 +3,30 @@ name: HiringCafe Job Watcher
 on:
   schedule:
     - cron: "0 */2 * * *"  # every 2 hours (UTC)
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
-  contents: write  # 👈 Required for git push
+  contents: write
 
 jobs:
   hiringcafe-run:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repo with push permission
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
 
-      # Step 2: Set up Python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # Step 3: Install dependencies
       - name: Install dependencies
-        run: pip install requests python-dotenv
+        run: |
+          pip install requests python-dotenv playwright
+          python -m playwright install chromium
 
-      # Step 4: Ensure state.json exists
       - name: Initialize state.json if missing
         run: |
           if [ ! -f state.json ]; then
@@ -36,21 +34,16 @@ jobs:
             echo "✅ Initialized empty state.json"
           fi
 
-      # Step 5: Run HiringCafe watcher
       - name: Run HiringCafe Job Watcher
         env:
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO:   ${{ secrets.MAIL_TO }}
-          SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
           EMAIL_SUBJECT_PREFIX: "[HiringCafe]"
           EMAIL_FROM_NAME: "Hiring Cafe Job Watcher"
         run: python hiring_cafe_job_watcher.py
 
-      # Step 6: Commit & push updated state.json
       - name: Commit updated state.json
         run: |
           git config user.name  "github-actions[bot]"

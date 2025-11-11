@@ -9,16 +9,13 @@ from email.utils import formataddr
 import time
 import random
 from datetime import datetime, timezone
+from playwright.sync_api import sync_playwright  # ✅ Playwright for browser fallback
 
 load_dotenv()
 
-SCRAPINGBEE_API_KEY = os.getenv("SCRAPINGBEE_API_KEY")
 API_URL = "https://hiring.cafe/api/search-jobs"
-PROXY_URL = f"https://app.scrapingbee.com/api/v1/?api_key={SCRAPINGBEE_API_KEY}&url="
-
 STATE_FILE = "state.json"
 
-# One combined search (reduces API hits from 4 → 1)
 SEARCH_KEYWORDS = [
     ".NET Developer",
     ".NET Core Developer",
@@ -37,8 +34,6 @@ SEARCH_KEYWORDS = [
     "Front End Developer"
 ]
 
-
-# ---------- PAYLOAD TEMPLATE ----------
 BASE_PAYLOAD = {
     "size": 40,
     "page": 0,
@@ -56,7 +51,6 @@ BASE_PAYLOAD = {
             "workplace_types": [],
             "options": {"flexible_regions": ["anywhere_in_continent", "anywhere_in_world"]}
         }],
-         # "Simple" or "Time Consuming"
         "applicationFormEase": [],
         "workplaceTypes": ["Remote", "Hybrid", "Onsite"],
         "commitmentTypes": ["Full Time", "Contract"],
@@ -64,7 +58,7 @@ BASE_PAYLOAD = {
         "roleTypes": ["Individual Contributor"],
         "roleYoeRange": [0, 4],
         "dateFetchedPastNDays": 2,
-        # "sortBy": "default"
+         # "sortBy": "default"
         "sortBy": "date"
     }
 }
@@ -105,7 +99,7 @@ def send_email(new_jobs):
     <html>
       <body>
         <h3>New HiringCafe Job Listings ({datetime.now().strftime('%Y-%m-%d %H:%M')})</h3>
-        <table border="1" cellspacing="0" cellpadding="6" 
+        <table border="1" cellspacing="0" cellpadding="6"
                style="border-collapse: collapse; font-family: Arial, sans-serif; font-size: 13px;">
           <thead>
             <tr style="background-color:#f2f2f2;">
@@ -117,9 +111,7 @@ def send_email(new_jobs):
               <th>Search Key</th>
             </tr>
           </thead>
-          <tbody>
-            {table_rows}
-          </tbody>
+          <tbody>{table_rows}</tbody>
         </table>
         <br><i>Total new jobs: {len(new_jobs)}</i>
       </body>
@@ -127,25 +119,19 @@ def send_email(new_jobs):
     """
 
     msg = MIMEText(html_content, "html", "utf-8")
-
-
-    # ---- Configurable Email Settings ----
     subject_prefix = os.getenv("EMAIL_SUBJECT_PREFIX", "[HiringCafe]")
     from_name = os.getenv("EMAIL_FROM_NAME", "HiringCafe Job Watcher")
     mail_from = os.getenv("MAIL_FROM", os.getenv("SMTP_USER"))
     mail_to = os.getenv("MAIL_TO", mail_from)
 
-    # ---- Build Subject ----
     if new_jobs:
         subject = f"{subject_prefix} {len(new_jobs)} matching role(s) • {datetime.now().strftime('%Y-%m-%d %H:%M')}"
     else:
         subject = "[TEST] HiringCafe Job Watcher SMTP OK"
 
-    # ---- Construct Email ----
     msg["Subject"] = subject
     msg["From"] = formataddr((from_name, mail_from))
     msg["To"] = mail_to
-
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(os.getenv("SMTP_USER"), os.getenv("SMTP_PASS"))
@@ -153,58 +139,52 @@ def send_email(new_jobs):
 
     print(f"✅ Email sent with {len(new_jobs)} new jobs.")
 
+# ---------- PLAYWRIGHT FALLBACK ----------
+def playwright_fetch_jobs(api_url, payload):
+    """Fetch jobs using a real browser to bypass 401/403 issues in GitHub Actions."""
+    print("🌐 Using Playwright browser to fetch jobs...")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        page = context.new_page()
+        response = page.request.post(api_url, data=json.dumps(payload), headers={
+            "Content-Type": "application/json",
+            "Accept": "application/json, text/plain, */*",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+            "Origin": "https://hiring.cafe",
+            "Referer": "https://hiring.cafe/"
+        })
+        data = response.json()
+        browser.close()
+        return data
+
 # ---------- FETCH FROM API ----------
 def fetch_jobs_for_keyword(keyword):
     payload = BASE_PAYLOAD.copy()
     payload["searchState"] = dict(BASE_PAYLOAD["searchState"])
     payload["searchState"]["searchQuery"] = keyword
 
-    # Full browser headers to bypass cloud firewalls
     headers = {
-        "User-Agent": f"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Accept": "application/json, text/plain, */*",
         "Referer": "https://hiring.cafe/",
-        "Origin": "https://hiring.cafe",
-        "Connection": "keep-alive"
+        "Origin": "https://hiring.cafe"
     }
 
-    proxies = {}
-    if os.getenv("HTTP_PROXY"):
-        proxies = {"https": os.getenv("HTTP_PROXY")}
+    try:
+        response = requests.post(API_URL, json=payload, headers=headers, timeout=45)
+        if response.status_code == 200:
+            data = response.json()
+        elif response.status_code in [401, 403]:
+            data = playwright_fetch_jobs(API_URL, payload)
+        else:
+            print(f"⚠️ Unexpected HTTP {response.status_code}, retrying with Playwright...")
+            data = playwright_fetch_jobs(API_URL, payload)
+    except Exception as e:
+        print(f"❌ Error with requests: {e}, switching to Playwright...")
+        data = playwright_fetch_jobs(API_URL, payload)
 
-    max_retries = 5
-    wait = 10
-
-    for attempt in range(max_retries):
-        try:
-            target_url = f"{PROXY_URL}{API_URL}"
-            response = requests.post(target_url, json=payload, headers=headers, timeout=45)
-            if response.status_code == 429:
-                print(f"⚠️ Rate limited, waiting {wait}s (attempt {attempt+1}/{max_retries})...")
-                time.sleep(wait + random.randint(5, 10))
-                wait *= 2
-                continue
-            response.raise_for_status()
-            try:
-                data = response.json()
-            except ValueError:
-                data = json.loads(response.text)
-            break
-        except Exception as e:
-            print(f"❌ Error fetching jobs: {e}")
-            if attempt < max_retries - 1:
-                time.sleep(wait)
-                wait *= 2
-            else:
-                return []
-    else:
-        print("🚫 Skipping fetch after repeated errors.")
-        return []
-
-    # Random sleep to mimic human delay
     time.sleep(random.randint(8, 15))
-    
-
     jobs = []
     for j in data.get("results", []):
         job_id = j.get("id")
@@ -220,8 +200,7 @@ def fetch_jobs_for_keyword(keyword):
         salary_max = job_data.get("yearly_max_compensation")
         salary_text = (
             f"${salary_min:,.0f} - ${salary_max:,.0f}"
-            if salary_min and salary_max
-            else "Not Disclosed"
+            if salary_min and salary_max else "Not Disclosed"
         )
 
         jobs.append({
@@ -233,25 +212,18 @@ def fetch_jobs_for_keyword(keyword):
             "salary": salary_text,
             "searchKey": keyword
         })
-       
-
-    print(f"✅ {len(jobs)} jobs fetched successfully.")
+    print(f"✅ {len(jobs)} jobs fetched successfully for {keyword}")
     return jobs
 
-
 def deduplicate_jobs(jobs):
-    """Eliminate duplicates based on job ID (or company+title+location fallback)."""
-    seen_keys = set()
+    seen = set()
     unique = []
     for job in jobs:
-        # prefer stable job ID if present
-        key = job.get("id") or f"{job['company'].strip()}|{job['title'].strip()}|{job['location'].strip()}"
-        if key not in seen_keys:
-            seen_keys.add(key)
+        key = job.get("id") or f"{job['company']}|{job['title']}|{job['location']}"
+        if key not in seen:
+            seen.add(key)
             unique.append(job)
     return unique
-
-
 
 # ---------- MAIN ----------
 def main():
@@ -267,31 +239,24 @@ def main():
             if job["id"] not in seen:
                 all_new_jobs.append(job)
 
- # ✅ remove duplicates that may appear across different keywords
     all_new_jobs = deduplicate_jobs(all_new_jobs)
-    jobs_backend = []
-    test = "https://jobwatch-api-g6a3cjenesbna5gv.canadacentral-01.azurewebsites.net/api/applications"
-    for jb in all_new_jobs:
-         
-        jobs_backend.append({
-            "job_id": jb["id"],
-            "job_title": jb["title"],
-            "company": jb["company"],
-            "location": jb["company"],
-            "salary": jb["salary"],
-            "description": "None",
-            "apply_link": jb["url"],
-            "search_key": jb["searchKey"],
-            "posted_time": datetime.now(timezone.utc).isoformat(),
-            "source": "HiringCafe",
-            "matching_score": 0.0
-        })
-    response = requests.post(test, json=jobs_backend, verify=False)
-    try:
-        print("Ingested jobs:", response.json())
-    except ValueError:
-        print("Ingested jobs:", response.text or "(no content)")
+    backend_url = "https://jobwatch-api-g6a3cjenesbna5gv.canadacentral-01.azurewebsites.net/api/applications"
+    jobs_backend = [{
+        "job_id": jb["id"],
+        "job_title": jb["title"],
+        "company": jb["company"],
+        "location": jb["location"],
+        "salary": jb["salary"],
+        "description": "None",
+        "apply_link": jb["url"],
+        "search_key": jb["searchKey"],
+        "posted_time": datetime.now(timezone.utc).isoformat(),
+        "source": "HiringCafe",
+        "matching_score": 0.0
+    } for jb in all_new_jobs]
 
+    response = requests.post(backend_url, json=jobs_backend, verify=False)
+    print("Ingested jobs:", response.text or "(no content)")
 
     if all_new_jobs:
         send_email(all_new_jobs)
