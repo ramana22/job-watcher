@@ -12,10 +12,10 @@ from datetime import datetime, timezone
 
 load_dotenv()
 
-# SCRAPINGBEE_API_KEY = os.getenv("SCRAPINGBEE_API_KEY")
-# API_URL = "https://hiring.cafe/api/search-jobs"
-# PROXY_URL = f"https://app.scrapingbee.com/api/v1/?api_key={SCRAPINGBEE_API_KEY}&url="
+SCRAPINGBEE_API_KEY = os.getenv("SCRAPINGBEE_API_KEY")
 API_URL = "https://hiring.cafe/api/search-jobs"
+PROXY_URL = f"https://app.scrapingbee.com/api/v1/?api_key={SCRAPINGBEE_API_KEY}&url="
+# API_URL = "https://hiring.cafe/api/search-jobs"
 
 STATE_FILE = "state.json"
 
@@ -178,7 +178,7 @@ def fetch_jobs_for_keyword(keyword):
 
     for attempt in range(max_retries):
         try:
-            target_url = API_URL
+            target_url = target_url = f"{PROXY_URL}{API_URL}"
             response = requests.post(target_url, json=payload, headers=headers, timeout=45)
             if response.status_code == 429:
                 print(f"⚠️ Rate limited, waiting {wait}s (attempt {attempt+1}/{max_retries})...")
