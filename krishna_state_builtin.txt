@@ -173,6 +173,7 @@ https://builtin.com/job/senior-software-engineer-i-backend/7573798
 https://builtin.com/job/senior-software-engineer-python-aws-data-pipelines/7503999
 https://builtin.com/job/senior-software-engineer/7612274
 https://builtin.com/job/senior-software-engineer/7664784
+https://builtin.com/job/senior-software-engineer/7672988
 https://builtin.com/job/simulation-engineer/7582815
 https://builtin.com/job/site-reliability-engineer-iii/7644616
 https://builtin.com/job/site-reliability-engineer/7518390
