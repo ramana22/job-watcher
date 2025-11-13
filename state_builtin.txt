@@ -341,6 +341,7 @@ https://builtin.com/job/devops-engineer-ii/7402183
 https://builtin.com/job/devops-engineer-iii-telemetry/7640521
 https://builtin.com/job/devops-engineer/7395258
 https://builtin.com/job/devops-engineer/7689138
+https://builtin.com/job/devops-engineer/7693672
 https://builtin.com/job/devops-platform-engineer-net-expertise/7534087
 https://builtin.com/job/devrel-technical-solutions-engineer/7502709
 https://builtin.com/job/diagnostics-software-engineer/7631235
@@ -503,6 +504,7 @@ https://builtin.com/job/full-stack-software-engineer/7573706
 https://builtin.com/job/full-stack-software-test-engineer/7290881
 https://builtin.com/job/fullstack-developer/7427939
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
+https://builtin.com/job/gameplay-engineer/7693623
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7199407
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7200373
 https://builtin.com/job/general-assembly-virtual-engineer/7165196
@@ -576,6 +578,8 @@ https://builtin.com/job/jr-software-developer-jr-web-developer/7693508
 https://builtin.com/job/jr-software-engineer/7188218
 https://builtin.com/job/jr-software-engineer/7198712
 https://builtin.com/job/jr-software-engineer/7507375
+https://builtin.com/job/jr-sql-developer/7693684
+https://builtin.com/job/jr-sql-developer/7693687
 https://builtin.com/job/jr-technical-engineer/7693486
 https://builtin.com/job/jr-web-application-programmer/7688815
 https://builtin.com/job/junior-ai-nlp-machine-learning-engineer-2/7270983
@@ -689,6 +693,8 @@ https://builtin.com/job/net-azure-developer-ai-first-modernization/7459352
 https://builtin.com/job/net-azure-developer-ai-first-modernization/7459998
 https://builtin.com/job/net-azure-developer-ai-first-modernization/7518264
 https://builtin.com/job/net-azure-developer-ai-first-modernization/7518508
+https://builtin.com/job/net-developer-cth-detroit-mi-us-citizen-gc-only/7693667
+https://builtin.com/job/net-developer-experience-creating-custom-apps-sharepoint/7693635
 https://builtin.com/job/net-developer-fulltime/7679229
 https://builtin.com/job/net-developer-guid-or-uuid-experience/7688235
 https://builtin.com/job/net-developer-hybrid/7404273
@@ -729,6 +735,8 @@ https://builtin.com/job/net-developer/7692359
 https://builtin.com/job/net-developer/7692373
 https://builtin.com/job/net-developer/7692374
 https://builtin.com/job/net-developer/7692887
+https://builtin.com/job/net-developer/7693560
+https://builtin.com/job/net-developer/7693685
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-engineer/7656382
 https://builtin.com/job/net-front-end-developer/7688488
@@ -852,6 +860,7 @@ https://builtin.com/job/robotics-software-engineer-ii/7519191
 https://builtin.com/job/sales-engineer/7370455
 https://builtin.com/job/scan-coordinator/7437693
 https://builtin.com/job/scan-coordinator/7625721
+https://builtin.com/job/scrum-master/7693608
 https://builtin.com/job/sde-ii-backend/7385579
 https://builtin.com/job/sde/7679923
 https://builtin.com/job/sdet-ii/7391202
@@ -969,6 +978,7 @@ https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-debugging-engineer/7417194
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-2/7354433
+https://builtin.com/job/software-developer-3/7693654
 https://builtin.com/job/software-developer-engineer-test/7617113
 https://builtin.com/job/software-developer-full-stack-c-net-hybrid/7543607
 https://builtin.com/job/software-developer-genai-remote-us/7277501
@@ -1160,6 +1170,7 @@ https://builtin.com/job/software-engineer-ii/7553396
 https://builtin.com/job/software-engineer-ii/7585166
 https://builtin.com/job/software-engineer-ii/7616727
 https://builtin.com/job/software-engineer-ii/7687636
+https://builtin.com/job/software-engineer-ii/7695403
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
