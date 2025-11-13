@@ -369,6 +369,7 @@ https://builtin.com/job/eng-ii-identity-lifecycle-engineer/7074832
 https://builtin.com/job/engagement-specialist/7390052
 https://builtin.com/job/engineer-i-manufacturing/7283162
 https://builtin.com/job/engineer-ii-go-java-react-microservices-kubernetes/7271383
+https://builtin.com/job/engineer-ii-net/7697351
 https://builtin.com/job/engineer-ii-software-defined-storage/7584324
 https://builtin.com/job/engineer-ii-software-dev/7417919
 https://builtin.com/job/engineer-ii-software/7073643
@@ -593,6 +594,7 @@ https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226360
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226367
 https://builtin.com/job/junior-cloud-software-developer/7641170
+https://builtin.com/job/junior-cybersecurity-software-engineer/7697046
 https://builtin.com/job/junior-devops-engineer/7640190
 https://builtin.com/job/junior-dynamics-365-developer-remote-opportunity/7114819
 https://builtin.com/job/junior-embedded-software-research-engineer/7578831
@@ -984,6 +986,7 @@ https://builtin.com/job/software-developer-full-stack-c-net-hybrid/7543607
 https://builtin.com/job/software-developer-genai-remote-us/7277501
 https://builtin.com/job/software-developer-greenwood-sc-hybrid/7269927
 https://builtin.com/job/software-developer-i/7348701
+https://builtin.com/job/software-developer-i/7697740
 https://builtin.com/job/software-developer-ii-conflation-arcgis-pro/7368390
 https://builtin.com/job/software-developer-ii-geoprocessing-and-map-viewer-analysis/7087582
 https://builtin.com/job/software-developer-ii/7200483
@@ -1340,6 +1343,7 @@ https://builtin.com/job/software-quality-assurance-engineer/7122208
 https://builtin.com/job/software-quality-assurance-engineer/7269144
 https://builtin.com/job/software-quality-assurance-engineer/7390006
 https://builtin.com/job/software-quality-assurance-engineer/7637685
+https://builtin.com/job/software-quality-assurance-engineer/7698069
 https://builtin.com/job/software-quality-engineer/7292823
 https://builtin.com/job/software-research-engineer/7259955
 https://builtin.com/job/software-solutions-architect-rapidscale/7082287
