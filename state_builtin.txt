@@ -76,6 +76,7 @@ https://builtin.com/job/assistant-manager-lincolnwood-t-c/7134198
 https://builtin.com/job/assistant-manager-polaris-t-c/7246221
 https://builtin.com/job/assistant-manager-stone-creek-t-c/7309899
 https://builtin.com/job/assistant-manager-turkey-creek-s-c/7314147
+https://builtin.com/job/assoc-developer/7700333
 https://builtin.com/job/associate-account-executive-p-c-account-manager/7437945
 https://builtin.com/job/associate-account-manager/7267639
 https://builtin.com/job/associate-accounting-analyst-accounting-finance-graduates-2026/7159246
@@ -380,6 +381,7 @@ https://builtin.com/job/engineer-ii-ui-ux/7686298
 https://builtin.com/job/engineer-ii/7313959
 https://builtin.com/job/engineer-ii/7469360
 https://builtin.com/job/engineer-ii/7669577
+https://builtin.com/job/engineer-ii/7699204
 https://builtin.com/job/engineer-test-automation/7482110
 https://builtin.com/job/engineer-vehicle-ee-system-validation/7489854
 https://builtin.com/job/engineering-manager-client-solutions/7604784
@@ -548,6 +550,7 @@ https://builtin.com/job/internship-customer-success-software-engineer-summer-202
 https://builtin.com/job/internship-software-engineer-summer-2026/7087912
 https://builtin.com/job/intrusion-analyst-3-ccas-accepted/7176637
 https://builtin.com/job/intrusion-analyst-3/7444784
+https://builtin.com/job/investment-analyst-quantitative-investment-strategy/7701016
 https://builtin.com/job/investment-analyst/7457870
 https://builtin.com/job/investran-funds-services-systems-analyst/7466724
 https://builtin.com/job/ios-engineer/7691247
@@ -943,6 +946,7 @@ https://builtin.com/job/senior-software-engineer/7416392
 https://builtin.com/job/senior-software-engineer/7425256
 https://builtin.com/job/senior-software-engineer/7456145
 https://builtin.com/job/senior-software-engineer/7506157
+https://builtin.com/job/senior-software-engineer/7698838
 https://builtin.com/job/senior-software-engineering-support/7096600
 https://builtin.com/job/senior-solutions-architects-atlas-stream-processing/7091277
 https://builtin.com/job/senior-solutions-integration-architect-736/7079522
@@ -1332,6 +1336,7 @@ https://builtin.com/job/software-engineer/7660703
 https://builtin.com/job/software-engineer/7669153
 https://builtin.com/job/software-engineer/7685559
 https://builtin.com/job/software-engineer/7686016
+https://builtin.com/job/software-engineer/7700999
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -1349,6 +1354,7 @@ https://builtin.com/job/software-research-engineer/7259955
 https://builtin.com/job/software-solutions-architect-rapidscale/7082287
 https://builtin.com/job/software-support-analyst/7431093
 https://builtin.com/job/software-support-engineer/7271575
+https://builtin.com/job/software-support-engineering/7700420
 https://builtin.com/job/software-systems-engineer-ii-sql-developer-dba/7689592
 https://builtin.com/job/software-systems-engineer-iv-net-ext-js/7689684
 https://builtin.com/job/software-test-engineer-2/7159961
@@ -1428,6 +1434,7 @@ https://builtin.com/job/technical-artist/7243575
 https://builtin.com/job/technical-artist/7365144
 https://builtin.com/job/technical-client-support-analyst/7305405
 https://builtin.com/job/technical-client-support-analyst/7334797
+https://builtin.com/job/technical-consultant-digital-twin/7700162
 https://builtin.com/job/technical-implementation-manager-paze/7456518
 https://builtin.com/job/technical-solutions-associate/7114948
 https://builtin.com/job/technical-specialist-junior-remote/7164361
