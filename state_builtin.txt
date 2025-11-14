@@ -234,6 +234,7 @@ https://builtin.com/job/c-software-engineer-ii-arcgis-geocoding/7223808
 https://builtin.com/job/c-software-engineer/7126317
 https://builtin.com/job/c-software-engineer/7441370
 https://builtin.com/job/c-software-engineer/7663382
+https://builtin.com/job/c-web-developer/7704100
 https://builtin.com/job/cam-development-engineer/7198257
 https://builtin.com/job/casting-operator-i/7496214
 https://builtin.com/job/casting-operator/7191437
@@ -591,6 +592,7 @@ https://builtin.com/job/junior-ai-nlp-machine-learning-engineer-2/7270983
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7212658
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226290
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226371
+https://builtin.com/job/junior-c-developer/7704095
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210415
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210459
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226287
@@ -832,6 +834,7 @@ https://builtin.com/job/pt-floral-manager/7315230
 https://builtin.com/job/qa-analyst/7276529
 https://builtin.com/job/qa-analyst/7288424
 https://builtin.com/job/qa-analyst/7289300
+https://builtin.com/job/qa-analyst/7704583
 https://builtin.com/job/qa-automation-engineer/7290762
 https://builtin.com/job/qa-engineer-i-visualization/7123529
 https://builtin.com/job/qa-engineer/7230457
@@ -864,6 +867,8 @@ https://builtin.com/job/returning-new-grad-software-engineer-i-great-lakes-divis
 https://builtin.com/job/risk-quantitative-analyst-allowance-credit-loss/7334639
 https://builtin.com/job/robotics-software-engineer-ii/7519191
 https://builtin.com/job/sales-engineer/7370455
+https://builtin.com/job/salesforce-support-manager/7704815
+https://builtin.com/job/salesforce-support-manager/7704817
 https://builtin.com/job/scan-coordinator/7437693
 https://builtin.com/job/scan-coordinator/7625721
 https://builtin.com/job/scrum-master/7693608
