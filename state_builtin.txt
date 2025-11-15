@@ -1120,6 +1120,7 @@ https://builtin.com/job/software-engineer-digital-solutions-implementations/7334
 https://builtin.com/job/software-engineer-duck-creek/7458808
 https://builtin.com/job/software-engineer-electrical-test/7350132
 https://builtin.com/job/software-engineer-entry-level/7282703
+https://builtin.com/job/software-engineer-financial-services-portfolio-us-tax-senior-associate/7713081
 https://builtin.com/job/software-engineer-fraud-detection/7524581
 https://builtin.com/job/software-engineer-fraud-detection/7531782
 https://builtin.com/job/software-engineer-full-stack-and-mobile/7416390
@@ -1460,6 +1461,7 @@ https://builtin.com/job/technical-artist/7365144
 https://builtin.com/job/technical-client-support-analyst/7305405
 https://builtin.com/job/technical-client-support-analyst/7334797
 https://builtin.com/job/technical-consultant-digital-twin/7700162
+https://builtin.com/job/technical-consultant-digital-twin/7713327
 https://builtin.com/job/technical-consultant-rtsm-remote/7707974
 https://builtin.com/job/technical-consultant-rtsm-remote/7708447
 https://builtin.com/job/technical-consultant-rtsm-remote/7708604
