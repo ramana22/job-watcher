@@ -14,6 +14,7 @@ https://builtin.com/job/aladdin-client-experience-associate-vp/7637903
 https://builtin.com/job/analyst-simulation-developer-25-374/7683280
 https://builtin.com/job/analytics-engineer-ii/7577304
 https://builtin.com/job/analytics-strategy-multiple-positions-available/7502555
+https://builtin.com/job/android-developer/7713658
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-support-engineer/7574954
 https://builtin.com/job/application-support-engineer/7646156
@@ -124,6 +125,7 @@ https://builtin.com/job/fullstack-developer-sencha-extjsdallas/7713903
 https://builtin.com/job/gen-ai-developer-senior-consultant-ii/7663857
 https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/hadoop-developer/7680486
+https://builtin.com/job/hadoop-sdet/7713440
 https://builtin.com/job/implementation-consultant-inow/7683337
 https://builtin.com/job/integration-engineer/7616559
 https://builtin.com/job/integration-engineer/7668659
@@ -250,6 +252,7 @@ https://builtin.com/job/process-controls-engineer-ii-iii/7669851
 https://builtin.com/job/product-engineer-ii-arcgis-enterprise-sharing-api/7616493
 https://builtin.com/job/product-engineer-java-spring-boot/7549148
 https://builtin.com/job/product-software-engineer-java-developer/7550376
+https://builtin.com/job/program-manager/7713419
 https://builtin.com/job/qa-analyst-ii/7566538
 https://builtin.com/job/qa-automation-engineer/7644474
 https://builtin.com/job/quality-assurance-specialist-automated-testing-mainframe/7644376
@@ -290,6 +293,7 @@ https://builtin.com/job/software-dev-engineer-ii-backend-data/7564117
 https://builtin.com/job/software-developer-c-cuda/7625417
 https://builtin.com/job/software-developer-engineer-test/7617113
 https://builtin.com/job/software-developer-full-stack/7699818
+https://builtin.com/job/software-developer-full-stack/7713424
 https://builtin.com/job/software-developer-ii-back-end-java-sql/7712709
 https://builtin.com/job/software-developer-ii/7686587
 https://builtin.com/job/software-developer-oo-java/7702622
@@ -314,6 +318,7 @@ https://builtin.com/job/software-development-engineer/7615127
 https://builtin.com/job/software-development-engineer/7616451
 https://builtin.com/job/software-development-engineer/7629409
 https://builtin.com/job/software-development-engineer/7670002
+https://builtin.com/job/software-development/7713093
 https://builtin.com/job/software-engineer-2-aws-python-experience-chicago-il-or-denver-co-onsite/7601409
 https://builtin.com/job/software-engineer-2/7616145
 https://builtin.com/job/software-engineer-3/7600948
@@ -484,9 +489,11 @@ https://builtin.com/job/sw-engineer-ii/7585812
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/team-lead/7577361
 https://builtin.com/job/technical-consultant-digital-twin/7700162
+https://builtin.com/job/technical-consultant-digital-twin/7713327
 https://builtin.com/job/technical-pre-sales-prototyper-forward-deployment-engineer/7588804
 https://builtin.com/job/technical-services-engineer/7574217
 https://builtin.com/job/technical-success-manager/7681544
+https://builtin.com/job/technical-support-analyst/7713687
 https://builtin.com/job/technical-support-engineer/7699938
 https://builtin.com/job/technical-writer/7532853
 https://builtin.com/job/technology-support-i-production/7644601
