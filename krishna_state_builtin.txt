@@ -53,6 +53,7 @@ https://builtin.com/job/business-analyst-idm-engineering-gis/7592076
 https://builtin.com/job/business-intelligence-engineer-ii-healthcare-b2b/7601526
 https://builtin.com/job/camunda-developer/7594765
 https://builtin.com/job/cloud-automation-engineer/7658117
+https://builtin.com/job/cloud-data-platform-engineer-assistant-vice-president/7717654
 https://builtin.com/job/cloud-dba-cassandra-postgres-software-engineer-iii/7502429
 https://builtin.com/job/cloud-operations-engineer/7589269
 https://builtin.com/job/cloud-software-engineer-iii-aws/7596750
