@@ -68,6 +68,7 @@ https://builtin.com/job/application-support/7691192
 https://builtin.com/job/applications-programmer/7524060
 https://builtin.com/job/aprn-pa-c/7644214
 https://builtin.com/job/assistant-chief-engineer-c/7185857
+https://builtin.com/job/assistant-deli-department-manager/7720832
 https://builtin.com/job/assistant-deli-manager/7312949
 https://builtin.com/job/assistant-deli-manager/7437691
 https://builtin.com/job/assistant-embedded-software-engineer/7400267
@@ -715,6 +716,7 @@ https://builtin.com/job/net-developer-experience-creating-custom-apps-sharepoint
 https://builtin.com/job/net-developer-fulltime/7679229
 https://builtin.com/job/net-developer-guid-or-uuid-experience/7688235
 https://builtin.com/job/net-developer-hybrid/7404273
+https://builtin.com/job/net-developer-local-ga-only/7719774
 https://builtin.com/job/net-developer-maui-contract/7348575
 https://builtin.com/job/net-developer-microservices-interfaces/7542948
 https://builtin.com/job/net-developer-remote-us/7569921
@@ -908,6 +910,7 @@ https://builtin.com/job/senior-associate-fund-accounting/7169708
 https://builtin.com/job/senior-associate-hedge-fund-accounting/7261490
 https://builtin.com/job/senior-associate-private-equity-accounting-east-coast-region/7243806
 https://builtin.com/job/senior-associate-private-equity-accounting/7381647
+https://builtin.com/job/senior-associate-private-equity-hedge-tax/7721052
 https://builtin.com/job/senior-associate-private-markets/7212102
 https://builtin.com/job/senior-associate-private-markets/7282476
 https://builtin.com/job/senior-associate-tax-accounting/7656341
@@ -1426,6 +1429,7 @@ https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/707
 https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/7224118
 https://builtin.com/job/sr-sw-engineer-full-stack-developer-react-net-python/7628506
 https://builtin.com/job/sr-sw-engineer/7391708
+https://builtin.com/job/sr-wcf-developer/7720625
 https://builtin.com/job/staff-deploy-software-engineer/7315735
 https://builtin.com/job/staff-full-stack-application-developer/7103361
 https://builtin.com/job/staff-r-d-software-engineer-simulation/7082115
