@@ -356,6 +356,7 @@ https://builtin.com/job/diagnostics-software-engineer/7631235
 https://builtin.com/job/digital-rotational-program-associate/7070223
 https://builtin.com/job/digital-twin-analyst/7246971
 https://builtin.com/job/director-product-management-risk-platform/7085429
+https://builtin.com/job/docusign-technical-support-analyst/7724639
 https://builtin.com/job/dynamics-365-developer-remote-opportunity/7272393
 https://builtin.com/job/dynamics-365-developer-remote-opportunity/7600339
 https://builtin.com/job/dynamics-365-f-o-technical-solution-engineer/7175464
@@ -366,6 +367,7 @@ https://builtin.com/job/edi-data-integrations-engineer-ii/7600523
 https://builtin.com/job/edi-software-engineer/7077347
 https://builtin.com/job/editor-software-developer-liveops-developer-experience/7345894
 https://builtin.com/job/ehs-manager/7458000
+https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
 https://builtin.com/job/embedded-software-engineer/7290861
 https://builtin.com/job/embedded-systems-engineer/7113343
@@ -464,6 +466,7 @@ https://builtin.com/job/front-end-engineer/7583301
 https://builtin.com/job/front-end-full-stack-net-developer/7688365
 https://builtin.com/job/front-end-software-developer/7423287
 https://builtin.com/job/fta-generalist-dayshift/7433351
+https://builtin.com/job/fta-hi-lo-operator-dayshift/7724679
 https://builtin.com/job/fta-lift-operator/7515566
 https://builtin.com/job/fta-loader-days/7524210
 https://builtin.com/job/fta-unloader-days/7198164
@@ -576,6 +579,7 @@ https://builtin.com/job/it-software-engineer/7407611
 https://builtin.com/job/it-software-engineer/7414523
 https://builtin.com/job/it-support-specialist-system-applications/7326544
 https://builtin.com/job/it-systems-administrator-tps-1/7280666
+https://builtin.com/job/java-backend-developer/7722826
 https://builtin.com/job/java-consultant-servicenow/7693506
 https://builtin.com/job/java-developer/7124151
 https://builtin.com/job/job-description-ui-developer-redmond-wa/7680287
@@ -692,6 +696,7 @@ https://builtin.com/job/mid-senior-software-developer/7506739
 https://builtin.com/job/mid-senior-software-developer/7506740
 https://builtin.com/job/mid-senior-software-developer/7506748
 https://builtin.com/job/mid-senior-software-developer/7506753
+https://builtin.com/job/mid-senior-software-developer/7722678
 https://builtin.com/job/mobile-engineer/7170909
 https://builtin.com/job/modeling-and-grid-integration-engineer/7449573
 https://builtin.com/job/modeling-and-simulation-engineer/7260082
@@ -1367,6 +1372,7 @@ https://builtin.com/job/software-engineer/7669153
 https://builtin.com/job/software-engineer/7685559
 https://builtin.com/job/software-engineer/7686016
 https://builtin.com/job/software-engineer/7700999
+https://builtin.com/job/software-engineer/7724516
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
