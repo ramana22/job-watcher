@@ -249,6 +249,7 @@ https://builtin.com/job/category-field-execution-supervisor/7729395
 https://builtin.com/job/cema-senior-software-engineer/7142091
 https://builtin.com/job/claims-examiner/7379634
 https://builtin.com/job/cleared-onsite-software-engineer-pending-award/7172693
+https://builtin.com/job/client-advisor-public-entity-p-c/7735879
 https://builtin.com/job/client-manager-p-c-accounts/7269713
 https://builtin.com/job/client-services-analyst-i/7665526
 https://builtin.com/job/client-success-coordinator-managed-accounts/7440152
@@ -270,6 +271,7 @@ https://builtin.com/job/consultant-offensive-security/7147066
 https://builtin.com/job/consulting-engineer/7244928
 https://builtin.com/job/content-writer-senior-associate-c-o-associate-insight-and-media-team/7403643
 https://builtin.com/job/controls-engineer-i/7377576
+https://builtin.com/job/controls-engineer/7736100
 https://builtin.com/job/conversion-engineer/7333210
 https://builtin.com/job/copilot-ai-developer/7434809
 https://builtin.com/job/copilot-ai-developer/7469865
@@ -1001,6 +1003,7 @@ https://builtin.com/job/share-point-developer/7680354
 https://builtin.com/job/sharepoint-administrator-developer/7691154
 https://builtin.com/job/sharepoint-developer/7572186
 https://builtin.com/job/sharepoint-developer/7692341
+https://builtin.com/job/sharepoint-developer/7736263
 https://builtin.com/job/sharepoint-engineer/7085159
 https://builtin.com/job/sharepoint-k2-architect/7689260
 https://builtin.com/job/shipping-coordinator-c-shift/7104914
@@ -1024,6 +1027,7 @@ https://builtin.com/job/software-application-development-engineer/7334332
 https://builtin.com/job/software-controls-engineer-iii/7533732
 https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-debugging-engineer/7417194
+https://builtin.com/job/software-design-engineer/7735142
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-2/7354433
 https://builtin.com/job/software-developer-3/7693654
@@ -1225,6 +1229,7 @@ https://builtin.com/job/software-engineer-ii/7585166
 https://builtin.com/job/software-engineer-ii/7616727
 https://builtin.com/job/software-engineer-ii/7687636
 https://builtin.com/job/software-engineer-ii/7695403
+https://builtin.com/job/software-engineer-ii/7735766
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
