@@ -1,6 +1,7 @@
 https://builtin.com/job/10748-technical-operations-development-engineer-i/7634880
 https://builtin.com/job/2026-associate-software-engineer/7086188
 https://builtin.com/job/2026-consumer-community-banking-risk-modeling-associate-program-summer-internship/7067369
+https://builtin.com/job/2026-emerging-talent-software-engineers-full-time-united-states-april-2026-start/7736885
 https://builtin.com/job/25-1075-gis-systems-administrator-washington-dc/7725243
 https://builtin.com/job/948-software-engineer/7574335
 https://builtin.com/job/account-administrator/7198466
@@ -15,6 +16,7 @@ https://builtin.com/job/acp-generalist-dayshift/7627736
 https://builtin.com/job/actuarial-consultant-p-c-pricing/7681438
 https://builtin.com/job/actuarial-sr-analyst-p-c/7244765
 https://builtin.com/job/actuary-opportunities/7640623
+https://builtin.com/job/administrative-assistant-ii/7740127
 https://builtin.com/job/advanced-software-engineer/7122414
 https://builtin.com/job/advanced-support-engineer-ii/7518138
 https://builtin.com/job/agentic-ai-architect/7641897
@@ -413,6 +415,7 @@ https://builtin.com/job/enterprise-architect/7150071
 https://builtin.com/job/enterprise-technical-architect-pre-sales/7526185
 https://builtin.com/job/entry-level-c-software-developer/7164404
 https://builtin.com/job/entry-level-c-software-developer/7164411
+https://builtin.com/job/entry-level-sales-representative/7738542
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304133
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304134
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304135
@@ -615,6 +618,7 @@ https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7212658
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226290
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226371
 https://builtin.com/job/junior-c-developer/7704095
+https://builtin.com/job/junior-c-developer/7739400
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210415
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210459
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226287
@@ -685,6 +689,7 @@ https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/market-manager/7326164
 https://builtin.com/job/marketplace-platform-product-manager/7347018
 https://builtin.com/job/mes-sftp-integration-developer/7225959
+https://builtin.com/job/mezzanine-generalist-dayshift/7740125
 https://builtin.com/job/microsoft-dynamics-developer/7710304
 https://builtin.com/job/microsoft-net-core-microservices-developer/7635807
 https://builtin.com/job/microsoft-net-software-developer/7151498
@@ -915,6 +920,7 @@ https://builtin.com/job/sdet-software-development-engineer-test/7688802
 https://builtin.com/job/sdet/7248666
 https://builtin.com/job/sdet/7679842
 https://builtin.com/job/sdet/7688911
+https://builtin.com/job/seasonal-way-onward-sales-associate-brandywine-t-c/7737659
 https://builtin.com/job/security-engineer-iii-saas-intelligence/7183476
 https://builtin.com/job/security-operations-center-engineer/7091122
 https://builtin.com/job/seismologist/7658851
@@ -1393,6 +1399,7 @@ https://builtin.com/job/software-engineer/7700999
 https://builtin.com/job/software-engineer/7724516
 https://builtin.com/job/software-engineer/7724778
 https://builtin.com/job/software-engineer/7725010
+https://builtin.com/job/software-engineer/7738707
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -1544,6 +1551,7 @@ https://builtin.com/job/v2x-test-and-development-engineer/7302826
 https://builtin.com/job/vb-net-developer-support/7692523
 https://builtin.com/job/visualization-engineer/7447838
 https://builtin.com/job/vulnerability-assessments-automation-developer/7505203
+https://builtin.com/job/way-onward-sales-associate-brandywine-t-c/7737660
 https://builtin.com/job/we-are-looking-fe-ui-angular-developer-redmond-wa/7680300
 https://builtin.com/job/we-are-looking-net-developer-redmond-wa/7679830
 https://builtin.com/job/web-app-pen-tester/7100182
