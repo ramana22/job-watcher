@@ -116,6 +116,7 @@ https://builtin.com/job/founding-full-stack-software-engineer-senior-staff-vc-ba
 https://builtin.com/job/front-end-java-developer/7529901
 https://builtin.com/job/front-end-java-developer/7713916
 https://builtin.com/job/front-end-java-developers-jsf/7713915
+https://builtin.com/job/front-end-software-engineer/7733221
 https://builtin.com/job/frontend-engineer/7711381
 https://builtin.com/job/full-stack-developer-java-angularjs/7702636
 https://builtin.com/job/full-stack-developer-remote-opportunity/7565114
@@ -330,6 +331,7 @@ https://builtin.com/job/software-development-engineer-ii/7719240
 https://builtin.com/job/software-development-engineer-ii/7719241
 https://builtin.com/job/software-development-engineer-iii/7516117
 https://builtin.com/job/software-development-engineer-java-backend/7729209
+https://builtin.com/job/software-development-engineer-test-mobile/7734605
 https://builtin.com/job/software-development-engineer-test-sdet-ii/7686491
 https://builtin.com/job/software-development-engineer-test-sdet/7699534
 https://builtin.com/job/software-development-engineer-test/7519478
@@ -429,6 +431,7 @@ https://builtin.com/job/software-engineer-iii/7710415
 https://builtin.com/job/software-engineer-infrastructure/7565092
 https://builtin.com/job/software-engineer-java-full-stack/7689293
 https://builtin.com/job/software-engineer-java-microservices/7610140
+https://builtin.com/job/software-engineer-java-spring-boot/7734131
 https://builtin.com/job/software-engineer-java-spring-microservices/7497420
 https://builtin.com/job/software-engineer-java/7566682
 https://builtin.com/job/software-engineer-java/7700079
