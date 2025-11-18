@@ -370,6 +370,7 @@ https://builtin.com/job/earthquake-engineer/7658863
 https://builtin.com/job/ecornell-salesforce-developer-remote/7431133
 https://builtin.com/job/edi-data-integrations-engineer-ii/7600523
 https://builtin.com/job/edi-software-engineer/7077347
+https://builtin.com/job/edifecs-developer/7730725
 https://builtin.com/job/editor-software-developer-liveops-developer-experience/7345894
 https://builtin.com/job/ehs-manager/7458000
 https://builtin.com/job/electronic-security-application-programmer/7722188
@@ -784,6 +785,7 @@ https://builtin.com/job/net-oracle-developer/7537618
 https://builtin.com/job/net-software-developer/7101671
 https://builtin.com/job/net-software-developer/7493262
 https://builtin.com/job/net-software-developer/7505981
+https://builtin.com/job/net-software-development-engineer/7730814
 https://builtin.com/job/net-software-engineer-ii/7289102
 https://builtin.com/job/net-software-engineer-platform-upgrade-tooling-platform-experience/7221048
 https://builtin.com/job/net-software-engineer-platform-upgrade-tooling/7581817
@@ -887,6 +889,7 @@ https://builtin.com/job/quantitative-research-analyst/7370391
 https://builtin.com/job/quantitative-research-analyst/7401952
 https://builtin.com/job/r-d-software-developer-transformers/7214043
 https://builtin.com/job/r-d-software-engineer-i/7570300
+https://builtin.com/job/radiological-engineer/7731066
 https://builtin.com/job/range-air-traffic-controller-ratc-c/7262604
 https://builtin.com/job/realtime-solutions-engineer/7514958
 https://builtin.com/job/red-team-operator/7444992
