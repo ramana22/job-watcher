@@ -393,6 +393,7 @@ https://builtin.com/job/eng-ii-identity-lifecycle-engineer/7074832
 https://builtin.com/job/engagement-specialist/7390052
 https://builtin.com/job/engineer-2-selling-empowerment-team/7712551
 https://builtin.com/job/engineer-i-manufacturing/7283162
+https://builtin.com/job/engineer-ii-full-stack-web-developer/7750266
 https://builtin.com/job/engineer-ii-go-java-react-microservices-kubernetes/7271383
 https://builtin.com/job/engineer-ii-net/7697351
 https://builtin.com/job/engineer-ii-net/7730250
@@ -440,6 +441,7 @@ https://builtin.com/job/entry-level-software-engineer/7456438
 https://builtin.com/job/entry-level-trader/7495422
 https://builtin.com/job/epic-client-systems-administrator-application-ripplematch/7484800
 https://builtin.com/job/epic-software-developer-application-ripplematch/7484799
+https://builtin.com/job/erp-analyst/7749442
 https://builtin.com/job/erp-software-engineer/7743334
 https://builtin.com/job/escalations-engineer/7597588
 https://builtin.com/job/etl-developer-lead-consultant/7390415
@@ -650,6 +652,7 @@ https://builtin.com/job/junior-software-developer/7127518
 https://builtin.com/job/junior-software-developer/7322705
 https://builtin.com/job/junior-software-developer/7333060
 https://builtin.com/job/junior-software-developer/7370506
+https://builtin.com/job/junior-software-developer/7750142
 https://builtin.com/job/junior-software-engineer-ai-agents/7122849
 https://builtin.com/job/junior-software-engineer-ai-agents/7122854
 https://builtin.com/job/junior-software-engineer-remote/7103959
@@ -819,6 +822,7 @@ https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pen
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pentesting-remote/7151647
 https://builtin.com/job/oi-system-engineer/7374131
 https://builtin.com/job/oliver-wyman-veritas-endur-mid-level-developer-technical-consultant/7560475
+https://builtin.com/job/operations-analyst/7751314
 https://builtin.com/job/operations-associate-c-shift/7212442
 https://builtin.com/job/operations-automation-analyst/7299322
 https://builtin.com/job/operations-automation-analyst/7615644
@@ -1268,6 +1272,7 @@ https://builtin.com/job/software-engineer-iii/7480065
 https://builtin.com/job/software-engineer-iii/7573241
 https://builtin.com/job/software-engineer-iii/7573247
 https://builtin.com/job/software-engineer-iii/7602508
+https://builtin.com/job/software-engineer-iii/7751785
 https://builtin.com/job/software-engineer-it-software-engineers/7610393
 https://builtin.com/job/software-engineer-iv/7478213
 https://builtin.com/job/software-engineer-junior/7657744
@@ -1416,6 +1421,7 @@ https://builtin.com/job/software-engineer/7725010
 https://builtin.com/job/software-engineer/7738707
 https://builtin.com/job/software-engineer/7741592
 https://builtin.com/job/software-engineer/7742696
+https://builtin.com/job/software-engineer/7749457
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
