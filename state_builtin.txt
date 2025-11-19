@@ -16,6 +16,7 @@ https://builtin.com/job/acp-generalist-dayshift/7627736
 https://builtin.com/job/actuarial-consultant-p-c-pricing/7681438
 https://builtin.com/job/actuarial-sr-analyst-p-c/7244765
 https://builtin.com/job/actuary-opportunities/7640623
+https://builtin.com/job/ad-promotions-planning-manager/7741243
 https://builtin.com/job/administrative-assistant-ii/7740127
 https://builtin.com/job/advanced-software-engineer/7122414
 https://builtin.com/job/advanced-support-engineer-ii/7518138
@@ -146,6 +147,7 @@ https://builtin.com/job/automated-trading-strategies-ai-machine-learning-researc
 https://builtin.com/job/automation-controls-engineer/7280284
 https://builtin.com/job/automation-controls-engineer/7313884
 https://builtin.com/job/automation-controls-engineer/7469966
+https://builtin.com/job/automation-controls-engineer/7740914
 https://builtin.com/job/automation-controls-integration-engineer-ii/7313875
 https://builtin.com/job/automation-engineer-iii/7123691
 https://builtin.com/job/automation-engineer/7137854
@@ -285,6 +287,7 @@ https://builtin.com/job/cos-operator-i/7191439
 https://builtin.com/job/cos-operator-i/7204206
 https://builtin.com/job/cos-operator-i/7476950
 https://builtin.com/job/cos-operator/7305371
+https://builtin.com/job/cpm-systems-sr-manager-onestream/7741719
 https://builtin.com/job/crm-developer/7680339
 https://builtin.com/job/crm-devops-engineer/7479775
 https://builtin.com/job/customer-account-specialist/7137194
@@ -416,6 +419,7 @@ https://builtin.com/job/enterprise-technical-architect-pre-sales/7526185
 https://builtin.com/job/entry-level-c-software-developer/7164404
 https://builtin.com/job/entry-level-c-software-developer/7164411
 https://builtin.com/job/entry-level-sales-representative/7738542
+https://builtin.com/job/entry-level-software-developer/7742255
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304133
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304134
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304135
@@ -564,6 +568,7 @@ https://builtin.com/job/infrastructure-engineer-remote/7665194
 https://builtin.com/job/infrastructure-engineer/7122441
 https://builtin.com/job/insurance-solutions-specialist/7198459
 https://builtin.com/job/integration-and-technical-support-specialist-payments/7686594
+https://builtin.com/job/integration-developer-rhapsody-net/7741083
 https://builtin.com/job/integration-engineer-i-c-level-ii/7656917
 https://builtin.com/job/integration-engineer-remote-opportunity/7114801
 https://builtin.com/job/integration-test-engineer-tuesday-saturday/7325932
@@ -872,6 +877,10 @@ https://builtin.com/job/qa-analyst/7276529
 https://builtin.com/job/qa-analyst/7288424
 https://builtin.com/job/qa-analyst/7289300
 https://builtin.com/job/qa-analyst/7704583
+https://builtin.com/job/qa-analyst/7740321
+https://builtin.com/job/qa-analyst/7741265
+https://builtin.com/job/qa-analyst/7741747
+https://builtin.com/job/qa-analyst/7741907
 https://builtin.com/job/qa-automation-engineer/7290762
 https://builtin.com/job/qa-engineer-i-visualization/7123529
 https://builtin.com/job/qa-engineer/7230457
@@ -884,6 +893,7 @@ https://builtin.com/job/qa-selenium/7680431
 https://builtin.com/job/qa-software-engineer-ii/7139775
 https://builtin.com/job/qa-tester/7635809
 https://builtin.com/job/quality-analyst-world-warcraft-boston-ma/7337086
+https://builtin.com/job/quality-assurance-engineer-investment-management/7740320
 https://builtin.com/job/quality-assurance-engineer/7077531
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7494725
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7729426
@@ -1005,6 +1015,7 @@ https://builtin.com/job/senior-web-developer-usa/7359985
 https://builtin.com/job/servicenow-developer/7688790
 https://builtin.com/job/servicenow-developer/7689199
 https://builtin.com/job/servicenow-developer/7689215
+https://builtin.com/job/servicenow-sys-admin/7741609
 https://builtin.com/job/share-point-developer/7680354
 https://builtin.com/job/sharepoint-administrator-developer/7691154
 https://builtin.com/job/sharepoint-developer/7572186
@@ -1400,6 +1411,8 @@ https://builtin.com/job/software-engineer/7724516
 https://builtin.com/job/software-engineer/7724778
 https://builtin.com/job/software-engineer/7725010
 https://builtin.com/job/software-engineer/7738707
+https://builtin.com/job/software-engineer/7741592
+https://builtin.com/job/software-engineer/7742696
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
