@@ -439,6 +439,7 @@ https://builtin.com/job/entry-level-software-engineer/7456438
 https://builtin.com/job/entry-level-trader/7495422
 https://builtin.com/job/epic-client-systems-administrator-application-ripplematch/7484800
 https://builtin.com/job/epic-software-developer-application-ripplematch/7484799
+https://builtin.com/job/erp-software-engineer/7743334
 https://builtin.com/job/escalations-engineer/7597588
 https://builtin.com/job/etl-developer-lead-consultant/7390415
 https://builtin.com/job/etl-integration-developer/7594818
