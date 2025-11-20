@@ -794,6 +794,7 @@ https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-engineer/7656382
 https://builtin.com/job/net-front-end-developer/7688488
 https://builtin.com/job/net-full-stack-data-engineer/7112486
+https://builtin.com/job/net-full-stack-developers-future-opportunities-pipeline-posting/7752922
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
 https://builtin.com/job/net-graphql-engineer-w2-role/7330049
 https://builtin.com/job/net-graphql-engineer-w2-role/7414752
@@ -840,6 +841,7 @@ https://builtin.com/job/payroll-specialist-lll/7516612
 https://builtin.com/job/pc-engineer/7543539
 https://builtin.com/job/penetration-tester-associate-vice-president/7271023
 https://builtin.com/job/performance-sdet/7688816
+https://builtin.com/job/performance-testing-engineer-ii/7753920
 https://builtin.com/job/personal-banker-northern-lights-and-c-street/7165452
 https://builtin.com/job/personal-banker-northern-lights-and-c-street/7743983
 https://builtin.com/job/personal-lines-sales-producer-p-c-insurance/7385344
@@ -869,6 +871,8 @@ https://builtin.com/job/product-engineer-i-gis-applications-desktop-web/7210204
 https://builtin.com/job/product-engineer-ii-data-reviewer/7187600
 https://builtin.com/job/product-engineer-ii-generative-ai-assistants-arcgis-pro/7173514
 https://builtin.com/job/product-engineer-ii-geocoding-data-engineering-and-automation/7347341
+https://builtin.com/job/product-manager-consumer/7749517
+https://builtin.com/job/product-manager/7749542
 https://builtin.com/job/product-software-engineer-java-developer/7550376
 https://builtin.com/job/product-support-engineer/7455085
 https://builtin.com/job/product-support-engineer/7470160
@@ -920,6 +924,7 @@ https://builtin.com/job/red-team-operator/7444992
 https://builtin.com/job/remote-ai-engineer/7404451
 https://builtin.com/job/reset-supervisor/7460190
 https://builtin.com/job/returning-new-grad-software-engineer-i-great-lakes-division-current-former-hntb-interns-only/7543558
+https://builtin.com/job/revenue-assurance-representative/7752487
 https://builtin.com/job/risk-quantitative-analyst-allowance-credit-loss/7334639
 https://builtin.com/job/robotics-software-engineer-ii/7519191
 https://builtin.com/job/rpa-developer-ui-path-dod-clearance-eligible/7711867
@@ -1207,10 +1212,12 @@ https://builtin.com/job/software-engineer-ii-c-net/7096906
 https://builtin.com/job/software-engineer-ii-c-python/7283382
 https://builtin.com/job/software-engineer-ii-custom-solutions/7493846
 https://builtin.com/job/software-engineer-ii-data-applications-hybrid-clinton-pa/7642493
+https://builtin.com/job/software-engineer-ii-data-engineer/7754006
 https://builtin.com/job/software-engineer-ii-gateway/7494036
 https://builtin.com/job/software-engineer-ii-java-retail/7427250
 https://builtin.com/job/software-engineer-ii-java-retail/7427252
 https://builtin.com/job/software-engineer-ii-java-retail/7427258
+https://builtin.com/job/software-engineer-ii-java/7752559
 https://builtin.com/job/software-engineer-ii-net-developer-c-net-asp-net-sql/7615365
 https://builtin.com/job/software-engineer-ii-net/7139773
 https://builtin.com/job/software-engineer-ii-north-american-sports/7276316
@@ -1428,6 +1435,7 @@ https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
 https://builtin.com/job/software-qa-analyst/7177836
+https://builtin.com/job/software-qa-engineer/7753632
 https://builtin.com/job/software-quality-assurance-engineer-hybrid/7271334
 https://builtin.com/job/software-quality-assurance-engineer/7122208
 https://builtin.com/job/software-quality-assurance-engineer/7269144
@@ -1579,6 +1587,7 @@ https://builtin.com/job/we-are-looking-net-developer-redmond-wa/7679830
 https://builtin.com/job/web-app-pen-tester/7100182
 https://builtin.com/job/web-application-developer-ts-sci-poly/7160298
 https://builtin.com/job/web-applications-developer/7374548
+https://builtin.com/job/web-applications-programmer/7754434
 https://builtin.com/job/web-data-extraction-engineer/7633955
 https://builtin.com/job/web-database-developer/7644059
 https://builtin.com/job/web-database-developer/7644073
