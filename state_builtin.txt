@@ -61,6 +61,7 @@ https://builtin.com/job/application-developer/7112642
 https://builtin.com/job/application-developer/7405974
 https://builtin.com/job/application-developer/7419475
 https://builtin.com/job/application-developer/7424638
+https://builtin.com/job/application-developer/7763559
 https://builtin.com/job/application-development-senior-consultant-business-transformation/7427418
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-engineer-remote-us-based-candidates/7504636
@@ -346,6 +347,7 @@ https://builtin.com/job/design-engineer/7448163
 https://builtin.com/job/design-engineer/7630688
 https://builtin.com/job/design-system-developer-engineer/7225951
 https://builtin.com/job/design-system-developer-engineer/7544773
+https://builtin.com/job/desktop-support-analyst/7763945
 https://builtin.com/job/destiny-gameplay-systems-engineer-mid-senior/7390015
 https://builtin.com/job/dev-hft-c-core-systems-developer-3-10-years-experience/7307205
 https://builtin.com/job/developer-advocate/7450005
@@ -723,6 +725,7 @@ https://builtin.com/job/mid-senior-software-developer/7506740
 https://builtin.com/job/mid-senior-software-developer/7506748
 https://builtin.com/job/mid-senior-software-developer/7506753
 https://builtin.com/job/mid-senior-software-developer/7722678
+https://builtin.com/job/mid-senior-software-developer/7764025
 https://builtin.com/job/mobile-engineer/7170909
 https://builtin.com/job/modeling-and-grid-integration-engineer/7449573
 https://builtin.com/job/modeling-and-simulation-engineer/7260082
@@ -857,6 +860,7 @@ https://builtin.com/job/pos-specialist/7073905
 https://builtin.com/job/power-platform-developer/7100465
 https://builtin.com/job/power-platform-developer/7131499
 https://builtin.com/job/power-platform-developer/7196888
+https://builtin.com/job/power-platform-developer/7764041
 https://builtin.com/job/power-platform-engineer/7370843
 https://builtin.com/job/power-platform-software-engineer/7090511
 https://builtin.com/job/power-platform-software-engineer/7301716
@@ -922,6 +926,7 @@ https://builtin.com/job/radiological-engineer/7731066
 https://builtin.com/job/range-air-traffic-controller-ratc-c/7262604
 https://builtin.com/job/realtime-solutions-engineer/7514958
 https://builtin.com/job/red-team-operator/7444992
+https://builtin.com/job/red-team-operator/7763006
 https://builtin.com/job/remote-ai-engineer/7404451
 https://builtin.com/job/reset-supervisor/7460190
 https://builtin.com/job/returning-new-grad-software-engineer-i-great-lakes-division-current-former-hntb-interns-only/7543558
@@ -1150,6 +1155,7 @@ https://builtin.com/job/software-engineer-ai-systems/7212838
 https://builtin.com/job/software-engineer-ai/7577129
 https://builtin.com/job/software-engineer-apps-i/7129197
 https://builtin.com/job/software-engineer-associate/7435307
+https://builtin.com/job/software-engineer-aws-net-python-terraform-site/7763017
 https://builtin.com/job/software-engineer-back-end/7609487
 https://builtin.com/job/software-engineer-back-end/7662441
 https://builtin.com/job/software-engineer-backend-services/7643268
@@ -1525,6 +1531,7 @@ https://builtin.com/job/systems-integrator-tempus/7316918
 https://builtin.com/job/systems-programmer-web-sharepoint-navy-secret-required/7654065
 https://builtin.com/job/systems-software-engineer-object-oriented-data-analysis-java/7459958
 https://builtin.com/job/systems-software-engineer/7388877
+https://builtin.com/job/systems-software-engineer/7763018
 https://builtin.com/job/tdm-engineer/7164512
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/tech-support-engineer/7689772
@@ -1552,6 +1559,8 @@ https://builtin.com/job/technology-and-innovation-onestream-senior-associate/729
 https://builtin.com/job/technology-apprentice/7126054
 https://builtin.com/job/technology-development-program-associate-february-2026/7086868
 https://builtin.com/job/technology-engineer-java-c-angular-react-js/7451389
+https://builtin.com/job/technology-transaction-advisory-analyst-software/7763077
+https://builtin.com/job/technology-transaction-advisory-senior-analyst-software/7763060
 https://builtin.com/job/technology-transformation-manager/7280243
 https://builtin.com/job/teller-40-hours-circle-c/7284804
 https://builtin.com/job/territory-specialist-personal-lines-p-c-insurance/7394659
