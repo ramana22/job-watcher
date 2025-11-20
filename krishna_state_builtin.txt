@@ -1,3 +1,4 @@
+https://builtin.com/job/2025120-software-engineer/7750185
 https://builtin.com/job/2026-emerging-talent-software-engineers-full-time-united-states-april-2026-start/7736885
 https://builtin.com/job/2026-entry-level-software-engineer/7601760
 https://builtin.com/job/2026-entry-level-software-engineer/7601778
@@ -41,6 +42,7 @@ https://builtin.com/job/associate-software-engineer/7522136
 https://builtin.com/job/associate-software-engineer/7587630
 https://builtin.com/job/associate-software-engineer/7619581
 https://builtin.com/job/associate-software-engineer/7729242
+https://builtin.com/job/associate-software-engineer/7750721
 https://builtin.com/job/associate-technology-analyst/7742869
 https://builtin.com/job/atm-senior-software-engineer/7516670
 https://builtin.com/job/attack-monitoring-analyst-gsoc/7590457
@@ -50,6 +52,7 @@ https://builtin.com/job/automation-test-engineer/7659535
 https://builtin.com/job/aws-engineer-devops/7680499
 https://builtin.com/job/aws-scala-python-software-engineer-iii/7569066
 https://builtin.com/job/back-end-engineer-data-platform/7657982
+https://builtin.com/job/backend-engineer-python-associate/7752540
 https://builtin.com/job/backend-engineer/7743012
 https://builtin.com/job/backend-java-developer-avp/7685376
 https://builtin.com/job/backend-java-engineer-ii-data-pipelines/7739129
@@ -68,6 +71,7 @@ https://builtin.com/job/cloud-operations-engineer/7589269
 https://builtin.com/job/cloud-software-engineer-iii-aws/7596750
 https://builtin.com/job/cloud-software-engineer-iii-kubernetes-aws-terraform/7644630
 https://builtin.com/job/cloudops-engineer-us-remote/7686499
+https://builtin.com/job/computer-engineer-central-engineering/7754490
 https://builtin.com/job/core-java-developer-bridgewater-nj-only-gc-or-citizens/7688984
 https://builtin.com/job/core-java-developer-java-swing-ui-saint-paul-mn/7688428
 https://builtin.com/job/core-java-developer/7679755
@@ -80,6 +84,7 @@ https://builtin.com/job/data-analytics-and-vertical-engineering-claims-domain-en
 https://builtin.com/job/data-and-transformation-associate/7711892
 https://builtin.com/job/data-engineer-2/7616138
 https://builtin.com/job/data-engineer-ii/7730015
+https://builtin.com/job/data-engineer-ii/7755322
 https://builtin.com/job/data-engineer-owned-brands-wholesale/7590159
 https://builtin.com/job/data-engineer/7503243
 https://builtin.com/job/data-engineer/7503246
@@ -112,6 +117,7 @@ https://builtin.com/job/engineer-workday/7585598
 https://builtin.com/job/engineering-data-science-specialist-applied-ai-evaluations/7659296
 https://builtin.com/job/engineering-manager-scheduling/7726059
 https://builtin.com/job/enterprise-operations-engineer-ii/7741545
+https://builtin.com/job/enterprise-sales-engineer-ohio-valley/7752193
 https://builtin.com/job/enterprise-sales-engineer/7554470
 https://builtin.com/job/enterprise-sales-engineer/7640741
 https://builtin.com/job/enterprise-sales-engineer/7696495
@@ -133,6 +139,7 @@ https://builtin.com/job/frontend-engineer/7711381
 https://builtin.com/job/full-stack-developer-java-angularjs/7702636
 https://builtin.com/job/full-stack-developer-remote-opportunity/7565114
 https://builtin.com/job/full-stack-developer/7713933
+https://builtin.com/job/full-stack-developer/7757175
 https://builtin.com/job/full-stack-engineer/7630618
 https://builtin.com/job/full-stack-java-developer-basking-ridge-nj-need-w2/7692864
 https://builtin.com/job/full-stack-java-developer-need-gc-and-usc/7678738
@@ -147,6 +154,7 @@ https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/hadoop-developer/7680486
 https://builtin.com/job/hadoop-sdet/7713440
 https://builtin.com/job/implementation-consultant-inow/7683337
+https://builtin.com/job/industrial-quality-engineer/7750193
 https://builtin.com/job/integration-engineer/7616559
 https://builtin.com/job/integration-engineer/7668659
 https://builtin.com/job/integrations-engineer/7587048
@@ -236,6 +244,7 @@ https://builtin.com/job/lead-software-engineer-back-end-global-payment-network/7
 https://builtin.com/job/lead-software-engineer-back-end/7714221
 https://builtin.com/job/lead-software-engineer-bank-tech/7708823
 https://builtin.com/job/lead-software-engineer-capital-one-software-remote/7612258
+https://builtin.com/job/lead-software-engineer-devops-global-payment-network/7750907
 https://builtin.com/job/lead-software-engineer-devops/7708837
 https://builtin.com/job/lead-software-engineer-full-stack-bank-tech/7630246
 https://builtin.com/job/lead-software-engineer-full-stack-global-payment-network/7666854
@@ -320,6 +329,7 @@ https://builtin.com/job/site-reliability-engineer-req-190/7710655
 https://builtin.com/job/site-reliability-engineer/7518390
 https://builtin.com/job/site-reliability-engineer/7618941
 https://builtin.com/job/software-application-developer/7586769
+https://builtin.com/job/software-applications-development-engineer/7754769
 https://builtin.com/job/software-dev-engineer-i/7601640
 https://builtin.com/job/software-dev-engineer-i/7662301
 https://builtin.com/job/software-dev-engineer-ii-backend-data/7564117
@@ -383,6 +393,7 @@ https://builtin.com/job/software-engineer-data-engineering-otter-seattle/7628013
 https://builtin.com/job/software-engineer-data-ingestion-transformation/7681668
 https://builtin.com/job/software-engineer-data-platform/7694415
 https://builtin.com/job/software-engineer-data-reliability-platform/7602168
+https://builtin.com/job/software-engineer-datacenter/7754762
 https://builtin.com/job/software-engineer-demand-and-supply-planning/7520617
 https://builtin.com/job/software-engineer-devops/7712202
 https://builtin.com/job/software-engineer-distribution-platform/7571477
@@ -407,10 +418,12 @@ https://builtin.com/job/software-engineer-ii-ai-security/7573842
 https://builtin.com/job/software-engineer-ii-applied-ai/7668447
 https://builtin.com/job/software-engineer-ii-backend-healthcare-infra/7658774
 https://builtin.com/job/software-engineer-ii-data-applications-hybrid-clinton-pa/7642493
+https://builtin.com/job/software-engineer-ii-data-engineer/7754006
 https://builtin.com/job/software-engineer-ii-dispute-lifecycle/7711538
 https://builtin.com/job/software-engineer-ii-engineering/7595700
 https://builtin.com/job/software-engineer-ii-java-backend-developer/7512131
 https://builtin.com/job/software-engineer-ii-java/7571544
+https://builtin.com/job/software-engineer-ii-java/7752559
 https://builtin.com/job/software-engineer-ii-orders-pos/7722949
 https://builtin.com/job/software-engineer-ii-technical-leadership-track/7535395
 https://builtin.com/job/software-engineer-ii/7518882
@@ -427,6 +440,7 @@ https://builtin.com/job/software-engineer-ii/7669094
 https://builtin.com/job/software-engineer-ii/7669494
 https://builtin.com/job/software-engineer-ii/7730925
 https://builtin.com/job/software-engineer-ii/7731731
+https://builtin.com/job/software-engineer-ii/7753406
 https://builtin.com/job/software-engineer-iii-applied-ai/7669500
 https://builtin.com/job/software-engineer-iii-aws-cloud-engineer/7575195
 https://builtin.com/job/software-engineer-iii-aws-java-databricks/7644580
@@ -437,6 +451,7 @@ https://builtin.com/job/software-engineer-iii-data-platform/7699969
 https://builtin.com/job/software-engineer-iii-database-java-aws/7682162
 https://builtin.com/job/software-engineer-iii-devops-release-engineer/7568943
 https://builtin.com/job/software-engineer-iii-digital-content-intelligence-space/7596831
+https://builtin.com/job/software-engineer-iii-java-backend/7749811
 https://builtin.com/job/software-engineer-iii-java-mobile-automation-engineer/7575143
 https://builtin.com/job/software-engineer-iii-java-spring/7698574
 https://builtin.com/job/software-engineer-iii-java/7596752
@@ -445,6 +460,8 @@ https://builtin.com/job/software-engineer-iii-machine-learning-engagement-growth
 https://builtin.com/job/software-engineer-iii-sre-production-support/7626454
 https://builtin.com/job/software-engineer-iii-viewpoint/7519067
 https://builtin.com/job/software-engineer-iii/7710415
+https://builtin.com/job/software-engineer-iii/7749802
+https://builtin.com/job/software-engineer-iii/7755086
 https://builtin.com/job/software-engineer-infrastructure/7565092
 https://builtin.com/job/software-engineer-java-full-stack/7689293
 https://builtin.com/job/software-engineer-java-microservices/7610140
@@ -471,6 +488,9 @@ https://builtin.com/job/software-engineer-multiple-positions-available/7502437
 https://builtin.com/job/software-engineer-multiple-positions-available/7583740
 https://builtin.com/job/software-engineer-multiple-positions-available/7654330
 https://builtin.com/job/software-engineer-multiple-positions-available/7682161
+https://builtin.com/job/software-engineer-new-grad/7755131
+https://builtin.com/job/software-engineer-new-grad/7755140
+https://builtin.com/job/software-engineer-open-hiring-senior-software-engineer-level/7754040
 https://builtin.com/job/software-engineer-orchestrated-application-recovery/7741750
 https://builtin.com/job/software-engineer-platform-discovery/7699401
 https://builtin.com/job/software-engineer-platform/7574126
@@ -523,6 +543,7 @@ https://builtin.com/job/software-engineer/7707668
 https://builtin.com/job/software-engineer/7710790
 https://builtin.com/job/software-engineer/7743121
 https://builtin.com/job/software-engineering-manager/7626527
+https://builtin.com/job/software-qa-engineer/7754763
 https://builtin.com/job/software-systems-engineer-iv-java-developer/7689699
 https://builtin.com/job/solutions-analyst-iii-automation-test-engineer/7716856
 https://builtin.com/job/solutions-architect-hunter-team/7700955
@@ -560,6 +581,7 @@ https://builtin.com/job/titanium-engineer/7686967
 https://builtin.com/job/training-systems-simulation-engineer-lunar-mission-operations/7710837
 https://builtin.com/job/travel-demand-modeler-developer/7684670
 https://builtin.com/job/urgent-need-java-full-stack-developer-alfresco-exp/7678045
+https://builtin.com/job/virtual-network-engineer/7755526
 https://builtin.com/job/vp-protocol-engineer-validators/7725911
 https://builtin.com/job/we-are-looking-java-developer-san-jose-ca/7679662
 https://builtin.com/job/web-developer-html-javascript-nodejs-java/7702640
