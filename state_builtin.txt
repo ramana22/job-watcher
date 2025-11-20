@@ -16,6 +16,7 @@ https://builtin.com/job/acp-generalist-dayshift/7627736
 https://builtin.com/job/actuarial-consultant-p-c-pricing/7681438
 https://builtin.com/job/actuarial-sr-analyst-p-c/7244765
 https://builtin.com/job/actuary-opportunities/7640623
+https://builtin.com/job/acumatica-configuration-specialist/7759273
 https://builtin.com/job/ad-promotions-planning-manager/7741243
 https://builtin.com/job/administrative-assistant-ii/7740127
 https://builtin.com/job/advanced-software-engineer/7122414
@@ -1432,6 +1433,7 @@ https://builtin.com/job/software-engineer/7738707
 https://builtin.com/job/software-engineer/7741592
 https://builtin.com/job/software-engineer/7742696
 https://builtin.com/job/software-engineer/7749457
+https://builtin.com/job/software-engineer/7760507
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
