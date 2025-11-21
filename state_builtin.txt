@@ -428,6 +428,7 @@ https://builtin.com/job/entry-level-c-software-developer/7164404
 https://builtin.com/job/entry-level-c-software-developer/7164411
 https://builtin.com/job/entry-level-sales-representative/7738542
 https://builtin.com/job/entry-level-software-developer/7742255
+https://builtin.com/job/entry-level-software-engineer-1/7773585
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304133
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304134
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7304135
@@ -1089,6 +1090,7 @@ https://builtin.com/job/software-developer-net/7085455
 https://builtin.com/job/software-developer-net/7161449
 https://builtin.com/job/software-developer-net/7188587
 https://builtin.com/job/software-developer-net/7188683
+https://builtin.com/job/software-developer-net/7774557
 https://builtin.com/job/software-developer-web/7107192
 https://builtin.com/job/software-developer-web/7107208
 https://builtin.com/job/software-developer-web/7410408
@@ -1130,6 +1132,7 @@ https://builtin.com/job/software-development-engineer-test-sdet-contract-remote/
 https://builtin.com/job/software-development-engineer-test-sdet-hybrid-flexible-options/7480865
 https://builtin.com/job/software-development-engineer-test-sdet/7187226
 https://builtin.com/job/software-development-engineer-test-sdet/7667585
+https://builtin.com/job/software-development-engineer-test-sdet/7772692
 https://builtin.com/job/software-development-engineer-test-sports-platform/7318411
 https://builtin.com/job/software-development-engineer-test-sports-platform/7607921
 https://builtin.com/job/software-development-engineer-test-verifications/7117075
@@ -1195,6 +1198,7 @@ https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/73
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
 https://builtin.com/job/software-engineer-consultant-ii-net-c/7582295
 https://builtin.com/job/software-engineer-digital-solutions-implementations/7334505
+https://builtin.com/job/software-engineer-digital/7774004
 https://builtin.com/job/software-engineer-duck-creek/7458808
 https://builtin.com/job/software-engineer-electrical-test/7350132
 https://builtin.com/job/software-engineer-entry-level/7282703
@@ -1287,6 +1291,7 @@ https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
 https://builtin.com/job/software-engineer-iii-c/7126915
+https://builtin.com/job/software-engineer-iii-corporate-investment-banking-payments-technology/7773123
 https://builtin.com/job/software-engineer-iii-e3/7438818
 https://builtin.com/job/software-engineer-iii-java-mobile-automation-engineer/7575143
 https://builtin.com/job/software-engineer-iii-net-c/7365870
@@ -1302,6 +1307,7 @@ https://builtin.com/job/software-engineer-iii/7573241
 https://builtin.com/job/software-engineer-iii/7573247
 https://builtin.com/job/software-engineer-iii/7602508
 https://builtin.com/job/software-engineer-iii/7751785
+https://builtin.com/job/software-engineer-internal-systems/7774118
 https://builtin.com/job/software-engineer-it-software-engineers/7610393
 https://builtin.com/job/software-engineer-iv/7478213
 https://builtin.com/job/software-engineer-junior/7657744
