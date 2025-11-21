@@ -481,6 +481,7 @@ https://builtin.com/job/formation-operator-i/7669927
 https://builtin.com/job/formation-operator-i/7669928
 https://builtin.com/job/formation-operator-i/7669934
 https://builtin.com/job/founding-engineer-relocate-uk/7342097
+https://builtin.com/job/founding-engineer/7770043
 https://builtin.com/job/founding-software-engineer-healthcare/7416347
 https://builtin.com/job/foundry-automation-software-application-engineer/7434676
 https://builtin.com/job/foundry-automation-software-application-engineer/7434680
@@ -1569,6 +1570,7 @@ https://builtin.com/job/technical-systems-analyst/7522769
 https://builtin.com/job/technical-team-lead-ediscovery-archiving-technology-strategic-data-archive-avp/7103715
 https://builtin.com/job/technical-writer/7102720
 https://builtin.com/job/technology-and-innovation-onestream-senior-associate/7292588
+https://builtin.com/job/technology-and-innovation-onestream-senior-associate/7770207
 https://builtin.com/job/technology-apprentice/7126054
 https://builtin.com/job/technology-development-program-associate-february-2026/7086868
 https://builtin.com/job/technology-engineer-java-c-angular-react-js/7451389
