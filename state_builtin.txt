@@ -918,6 +918,7 @@ https://builtin.com/job/qa-tester/7635809
 https://builtin.com/job/quality-analyst-world-warcraft-boston-ma/7337086
 https://builtin.com/job/quality-assurance-engineer-investment-management/7740320
 https://builtin.com/job/quality-assurance-engineer/7077531
+https://builtin.com/job/quality-assurance-engineer/7771376
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7494725
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7729426
 https://builtin.com/job/quality-development-program/7071392
@@ -1113,6 +1114,7 @@ https://builtin.com/job/software-developer/7628077
 https://builtin.com/job/software-developer/7628128
 https://builtin.com/job/software-developer/7642235
 https://builtin.com/job/software-developer/7679849
+https://builtin.com/job/software-developer/7771307
 https://builtin.com/job/software-development-engineer-2/7523292
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
@@ -1219,6 +1221,7 @@ https://builtin.com/job/software-engineer-i/7518961
 https://builtin.com/job/software-engineer-i/7640724
 https://builtin.com/job/software-engineer-i/7653072
 https://builtin.com/job/software-engineer-i/7685570
+https://builtin.com/job/software-engineer-i/7772504
 https://builtin.com/job/software-engineer-identity-access-management-iam/7489082
 https://builtin.com/job/software-engineer-ii-ado-remote/7596518
 https://builtin.com/job/software-engineer-ii-ai/7405713
@@ -1319,6 +1322,7 @@ https://builtin.com/job/software-engineer-net/7150703
 https://builtin.com/job/software-engineer-net/7201080
 https://builtin.com/job/software-engineer-net/7438957
 https://builtin.com/job/software-engineer-new-college-grad-2026-austin-tx/7391742
+https://builtin.com/job/software-engineer-new-college-grad-2026-austin-tx/7771707
 https://builtin.com/job/software-engineer-new-college-grad-2026-bellevue-wa/7391732
 https://builtin.com/job/software-engineer-new-college-grad-2026/7076213
 https://builtin.com/job/software-engineer-new-college-grad-2026/7076235
