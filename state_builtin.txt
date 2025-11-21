@@ -62,6 +62,7 @@ https://builtin.com/job/application-developer/7405974
 https://builtin.com/job/application-developer/7419475
 https://builtin.com/job/application-developer/7424638
 https://builtin.com/job/application-developer/7763559
+https://builtin.com/job/application-developer/7764542
 https://builtin.com/job/application-development-senior-consultant-business-transformation/7427418
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-engineer-remote-us-based-candidates/7504636
@@ -181,6 +182,7 @@ https://builtin.com/job/backend-software-engineer-java-springboot/7425343
 https://builtin.com/job/backend-software-engineer-java-springboot/7425347
 https://builtin.com/job/backend-software-engineer-java-springboot/7425351
 https://builtin.com/job/backend-software-engineer/7321389
+https://builtin.com/job/backend-software-engineer/7766122
 https://builtin.com/job/backhauler-unloader-hourly/7297373
 https://builtin.com/job/backhauler-unloader/7289899
 https://builtin.com/job/backhauler-unloader/7386334
@@ -562,6 +564,7 @@ https://builtin.com/job/hubspot-integrations-developer/7429892
 https://builtin.com/job/icqa-specialist/7220840
 https://builtin.com/job/identity-and-access-management-iam-engineer/7448201
 https://builtin.com/job/implementation-coordinator/7667069
+https://builtin.com/job/implementation-manager-mm/7765353
 https://builtin.com/job/implementation-specialist/7199893
 https://builtin.com/job/implementation-specialist/7200033
 https://builtin.com/job/inbound-safety-and-quality-logistics-analyst/7388327
@@ -701,6 +704,7 @@ https://builtin.com/job/manager-private-equity-fund-accounting/7261480
 https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/market-manager/7326164
 https://builtin.com/job/marketplace-platform-product-manager/7347018
+https://builtin.com/job/matterport-technical-business-analyst/7766336
 https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/mezzanine-generalist-dayshift/7740125
 https://builtin.com/job/microsoft-dynamics-developer/7710304
@@ -888,6 +892,7 @@ https://builtin.com/job/programmer-developer-lead-software-testing-sylmar-ca/768
 https://builtin.com/job/programmer-ii-full-stack-software-developer/7399414
 https://builtin.com/job/programmer-ii/7368064
 https://builtin.com/job/programmer-iii-full-stack-software-developer/7399412
+https://builtin.com/job/project-manager/7765349
 https://builtin.com/job/pt-floral-manager/7315230
 https://builtin.com/job/qa-analyst/7276529
 https://builtin.com/job/qa-analyst/7288424
@@ -1166,6 +1171,7 @@ https://builtin.com/job/software-engineer-backend/7400354
 https://builtin.com/job/software-engineer-c-exposure-management-remote/7571167
 https://builtin.com/job/software-engineer-c-level-4/7085683
 https://builtin.com/job/software-engineer-c-level-4/7236207
+https://builtin.com/job/software-engineer-c-level-4/7765528
 https://builtin.com/job/software-engineer-c-netcore-devops/7091430
 https://builtin.com/job/software-engineer-c-networking/7253900
 https://builtin.com/job/software-engineer-c-rust/7200890
@@ -1271,6 +1277,7 @@ https://builtin.com/job/software-engineer-ii/7616727
 https://builtin.com/job/software-engineer-ii/7687636
 https://builtin.com/job/software-engineer-ii/7695403
 https://builtin.com/job/software-engineer-ii/7735766
+https://builtin.com/job/software-engineer-ii/7765167
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
@@ -1318,6 +1325,7 @@ https://builtin.com/job/software-engineer-new-college-grad-2026/7076261
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091579
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091585
 https://builtin.com/job/software-engineer-onsite/7386424
+https://builtin.com/job/software-engineer-platform-and-infrastructure/7765843
 https://builtin.com/job/software-engineer-platform/7080676
 https://builtin.com/job/software-engineer-platform/7080679
 https://builtin.com/job/software-engineer-quantitative/7271644
@@ -1440,10 +1448,13 @@ https://builtin.com/job/software-engineer/7741592
 https://builtin.com/job/software-engineer/7742696
 https://builtin.com/job/software-engineer/7749457
 https://builtin.com/job/software-engineer/7760507
+https://builtin.com/job/software-engineer/7764236
+https://builtin.com/job/software-engineer/7764790
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
 https://builtin.com/job/software-engineering-manager/7626527
+https://builtin.com/job/software-engineering-mts/7764916
 https://builtin.com/job/software-or-computer-engineering-co-op/7177090
 https://builtin.com/job/software-qa-analyst/7177836
 https://builtin.com/job/software-qa-engineer/7753632
@@ -1532,6 +1543,7 @@ https://builtin.com/job/systems-programmer-web-sharepoint-navy-secret-required/7
 https://builtin.com/job/systems-software-engineer-object-oriented-data-analysis-java/7459958
 https://builtin.com/job/systems-software-engineer/7388877
 https://builtin.com/job/systems-software-engineer/7763018
+https://builtin.com/job/syteline-programmer-lake-companies/7766207
 https://builtin.com/job/tdm-engineer/7164512
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/tech-support-engineer/7689772
