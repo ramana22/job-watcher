@@ -113,6 +113,7 @@ https://builtin.com/job/devops-engineer/7625395
 https://builtin.com/job/devops-software-engineer-ii/7714025
 https://builtin.com/job/dod-tech-deployment-strategist-business-development/7712695
 https://builtin.com/job/ead-gc-and-citizens-only-urgent-need-java-developer/7679221
+https://builtin.com/job/end-end-product-qa-engineer/7779025
 https://builtin.com/job/engineer-2-full-stack-pos-team-hybrid-seattle-wa/7684787
 https://builtin.com/job/engineer-2-selling-empowerment-team/7712551
 https://builtin.com/job/engineer-ii/7699204
@@ -240,6 +241,7 @@ https://builtin.com/job/jr-java-developer/7680182
 https://builtin.com/job/jr-java-engineer-remote/7616624
 https://builtin.com/job/jr-software-engineer/7766190
 https://builtin.com/job/junior-devops-sre-2-chicago-il-or-denver-co-onsite/7778883
+https://builtin.com/job/junior-devops-sre-2-chicago-il-or-denver-co-onsite/7779413
 https://builtin.com/job/junior-java-api-developer/7763163
 https://builtin.com/job/junior-java-developer/7679751
 https://builtin.com/job/junior-java-developer/7680105
@@ -403,9 +405,11 @@ https://builtin.com/job/software-development-engineer/7670002
 https://builtin.com/job/software-development/7713093
 https://builtin.com/job/software-engineer-2-aws-python-experience-chicago-il-or-denver-co-onsite/7601409
 https://builtin.com/job/software-engineer-2-aws-python-experience-chicago-il-or-denver-co-onsite/7778881
+https://builtin.com/job/software-engineer-2-aws-python-experience-chicago-il-or-denver-co-onsite/7779231
 https://builtin.com/job/software-engineer-2/7616145
 https://builtin.com/job/software-engineer-2/7778089
 https://builtin.com/job/software-engineer-3-aws-python-experience-chicago-il-or-denver-co-onsite/7778876
+https://builtin.com/job/software-engineer-3-aws-python-experience-chicago-il-or-denver-co-onsite/7779228
 https://builtin.com/job/software-engineer-3/7600948
 https://builtin.com/job/software-engineer-3/7682888
 https://builtin.com/job/software-engineer-3/7776993
