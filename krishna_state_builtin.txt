@@ -73,6 +73,7 @@ https://builtin.com/job/cloud-automation-engineer/7658117
 https://builtin.com/job/cloud-data-platform-engineer-assistant-vice-president/7717654
 https://builtin.com/job/cloud-dba-cassandra-postgres-software-engineer-iii/7502429
 https://builtin.com/job/cloud-operations-engineer/7589269
+https://builtin.com/job/cloud-platform-engineer/7778759
 https://builtin.com/job/cloud-software-engineer-iii-aws/7596750
 https://builtin.com/job/cloud-software-engineer-iii-kubernetes-aws-terraform/7644630
 https://builtin.com/job/cloudops-engineer-us-remote/7686499
@@ -122,6 +123,7 @@ https://builtin.com/job/engineer-sdet/7730497
 https://builtin.com/job/engineer-software-engineer/7743841
 https://builtin.com/job/engineer-workday/7585598
 https://builtin.com/job/engineering-data-science-specialist-applied-ai-evaluations/7659296
+https://builtin.com/job/engineering-manager-jvm-ecosystems/7778780
 https://builtin.com/job/engineering-manager-scheduling/7726059
 https://builtin.com/job/enterprise-operations-engineer-ii/7741545
 https://builtin.com/job/enterprise-sales-engineer-ohio-valley/7752193
@@ -237,6 +239,7 @@ https://builtin.com/job/java-spring-iam-software-engineer-iii/7599298
 https://builtin.com/job/jr-java-developer/7680182
 https://builtin.com/job/jr-java-engineer-remote/7616624
 https://builtin.com/job/jr-software-engineer/7766190
+https://builtin.com/job/junior-devops-sre-2-chicago-il-or-denver-co-onsite/7778883
 https://builtin.com/job/junior-java-api-developer/7763163
 https://builtin.com/job/junior-java-developer/7679751
 https://builtin.com/job/junior-java-developer/7680105
@@ -399,8 +402,10 @@ https://builtin.com/job/software-development-engineer/7629409
 https://builtin.com/job/software-development-engineer/7670002
 https://builtin.com/job/software-development/7713093
 https://builtin.com/job/software-engineer-2-aws-python-experience-chicago-il-or-denver-co-onsite/7601409
+https://builtin.com/job/software-engineer-2-aws-python-experience-chicago-il-or-denver-co-onsite/7778881
 https://builtin.com/job/software-engineer-2/7616145
 https://builtin.com/job/software-engineer-2/7778089
+https://builtin.com/job/software-engineer-3-aws-python-experience-chicago-il-or-denver-co-onsite/7778876
 https://builtin.com/job/software-engineer-3/7600948
 https://builtin.com/job/software-engineer-3/7682888
 https://builtin.com/job/software-engineer-3/7776993
@@ -450,6 +455,9 @@ https://builtin.com/job/software-engineer-i/7669470
 https://builtin.com/job/software-engineer-i/7669478
 https://builtin.com/job/software-engineer-i/7669495
 https://builtin.com/job/software-engineer-i/7669501
+https://builtin.com/job/software-engineer-i/7778677
+https://builtin.com/job/software-engineer-i/7778681
+https://builtin.com/job/software-engineer-i/7778688
 https://builtin.com/job/software-engineer-ii-ad-apps/7712954
 https://builtin.com/job/software-engineer-ii-ai-security/7573842
 https://builtin.com/job/software-engineer-ii-applied-ai/7668447
@@ -628,6 +636,7 @@ https://builtin.com/job/technical-services-engineer/7574217
 https://builtin.com/job/technical-success-manager/7681544
 https://builtin.com/job/technical-support-analyst/7713687
 https://builtin.com/job/technical-support-engineer/7699938
+https://builtin.com/job/technical-support-specialist/7778948
 https://builtin.com/job/technical-writer/7532853
 https://builtin.com/job/technology-cyber-security-full-time-analyst-irving-usa-2026/7737701
 https://builtin.com/job/technology-cyber-security-full-time-tampa-usa-2026/7748025
