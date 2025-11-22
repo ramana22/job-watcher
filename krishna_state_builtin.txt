@@ -339,6 +339,7 @@ https://builtin.com/job/security-analyst-penetration-testing/7758944
 https://builtin.com/job/security-engineer-ii-risk-engineering/7596140
 https://builtin.com/job/senior-ai-engineer-ai-foundations/7555103
 https://builtin.com/job/senior-application-developer/7589520
+https://builtin.com/job/senior-backend-engineer/7779796
 https://builtin.com/job/senior-bioinformatics-scientist/7586779
 https://builtin.com/job/senior-sdet-enterprise-systems-digital-platforms/7669564
 https://builtin.com/job/senior-software-developer-i/7730302
@@ -417,6 +418,7 @@ https://builtin.com/job/software-engineer-acuity-backend/7762514
 https://builtin.com/job/software-engineer-ai-enablement-full-stack/7616983
 https://builtin.com/job/software-engineer-ai/7641204
 https://builtin.com/job/software-engineer-android/7712861
+https://builtin.com/job/software-engineer-api-opensearch/7779967
 https://builtin.com/job/software-engineer-apps-ii/7586905
 https://builtin.com/job/software-engineer-associate/7577324
 https://builtin.com/job/software-engineer-athenacollector/7517698
@@ -599,6 +601,8 @@ https://builtin.com/job/software-engineer/7757708
 https://builtin.com/job/software-engineer/7765305
 https://builtin.com/job/software-engineer/7770446
 https://builtin.com/job/software-engineer/7774975
+https://builtin.com/job/software-engineer/7779518
+https://builtin.com/job/software-engineer/7780029
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-qa-engineer/7754763
 https://builtin.com/job/software-quality-engineer/7769383
