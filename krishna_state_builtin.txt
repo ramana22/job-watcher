@@ -454,6 +454,7 @@ https://builtin.com/job/software-engineer-full-stack/7504007
 https://builtin.com/job/software-engineer-full-stack/7504017
 https://builtin.com/job/software-engineer-full-stack/7555054
 https://builtin.com/job/software-engineer-full-stack/7590002
+https://builtin.com/job/software-engineer-full-stack/7780481
 https://builtin.com/job/software-engineer-i-aldp/7722702
 https://builtin.com/job/software-engineer-i-finance/7731372
 https://builtin.com/job/software-engineer-i-ii-data-team/7629425
@@ -603,6 +604,8 @@ https://builtin.com/job/software-engineer/7770446
 https://builtin.com/job/software-engineer/7774975
 https://builtin.com/job/software-engineer/7779518
 https://builtin.com/job/software-engineer/7780029
+https://builtin.com/job/software-engineer/7780431
+https://builtin.com/job/software-engineer/7780464
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-qa-engineer/7754763
 https://builtin.com/job/software-quality-engineer/7769383
