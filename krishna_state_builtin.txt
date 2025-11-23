@@ -337,6 +337,7 @@ https://builtin.com/job/quantitative-strategist-credit/7683494
 https://builtin.com/job/remote-software-developer/7587552
 https://builtin.com/job/rsa-software-engineer-2-cloud-java/7579409
 https://builtin.com/job/rsa-software-engineer-cloud-java/7579401
+https://builtin.com/job/sales-engineer-i/7781214
 https://builtin.com/job/sales-engineer/7565167
 https://builtin.com/job/sdet-contractor/7589900
 https://builtin.com/job/sdet-engineer/7562761
@@ -627,6 +628,7 @@ https://builtin.com/job/solutions-engineer-software/7761860
 https://builtin.com/job/solutions-engineer-software/7761864
 https://builtin.com/job/solutions-engineer-software/7761867
 https://builtin.com/job/solutions-engineer/7777630
+https://builtin.com/job/solutions-engineer/7781204
 https://builtin.com/job/specialist-analytic-scientist/7731781
 https://builtin.com/job/specialist-application-engineer/7616574
 https://builtin.com/job/specialist-software-engineer-java-j2ee/7554663
