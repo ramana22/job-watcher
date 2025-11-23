@@ -568,6 +568,7 @@ https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
 https://builtin.com/job/hedge-fund-representative-associate/7222641
 https://builtin.com/job/hubspot-integrations-developer/7429892
+https://builtin.com/job/i-c-engineer/7778343
 https://builtin.com/job/icqa-specialist/7220840
 https://builtin.com/job/identity-and-access-management-iam-engineer/7448201
 https://builtin.com/job/implementation-coordinator/7667069
