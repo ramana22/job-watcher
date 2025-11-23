@@ -37,7 +37,7 @@ Optional overrides (good for CI):
 import os, re, ssl, sys, time, html, smtplib, sqlite3, json
 from dataclasses import dataclass
 from typing import List, Dict, Set, Tuple
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta ,timezone
 from urllib.parse import urlencode, urlparse, parse_qsl, urlunparse, quote_plus
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -45,6 +45,9 @@ from email.utils import formataddr
 
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
+import requests
+import time
+import uuid
 
 load_dotenv()
 
@@ -135,6 +138,22 @@ if urls_json:
         SEARCH_URLS = json.loads(urls_json)
     except Exception:
         print("WARN: SEARCH_URLS_JSON could not be parsed; using default SEARCH_URLS.", file=sys.stderr)
+
+
+
+def get_safe(value, default=""):
+    """
+    Safely returns value or default.
+    - If value is None → return default
+    - If value is an empty string → return default
+    - Else return value
+    """
+    if value is None:
+        return default
+    if isinstance(value, str) and value.strip() == "":
+        return default
+    return value
+
 
 # =========================
 # ===== Data Model ========
@@ -621,9 +640,40 @@ def main():
     # SQLite mode (default)
     con = db_init(DB_PATH)
     fresh_jobs = filter_new_jobs_sqlite(con, jobs)
+
     if not fresh_jobs:
         print("Nothing new to email (SQLite dedupe).")
         return
+    backend_url = "https://jobwatch-api-g6a3cjenesbna5gv.canadacentral-01.azurewebsites.net/api/applications"
+    jobs_backend = []
+
+    for jb in fresh_jobs:
+        job_id = getattr(jb, "id", None)
+        if not job_id:
+            job_id = str(uuid.uuid4())  # generate random id
+
+        jobs_backend.append({
+        "job_id": job_id,
+        "job_title": get_safe(getattr(jb, "title", "")),
+        "company": get_safe(getattr(jb, "company", "")),
+        "location": get_safe(getattr(jb, "location", "")),
+        "salary": get_safe(getattr(jb, "salary", "")),            # BuiltIn doesn't have salary → empty
+        "description": get_safe(getattr(jb, "description", "")),  # BuiltIn doesn't have description → empty
+        "apply_link": get_safe(getattr(jb, "url", "")),
+        "search_key": get_safe(getattr(jb, "matched_on", "")),    # good for BuiltIn
+        "posted_time": datetime.now(timezone.utc).isoformat(),
+        "source": "BuiltIn",                                      # correct source for BuiltIn jobs
+        "matching_score": 0.0
+        })
+
+
+    print("📤 Sending to backend...")
+          
+    try:
+        resp = requests.post(backend_url, json=jobs_backend, verify=False)
+        print("💾 Backend Response:", resp.status_code, resp.text[:200])
+    except Exception as e:
+        print("❌ Backend Error:", str(e))
     subject = f"[Built In] {len(fresh_jobs)} new matches • {datetime.now().strftime('%Y-%m-%d %H:%M')}"
     body = render_email(fresh_jobs)
     send_email(subject, body)
