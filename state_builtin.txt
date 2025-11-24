@@ -731,6 +731,7 @@ https://builtin.com/job/mid-level-software-engineer/7314999
 https://builtin.com/job/mid-level-software-engineer/7315002
 https://builtin.com/job/mid-level-software-engineer/7469959
 https://builtin.com/job/mid-level-test-engineer-dhs/7260379
+https://builtin.com/job/mid-qa-automation-tester/7783267
 https://builtin.com/job/mid-senior-level-general-developers-evergreen/7653537
 https://builtin.com/job/mid-senior-software-developer/7150231
 https://builtin.com/job/mid-senior-software-developer/7243081
@@ -1159,6 +1160,7 @@ https://builtin.com/job/software-development-manager/7087819
 https://builtin.com/job/software-development-specialist/7136212
 https://builtin.com/job/software-development-specialist/7433617
 https://builtin.com/job/software-development-specialist/7630555
+https://builtin.com/job/software-devevelopment-engineer-ii/7783121
 https://builtin.com/job/software-devops-engineer-c-c-orange-oh/7612004
 https://builtin.com/job/software-engineer-1/7459065
 https://builtin.com/job/software-engineer-2/7447784
@@ -1321,6 +1323,7 @@ https://builtin.com/job/software-engineer-it-software-engineers/7610393
 https://builtin.com/job/software-engineer-iv/7478213
 https://builtin.com/job/software-engineer-junior/7657744
 https://builtin.com/job/software-engineer-lead-net-asp-mvc-blazor/7250529
+https://builtin.com/job/software-engineer-lll-e3/7783164
 https://builtin.com/job/software-engineer-local-candidates-only/7633915
 https://builtin.com/job/software-engineer-macro-data-technology/7665202
 https://builtin.com/job/software-engineer-microsoft-azure-technologies/7136645
