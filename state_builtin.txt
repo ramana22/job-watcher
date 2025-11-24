@@ -185,6 +185,7 @@ https://builtin.com/job/backend-software-engineer-java-springboot/7425351
 https://builtin.com/job/backend-software-engineer/7321389
 https://builtin.com/job/backend-software-engineer/7766122
 https://builtin.com/job/backhauler-unloader-hourly/7297373
+https://builtin.com/job/backhauler-unloader-hourly/7785598
 https://builtin.com/job/backhauler-unloader/7289899
 https://builtin.com/job/backhauler-unloader/7386334
 https://builtin.com/job/battery-lab-systems-integration-engineer/7249944
@@ -268,6 +269,7 @@ https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/cloud-operations-engineer/7595943
 https://builtin.com/job/cloud-security-engineer/7628936
 https://builtin.com/job/cloud-software-developer-hybrid/7343710
+https://builtin.com/job/cno-reverse-engineer/7784552
 https://builtin.com/job/computer-networking-c-programming-specialist/7517901
 https://builtin.com/job/computer-scientist-ii/7399398
 https://builtin.com/job/computer-scientist-ii/7399404
