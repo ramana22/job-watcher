@@ -623,6 +623,7 @@ https://builtin.com/job/java-consultant-servicenow/7693506
 https://builtin.com/job/java-developer/7124151
 https://builtin.com/job/job-description-ui-developer-redmond-wa/7680287
 https://builtin.com/job/jr-etl-data-integration-developer/7594809
+https://builtin.com/job/jr-full-stack-developer/7786398
 https://builtin.com/job/jr-net-developer/7089431
 https://builtin.com/job/jr-net-developer/7679333
 https://builtin.com/job/jr-net-developer/7679462
@@ -724,6 +725,7 @@ https://builtin.com/job/microsoft-net-core-microservices-developer/7635807
 https://builtin.com/job/microsoft-net-software-developer/7151498
 https://builtin.com/job/mid-level-backend-engineer/7366367
 https://builtin.com/job/mid-level-full-stack-developer/7182307
+https://builtin.com/job/mid-level-full-stack-developer/7786412
 https://builtin.com/job/mid-level-full-stack-front-end-developer/7660392
 https://builtin.com/job/mid-level-software-developer-ai-focused/7692970
 https://builtin.com/job/mid-level-software-developer-net/7429890
@@ -872,6 +874,7 @@ https://builtin.com/job/platform-engineer-cloud-platform-net-azure-kubernetes/73
 https://builtin.com/job/platform-full-stack-engineer/7449908
 https://builtin.com/job/platform-professional-services-analyst-remote/7321596
 https://builtin.com/job/platform-professional-services-analyst-remote/7601913
+https://builtin.com/job/platform-professional-services-analyst-remote/7786995
 https://builtin.com/job/policy-analyst-c-uxs/7200379
 https://builtin.com/job/pos-specialist/7073905
 https://builtin.com/job/power-platform-developer/7100465
@@ -1265,6 +1268,8 @@ https://builtin.com/job/software-engineer-ii-platform-runtime-services/7272307
 https://builtin.com/job/software-engineer-ii-platform-runtime-services/7272309
 https://builtin.com/job/software-engineer-ii-remote/7423910
 https://builtin.com/job/software-engineer-ii-technical-leadership-track/7535395
+https://builtin.com/job/software-engineer-ii-technical-leadership-track/7786639
+https://builtin.com/job/software-engineer-ii-technology-leadership-track/7786630
 https://builtin.com/job/software-engineer-ii-test-automation/7190118
 https://builtin.com/job/software-engineer-ii-user-experience-hybrid/7176565
 https://builtin.com/job/software-engineer-ii/7091020
