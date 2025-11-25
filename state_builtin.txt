@@ -399,6 +399,7 @@ https://builtin.com/job/ehs-manager/7458000
 https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
 https://builtin.com/job/embedded-software-engineer/7290861
+https://builtin.com/job/embedded-software-test-development-engineer-c-c-bothell-wa/7795829
 https://builtin.com/job/embedded-systems-engineer/7113343
 https://builtin.com/job/embedded-systems-engineer/7461199
 https://builtin.com/job/embedded-systems-engineer/7495864
@@ -557,6 +558,7 @@ https://builtin.com/job/full-stack-software-engineer/7514071
 https://builtin.com/job/full-stack-software-engineer/7549293
 https://builtin.com/job/full-stack-software-engineer/7570942
 https://builtin.com/job/full-stack-software-engineer/7573706
+https://builtin.com/job/full-stack-software-engineer/7795850
 https://builtin.com/job/full-stack-software-test-engineer/7290881
 https://builtin.com/job/fullstack-developer/7427939
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
