@@ -20,6 +20,7 @@ https://builtin.com/job/acumatica-configuration-specialist/7759273
 https://builtin.com/job/ad-promotions-planning-manager/7741243
 https://builtin.com/job/administrative-assistant-ii/7740127
 https://builtin.com/job/advanced-software-engineer/7122414
+https://builtin.com/job/advanced-software-engineer/7796548
 https://builtin.com/job/advanced-support-engineer-ii/7518138
 https://builtin.com/job/agentic-ai-architect/7641897
 https://builtin.com/job/agentic-ai-software-engineer/7641879
@@ -161,6 +162,7 @@ https://builtin.com/job/automation-engineer/7244502
 https://builtin.com/job/automation-engineer/7326435
 https://builtin.com/job/automation-engineer/7409285
 https://builtin.com/job/automation-engineer/7572786
+https://builtin.com/job/automation-engineer/7798419
 https://builtin.com/job/automation-software-engineer/7229919
 https://builtin.com/job/automation-software-engineering/7505558
 https://builtin.com/job/awesome-full-stack-software-engineer-jr-mid-levels-2-years-experience/7187583
@@ -630,6 +632,7 @@ https://builtin.com/job/it-systems-administrator-tps-1/7280666
 https://builtin.com/job/java-backend-developer/7722826
 https://builtin.com/job/java-consultant-servicenow/7693506
 https://builtin.com/job/java-developer/7124151
+https://builtin.com/job/java-developer/7797343
 https://builtin.com/job/job-description-ui-developer-redmond-wa/7680287
 https://builtin.com/job/jr-etl-data-integration-developer/7594809
 https://builtin.com/job/jr-full-stack-developer/7786398
@@ -693,6 +696,7 @@ https://builtin.com/job/lead-business-systems-analysis/7246494
 https://builtin.com/job/lead-engineer-hybrid/7264645
 https://builtin.com/job/lead-engineer-systems-engineering/7223327
 https://builtin.com/job/lead-engineer-systems-engineering/7482318
+https://builtin.com/job/lead-engineer-systems-engineering/7798526
 https://builtin.com/job/lead-engineer/7398755
 https://builtin.com/job/lead-middle-tier-api-consultant-net-consultant/7688794
 https://builtin.com/job/lead-security-engineer-automation/7069076
@@ -850,6 +854,7 @@ https://builtin.com/job/net-ui-developer/7688628
 https://builtin.com/job/net-web-developer/7083246
 https://builtin.com/job/net-web-developer/7680520
 https://builtin.com/job/no-corporate-grade-lead-generator-c-b/7374674
+https://builtin.com/job/non-sales-position/7798099
 https://builtin.com/job/not-work-study-student-assistant-journalism-bh-c/7128286
 https://builtin.com/job/nuclear-engineer-2026-new-graduate/7077245
 https://builtin.com/job/o-m-test-automation-engineer/7689340
@@ -1330,6 +1335,7 @@ https://builtin.com/job/software-engineer-iii-e3/7438818
 https://builtin.com/job/software-engineer-iii-java-mobile-automation-engineer/7575143
 https://builtin.com/job/software-engineer-iii-net-c/7365870
 https://builtin.com/job/software-engineer-iii-net-developer/7171853
+https://builtin.com/job/software-engineer-iii-net-react/7796740
 https://builtin.com/job/software-engineer-iii-test-automation/7183441
 https://builtin.com/job/software-engineer-iii/7073822
 https://builtin.com/job/software-engineer-iii/7139373
@@ -1498,6 +1504,7 @@ https://builtin.com/job/software-engineer/7760507
 https://builtin.com/job/software-engineer/7764236
 https://builtin.com/job/software-engineer/7764790
 https://builtin.com/job/software-engineer/7780464
+https://builtin.com/job/software-engineer/7797377
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
