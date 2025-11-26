@@ -587,6 +587,7 @@ https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
 https://builtin.com/job/hedge-fund-representative-associate/7222641
 https://builtin.com/job/hr-manager/7801346
+https://builtin.com/job/hr-specialist-remote/7802393
 https://builtin.com/job/hubspot-integrations-developer/7429892
 https://builtin.com/job/i-c-engineer/7778343
 https://builtin.com/job/icqa-specialist/7220840
@@ -697,6 +698,7 @@ https://builtin.com/job/junior-software-engineer-remote/7103959
 https://builtin.com/job/junior-software-engineer/7411478
 https://builtin.com/job/junior-software-engineer/7484591
 https://builtin.com/job/junior-software-engineering-cohort/7654455
+https://builtin.com/job/junior-staff-accountant-remote/7802396
 https://builtin.com/job/junior-systems-architect/7556010
 https://builtin.com/job/l4-software-engineer-c-spectacles/7438259
 https://builtin.com/job/lead-business-systems-analysis/7246494
@@ -717,6 +719,7 @@ https://builtin.com/job/lender-software-engineer-c-aws/7073982
 https://builtin.com/job/lender-software-engineer-c-aws/7557032
 https://builtin.com/job/line-trouble-shooter-1-c-t-d/7434416
 https://builtin.com/job/line-trouble-shooter-1-c-t-d/7434425
+https://builtin.com/job/live-chat-agent-remote/7802395
 https://builtin.com/job/loader-dayshift/7198185
 https://builtin.com/job/loader/7262973
 https://builtin.com/job/logistics-operator-4-800-c/7314571
@@ -868,6 +871,7 @@ https://builtin.com/job/nuclear-engineer-2026-new-graduate/7077245
 https://builtin.com/job/o-m-test-automation-engineer/7689340
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-penetration-testing-remote/7281892
 https://builtin.com/job/offensive-security-engineer-webapp-internal-external-pentesting-remote/7151647
+https://builtin.com/job/office-assistant/7802394
 https://builtin.com/job/oi-system-engineer/7374131
 https://builtin.com/job/oliver-wyman-veritas-endur-mid-level-developer-technical-consultant/7560475
 https://builtin.com/job/operations-analyst/7751314
@@ -1099,6 +1103,7 @@ https://builtin.com/job/site-reliability-engineer/7120310
 https://builtin.com/job/site-reliability-engineer/7137827
 https://builtin.com/job/site-reliability-engineer/7346774
 https://builtin.com/job/social-media-community-growth-manager/7716855
+https://builtin.com/job/social-media-moderator/7802397
 https://builtin.com/job/software-application-development-engineer-middleware/7283862
 https://builtin.com/job/software-application-development-engineer/7272683
 https://builtin.com/job/software-application-development-engineer/7283860
