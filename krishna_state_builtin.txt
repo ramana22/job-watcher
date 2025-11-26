@@ -166,6 +166,7 @@ https://builtin.com/job/full-stack-developer/7713933
 https://builtin.com/job/full-stack-developer/7757175
 https://builtin.com/job/full-stack-developer/7781555
 https://builtin.com/job/full-stack-developer/7781818
+https://builtin.com/job/full-stack-engineer-angular-java-apis/7798252
 https://builtin.com/job/full-stack-engineer-java-aws-angular-westlake-tx/7764280
 https://builtin.com/job/full-stack-engineer/7630618
 https://builtin.com/job/full-stack-java-developer-basking-ridge-nj-need-w2/7692864
@@ -183,6 +184,7 @@ https://builtin.com/job/hadoop-developer/7680486
 https://builtin.com/job/hadoop-sdet/7713440
 https://builtin.com/job/hardware-test-engineer-java-embedded-systems/7764864
 https://builtin.com/job/implementation-consultant-inow/7683337
+https://builtin.com/job/implementation-consultant/7806755
 https://builtin.com/job/industrial-quality-engineer/7750193
 https://builtin.com/job/integration-engineer/7616559
 https://builtin.com/job/integration-engineer/7668659
@@ -659,7 +661,9 @@ https://builtin.com/job/software-engineer/7780431
 https://builtin.com/job/software-engineer/7780464
 https://builtin.com/job/software-engineer/7791489
 https://builtin.com/job/software-engineer/7800902
+https://builtin.com/job/software-engineer/7804239
 https://builtin.com/job/software-engineering-manager/7626527
+https://builtin.com/job/software-integration-administrator/7807014
 https://builtin.com/job/software-qa-engineer/7754763
 https://builtin.com/job/software-quality-engineer/7769383
 https://builtin.com/job/software-systems-engineer-iv-java-developer/7689699
@@ -694,6 +698,7 @@ https://builtin.com/job/strategy-engineer-early-career/7686205
 https://builtin.com/job/sw-engineer-ii/7585812
 https://builtin.com/job/sw-engineer/7778560
 https://builtin.com/job/systems-administrator/7789049
+https://builtin.com/job/systems-security-specialist/7804473
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/team-lead/7577361
 https://builtin.com/job/technical-account-manager-usa-west-coast-remote/7776884
