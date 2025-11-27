@@ -589,6 +589,7 @@ https://builtin.com/job/full-stack-software-engineer/7549293
 https://builtin.com/job/full-stack-software-engineer/7570942
 https://builtin.com/job/full-stack-software-engineer/7573706
 https://builtin.com/job/full-stack-software-engineer/7795850
+https://builtin.com/job/full-stack-software-engineer/7823467
 https://builtin.com/job/full-stack-software-test-engineer/7290881
 https://builtin.com/job/fullstack-developer/7427939
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
@@ -937,6 +938,7 @@ https://builtin.com/job/power-platform-developer/7131499
 https://builtin.com/job/power-platform-developer/7196888
 https://builtin.com/job/power-platform-developer/7764041
 https://builtin.com/job/power-platform-developer/7789135
+https://builtin.com/job/power-platform-developer/7823858
 https://builtin.com/job/power-platform-engineer/7370843
 https://builtin.com/job/power-platform-software-engineer/7090511
 https://builtin.com/job/power-platform-software-engineer/7301716
@@ -1557,6 +1559,7 @@ https://builtin.com/job/software-engineer/7780464
 https://builtin.com/job/software-engineer/7797377
 https://builtin.com/job/software-engineer/7800902
 https://builtin.com/job/software-engineer/7804620
+https://builtin.com/job/software-engineer/7823482
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
