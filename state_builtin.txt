@@ -408,6 +408,7 @@ https://builtin.com/job/edi-software-engineer/7077347
 https://builtin.com/job/edifecs-developer/7730725
 https://builtin.com/job/editor-software-developer-liveops-developer-experience/7345894
 https://builtin.com/job/ehs-manager/7458000
+https://builtin.com/job/electrical-engineer-hardware-software-integration/7817606
 https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
 https://builtin.com/job/embedded-software-engineer/7290861
@@ -1003,6 +1004,7 @@ https://builtin.com/job/salesforce-support-manager/7704815
 https://builtin.com/job/salesforce-support-manager/7704817
 https://builtin.com/job/scan-coordinator/7437693
 https://builtin.com/job/scan-coordinator/7625721
+https://builtin.com/job/scientist-laboratory-automation/7813759
 https://builtin.com/job/scrum-master/7693608
 https://builtin.com/job/sde-ii-backend/7385579
 https://builtin.com/job/sde/7679923
