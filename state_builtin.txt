@@ -50,6 +50,7 @@ https://builtin.com/job/analyst-i-falcon-complete-remote/7493251
 https://builtin.com/job/analyst-i-falcon-complete-remote/7494662
 https://builtin.com/job/analyst-ii-falcon-complete-hybrid/7321579
 https://builtin.com/job/analyst-p-c-financial-planning-analysis/7466600
+https://builtin.com/job/android-sdk-developer-middle-senior-java-c-osmand-customization/7821372
 https://builtin.com/job/android-software-engineer-tactical-command-and-control/7114835
 https://builtin.com/job/angular-developer/7356833
 https://builtin.com/job/aoc-qa-tester/7483106
@@ -1630,6 +1631,7 @@ https://builtin.com/job/sustainability-specialist-analytics/7236470
 https://builtin.com/job/sustaining-engineer/7707959
 https://builtin.com/job/system-engineer-i/7427239
 https://builtin.com/job/system-software-development-engineer/7303186
+https://builtin.com/job/system-validation-engineer/7820687
 https://builtin.com/job/systems-administrator-1/7438620
 https://builtin.com/job/systems-administrator-ii/7125521
 https://builtin.com/job/systems-analyst/7479732
@@ -1646,6 +1648,7 @@ https://builtin.com/job/syteline-programmer-lake-companies/7766207
 https://builtin.com/job/tdm-engineer/7164512
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/tech-lead-presales-solutioning/7781540
+https://builtin.com/job/tech-lead-presales-solutioning/7821864
 https://builtin.com/job/tech-support-engineer/7689772
 https://builtin.com/job/technical-account-manager-usa-west-coast-remote/7776884
 https://builtin.com/job/technical-analyst/7319900
