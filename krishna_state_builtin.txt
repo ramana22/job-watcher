@@ -375,6 +375,7 @@ https://builtin.com/job/privacy-engineer-level-4/7705943
 https://builtin.com/job/process-control-engineer-fault-detection/7700394
 https://builtin.com/job/process-control-engineer-run-run/7727546
 https://builtin.com/job/process-controls-engineer-ii-iii/7669851
+https://builtin.com/job/product-delivery-senior-associate-user-acceptable-testing-lead/7830697
 https://builtin.com/job/product-engineer-ii-arcgis-enterprise-sharing-api/7616493
 https://builtin.com/job/product-engineer-java-spring-boot/7549148
 https://builtin.com/job/product-manager-technical/7729279
@@ -549,6 +550,7 @@ https://builtin.com/job/software-engineer-ii-backend-healthcare-infra/7658774
 https://builtin.com/job/software-engineer-ii-bi-reporting/7767517
 https://builtin.com/job/software-engineer-ii-data-applications-hybrid-clinton-pa/7642493
 https://builtin.com/job/software-engineer-ii-data-engineer/7754006
+https://builtin.com/job/software-engineer-ii-devops/7830688
 https://builtin.com/job/software-engineer-ii-dispute-lifecycle/7711538
 https://builtin.com/job/software-engineer-ii-engineering/7595700
 https://builtin.com/job/software-engineer-ii-intelligent-messaging/7800505
