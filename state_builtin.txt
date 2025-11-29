@@ -184,6 +184,7 @@ https://builtin.com/job/azure-integration-developer/7090910
 https://builtin.com/job/back-office-software-developer/7416828
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226292
 https://builtin.com/job/backend-engineer-c-chicago-or-reston/7226361
+https://builtin.com/job/backend-engineer-ii/7829573
 https://builtin.com/job/backend-engineer-rider-account/7251135
 https://builtin.com/job/backend-engineer/7789462
 https://builtin.com/job/backend-net-developer/7175214
@@ -298,6 +299,7 @@ https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
 https://builtin.com/job/consulting-engineer/7244928
 https://builtin.com/job/consulting-engineer/7790152
+https://builtin.com/job/content-writer-contractor-b2b-saas-cybersecurity/7829753
 https://builtin.com/job/content-writer-senior-associate-c-o-associate-insight-and-media-team/7403643
 https://builtin.com/job/contract-coordinator/7801594
 https://builtin.com/job/controls-engineer-i/7377576
@@ -912,6 +914,7 @@ https://builtin.com/job/operations-automation-analyst/7299322
 https://builtin.com/job/operations-automation-analyst/7615644
 https://builtin.com/job/operations-supervisor-integration-mechanisms/7314631
 https://builtin.com/job/optical-test-engineer/7406157
+https://builtin.com/job/overhead-lineworker-gr-c-entry/7828332
 https://builtin.com/job/p-c-actuarial-analyst/7303036
 https://builtin.com/job/p-c-binding-renewal-uw/7376837
 https://builtin.com/job/part-time-teller-northern-lights-and-c-street/7461862
@@ -1564,6 +1567,7 @@ https://builtin.com/job/software-engineer/7797377
 https://builtin.com/job/software-engineer/7800902
 https://builtin.com/job/software-engineer/7804620
 https://builtin.com/job/software-engineer/7823482
+https://builtin.com/job/software-engineer/7828383
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
