@@ -80,6 +80,7 @@ https://builtin.com/job/business-process-analyst/7790575
 https://builtin.com/job/business-rules-lead-software-engineer/7780943
 https://builtin.com/job/cad-design-automation-engineer-central-engineering/7820798
 https://builtin.com/job/camunda-developer/7594765
+https://builtin.com/job/canada-indigenous-fnim-persons-apprenticeship-program/7825942
 https://builtin.com/job/cloud-automation-engineer/7658117
 https://builtin.com/job/cloud-data-platform-engineer-assistant-vice-president/7717654
 https://builtin.com/job/cloud-dba-cassandra-postgres-software-engineer-iii/7502429
@@ -721,6 +722,7 @@ https://builtin.com/job/specialist-analytic-scientist/7731781
 https://builtin.com/job/specialist-application-engineer/7616574
 https://builtin.com/job/specialist-software-engineer-java-j2ee/7554663
 https://builtin.com/job/specialist-software-engineer-mainframe/7670655
+https://builtin.com/job/sr-engineer-workday/7827424
 https://builtin.com/job/sr-sw-engineer/7745402
 https://builtin.com/job/sr-systems-engineer-developer-experience/7565195
 https://builtin.com/job/sr-systems-engineer-developer-experience/7642240
