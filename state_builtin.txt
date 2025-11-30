@@ -964,6 +964,7 @@ https://builtin.com/job/product-engineer-ii-data-reviewer/7187600
 https://builtin.com/job/product-engineer-ii-generative-ai-assistants-arcgis-pro/7173514
 https://builtin.com/job/product-engineer-ii-geocoding-data-engineering-and-automation/7347341
 https://builtin.com/job/product-manager-consumer/7749517
+https://builtin.com/job/product-manager-p-c-commercial-lines/7830780
 https://builtin.com/job/product-manager/7749542
 https://builtin.com/job/product-software-engineer-java-developer/7550376
 https://builtin.com/job/product-support-engineer/7455085
