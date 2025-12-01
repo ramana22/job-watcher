@@ -986,6 +986,7 @@ https://builtin.com/job/qa-analyst/7740321
 https://builtin.com/job/qa-analyst/7741265
 https://builtin.com/job/qa-analyst/7741747
 https://builtin.com/job/qa-analyst/7741907
+https://builtin.com/job/qa-automation-engineer-net-flutter/7834981
 https://builtin.com/job/qa-automation-engineer/7290762
 https://builtin.com/job/qa-engineer-i-visualization/7123529
 https://builtin.com/job/qa-engineer/7230457
