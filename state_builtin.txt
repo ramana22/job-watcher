@@ -311,6 +311,7 @@ https://builtin.com/job/copilot-ai-developer/7469865
 https://builtin.com/job/copy-full-stack-developer/7611990
 https://builtin.com/job/core-c-engineer-advertising/7195452
 https://builtin.com/job/core-development-program/7071302
+https://builtin.com/job/core-software-engineer-c-remote/7837202
 https://builtin.com/job/cos-operator-i/7140150
 https://builtin.com/job/cos-operator-i/7191439
 https://builtin.com/job/cos-operator-i/7204206
@@ -418,6 +419,7 @@ https://builtin.com/job/electrical-controls-engineer-special-projects/7830559
 https://builtin.com/job/electrical-engineer-hardware-software-integration/7817606
 https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
+https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7835111
 https://builtin.com/job/embedded-software-engineer/7290861
 https://builtin.com/job/embedded-software-test-development-engineer-c-c-bothell-wa/7795829
 https://builtin.com/job/embedded-systems-engineer/7113343
@@ -448,6 +450,7 @@ https://builtin.com/job/engineer-ii/7669577
 https://builtin.com/job/engineer-ii/7699204
 https://builtin.com/job/engineer-test-automation/7482110
 https://builtin.com/job/engineer-vehicle-ee-system-validation/7489854
+https://builtin.com/job/engineering-lead/7838371
 https://builtin.com/job/engineering-manager-client-solutions/7604784
 https://builtin.com/job/engineering-manager-scheduling/7726059
 https://builtin.com/job/engineering-manager-specialties/7366184
@@ -1049,6 +1052,7 @@ https://builtin.com/job/senior-algorithm-engineer-remote/7445886
 https://builtin.com/job/senior-analyst-data-engineering-i6/7460460
 https://builtin.com/job/senior-application-development-engineer/7570068
 https://builtin.com/job/senior-application-development-engineer/7644171
+https://builtin.com/job/senior-application-engineer-ii/7836499
 https://builtin.com/job/senior-associate-client-relations-specialist-hybrid/7809676
 https://builtin.com/job/senior-associate-data-insights/7368715
 https://builtin.com/job/senior-associate-fund-accounting-private-markets-west-coast/7293646
@@ -1340,6 +1344,7 @@ https://builtin.com/job/software-engineer-ii-java-retail/7427250
 https://builtin.com/job/software-engineer-ii-java-retail/7427252
 https://builtin.com/job/software-engineer-ii-java-retail/7427258
 https://builtin.com/job/software-engineer-ii-java/7752559
+https://builtin.com/job/software-engineer-ii-lifecycle-engineering/7835378
 https://builtin.com/job/software-engineer-ii-net-developer-c-net-asp-net-sql/7615365
 https://builtin.com/job/software-engineer-ii-net/7139773
 https://builtin.com/job/software-engineer-ii-north-american-sports/7276316
@@ -1571,6 +1576,7 @@ https://builtin.com/job/software-engineer/7800902
 https://builtin.com/job/software-engineer/7804620
 https://builtin.com/job/software-engineer/7823482
 https://builtin.com/job/software-engineer/7828383
+https://builtin.com/job/software-engineer/7836915
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
