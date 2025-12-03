@@ -251,6 +251,7 @@ https://builtin.com/job/c-developer/7691257
 https://builtin.com/job/c-developer/7844714
 https://builtin.com/job/c-edi-developer/7691229
 https://builtin.com/job/c-engineer-net-core-mvc-webapi-javascript-jquery-80k-140k-benefits-health-technology-software-company/7230049
+https://builtin.com/job/c-engineer-onsite-chicago-il-or-denver-co/7863716
 https://builtin.com/job/c-engineer-trading/7326997
 https://builtin.com/job/c-engineer/7691172
 https://builtin.com/job/c-junioe-software-developer/7287995
@@ -1165,6 +1166,7 @@ https://builtin.com/job/shipping-coordinator-c-shift/7104914
 https://builtin.com/job/simulation-engineer-experienced-mid-level/7255731
 https://builtin.com/job/simulation-software-engineer-c/7810728
 https://builtin.com/job/site-reliability-engineer-i/7505676
+https://builtin.com/job/site-reliability-engineer-monitoring-and-control-engineering/7863808
 https://builtin.com/job/site-reliability-engineer-talent-day/7449618
 https://builtin.com/job/site-reliability-engineer-talent-day/7449649
 https://builtin.com/job/site-reliability-engineer/7120310
@@ -1232,6 +1234,7 @@ https://builtin.com/job/software-developer/7628128
 https://builtin.com/job/software-developer/7642235
 https://builtin.com/job/software-developer/7679849
 https://builtin.com/job/software-developer/7771307
+https://builtin.com/job/software-developer/7863919
 https://builtin.com/job/software-development-engineer-2/7523292
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
