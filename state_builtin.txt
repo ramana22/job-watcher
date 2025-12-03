@@ -318,6 +318,8 @@ https://builtin.com/job/contract-coordinator/7801594
 https://builtin.com/job/controls-engineer-i/7377576
 https://builtin.com/job/controls-engineer/7736100
 https://builtin.com/job/controls-engineer/7804460
+https://builtin.com/job/controls-project-engineer-i/7870114
+https://builtin.com/job/controls-project-engineer-i/7870115
 https://builtin.com/job/conversion-engineer/7333210
 https://builtin.com/job/copilot-ai-developer/7434809
 https://builtin.com/job/copilot-ai-developer/7469865
@@ -664,6 +666,9 @@ https://builtin.com/job/integration-and-technical-support-specialist-payments/76
 https://builtin.com/job/integration-developer-rhapsody-net/7741083
 https://builtin.com/job/integration-engineer-i-c-level-ii/7656917
 https://builtin.com/job/integration-engineer-remote-opportunity/7114801
+https://builtin.com/job/integration-engineer/7870100
+https://builtin.com/job/integration-engineer/7870106
+https://builtin.com/job/integration-engineer/7870125
 https://builtin.com/job/integration-test-engineer-tuesday-saturday/7325932
 https://builtin.com/job/integrations-engineer/7711473
 https://builtin.com/job/intelligent-controls-and-automation-engineer/7542431
@@ -686,6 +691,7 @@ https://builtin.com/job/it-intern/7074408
 https://builtin.com/job/it-manager-i-applications/7505500
 https://builtin.com/job/it-operations-analyst-i/7656292
 https://builtin.com/job/it-performance-testing-analyst/7237624
+https://builtin.com/job/it-process-automation-and-governance-engineer-avp/7871461
 https://builtin.com/job/it-software-engineer/7407611
 https://builtin.com/job/it-software-engineer/7414523
 https://builtin.com/job/it-software-engineer/7801908
@@ -1256,6 +1262,7 @@ https://builtin.com/job/software-developer/7642235
 https://builtin.com/job/software-developer/7679849
 https://builtin.com/job/software-developer/7771307
 https://builtin.com/job/software-developer/7863919
+https://builtin.com/job/software-developer/7871767
 https://builtin.com/job/software-development-engineer-2/7523292
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
