@@ -145,6 +145,7 @@ https://builtin.com/job/associate-software-developer/7612661
 https://builtin.com/job/associate-software-developer/7612926
 https://builtin.com/job/associate-software-developer/7623145
 https://builtin.com/job/associate-software-developer/7628126
+https://builtin.com/job/associate-software-developer/7881497
 https://builtin.com/job/associate-software-development-engineer-contractor/7123014
 https://builtin.com/job/associate-software-engineer-platform-telemetry/7402076
 https://builtin.com/job/associate-software-engineer/7086410
@@ -180,6 +181,7 @@ https://builtin.com/job/automation-engineer/7326435
 https://builtin.com/job/automation-engineer/7409285
 https://builtin.com/job/automation-engineer/7572786
 https://builtin.com/job/automation-engineer/7798419
+https://builtin.com/job/automation-research-development-engineer/7881748
 https://builtin.com/job/automation-software-engineer/7229919
 https://builtin.com/job/automation-software-engineering/7505558
 https://builtin.com/job/awesome-full-stack-software-engineer-jr-mid-levels-2-years-experience/7187583
@@ -1054,6 +1056,7 @@ https://builtin.com/job/quantitative-developer/7437981
 https://builtin.com/job/quantitative-engineering-investments-technology/7483045
 https://builtin.com/job/quantitative-research-analyst/7370391
 https://builtin.com/job/quantitative-research-analyst/7401952
+https://builtin.com/job/r-d-engineer/7881777
 https://builtin.com/job/r-d-software-developer-transformers/7214043
 https://builtin.com/job/r-d-software-engineer-i/7570300
 https://builtin.com/job/radiological-engineer/7731066
@@ -1513,6 +1516,7 @@ https://builtin.com/job/software-engineer-new-college-grad-2026/7076261
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091579
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091585
 https://builtin.com/job/software-engineer-onsite/7386424
+https://builtin.com/job/software-engineer-performance-marketing/7881105
 https://builtin.com/job/software-engineer-platform-and-infrastructure/7765843
 https://builtin.com/job/software-engineer-platform/7080676
 https://builtin.com/job/software-engineer-platform/7080679
