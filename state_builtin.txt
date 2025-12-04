@@ -113,6 +113,7 @@ https://builtin.com/job/associate-business-analyst-project-manager-l-c-coo-techn
 https://builtin.com/job/associate-client-services-software-engineer-c/7151278
 https://builtin.com/job/associate-data-engineer-p-c-engineering-hybrid-hybrid/7494924
 https://builtin.com/job/associate-data-scientist/7381899
+https://builtin.com/job/associate-devops-engineer/7885054
 https://builtin.com/job/associate-director-business-systems-analysis/7244996
 https://builtin.com/job/associate-director-index-quantitative-analyst-global-markets/7426071
 https://builtin.com/job/associate-director-sales-engineering/7162626
@@ -299,6 +300,7 @@ https://builtin.com/job/client-success-coordinator-managed-accounts/7440152
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-operations-developer/7114938
+https://builtin.com/job/cloud-operations-engineer-internal/7885822
 https://builtin.com/job/cloud-operations-engineer/7595943
 https://builtin.com/job/cloud-security-engineer/7628936
 https://builtin.com/job/cloud-software-developer-hybrid/7343710
@@ -317,6 +319,7 @@ https://builtin.com/job/consultant-offensive-security/7147042
 https://builtin.com/job/consultant-offensive-security/7147066
 https://builtin.com/job/consulting-engineer/7244928
 https://builtin.com/job/consulting-engineer/7790152
+https://builtin.com/job/consulting-services-consultant-edi/7887331
 https://builtin.com/job/content-writer-contractor-b2b-saas-cybersecurity/7829753
 https://builtin.com/job/content-writer-senior-associate-c-o-associate-insight-and-media-team/7403643
 https://builtin.com/job/contract-coordinator/7801594
@@ -1286,6 +1289,7 @@ https://builtin.com/job/software-development-engineer-full-stack-net-c-react-nod
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
 https://builtin.com/job/software-development-engineer-ii-computer-vision/7266458
+https://builtin.com/job/software-development-engineer-ii-computer-vision/7885331
 https://builtin.com/job/software-development-engineer-ii/7123869
 https://builtin.com/job/software-development-engineer-iii/7089472
 https://builtin.com/job/software-development-engineer-san-jose-ca/7146896
@@ -1492,6 +1496,7 @@ https://builtin.com/job/software-engineer-internal-systems/7774118
 https://builtin.com/job/software-engineer-it-software-engineers/7610393
 https://builtin.com/job/software-engineer-iv/7478213
 https://builtin.com/job/software-engineer-junior/7657744
+https://builtin.com/job/software-engineer-labs/7885191
 https://builtin.com/job/software-engineer-lead-net-asp-mvc-blazor/7250529
 https://builtin.com/job/software-engineer-lll-e3/7783164
 https://builtin.com/job/software-engineer-local-candidates-only/7633915
@@ -1815,6 +1820,7 @@ https://builtin.com/job/test-automation-firmware-engineer/7240587
 https://builtin.com/job/test-development-engineer-i/7210397
 https://builtin.com/job/test-development-engineer/7080496
 https://builtin.com/job/test-development-engineer/7101195
+https://builtin.com/job/test-engineer-ii-e2/7887083
 https://builtin.com/job/test-engineer-ii/7418582
 https://builtin.com/job/test-engineer-ii/7616072
 https://builtin.com/job/test-engineer/7225406
