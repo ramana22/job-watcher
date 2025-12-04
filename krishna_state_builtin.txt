@@ -316,6 +316,7 @@ https://builtin.com/job/java-front-end-developer/7680505
 https://builtin.com/job/java-front-or-back-end-developer/7680476
 https://builtin.com/job/java-full-stack-developer-cloud-exp/7713695
 https://builtin.com/job/java-full-stack-developer/7722834
+https://builtin.com/job/java-full-stack-development-engineer/7878440
 https://builtin.com/job/java-full-stack-engineer-5882055/7681035
 https://builtin.com/job/java-full-stack-software-engineer-iii-aws/7714054
 https://builtin.com/job/java-fullstack-developer/7625897
@@ -503,6 +504,7 @@ https://builtin.com/job/software-developer-test-engineering/7643585
 https://builtin.com/job/software-developer-test-engineering/7687525
 https://builtin.com/job/software-developer-test-engineering/7687532
 https://builtin.com/job/software-developer-test-engineering/7792222
+https://builtin.com/job/software-developer-test-engineering/7878701
 https://builtin.com/job/software-developer/7628077
 https://builtin.com/job/software-developer/7628128
 https://builtin.com/job/software-developer/7638386
@@ -607,6 +609,7 @@ https://builtin.com/job/software-engineer-i/7669501
 https://builtin.com/job/software-engineer-i/7778677
 https://builtin.com/job/software-engineer-i/7778681
 https://builtin.com/job/software-engineer-i/7778688
+https://builtin.com/job/software-engineer-i/7878880
 https://builtin.com/job/software-engineer-ii-ad-apps/7712954
 https://builtin.com/job/software-engineer-ii-ai-security/7573842
 https://builtin.com/job/software-engineer-ii-applied-ai/7668447
@@ -783,6 +786,7 @@ https://builtin.com/job/software-engineer/7844966
 https://builtin.com/job/software-engineer/7847450
 https://builtin.com/job/software-engineer/7859645
 https://builtin.com/job/software-engineer/7876630
+https://builtin.com/job/software-engineer/7878160
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-integration-administrator/7807014
 https://builtin.com/job/software-product-platform-engineering-specialist/7847592
