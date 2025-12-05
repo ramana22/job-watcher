@@ -459,6 +459,7 @@ https://builtin.com/job/energy-automation-software-engineer/7789365
 https://builtin.com/job/eng-ii-identity-lifecycle-engineer/7074832
 https://builtin.com/job/engagement-specialist/7390052
 https://builtin.com/job/engineer-2-selling-empowerment-team/7712551
+https://builtin.com/job/engineer-associate/7891193
 https://builtin.com/job/engineer-i-manufacturing/7283162
 https://builtin.com/job/engineer-ii-full-stack-web-developer/7750266
 https://builtin.com/job/engineer-ii-go-java-react-microservices-kubernetes/7271383
@@ -1384,6 +1385,7 @@ https://builtin.com/job/software-engineer-duck-creek/7458808
 https://builtin.com/job/software-engineer-electrical-test/7350132
 https://builtin.com/job/software-engineer-entry-level/7282703
 https://builtin.com/job/software-engineer-financial-services-portfolio-us-tax-senior-associate/7713081
+https://builtin.com/job/software-engineer-financial-services-portfolio-us-tax-senior-associate/7891827
 https://builtin.com/job/software-engineer-fraud-detection/7524581
 https://builtin.com/job/software-engineer-fraud-detection/7531782
 https://builtin.com/job/software-engineer-full-stack-and-mobile/7416390
@@ -1672,6 +1674,7 @@ https://builtin.com/job/software-engineer/7872874
 https://builtin.com/job/software-engineer/7876104
 https://builtin.com/job/software-engineer/7889538
 https://builtin.com/job/software-engineer/7890921
+https://builtin.com/job/software-engineer/7891725
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
