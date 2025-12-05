@@ -1768,6 +1768,7 @@ https://builtin.com/job/support-engineer/7101611
 https://builtin.com/job/sustainability-specialist-analytics/7236470
 https://builtin.com/job/sustaining-engineer/7707959
 https://builtin.com/job/system-engineer-i/7427239
+https://builtin.com/job/system-reliablity-amp-support-specialist-production-support/7893872
 https://builtin.com/job/system-software-development-engineer/7303186
 https://builtin.com/job/system-validation-engineer/7820687
 https://builtin.com/job/systems-administrator-1/7438620
@@ -1824,6 +1825,7 @@ https://builtin.com/job/technology-transaction-advisory-senior-analyst-software/
 https://builtin.com/job/technology-transformation-manager/7280243
 https://builtin.com/job/teller-40-hours-circle-c/7284804
 https://builtin.com/job/territory-specialist-personal-lines-p-c-insurance/7394659
+https://builtin.com/job/test-automation-analyst/7890076
 https://builtin.com/job/test-automation-architect/7091256
 https://builtin.com/job/test-automation-engineer-systems-admin/7688902
 https://builtin.com/job/test-automation-engineer/7355081
