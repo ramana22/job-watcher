@@ -113,6 +113,7 @@ https://builtin.com/job/cloud-platform-engineer/7778759
 https://builtin.com/job/cloud-software-engineer-iii-aws/7596750
 https://builtin.com/job/cloud-software-engineer-iii-kubernetes-aws-terraform/7644630
 https://builtin.com/job/cloudops-engineer-us-remote/7686499
+https://builtin.com/job/computational-fluid-dynamics-applications-engineer/7895591
 https://builtin.com/job/computer-engineer-central-engineering/7754490
 https://builtin.com/job/consulting-engineer/7790152
 https://builtin.com/job/core-java-developer-bridgewater-nj-only-gc-or-citizens/7688984
@@ -227,6 +228,7 @@ https://builtin.com/job/full-stack-developer/7713933
 https://builtin.com/job/full-stack-developer/7757175
 https://builtin.com/job/full-stack-developer/7781555
 https://builtin.com/job/full-stack-developer/7781818
+https://builtin.com/job/full-stack-developer/7897316
 https://builtin.com/job/full-stack-engineer-angular-java-apis/7798252
 https://builtin.com/job/full-stack-engineer-java-aws-angular-westlake-tx/7764280
 https://builtin.com/job/full-stack-engineer-l4-product-localization-technology/7877742
@@ -711,6 +713,7 @@ https://builtin.com/job/software-engineer-law-reg/7520327
 https://builtin.com/job/software-engineer-lead-angular-java/7869680
 https://builtin.com/job/software-engineer-lead-automation-anywhere-python-java/7520394
 https://builtin.com/job/software-engineer-lead-java-fullstack-angular/7719901
+https://builtin.com/job/software-engineer-lead-java-microservices/7893870
 https://builtin.com/job/software-engineer-lead/7703502
 https://builtin.com/job/software-engineer-level-3/7586952
 https://builtin.com/job/software-engineer-loans-platform/7505407
@@ -803,6 +806,7 @@ https://builtin.com/job/software-engineer/7876630
 https://builtin.com/job/software-engineer/7878160
 https://builtin.com/job/software-engineer/7891725
 https://builtin.com/job/software-engineer/7891741
+https://builtin.com/job/software-engineer/7896019
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-engineering-online-instructor-passionclass/7891532
 https://builtin.com/job/software-integration-administrator/7807014
@@ -883,6 +887,7 @@ https://builtin.com/job/technology-software-engineering-data-and-product-united-
 https://builtin.com/job/technology-support-i-production/7644601
 https://builtin.com/job/technology-support-iii/7596955
 https://builtin.com/job/test-automation-analyst/7872404
+https://builtin.com/job/test-automation-analyst/7890076
 https://builtin.com/job/titanium-engineer/7686967
 https://builtin.com/job/training-systems-simulation-engineer-lunar-mission-operations/7710837
 https://builtin.com/job/travel-demand-modeler-developer/7684670
