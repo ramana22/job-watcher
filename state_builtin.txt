@@ -1515,6 +1515,7 @@ https://builtin.com/job/software-engineer-net-angular-must-work-w2/7314501
 https://builtin.com/job/software-engineer-net-c/7085029
 https://builtin.com/job/software-engineer-net-c/7613315
 https://builtin.com/job/software-engineer-net-core-rest-api-sql-site-see-locations/7861789
+https://builtin.com/job/software-engineer-net-core-rest-api-sql-site-see-locations/7897956
 https://builtin.com/job/software-engineer-net-devops-developer/7091425
 https://builtin.com/job/software-engineer-net-fullstack/7599420
 https://builtin.com/job/software-engineer-net-graphql-api-w2-role/7272591
@@ -1675,6 +1676,7 @@ https://builtin.com/job/software-engineer/7876104
 https://builtin.com/job/software-engineer/7889538
 https://builtin.com/job/software-engineer/7890921
 https://builtin.com/job/software-engineer/7891725
+https://builtin.com/job/software-engineer/7899128
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
