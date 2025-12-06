@@ -1562,6 +1562,8 @@ https://builtin.com/job/software-engineer-sales-development/7464564
 https://builtin.com/job/software-engineer-senior-consultant/7844009
 https://builtin.com/job/software-engineer-senior-software-engineer/7338921
 https://builtin.com/job/software-engineer-serviceability/7079620
+https://builtin.com/job/software-engineer-simulation-c-framework/7903114
+https://builtin.com/job/software-engineer-simulation-c-framework/7903121
 https://builtin.com/job/software-engineer-site/7711350
 https://builtin.com/job/software-engineer-support/7243835
 https://builtin.com/job/software-engineer-teleoperation/7404814
