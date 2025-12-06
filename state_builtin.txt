@@ -1515,6 +1515,7 @@ https://builtin.com/job/software-engineer-iii/7573241
 https://builtin.com/job/software-engineer-iii/7573247
 https://builtin.com/job/software-engineer-iii/7602508
 https://builtin.com/job/software-engineer-iii/7751785
+https://builtin.com/job/software-engineer-imaging/7904029
 https://builtin.com/job/software-engineer-internal-systems/7774118
 https://builtin.com/job/software-engineer-it-software-engineers/7610393
 https://builtin.com/job/software-engineer-iv/7478213
@@ -1773,6 +1774,7 @@ https://builtin.com/job/staff-accountant/7801349
 https://builtin.com/job/staff-accountant/7861734
 https://builtin.com/job/staff-deploy-software-engineer/7315735
 https://builtin.com/job/staff-embedded-c-software-engineer-robotics/7888672
+https://builtin.com/job/staff-engineer-wafer-manufacturing-metrology/7903994
 https://builtin.com/job/staff-full-stack-application-developer/7103361
 https://builtin.com/job/staff-r-d-software-engineer-simulation/7082115
 https://builtin.com/job/staff-sdk-engineer/7600392
