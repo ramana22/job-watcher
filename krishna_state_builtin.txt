@@ -224,6 +224,7 @@ https://builtin.com/job/front-end-software-developer-hybrid/7800547
 https://builtin.com/job/front-end-software-engineer/7733221
 https://builtin.com/job/frontend-engineer/7711381
 https://builtin.com/job/full-stack-developer-contingent/7822130
+https://builtin.com/job/full-stack-developer-designer/7904240
 https://builtin.com/job/full-stack-developer-java-angularjs/7702636
 https://builtin.com/job/full-stack-developer-remote-opportunity/7565114
 https://builtin.com/job/full-stack-developer/7713933
@@ -497,6 +498,7 @@ https://builtin.com/job/simulation-engineer/7582815
 https://builtin.com/job/site-reliability-engineer-iii/7644616
 https://builtin.com/job/site-reliability-engineer-iii/7796732
 https://builtin.com/job/site-reliability-engineer-iii/7823748
+https://builtin.com/job/site-reliability-engineer-iii/7904111
 https://builtin.com/job/site-reliability-engineer-req-190/7710655
 https://builtin.com/job/site-reliability-engineer/7518390
 https://builtin.com/job/site-reliability-engineer/7618941
@@ -914,6 +916,7 @@ https://builtin.com/job/vp-protocol-engineer-validators/7725911
 https://builtin.com/job/we-are-looking-java-developer-san-jose-ca/7679662
 https://builtin.com/job/web-application-developer/7888917
 https://builtin.com/job/web-developer-html-javascript-nodejs-java/7702640
+https://builtin.com/job/web-developer-lion-holdings-26/7904208
 https://builtin.com/job/web-developer-lion-holdings/7644147
 https://builtin.com/job/web-portal-support-specialist/7685874
 https://builtin.com/job/wireless-software-engineer-wifi/7767147
