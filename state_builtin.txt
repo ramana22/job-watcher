@@ -1268,6 +1268,7 @@ https://builtin.com/job/software-developer-genai-remote-us/7277501
 https://builtin.com/job/software-developer-greenwood-sc-hybrid/7269927
 https://builtin.com/job/software-developer-i/7348701
 https://builtin.com/job/software-developer-i/7697740
+https://builtin.com/job/software-developer-i/7908847
 https://builtin.com/job/software-developer-ii-conflation-arcgis-pro/7368390
 https://builtin.com/job/software-developer-ii-geoprocessing-and-map-viewer-analysis/7087582
 https://builtin.com/job/software-developer-ii/7200483
@@ -1698,6 +1699,9 @@ https://builtin.com/job/software-engineer/7889538
 https://builtin.com/job/software-engineer/7890921
 https://builtin.com/job/software-engineer/7891725
 https://builtin.com/job/software-engineer/7899128
+https://builtin.com/job/software-engineer/7909009
+https://builtin.com/job/software-engineer/7909123
+https://builtin.com/job/software-engineer/7909401
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
