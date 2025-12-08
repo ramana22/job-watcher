@@ -227,6 +227,7 @@ https://builtin.com/job/front-end-software-engineer/7733221
 https://builtin.com/job/frontend-engineer/7711381
 https://builtin.com/job/full-stack-developer-contingent/7822130
 https://builtin.com/job/full-stack-developer-designer/7904240
+https://builtin.com/job/full-stack-developer-designer/7905225
 https://builtin.com/job/full-stack-developer-java-angularjs/7702636
 https://builtin.com/job/full-stack-developer-remote-opportunity/7565114
 https://builtin.com/job/full-stack-developer/7713933
@@ -535,6 +536,7 @@ https://builtin.com/job/software-developer/7628128
 https://builtin.com/job/software-developer/7638386
 https://builtin.com/job/software-developer/7809586
 https://builtin.com/job/software-developer/7902041
+https://builtin.com/job/software-developer/7905316
 https://builtin.com/job/software-development-engineer-1/7670838
 https://builtin.com/job/software-development-engineer-full-stack-java-cloud/7723586
 https://builtin.com/job/software-development-engineer-full-stack/7903522
