@@ -45,6 +45,7 @@ https://builtin.com/job/application-support-engineer/7574954
 https://builtin.com/job/application-support-engineer/7646156
 https://builtin.com/job/applications-development-programmer-analyst/7845582
 https://builtin.com/job/applied-machine-learning-engineer/7912480
+https://builtin.com/job/applied-researcher-2-search-ranking/7918409
 https://builtin.com/job/architect-policy-platforms/7658573
 https://builtin.com/job/asic-engineer/7513877
 https://builtin.com/job/assistant-technical-support-representative/7642596
@@ -565,6 +566,7 @@ https://builtin.com/job/software-development-engineer-ii/7711515
 https://builtin.com/job/software-development-engineer-ii/7719239
 https://builtin.com/job/software-development-engineer-ii/7719240
 https://builtin.com/job/software-development-engineer-ii/7719241
+https://builtin.com/job/software-development-engineer-ii/7920444
 https://builtin.com/job/software-development-engineer-iii/7516117
 https://builtin.com/job/software-development-engineer-java-backend/7729209
 https://builtin.com/job/software-development-engineer-sr-full-stack-java-react/7788952
@@ -860,6 +862,9 @@ https://builtin.com/job/software-engineer/7891741
 https://builtin.com/job/software-engineer/7896019
 https://builtin.com/job/software-engineer/7903676
 https://builtin.com/job/software-engineer/7913964
+https://builtin.com/job/software-engineer/7918124
+https://builtin.com/job/software-engineer/7919606
+https://builtin.com/job/software-engineer/7920078
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-engineering-online-instructor-passionclass/7891532
 https://builtin.com/job/software-integration-administrator/7807014
@@ -906,6 +911,7 @@ https://builtin.com/job/staff-machine-learning-engineer/7903669
 https://builtin.com/job/staff-software-engineer-programmatic-bidding/7563789
 https://builtin.com/job/staff-software-engineer/7729323
 https://builtin.com/job/staff-software-engineer/7737129
+https://builtin.com/job/staff-software-engineer/7918205
 https://builtin.com/job/strategy-engineer-early-career/7686205
 https://builtin.com/job/sw-engineer-ii/7585812
 https://builtin.com/job/sw-engineer/7778560
