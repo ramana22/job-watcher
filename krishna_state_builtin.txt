@@ -424,6 +424,7 @@ https://builtin.com/job/machine-learning-engineer-3/7724976
 https://builtin.com/job/machine-learning-engineer-iii-ai-agents/7891700
 https://builtin.com/job/machine-learning-engineer-inference-serving/7588691
 https://builtin.com/job/machine-learning-engineer/7762569
+https://builtin.com/job/machine-learning-engineer/7916399
 https://builtin.com/job/manager-bizops/7800717
 https://builtin.com/job/manager-engineering-mobile-trainingpeaks/7912380
 https://builtin.com/job/manager-engineering/7791070
@@ -460,6 +461,7 @@ https://builtin.com/job/platform-engineer-observability-prometheus-elasticsearch
 https://builtin.com/job/platform-engineer/7665340
 https://builtin.com/job/pre-sales-solutions-engineer-new-york/7627490
 https://builtin.com/job/pricing-direct-corporate-and-private-placement-valuation-associate/7714072
+https://builtin.com/job/principal-engineer-software-development-engineering-apps/7916751
 https://builtin.com/job/privacy-engineer-level-4/7705943
 https://builtin.com/job/process-control-engineer-fault-detection/7700394
 https://builtin.com/job/process-control-engineer-run-run/7727546
@@ -483,6 +485,7 @@ https://builtin.com/job/quantitative-research-cash-equities-associate/7780568
 https://builtin.com/job/quantitative-strategist-credit/7683494
 https://builtin.com/job/quantitative-systems-researcher-associate-vp/7913280
 https://builtin.com/job/remote-software-developer/7587552
+https://builtin.com/job/research-programmer-analyst-associate-remote/7917750
 https://builtin.com/job/rsa-software-engineer-2-cloud-java/7579409
 https://builtin.com/job/rsa-software-engineer-cloud-java/7579401
 https://builtin.com/job/sales-engineer-i/7781214
@@ -594,6 +597,7 @@ https://builtin.com/job/software-engineer-3/7682888
 https://builtin.com/job/software-engineer-3/7776993
 https://builtin.com/job/software-engineer-acuity-backend/7762514
 https://builtin.com/job/software-engineer-ai-enablement-full-stack/7616983
+https://builtin.com/job/software-engineer-ai-frontend/7916522
 https://builtin.com/job/software-engineer-ai/7641204
 https://builtin.com/job/software-engineer-android/7712861
 https://builtin.com/job/software-engineer-api-opensearch/7779967
