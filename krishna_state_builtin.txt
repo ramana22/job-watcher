@@ -177,6 +177,7 @@ https://builtin.com/job/data-scientist-multiple-positions-available/7785924
 https://builtin.com/job/data-scientist/7875423
 https://builtin.com/job/data-software-engineer/7762451
 https://builtin.com/job/database-design-engineer/7927930
+https://builtin.com/job/database-escalation-engineer-federal/7930503
 https://builtin.com/job/decision-analytics-associate-washington-dc/7611875
 https://builtin.com/job/desarrollador-java-con-experiencia-en-adobe-aem/7824911
 https://builtin.com/job/developer-software-engineer-cloud-java-awd/7603900
@@ -346,6 +347,7 @@ https://builtin.com/job/java-developer/7719850
 https://builtin.com/job/java-developer/7719852
 https://builtin.com/job/java-developer/7797343
 https://builtin.com/job/java-developer/7835868
+https://builtin.com/job/java-developer/7930343
 https://builtin.com/job/java-engineer-multicast/7691198
 https://builtin.com/job/java-engineer-spring/7691204
 https://builtin.com/job/java-engineer/7535293
@@ -737,6 +739,7 @@ https://builtin.com/job/software-engineer-ii/7753406
 https://builtin.com/job/software-engineer-ii/7802056
 https://builtin.com/job/software-engineer-ii/7841374
 https://builtin.com/job/software-engineer-ii/7929841
+https://builtin.com/job/software-engineer-ii/7932711
 https://builtin.com/job/software-engineer-iii-applied-ai/7669500
 https://builtin.com/job/software-engineer-iii-aws-application/7807674
 https://builtin.com/job/software-engineer-iii-aws-cloud-engineer/7575195
@@ -898,6 +901,8 @@ https://builtin.com/job/software-engineer/7920078
 https://builtin.com/job/software-engineer/7926263
 https://builtin.com/job/software-engineer/7927546
 https://builtin.com/job/software-engineer/7929395
+https://builtin.com/job/software-engineer/7930498
+https://builtin.com/job/software-engineer/7930555
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-engineering-online-instructor-passionclass/7891532
 https://builtin.com/job/software-engineering-technical-product-manager-integrations-api/7928243
@@ -944,6 +949,7 @@ https://builtin.com/job/staff-consultant-performance-engineeering/7769242
 https://builtin.com/job/staff-consultant-performance-engineeering/7793644
 https://builtin.com/job/staff-developer-advocate/7822455
 https://builtin.com/job/staff-machine-learning-engineer/7903669
+https://builtin.com/job/staff-software-engineer-backend-scale-relocate-singapore/7931575
 https://builtin.com/job/staff-software-engineer-programmatic-bidding/7563789
 https://builtin.com/job/staff-software-engineer/7729323
 https://builtin.com/job/staff-software-engineer/7737129
