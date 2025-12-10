@@ -665,6 +665,7 @@ https://builtin.com/job/full-stack-software-test-engineer/7290881
 https://builtin.com/job/fullstack-developer/7427939
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
 https://builtin.com/job/gameplay-engineer/7693623
+https://builtin.com/job/gameplay-engineer/7937216
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7199407
 https://builtin.com/job/gas-fitter-1-c-2-c-acceptable/7200373
 https://builtin.com/job/gas-fitter-1-c-2-c-scheduled-worker/7920632
@@ -688,6 +689,7 @@ https://builtin.com/job/hr-manager/7801346
 https://builtin.com/job/hr-specialist-remote/7802393
 https://builtin.com/job/hubspot-integrations-developer/7429892
 https://builtin.com/job/i-c-engineer/7778343
+https://builtin.com/job/iam-engineer-saviynt/7937544
 https://builtin.com/job/icqa-specialist/7220840
 https://builtin.com/job/identity-and-access-management-iam-engineer/7448201
 https://builtin.com/job/implementation-consultant/7806755
@@ -794,6 +796,7 @@ https://builtin.com/job/junior-programmer-analyst/7482875
 https://builtin.com/job/junior-research-and-development-engineer-req-176/7189444
 https://builtin.com/job/junior-rpa-developer/7421232
 https://builtin.com/job/junior-software-developer-tech-support/7259974
+https://builtin.com/job/junior-software-developer-tech-support/7936331
 https://builtin.com/job/junior-software-developer/7127518
 https://builtin.com/job/junior-software-developer/7322705
 https://builtin.com/job/junior-software-developer/7333060
@@ -964,6 +967,7 @@ https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-engineer/7656382
 https://builtin.com/job/net-front-end-developer/7688488
 https://builtin.com/job/net-full-stack-data-engineer/7112486
+https://builtin.com/job/net-full-stack-developer/7937137
 https://builtin.com/job/net-full-stack-developers-future-opportunities-pipeline-posting/7752922
 https://builtin.com/job/net-full-stack-engineer/7791571
 https://builtin.com/job/net-graphql-engineer-w2-role/7171132
@@ -1093,6 +1097,7 @@ https://builtin.com/job/qa-engineer/7601027
 https://builtin.com/job/qa-engineer/7614672
 https://builtin.com/job/qa-lead/7136577
 https://builtin.com/job/qa-lead/7137175
+https://builtin.com/job/qa-manager/7936969
 https://builtin.com/job/qa-selenium/7680431
 https://builtin.com/job/qa-software-engineer-ii/7139775
 https://builtin.com/job/qa-tester/7635809
@@ -1308,6 +1313,8 @@ https://builtin.com/job/software-developer-net/7161449
 https://builtin.com/job/software-developer-net/7188587
 https://builtin.com/job/software-developer-net/7188683
 https://builtin.com/job/software-developer-net/7774557
+https://builtin.com/job/software-developer-net/7937169
+https://builtin.com/job/software-developer-net/7937181
 https://builtin.com/job/software-developer-web/7107192
 https://builtin.com/job/software-developer-web/7107208
 https://builtin.com/job/software-developer-web/7410408
@@ -1592,6 +1599,7 @@ https://builtin.com/job/software-engineer-new-college-grad-2026/7076261
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091579
 https://builtin.com/job/software-engineer-new-college-grad-2026/7091585
 https://builtin.com/job/software-engineer-onsite/7386424
+https://builtin.com/job/software-engineer-payments/7936783
 https://builtin.com/job/software-engineer-performance-marketing/7881105
 https://builtin.com/job/software-engineer-platform-and-infrastructure/7765843
 https://builtin.com/job/software-engineer-platform/7080676
