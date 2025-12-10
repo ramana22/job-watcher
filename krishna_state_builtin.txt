@@ -234,6 +234,8 @@ https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-
 https://builtin.com/job/f-35-software-systems-engineer-sr/7631763
 https://builtin.com/job/field-cybersecurity-support-specialist/7683098
 https://builtin.com/job/flourish-engineer/7874897
+https://builtin.com/job/forward-deployed-engineer/7929932
+https://builtin.com/job/forward-deployed-engineer/7929955
 https://builtin.com/job/founding-backend-software-engineer-senior-staff-vc-backed-startups/7593162
 https://builtin.com/job/founding-full-stack-software-engineer-senior-staff-vc-backed-startups/7593111
 https://builtin.com/job/front-end-java-developer/7529901
@@ -734,6 +736,7 @@ https://builtin.com/job/software-engineer-ii/7731731
 https://builtin.com/job/software-engineer-ii/7753406
 https://builtin.com/job/software-engineer-ii/7802056
 https://builtin.com/job/software-engineer-ii/7841374
+https://builtin.com/job/software-engineer-ii/7929841
 https://builtin.com/job/software-engineer-iii-applied-ai/7669500
 https://builtin.com/job/software-engineer-iii-aws-application/7807674
 https://builtin.com/job/software-engineer-iii-aws-cloud-engineer/7575195
@@ -817,6 +820,7 @@ https://builtin.com/job/software-engineer-platform/7574126
 https://builtin.com/job/software-engineer-remote-opportunity/7683673
 https://builtin.com/job/software-engineer-rr-level-1-polygraph-required/7625400
 https://builtin.com/job/software-engineer-sandbox/7575480
+https://builtin.com/job/software-engineer-sdk-test-infrastructure/7929965
 https://builtin.com/job/software-engineer-senior-consultant-i/7834042
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585945
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585949
