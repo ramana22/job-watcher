@@ -491,6 +491,7 @@ https://builtin.com/job/engineer-i-manufacturing/7283162
 https://builtin.com/job/engineer-i/7926339
 https://builtin.com/job/engineer-ii-full-stack-web-developer/7750266
 https://builtin.com/job/engineer-ii-go-java-react-microservices-kubernetes/7271383
+https://builtin.com/job/engineer-ii-net-full-stack-engineer/7951099
 https://builtin.com/job/engineer-ii-net/7697351
 https://builtin.com/job/engineer-ii-net/7730250
 https://builtin.com/job/engineer-ii-software-defined-storage/7584324
@@ -1484,6 +1485,7 @@ https://builtin.com/job/software-engineer-identity-access-management-iam/7489082
 https://builtin.com/job/software-engineer-ii-ado-remote/7596518
 https://builtin.com/job/software-engineer-ii-ai/7405713
 https://builtin.com/job/software-engineer-ii-ai/7405723
+https://builtin.com/job/software-engineer-ii-api/7951034
 https://builtin.com/job/software-engineer-ii-arcgis-geocoding/7876776
 https://builtin.com/job/software-engineer-ii-aws-node/7708907
 https://builtin.com/job/software-engineer-ii-aws-node/7708916
