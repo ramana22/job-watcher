@@ -166,6 +166,7 @@ https://builtin.com/job/associate-software-engineer/7230467
 https://builtin.com/job/associate-software-engineer/7269212
 https://builtin.com/job/associate-software-engineer/7599971
 https://builtin.com/job/associate-software-engineer/7729242
+https://builtin.com/job/associate-software-engineer/7940126
 https://builtin.com/job/associate-solution-engineer/7910357
 https://builtin.com/job/associate-solutions-analyst/7433522
 https://builtin.com/job/associate-solutions-analyst/7476874
@@ -345,12 +346,14 @@ https://builtin.com/job/controls-engineer/7736100
 https://builtin.com/job/controls-engineer/7804460
 https://builtin.com/job/controls-project-engineer-i/7870114
 https://builtin.com/job/controls-project-engineer-i/7870115
+https://builtin.com/job/controls-software-engineer/7940881
 https://builtin.com/job/conversion-engineer/7333210
 https://builtin.com/job/copilot-ai-developer/7434809
 https://builtin.com/job/copilot-ai-developer/7469865
 https://builtin.com/job/copy-full-stack-developer/7611990
 https://builtin.com/job/core-c-engineer-advertising/7195452
 https://builtin.com/job/core-development-program/7071302
+https://builtin.com/job/core-integration-specialist/7944853
 https://builtin.com/job/core-software-engineer-c-remote/7837202
 https://builtin.com/job/cos-operator-i/7140150
 https://builtin.com/job/cos-operator-i/7191439
@@ -452,6 +455,7 @@ https://builtin.com/job/digital-specialist/7924618
 https://builtin.com/job/digital-twin-analyst/7246971
 https://builtin.com/job/director-product-management-risk-platform/7085429
 https://builtin.com/job/docusign-technical-support-analyst/7724639
+https://builtin.com/job/domain-architect-testing/7944604
 https://builtin.com/job/dynamics-365-developer-remote-opportunity/7272393
 https://builtin.com/job/dynamics-365-developer-remote-opportunity/7600339
 https://builtin.com/job/dynamics-365-f-o-technical-solution-engineer/7175464
@@ -812,6 +816,7 @@ https://builtin.com/job/junior-software-engineer/7891155
 https://builtin.com/job/junior-software-engineering-cohort/7654455
 https://builtin.com/job/junior-staff-accountant-remote/7802396
 https://builtin.com/job/junior-systems-architect/7556010
+https://builtin.com/job/junior-vr-software-engineer/7940294
 https://builtin.com/job/key-account-controller/7927994
 https://builtin.com/job/l4-software-engineer-c-spectacles/7438259
 https://builtin.com/job/lab-automation-analyst/7904825
@@ -1124,6 +1129,7 @@ https://builtin.com/job/realtime-solutions-engineer/7514958
 https://builtin.com/job/red-team-operator/7444992
 https://builtin.com/job/red-team-operator/7763006
 https://builtin.com/job/remote-ai-engineer/7404451
+https://builtin.com/job/remote-full-stack-developer/7938306
 https://builtin.com/job/reset-supervisor/7460190
 https://builtin.com/job/returning-new-grad-software-engineer-i-great-lakes-division-current-former-hntb-interns-only/7543558
 https://builtin.com/job/revenue-assurance-representative/7752487
@@ -1315,6 +1321,7 @@ https://builtin.com/job/software-developer-net/7188683
 https://builtin.com/job/software-developer-net/7774557
 https://builtin.com/job/software-developer-net/7937169
 https://builtin.com/job/software-developer-net/7937181
+https://builtin.com/job/software-developer-private-wealth-portfolio-implementation-trading/7939258
 https://builtin.com/job/software-developer-web/7107192
 https://builtin.com/job/software-developer-web/7107208
 https://builtin.com/job/software-developer-web/7410408
@@ -1370,6 +1377,7 @@ https://builtin.com/job/software-development-engineer-test/7496227
 https://builtin.com/job/software-development-engineer-test/7519478
 https://builtin.com/job/software-development-engineer-test/7755260
 https://builtin.com/job/software-development-engineer-test/7811471
+https://builtin.com/job/software-development-engineer-test/7944748
 https://builtin.com/job/software-development-engineer/7103044
 https://builtin.com/job/software-development-engineer/7172036
 https://builtin.com/job/software-development-engineer/7209935
@@ -1452,6 +1460,7 @@ https://builtin.com/job/software-engineer-full-stack-and-mobile/7416390
 https://builtin.com/job/software-engineer-full-stack-web-applications/7625041
 https://builtin.com/job/software-engineer-full-stack/7369739
 https://builtin.com/job/software-engineer-full-stack/7806710
+https://builtin.com/job/software-engineer-full-stack/7944436
 https://builtin.com/job/software-engineer-fullstack/7317579
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
 https://builtin.com/job/software-engineer-hybrid-or-remote/7344015
@@ -1541,6 +1550,7 @@ https://builtin.com/job/software-engineer-ii/7858267
 https://builtin.com/job/software-engineer-ii/7888374
 https://builtin.com/job/software-engineer-ii/7916204
 https://builtin.com/job/software-engineer-ii/7929841
+https://builtin.com/job/software-engineer-ii/7944251
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
@@ -1756,6 +1766,9 @@ https://builtin.com/job/software-engineer/7923498
 https://builtin.com/job/software-engineer/7923712
 https://builtin.com/job/software-engineer/7926263
 https://builtin.com/job/software-engineer/7927042
+https://builtin.com/job/software-engineer/7938416
+https://builtin.com/job/software-engineer/7944779
+https://builtin.com/job/software-engineer/7944895
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -1954,6 +1967,7 @@ https://builtin.com/job/ux-integration-engineer/7416317
 https://builtin.com/job/v2x-test-and-development-engineer/7302826
 https://builtin.com/job/vb-net-developer-support/7692523
 https://builtin.com/job/visualization-engineer/7447838
+https://builtin.com/job/vr-software-engineer/7940312
 https://builtin.com/job/vulnerability-assessments-automation-developer/7505203
 https://builtin.com/job/way-onward-sales-associate-brandywine-t-c/7737660
 https://builtin.com/job/we-are-looking-fe-ui-angular-developer-redmond-wa/7680300
