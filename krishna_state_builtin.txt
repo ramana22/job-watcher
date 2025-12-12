@@ -150,6 +150,8 @@ https://builtin.com/job/data-analytics-and-vertical-engineering-claims-domain-en
 https://builtin.com/job/data-analytics-engineer-ba4/7915301
 https://builtin.com/job/data-and-transformation-associate/7711892
 https://builtin.com/job/data-dictionary-software-engineer-1/7927531
+https://builtin.com/job/data-engineer-1-hybrid-seattle-wa/7957029
+https://builtin.com/job/data-engineer-2-hybrid-seattle-wa/7957032
 https://builtin.com/job/data-engineer-2/7616138
 https://builtin.com/job/data-engineer-go-market/7799708
 https://builtin.com/job/data-engineer-ii-senior-data-engineer/7856431
@@ -261,6 +263,7 @@ https://builtin.com/job/full-stack-developer/7757175
 https://builtin.com/job/full-stack-developer/7781555
 https://builtin.com/job/full-stack-developer/7781818
 https://builtin.com/job/full-stack-developer/7897316
+https://builtin.com/job/full-stack-developer/7956673
 https://builtin.com/job/full-stack-engineer-angular-java-apis/7798252
 https://builtin.com/job/full-stack-engineer-java-aws-angular-westlake-tx/7764280
 https://builtin.com/job/full-stack-engineer-l4-product-localization-technology/7877742
@@ -467,6 +470,7 @@ https://builtin.com/job/mid-level-software-engineer-aws-java/7600585
 https://builtin.com/job/mobile-app-developer/7783749
 https://builtin.com/job/mobile-app-developer/7902481
 https://builtin.com/job/mobile-app-developer/7904486
+https://builtin.com/job/mobile-app-developer/7956758
 https://builtin.com/job/mobile-application-engineer-android-java/7762504
 https://builtin.com/job/mobile-application-engineer-android-java/7762507
 https://builtin.com/job/moloco-ecosystem-partner-engineer-supply-measurement/7712520
@@ -692,6 +696,7 @@ https://builtin.com/job/software-engineer-edge-data-telemetry/7700151
 https://builtin.com/job/software-engineer-entry/7876652
 https://builtin.com/job/software-engineer-front-end/7775904
 https://builtin.com/job/software-engineer-frontend/7956291
+https://builtin.com/job/software-engineer-frontend/7956718
 https://builtin.com/job/software-engineer-frost-signals/7573639
 https://builtin.com/job/software-engineer-full-stack-capital-one-software-remote/7571262
 https://builtin.com/job/software-engineer-full-stack-engineer-react-typescript-studio-ai/7736584
@@ -868,6 +873,7 @@ https://builtin.com/job/software-engineer-senior-consultant-i/7834042
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585945
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585949
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585955
+https://builtin.com/job/software-engineer-solutions/7956992
 https://builtin.com/job/software-engineer-spectacles-mobile-level-4/7572819
 https://builtin.com/job/software-engineer-stablecoin/7847100
 https://builtin.com/job/software-engineer-test-infrastructure-ii/7631617
