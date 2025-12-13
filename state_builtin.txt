@@ -90,6 +90,7 @@ https://builtin.com/job/application-engineer/7448803
 https://builtin.com/job/application-engineer/7523748
 https://builtin.com/job/application-engineer/7951712
 https://builtin.com/job/application-infrastructure-developer/7160069
+https://builtin.com/job/application-integration-engineer/7981065
 https://builtin.com/job/application-security-engineer/7962143
 https://builtin.com/job/application-software-engineer/7915408
 https://builtin.com/job/application-support-developer/7140512
@@ -1423,6 +1424,7 @@ https://builtin.com/job/software-engineer-3/7600948
 https://builtin.com/job/software-engineer-3/7800639
 https://builtin.com/job/software-engineer-account-management/7303251
 https://builtin.com/job/software-engineer-accounting/7425985
+https://builtin.com/job/software-engineer-ai-c/7980816
 https://builtin.com/job/software-engineer-ai-systems/7212299
 https://builtin.com/job/software-engineer-ai-systems/7212838
 https://builtin.com/job/software-engineer-ai/7577129
