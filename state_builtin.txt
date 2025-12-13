@@ -90,6 +90,7 @@ https://builtin.com/job/application-engineer/7448803
 https://builtin.com/job/application-engineer/7523748
 https://builtin.com/job/application-engineer/7951712
 https://builtin.com/job/application-infrastructure-developer/7160069
+https://builtin.com/job/application-security-engineer/7962143
 https://builtin.com/job/application-software-engineer/7915408
 https://builtin.com/job/application-support-developer/7140512
 https://builtin.com/job/application-support/7426352
@@ -870,6 +871,7 @@ https://builtin.com/job/managed-application-services-mas-senior-consultant/76691
 https://builtin.com/job/manager-database-marketing-c-level-communities/7316560
 https://builtin.com/job/manager-engineering/7262569
 https://builtin.com/job/manager-engineering/7791070
+https://builtin.com/job/manager-engineering/7961177
 https://builtin.com/job/manager-hr-business-partner/7161230
 https://builtin.com/job/manager-information-technology/7599445
 https://builtin.com/job/manager-it-product/7259827
