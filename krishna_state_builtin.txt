@@ -46,6 +46,7 @@ https://builtin.com/job/apex-fintech-solutions-2026-apex-leadership-development-
 https://builtin.com/job/application-developer/7723461
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-engineer-ii/7911494
+https://builtin.com/job/application-integration-engineer/7981065
 https://builtin.com/job/application-security-engineer/7962143
 https://builtin.com/job/application-support-engineer-ii/7886973
 https://builtin.com/job/application-support-engineer/7574954
@@ -481,6 +482,7 @@ https://builtin.com/job/manager-technical-certification-and-documentation-servic
 https://builtin.com/job/mgr-software-development-engineering/7775831
 https://builtin.com/job/mid-level-ai-npl-machine-learning-engineer/7586969
 https://builtin.com/job/mid-level-backend-software-engineer-partial-telework/7600831
+https://builtin.com/job/mid-level-full-stack-developer/7980475
 https://builtin.com/job/mid-level-full-stack-front-end-developer/7660392
 https://builtin.com/job/mid-level-java-software-engineer/7516548
 https://builtin.com/job/mid-level-software-engineer-aws-java/7600585
@@ -506,6 +508,7 @@ https://builtin.com/job/operations-support-engineer/7693100
 https://builtin.com/job/operations-support-engineer/7925037
 https://builtin.com/job/oracle-apps-ar-developer/7680544
 https://builtin.com/job/outage-management-system-oms-adms-engineer/7915531
+https://builtin.com/job/pathfinding-engineer-intel-contract/7977117
 https://builtin.com/job/performance-engineer-ii/7699466
 https://builtin.com/job/performance-test-automation-engineer-onsite-overland-park-ks/7809151
 https://builtin.com/job/platform-engineer-ai-automation/7564949
@@ -553,6 +556,7 @@ https://builtin.com/job/sales-engineer/7565167
 https://builtin.com/job/sdet-contractor/7589900
 https://builtin.com/job/sdet-engineer/7562761
 https://builtin.com/job/sdet-ii/7902765
+https://builtin.com/job/securities-services-exposure-management-associate/7981115
 https://builtin.com/job/security-analyst-penetration-testing/7567303
 https://builtin.com/job/security-analyst-penetration-testing/7758944
 https://builtin.com/job/security-engineer-application-security-level-4/7863493
@@ -1098,6 +1102,7 @@ https://builtin.com/job/test-automation-analyst/7890076
 https://builtin.com/job/titanium-engineer/7686967
 https://builtin.com/job/training-systems-simulation-engineer-lunar-mission-operations/7710837
 https://builtin.com/job/travel-demand-modeler-developer/7684670
+https://builtin.com/job/ui-ux-software-developer/7980680
 https://builtin.com/job/urgent-need-java-full-stack-developer-alfresco-exp/7678045
 https://builtin.com/job/virtual-network-engineer/7755526
 https://builtin.com/job/vp-protocol-engineer-validators/7725911
