@@ -512,6 +512,7 @@ https://builtin.com/job/engineer-ii-software/7073643
 https://builtin.com/job/engineer-ii-software/7200266
 https://builtin.com/job/engineer-ii-software/7526901
 https://builtin.com/job/engineer-ii-systems-guidance-navigation-and-controls-gn-c/7495548
+https://builtin.com/job/engineer-ii-systems-guidance-navigation-and-controls-gn-c/7981453
 https://builtin.com/job/engineer-ii-ui-ux/7686298
 https://builtin.com/job/engineer-ii/7313959
 https://builtin.com/job/engineer-ii/7469360
@@ -626,6 +627,7 @@ https://builtin.com/job/front-end-full-stack-net-developer/7688365
 https://builtin.com/job/front-end-software-developer/7423287
 https://builtin.com/job/fta-generalist-dayshift/7433351
 https://builtin.com/job/fta-hi-lo-operator-dayshift/7724679
+https://builtin.com/job/fta-incentive-lift-operator/7979050
 https://builtin.com/job/fta-lift-operator/7515566
 https://builtin.com/job/fta-loader-days/7524210
 https://builtin.com/job/fta-unloader-days/7198164
@@ -701,6 +703,7 @@ https://builtin.com/job/graphql-net-engineer-w2-role/7190188
 https://builtin.com/job/grid-modeling-systems-engineer/7846239
 https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/hardware-loop-hil-engineer/7129384
+https://builtin.com/job/head-talent-strategy-and-innovation/7981321
 https://builtin.com/job/hedge-fund-representative-associate/7222641
 https://builtin.com/job/helpdesk-specialist/7804477
 https://builtin.com/job/hr-manager/7801346
@@ -1424,6 +1427,7 @@ https://builtin.com/job/software-engineer-3/7600948
 https://builtin.com/job/software-engineer-3/7800639
 https://builtin.com/job/software-engineer-account-management/7303251
 https://builtin.com/job/software-engineer-accounting/7425985
+https://builtin.com/job/software-engineer-ai-c/7980526
 https://builtin.com/job/software-engineer-ai-c/7980816
 https://builtin.com/job/software-engineer-ai-systems/7212299
 https://builtin.com/job/software-engineer-ai-systems/7212838
