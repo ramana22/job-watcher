@@ -883,6 +883,7 @@ https://builtin.com/job/manager-private-equity-fund-accounting/7261480
 https://builtin.com/job/manager-private-markets-implementations-and-consulting/7913646
 https://builtin.com/job/manager-software-engineering/7082335
 https://builtin.com/job/manufacturing-engineer-ii/7860872
+https://builtin.com/job/manufacturing-test-development-engineer/7987876
 https://builtin.com/job/market-manager/7326164
 https://builtin.com/job/marketplace-platform-product-manager/7347018
 https://builtin.com/job/matterport-technical-business-analyst/7766336
@@ -1813,6 +1814,7 @@ https://builtin.com/job/software-engineer/7977246
 https://builtin.com/job/software-engineer/7977411
 https://builtin.com/job/software-engineer/7978951
 https://builtin.com/job/software-engineer/7979807
+https://builtin.com/job/software-engineer/7987958
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -1908,6 +1910,7 @@ https://builtin.com/job/stop-loss-filing-coordinator/7390094
 https://builtin.com/job/strategic-digital-marketing-sales-executive/7584895
 https://builtin.com/job/summer-2026-internship-nuclear-engineer/7078082
 https://builtin.com/job/support-engineer/7101611
+https://builtin.com/job/support-engineering/7987055
 https://builtin.com/job/sustainability-specialist-analytics/7236470
 https://builtin.com/job/sustaining-engineer/7707959
 https://builtin.com/job/system-analyst-ii/7929649
