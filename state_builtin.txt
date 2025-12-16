@@ -254,6 +254,7 @@ https://builtin.com/job/business-analyst-platform-support/7431263
 https://builtin.com/job/business-development-representative-p-c-group-captives-southeast/7433402
 https://builtin.com/job/business-development-specialist-managed-accounts/7440154
 https://builtin.com/job/business-intelligence-analyst-intermediate-level/7302822
+https://builtin.com/job/business-intelligence-engineer-2/8000467
 https://builtin.com/job/business-programming-consultant/7089567
 https://builtin.com/job/business-project-analyst/7175058
 https://builtin.com/job/business-solutions-consultant/7459198
@@ -1082,6 +1083,7 @@ https://builtin.com/job/power-platform-developer/7764041
 https://builtin.com/job/power-platform-developer/7789135
 https://builtin.com/job/power-platform-developer/7823858
 https://builtin.com/job/power-platform-developer/7859160
+https://builtin.com/job/power-platform-developer/7999630
 https://builtin.com/job/power-platform-engineer/7370843
 https://builtin.com/job/power-platform-software-engineer/7090511
 https://builtin.com/job/power-platform-software-engineer/7301716
@@ -1932,6 +1934,7 @@ https://builtin.com/job/staff-software-engineer-build-automation-unpublished-r-d
 https://builtin.com/job/staff-software-engineer-global-design-it/7067055
 https://builtin.com/job/staff-software-engineer-ui-unpublished-r-d-product/7085129
 https://builtin.com/job/staff-software-engineer/7078153
+https://builtin.com/job/stocker-incentive-mods/7999350
 https://builtin.com/job/stop-loss-filing-coordinator/7390094
 https://builtin.com/job/strategic-digital-marketing-sales-executive/7584895
 https://builtin.com/job/summer-2026-internship-nuclear-engineer/7078082
