@@ -128,6 +128,7 @@ https://builtin.com/job/canada-indigenous-fnim-persons-apprenticeship-program/78
 https://builtin.com/job/cloud-automation-engineer/7658117
 https://builtin.com/job/cloud-data-platform-engineer-assistant-vice-president/7717654
 https://builtin.com/job/cloud-dba-cassandra-postgres-software-engineer-iii/7502429
+https://builtin.com/job/cloud-devops-engineer-cybersecurity-associate/7995596
 https://builtin.com/job/cloud-engineer-ii/7877098
 https://builtin.com/job/cloud-engineer/7960043
 https://builtin.com/job/cloud-etl-software-engineer-iii/7780578
@@ -300,6 +301,7 @@ https://builtin.com/job/full-stack-software-engineer/7625396
 https://builtin.com/job/full-stack-software-engineer/7881191
 https://builtin.com/job/fullstack-developer-java-react/7613331
 https://builtin.com/job/fullstack-developer-sencha-extjsdallas/7713903
+https://builtin.com/job/fullstack-product-software-engineer-multi-product-admin-experience/7995373
 https://builtin.com/job/gen-ai-developer-senior-consultant-ii/7663857
 https://builtin.com/job/ground-control-station-gcs-software-engineer/7515003
 https://builtin.com/job/hadoop-developer/7680486
@@ -1018,6 +1020,9 @@ https://builtin.com/job/software-engineer/7985895
 https://builtin.com/job/software-engineer/7990174
 https://builtin.com/job/software-engineer/7990730
 https://builtin.com/job/software-engineer/7991456
+https://builtin.com/job/software-engineer/7995294
+https://builtin.com/job/software-engineer/7995296
+https://builtin.com/job/software-engineer/7995302
 https://builtin.com/job/software-engineering-amts-mts-college-grad/7988016
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-engineering-online-instructor-passionclass/7891532
