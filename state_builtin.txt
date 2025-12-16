@@ -120,6 +120,7 @@ https://builtin.com/job/associate-accounting-analyst-accounting-finance-graduate
 https://builtin.com/job/associate-accounting-analyst/7490502
 https://builtin.com/job/associate-analyst-falcon-complete-hybrid-san-antonio/7601918
 https://builtin.com/job/associate-analytics-consultant/7584947
+https://builtin.com/job/associate-and-experienced-level-c-17-engineering-project-manager/8004014
 https://builtin.com/job/associate-application-developer/7890783
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-business-analyst-project-manager-l-c-coo-technology-team/7599768
@@ -186,6 +187,7 @@ https://builtin.com/job/associate-technology/7108930
 https://builtin.com/job/associate-ui-software-engineer/7151286
 https://builtin.com/job/ata-engineer-ii/7780595
 https://builtin.com/job/attack-monitoring-analyst-gsoc/7590457
+https://builtin.com/job/audio-visual-programmer/8003977
 https://builtin.com/job/automated-test-engineer/7312256
 https://builtin.com/job/automated-trading-strategies-ai-machine-learning-researcher-associate/7322404
 https://builtin.com/job/automation-controls-engineer/7280284
@@ -487,6 +489,7 @@ https://builtin.com/job/editor-software-developer-liveops-developer-experience/7
 https://builtin.com/job/ehs-manager/7458000
 https://builtin.com/job/electrical-controls-engineer-special-projects/7830559
 https://builtin.com/job/electrical-engineer-hardware-software-integration/7817606
+https://builtin.com/job/electrical-engineer/8004077
 https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7835111
@@ -732,6 +735,7 @@ https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-
 https://builtin.com/job/industry-solutions-consultant-remote-central-eastern-time-zone-preference/7368798
 https://builtin.com/job/industry-x-mes-siemens-opcenter-associate-manager-manager/7385015
 https://builtin.com/job/industry-x-mes-siemens-opcenter-associate-manager-manager/7996291
+https://builtin.com/job/industry-x-siemens-opcenter-specialist/8003455
 https://builtin.com/job/infor-mongoose-application-development/7435977
 https://builtin.com/job/infrastructure-engineer-remote/7225409
 https://builtin.com/job/infrastructure-engineer-remote/7665194
@@ -907,6 +911,7 @@ https://builtin.com/job/mid-level-backend-engineer/7366367
 https://builtin.com/job/mid-level-full-stack-developer/7182307
 https://builtin.com/job/mid-level-full-stack-developer/7786412
 https://builtin.com/job/mid-level-full-stack-front-end-developer/7660392
+https://builtin.com/job/mid-level-information-technology-developer/8004006
 https://builtin.com/job/mid-level-software-developer-ai-focused/7692970
 https://builtin.com/job/mid-level-software-developer-net/7429890
 https://builtin.com/job/mid-level-software-developer/7330473
@@ -939,6 +944,7 @@ https://builtin.com/job/ms-dynamics-developer-max-70-hr-w2/7261438
 https://builtin.com/job/mulesoft-engineer-ii/7244340
 https://builtin.com/job/multi-disciplinary-engineer-ii/7529587
 https://builtin.com/job/multimedia-account-exec-ii-c-ajc/7393372
+https://builtin.com/job/multiple-axis-n-c-routing-machine-operator-75307/8004061
 https://builtin.com/job/nasa-lunar-gateway-data-services-web-software-developer/7197107
 https://builtin.com/job/nasa-lunar-gateway-data-services-web-software-developer/7916079
 https://builtin.com/job/nascar-software-application-engineer-mid-level/7434313
@@ -1469,6 +1475,7 @@ https://builtin.com/job/software-engineer-c-level-4/7085683
 https://builtin.com/job/software-engineer-c-level-4/7236207
 https://builtin.com/job/software-engineer-c-level-4/7765528
 https://builtin.com/job/software-engineer-c-level-4/7902786
+https://builtin.com/job/software-engineer-c-net/8003619
 https://builtin.com/job/software-engineer-c-netcore-devops/7091430
 https://builtin.com/job/software-engineer-c-networking/7253900
 https://builtin.com/job/software-engineer-c-rust/7200890
@@ -1877,6 +1884,7 @@ https://builtin.com/job/software-test-engineer-i/7091218
 https://builtin.com/job/software-test-engineer-i/7106408
 https://builtin.com/job/software-test-engineer/7428723
 https://builtin.com/job/software-tester/7398269
+https://builtin.com/job/software-tools-engineer-ii/8002395
 https://builtin.com/job/software-verification-engineer-ii-crm/7223324
 https://builtin.com/job/software-verification-engineer/7585365
 https://builtin.com/job/solution-architect/7430679
@@ -1984,6 +1992,7 @@ https://builtin.com/job/technical-consultant-ii/7788677
 https://builtin.com/job/technical-consultant-rtsm-remote/7707974
 https://builtin.com/job/technical-consultant-rtsm-remote/7708447
 https://builtin.com/job/technical-consultant-rtsm-remote/7708604
+https://builtin.com/job/technical-consultant/8000891
 https://builtin.com/job/technical-implementation-engineer-i/7788678
 https://builtin.com/job/technical-implementation-manager-paze/7456518
 https://builtin.com/job/technical-product-manager-trainingpeaks/7912401
@@ -2050,6 +2059,7 @@ https://builtin.com/job/vulnerability-assessments-automation-developer/7505203
 https://builtin.com/job/way-onward-sales-associate-brandywine-t-c/7737660
 https://builtin.com/job/we-are-looking-fe-ui-angular-developer-redmond-wa/7680300
 https://builtin.com/job/we-are-looking-net-developer-redmond-wa/7679830
+https://builtin.com/job/weapons-associate-software-engineer/8003931
 https://builtin.com/job/web-app-pen-tester/7100182
 https://builtin.com/job/web-application-developer-ts-sci-poly/7160298
 https://builtin.com/job/web-applications-developer/7374548
@@ -2064,5 +2074,6 @@ https://builtin.com/job/web-developer/7689087
 https://builtin.com/job/windows-software-engineer/7449364
 https://builtin.com/job/windows-systems-administrator-microsoft-forefront-identity-manager-fim/7680155
 https://builtin.com/job/work-study-apprenticeship-software-engineer-feb-start/7800173
+https://builtin.com/job/work-study-apprenticeship-software-engineer/8002067
 https://builtin.com/job/x-developer-levridge/7183624
 https://builtin.com/job/yard-jockey-non-cdl/7247221
