@@ -114,6 +114,7 @@ https://builtin.com/job/backend-software-engineer-expense/7845746
 https://builtin.com/job/backend-software-engineer-i-discovery/7563901
 https://builtin.com/job/backend-software-engineer/7766122
 https://builtin.com/job/backend-software-engineer/7979730
+https://builtin.com/job/battery-lab-systems-integration-engineer/8009084
 https://builtin.com/job/bizops-engineer-ii/7641441
 https://builtin.com/job/bizops-engineer-ii/7699843
 https://builtin.com/job/bizops-engineer-ii/7889700
@@ -192,6 +193,7 @@ https://builtin.com/job/data-engineer/7850003
 https://builtin.com/job/data-engineer/7969188
 https://builtin.com/job/data-engineer/7979752
 https://builtin.com/job/data-engineer/8006556
+https://builtin.com/job/data-engineer/8009412
 https://builtin.com/job/data-management-analyst/7519597
 https://builtin.com/job/data-pipeline-etl-engineer/7789605
 https://builtin.com/job/data-science-platform-engineer/7742860
@@ -209,6 +211,7 @@ https://builtin.com/job/developer-software-engineer-cloud-java-awd/7603900
 https://builtin.com/job/devops-contract/7585579
 https://builtin.com/job/devops-engineer/7625395
 https://builtin.com/job/devops-software-engineer-ii/7714025
+https://builtin.com/job/digital-marketing-senior-specialist/8008906
 https://builtin.com/job/digital-software-engineer-avp/7973756
 https://builtin.com/job/dod-tech-deployment-strategist-business-development/7712695
 https://builtin.com/job/ead-gc-and-citizens-only-urgent-need-java-developer/7679221
@@ -259,6 +262,7 @@ https://builtin.com/job/entry-level-software-engineer/7993991
 https://builtin.com/job/eq-electronic-reliability-engineer/7852896
 https://builtin.com/job/equipment-engineer/7854071
 https://builtin.com/job/equipment-engineer/7854091
+https://builtin.com/job/experienced-full-stack-software-engineer/8009210
 https://builtin.com/job/experienced-software-engineer-developer/8005412
 https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-back-end/7638112
 https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-back-end/7638173
