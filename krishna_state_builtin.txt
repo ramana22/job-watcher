@@ -857,6 +857,7 @@ https://builtin.com/job/software-engineer-ii/7932711
 https://builtin.com/job/software-engineer-ii/7945831
 https://builtin.com/job/software-engineer-ii/7945964
 https://builtin.com/job/software-engineer-ii/7977912
+https://builtin.com/job/software-engineer-ii/8010745
 https://builtin.com/job/software-engineer-iii-applied-ai/7669500
 https://builtin.com/job/software-engineer-iii-aws-application/7807674
 https://builtin.com/job/software-engineer-iii-aws-cloud-engineer/7575195
@@ -1178,6 +1179,7 @@ https://builtin.com/job/urgent-need-java-full-stack-developer-alfresco-exp/76780
 https://builtin.com/job/virtual-network-engineer/7755526
 https://builtin.com/job/vp-protocol-engineer-validators/7725911
 https://builtin.com/job/we-are-looking-java-developer-san-jose-ca/7679662
+https://builtin.com/job/weapons-associate-software-engineer/8003931
 https://builtin.com/job/web-application-developer/7888917
 https://builtin.com/job/web-developer-html-javascript-nodejs-java/7702640
 https://builtin.com/job/web-developer-lion-holdings-26/7904208
