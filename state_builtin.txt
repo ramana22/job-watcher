@@ -1629,6 +1629,7 @@ https://builtin.com/job/software-engineer-ii/7977912
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
+https://builtin.com/job/software-engineer-iii-c-react/8005387
 https://builtin.com/job/software-engineer-iii-c/7126915
 https://builtin.com/job/software-engineer-iii-corporate-investment-banking-payments-technology/7773123
 https://builtin.com/job/software-engineer-iii-e3/7438818
