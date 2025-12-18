@@ -275,6 +275,7 @@ https://builtin.com/job/flight-software-engineer-associate-experienced-senior/80
 https://builtin.com/job/flourish-engineer/7874897
 https://builtin.com/job/forward-deployed-engineer/7929932
 https://builtin.com/job/forward-deployed-engineer/7929955
+https://builtin.com/job/forward-deployed-software-engineer/8029232
 https://builtin.com/job/founding-backend-software-engineer-senior-staff-vc-backed-startups/7593162
 https://builtin.com/job/founding-full-stack-software-engineer-senior-staff-vc-backed-startups/7593111
 https://builtin.com/job/front-end-java-developer/7529901
@@ -498,6 +499,7 @@ https://builtin.com/job/m-s-ai-engineer/7862556
 https://builtin.com/job/machine-learning-engineer-3/7724976
 https://builtin.com/job/machine-learning-engineer-iii-ai-agents/7891700
 https://builtin.com/job/machine-learning-engineer-inference-serving/7588691
+https://builtin.com/job/machine-learning-engineer-staff-job-1230/8026826
 https://builtin.com/job/machine-learning-engineer/7762569
 https://builtin.com/job/machine-learning-engineer/7916399
 https://builtin.com/job/manager-bizops/7800717
