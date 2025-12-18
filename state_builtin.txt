@@ -745,6 +745,7 @@ https://builtin.com/job/inbound-safety-and-quality-logistics-analyst/7388327
 https://builtin.com/job/incentive-hi-lo-operator/7437694
 https://builtin.com/job/incredible-full-stack-software-engineer-jr-mid-levels-2-years-experience/7144487
 https://builtin.com/job/industry-solutions-consultant-remote-central-eastern-time-zone-preference/7368798
+https://builtin.com/job/industry-solutions-consultant-remote-central-eastern-timezone/8021056
 https://builtin.com/job/industry-x-mes-siemens-opcenter-associate-manager-manager/7385015
 https://builtin.com/job/industry-x-mes-siemens-opcenter-associate-manager-manager/7996291
 https://builtin.com/job/industry-x-siemens-opcenter-specialist/8003455
@@ -1186,6 +1187,7 @@ https://builtin.com/job/red-team-operator/7444992
 https://builtin.com/job/red-team-operator/7763006
 https://builtin.com/job/remote-ai-engineer/7404451
 https://builtin.com/job/remote-full-stack-developer/7938306
+https://builtin.com/job/remote-net-software-developer/8022156
 https://builtin.com/job/reset-supervisor/7460190
 https://builtin.com/job/returning-new-grad-software-engineer-i-great-lakes-division-current-former-hntb-interns-only/7543558
 https://builtin.com/job/revenue-assurance-representative/7752487
@@ -1492,6 +1494,7 @@ https://builtin.com/job/software-engineer-c-level-4/7236207
 https://builtin.com/job/software-engineer-c-level-4/7765528
 https://builtin.com/job/software-engineer-c-level-4/7902786
 https://builtin.com/job/software-engineer-c-net/8003619
+https://builtin.com/job/software-engineer-c-net/8020635
 https://builtin.com/job/software-engineer-c-netcore-devops/7091430
 https://builtin.com/job/software-engineer-c-networking/7253900
 https://builtin.com/job/software-engineer-c-rust/7200890
