@@ -582,6 +582,7 @@ https://builtin.com/job/quantitative-java-engineer-associate/7665695
 https://builtin.com/job/quantitative-research-cash-equities-associate/7780568
 https://builtin.com/job/quantitative-strategist-credit/7683494
 https://builtin.com/job/quantitative-systems-researcher-associate-vp/7913280
+https://builtin.com/job/react-native-full-stack-engineer/8008262
 https://builtin.com/job/real-time-software-engineers-associate-experienced-and-senior/8005405
 https://builtin.com/job/remote-software-developer/7587552
 https://builtin.com/job/research-programmer-analyst-associate-remote/7917750
@@ -744,6 +745,7 @@ https://builtin.com/job/software-engineer-backend/7765830
 https://builtin.com/job/software-engineer-backend/7794438
 https://builtin.com/job/software-engineer-backend/7927128
 https://builtin.com/job/software-engineer-backend/7976033
+https://builtin.com/job/software-engineer-c-net/8020635
 https://builtin.com/job/software-engineer-capacity-performance-efficiency/7565974
 https://builtin.com/job/software-engineer-cloud-application-developers-associate-experienced-or-senior-virtual/8005824
 https://builtin.com/job/software-engineer-cloud-data-platform-remote/7925576
@@ -1082,6 +1084,7 @@ https://builtin.com/job/solutions-analyst-iii-automation-test-engineer/7923369
 https://builtin.com/job/solutions-architect-career/7876635
 https://builtin.com/job/solutions-architect-hunter-team/7700955
 https://builtin.com/job/solutions-architect-startups/7791245
+https://builtin.com/job/solutions-architect/8008144
 https://builtin.com/job/solutions-engineer-ii/7658014
 https://builtin.com/job/solutions-engineer-payments/7737208
 https://builtin.com/job/solutions-engineer-remote-michigan/7927595
@@ -1169,6 +1172,7 @@ https://builtin.com/job/technology-cyber-security-full-time-tampa-usa-2026/77480
 https://builtin.com/job/technology-software-engineering-data-and-product-united-states-2026-reentry-program/7785906
 https://builtin.com/job/technology-support-i-production/7644601
 https://builtin.com/job/technology-support-iii/7596955
+https://builtin.com/job/telecom-senior-software-engineer/8016712
 https://builtin.com/job/test-automation-analyst/7872404
 https://builtin.com/job/test-automation-analyst/7890076
 https://builtin.com/job/test-engineer/7991458
