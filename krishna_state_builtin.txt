@@ -643,6 +643,7 @@ https://builtin.com/job/software-design-engineer-systems-engineer/7849817
 https://builtin.com/job/software-dev-engineer-i/7601640
 https://builtin.com/job/software-dev-engineer-i/7662301
 https://builtin.com/job/software-dev-engineer-ii-backend-data/7564117
+https://builtin.com/job/software-dev-engineer-ii-backend-data/8031450
 https://builtin.com/job/software-developer-c-cuda/7625417
 https://builtin.com/job/software-developer-engineer-test/7617113
 https://builtin.com/job/software-developer-full-stack/7699818
@@ -668,6 +669,7 @@ https://builtin.com/job/software-developer/7902041
 https://builtin.com/job/software-developer/7905316
 https://builtin.com/job/software-developer/7976070
 https://builtin.com/job/software-developer/7976080
+https://builtin.com/job/software-developer/8031147
 https://builtin.com/job/software-development-engineer-1/7670838
 https://builtin.com/job/software-development-engineer-associate-experienced-or-senior-level/8005792
 https://builtin.com/job/software-development-engineer-entry-level/7995824
@@ -774,6 +776,7 @@ https://builtin.com/job/software-engineer-distribution-platform/7571477
 https://builtin.com/job/software-engineer-early-career/7860062
 https://builtin.com/job/software-engineer-edge-data-telemetry/7700151
 https://builtin.com/job/software-engineer-entry/7876652
+https://builtin.com/job/software-engineer-forecasting-scheduling/8030895
 https://builtin.com/job/software-engineer-front-end/7775904
 https://builtin.com/job/software-engineer-frontend/7956291
 https://builtin.com/job/software-engineer-frontend/7956718
@@ -1069,6 +1072,7 @@ https://builtin.com/job/software-engineer/7995294
 https://builtin.com/job/software-engineer/7995296
 https://builtin.com/job/software-engineer/7995302
 https://builtin.com/job/software-engineer/7998211
+https://builtin.com/job/software-engineer/8030339
 https://builtin.com/job/software-engineering-amts-mts-college-grad/7988016
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-engineering-online-instructor-passionclass/7891532
