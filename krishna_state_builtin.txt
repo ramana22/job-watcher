@@ -43,6 +43,8 @@ https://builtin.com/job/android-sdk-developer-middle-senior-java-c-osmand-custom
 https://builtin.com/job/android-software-engineer-ad-formats/7774839
 https://builtin.com/job/android-software-engineer-ad-formats/7774852
 https://builtin.com/job/apex-fintech-solutions-2026-apex-leadership-development-program-software-engineer-i-application-ripplematch/7743718
+https://builtin.com/job/api-support-specialist-1st-shift/8039804
+https://builtin.com/job/api-support-specialist-2nd-shift/8039785
 https://builtin.com/job/application-developer/7723461
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-engineer-ii/7911494
@@ -792,6 +794,7 @@ https://builtin.com/job/software-engineer-full-stack/7555054
 https://builtin.com/job/software-engineer-full-stack/7590002
 https://builtin.com/job/software-engineer-full-stack/7780481
 https://builtin.com/job/software-engineer-full-stack/7904325
+https://builtin.com/job/software-engineer-fusion/8039835
 https://builtin.com/job/software-engineer-generalist/7953757
 https://builtin.com/job/software-engineer-i-aldp/7722702
 https://builtin.com/job/software-engineer-i-backend-healthcare/7939753
