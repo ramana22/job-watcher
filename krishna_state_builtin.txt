@@ -135,6 +135,7 @@ https://builtin.com/job/cloud-automation-engineer/7658117
 https://builtin.com/job/cloud-data-platform-engineer-assistant-vice-president/7717654
 https://builtin.com/job/cloud-dba-cassandra-postgres-software-engineer-iii/7502429
 https://builtin.com/job/cloud-devops-engineer-cybersecurity-associate/7995596
+https://builtin.com/job/cloud-engineer-full-stack-aws/8045033
 https://builtin.com/job/cloud-engineer-ii/7877098
 https://builtin.com/job/cloud-engineer/7960043
 https://builtin.com/job/cloud-etl-software-engineer-iii/7780578
