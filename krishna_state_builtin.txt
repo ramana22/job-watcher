@@ -131,6 +131,7 @@ https://builtin.com/job/c-java-developer/7886685
 https://builtin.com/job/cad-design-automation-engineer-central-engineering/7820798
 https://builtin.com/job/camunda-developer/7594765
 https://builtin.com/job/canada-indigenous-fnim-persons-apprenticeship-program/7825942
+https://builtin.com/job/care-operations-technical-specialist/8050376
 https://builtin.com/job/cloud-automation-engineer/7658117
 https://builtin.com/job/cloud-data-platform-engineer-assistant-vice-president/7717654
 https://builtin.com/job/cloud-dba-cassandra-postgres-software-engineer-iii/7502429
@@ -301,6 +302,7 @@ https://builtin.com/job/full-stack-developer/7781818
 https://builtin.com/job/full-stack-developer/7897316
 https://builtin.com/job/full-stack-developer/7956673
 https://builtin.com/job/full-stack-developer/8022059
+https://builtin.com/job/full-stack-developer/8050575
 https://builtin.com/job/full-stack-engineer-angular-java-apis/7798252
 https://builtin.com/job/full-stack-engineer-java-aws-angular-westlake-tx/7764280
 https://builtin.com/job/full-stack-engineer-l4-product-localization-technology/7877742
@@ -972,6 +974,7 @@ https://builtin.com/job/software-engineer-platform-salt-lake-city-usa/7843805
 https://builtin.com/job/software-engineer-platform/7574126
 https://builtin.com/job/software-engineer-react/7990602
 https://builtin.com/job/software-engineer-remote-opportunity/7683673
+https://builtin.com/job/software-engineer-remote/8050712
 https://builtin.com/job/software-engineer-rr-level-1-polygraph-required/7625400
 https://builtin.com/job/software-engineer-sandbox/7575480
 https://builtin.com/job/software-engineer-sdk-test-infrastructure/7929965
