@@ -1041,6 +1041,7 @@ https://builtin.com/job/net-software-developer/7493262
 https://builtin.com/job/net-software-developer/7505981
 https://builtin.com/job/net-software-development-engineer/7730814
 https://builtin.com/job/net-software-engineer-ii/7289102
+https://builtin.com/job/net-software-engineer-ii/8060928
 https://builtin.com/job/net-software-engineer-platform-upgrade-tooling-platform-experience/7221048
 https://builtin.com/job/net-software-engineer-platform-upgrade-tooling/7581817
 https://builtin.com/job/net-software-engineer/7281764
@@ -1211,6 +1212,7 @@ https://builtin.com/job/sde-ii-backend/7385579
 https://builtin.com/job/sde/7679923
 https://builtin.com/job/sdet-ii/7391202
 https://builtin.com/job/sdet-ii/7392716
+https://builtin.com/job/sdet-ii/8060919
 https://builtin.com/job/sdet-software-development-engineer-test/7688802
 https://builtin.com/job/sdet/7248666
 https://builtin.com/job/sdet/7679842
