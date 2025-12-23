@@ -215,6 +215,7 @@ https://builtin.com/job/developer-software-engineer-cloud-java-awd/7603900
 https://builtin.com/job/devops-contract/7585579
 https://builtin.com/job/devops-engineer/7625395
 https://builtin.com/job/devops-software-engineer-ii/7714025
+https://builtin.com/job/devsecops-engineer/8052128
 https://builtin.com/job/digital-marketing-senior-specialist/8008906
 https://builtin.com/job/digital-software-engineer-avp/7973756
 https://builtin.com/job/dod-tech-deployment-strategist-business-development/7712695
@@ -1116,6 +1117,7 @@ https://builtin.com/job/solutions-engineer-strategic-remote-pennsylvania/7858418
 https://builtin.com/job/solutions-engineer/7777630
 https://builtin.com/job/solutions-engineer/7781204
 https://builtin.com/job/solutions-engineer/7857285
+https://builtin.com/job/solutions-engineer/8053903
 https://builtin.com/job/specialist-analytic-scientist/7731781
 https://builtin.com/job/specialist-application-engineer/7616574
 https://builtin.com/job/specialist-software-engineer-java-j2ee/7554663
