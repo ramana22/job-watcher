@@ -325,6 +325,7 @@ https://builtin.com/job/category-field-execution-supervisor/7729395
 https://builtin.com/job/cdm-programmer-ii/7856167
 https://builtin.com/job/cema-senior-software-engineer/7142091
 https://builtin.com/job/claims-examiner/7379634
+https://builtin.com/job/claims-examiner/8052765
 https://builtin.com/job/cleared-onsite-software-engineer-pending-award/7172693
 https://builtin.com/job/client-advisor-p-c-public-entity/7990526
 https://builtin.com/job/client-advisor-public-entity-p-c/7735879
@@ -836,6 +837,7 @@ https://builtin.com/job/junior-developer/7776000
 https://builtin.com/job/junior-devops-engineer/7640190
 https://builtin.com/job/junior-dynamics-365-developer-remote-opportunity/7114819
 https://builtin.com/job/junior-embedded-software-research-engineer/7578831
+https://builtin.com/job/junior-enterprise-architect/8052568
 https://builtin.com/job/junior-integration-engineer/7890175
 https://builtin.com/job/junior-integration-engineer/7900294
 https://builtin.com/job/junior-mid-level-net-software-developer/7713560
