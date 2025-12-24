@@ -596,6 +596,7 @@ https://builtin.com/job/quantitative-systems-researcher-associate-vp/7913280
 https://builtin.com/job/react-native-full-stack-engineer/8008262
 https://builtin.com/job/real-time-software-engineers-associate-experienced-and-senior/8005405
 https://builtin.com/job/remote-software-developer/7587552
+https://builtin.com/job/renewal-sales-specialist-north-america/8062576
 https://builtin.com/job/research-programmer-analyst-associate-remote/7917750
 https://builtin.com/job/rsa-software-engineer-2-cloud-java/7579409
 https://builtin.com/job/rsa-software-engineer-cloud-java/7579401
@@ -604,6 +605,7 @@ https://builtin.com/job/sales-engineer/7565167
 https://builtin.com/job/sdet-contractor/7589900
 https://builtin.com/job/sdet-engineer/7562761
 https://builtin.com/job/sdet-ii/7902765
+https://builtin.com/job/sdet-ii/8060919
 https://builtin.com/job/securities-services-exposure-management-associate/7981115
 https://builtin.com/job/security-analyst-penetration-testing/7567303
 https://builtin.com/job/security-analyst-penetration-testing/7758944
@@ -1114,6 +1116,7 @@ https://builtin.com/job/solutions-engineer-software/7761860
 https://builtin.com/job/solutions-engineer-software/7761864
 https://builtin.com/job/solutions-engineer-software/7761867
 https://builtin.com/job/solutions-engineer-strategic-remote-pennsylvania/7858418
+https://builtin.com/job/solutions-engineer-us-remote/8061743
 https://builtin.com/job/solutions-engineer/7777630
 https://builtin.com/job/solutions-engineer/7781204
 https://builtin.com/job/solutions-engineer/7857285
@@ -1179,6 +1182,7 @@ https://builtin.com/job/technical-success-manager/7681544
 https://builtin.com/job/technical-support-analyst/7713687
 https://builtin.com/job/technical-support-engineer-ii/7858491
 https://builtin.com/job/technical-support-engineer-java-net-pst-mst/7890634
+https://builtin.com/job/technical-support-engineer-kafka-connect/8062033
 https://builtin.com/job/technical-support-engineer/7699938
 https://builtin.com/job/technical-support-engineer/7916170
 https://builtin.com/job/technical-support-engineer/7992892
