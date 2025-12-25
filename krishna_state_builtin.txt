@@ -521,6 +521,7 @@ https://builtin.com/job/mgr-software-development-engineering/7775831
 https://builtin.com/job/mid-level-ai-npl-machine-learning-engineer/7586969
 https://builtin.com/job/mid-level-backend-software-engineer-partial-telework/7600831
 https://builtin.com/job/mid-level-full-stack-developer/7980475
+https://builtin.com/job/mid-level-full-stack-developer/8067577
 https://builtin.com/job/mid-level-full-stack-front-end-developer/7660392
 https://builtin.com/job/mid-level-information-technology-developer/8004006
 https://builtin.com/job/mid-level-java-software-engineer/7516548
