@@ -706,6 +706,7 @@ https://builtin.com/job/full-stack-software-engineer/7570942
 https://builtin.com/job/full-stack-software-engineer/7573706
 https://builtin.com/job/full-stack-software-engineer/7795850
 https://builtin.com/job/full-stack-software-engineer/7823467
+https://builtin.com/job/full-stack-software-engineer/8083141
 https://builtin.com/job/full-stack-software-test-engineer/7290881
 https://builtin.com/job/fullstack-developer/7427939
 https://builtin.com/job/fullstack-net-developer-analyst/7225016
@@ -2021,6 +2022,7 @@ https://builtin.com/job/technical-consultant-ii/7788677
 https://builtin.com/job/technical-consultant-rtsm-remote/7707974
 https://builtin.com/job/technical-consultant-rtsm-remote/7708447
 https://builtin.com/job/technical-consultant-rtsm-remote/7708604
+https://builtin.com/job/technical-consultant-test-automation/8081829
 https://builtin.com/job/technical-consultant/8000891
 https://builtin.com/job/technical-design-experienced-or-senior/8005533
 https://builtin.com/job/technical-implementation-engineer-i/7788678
