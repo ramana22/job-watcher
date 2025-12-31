@@ -81,6 +81,7 @@ https://builtin.com/job/associate-programmer-analyst/8005367
 https://builtin.com/job/associate-quality-assurance-engineer-hybrid-flexible-options/7914146
 https://builtin.com/job/associate-software-developer/7623145
 https://builtin.com/job/associate-software-developer/7628126
+https://builtin.com/job/associate-software-engineer-6282/8084720
 https://builtin.com/job/associate-software-engineer-erp-testing-atl/7667978
 https://builtin.com/job/associate-software-engineer-java/7671555
 https://builtin.com/job/associate-software-engineer-salesforce/7835348
@@ -1159,6 +1160,7 @@ https://builtin.com/job/systems-security-specialist/7804473
 https://builtin.com/job/systems-software-engineer-c2bmc-associate-experienced-or-senior/8005300
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/team-lead/7577361
+https://builtin.com/job/technical-account-manager-amer/8084451
 https://builtin.com/job/technical-account-manager-usa-west-coast-remote/7776884
 https://builtin.com/job/technical-business-systems-analysis-bsa-associate-remote/7987175
 https://builtin.com/job/technical-consultant-digital-twin/7700162
