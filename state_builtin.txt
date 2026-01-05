@@ -803,6 +803,7 @@ https://builtin.com/job/java-consultant-servicenow/7693506
 https://builtin.com/job/java-developer/7124151
 https://builtin.com/job/java-developer/7797343
 https://builtin.com/job/job-description-ui-developer-redmond-wa/7680287
+https://builtin.com/job/jr-acumatica-developer/8101340
 https://builtin.com/job/jr-etl-data-integration-developer/7594809
 https://builtin.com/job/jr-full-stack-developer/7786398
 https://builtin.com/job/jr-net-developer/7089431
