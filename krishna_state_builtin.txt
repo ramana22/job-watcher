@@ -322,6 +322,7 @@ https://builtin.com/job/full-stack-java-developer/7788712
 https://builtin.com/job/full-stack-java-development-engineer/7908615
 https://builtin.com/job/full-stack-software-developer/7836781
 https://builtin.com/job/full-stack-software-engineer-associate/7856284
+https://builtin.com/job/full-stack-software-engineer-new-grad-remote/8112455
 https://builtin.com/job/full-stack-software-engineer/7514071
 https://builtin.com/job/full-stack-software-engineer/7625396
 https://builtin.com/job/full-stack-software-engineer/7881191
@@ -638,6 +639,7 @@ https://builtin.com/job/senior-software-engineer-engineering-productivity-system
 https://builtin.com/job/senior-software-engineer-full-stack-bank-tech/7639190
 https://builtin.com/job/senior-software-engineer-full-stack-bank-tech/7925684
 https://builtin.com/job/senior-software-engineer-i-backend/7573798
+https://builtin.com/job/senior-software-engineer-loyalty-multiple-openings-remote/8112108
 https://builtin.com/job/senior-software-engineer-python-aws-data-pipelines/7503999
 https://builtin.com/job/senior-software-engineer/7612274
 https://builtin.com/job/senior-software-engineer/7664784
