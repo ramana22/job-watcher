@@ -269,6 +269,7 @@ https://builtin.com/job/entry-level-software-engineer/7993991
 https://builtin.com/job/eq-electronic-reliability-engineer/7852896
 https://builtin.com/job/equipment-engineer/7854071
 https://builtin.com/job/equipment-engineer/7854091
+https://builtin.com/job/estradaclint-6j7gi3-software-engineer-embedded/8123127
 https://builtin.com/job/experienced-full-stack-software-engineer/8009210
 https://builtin.com/job/experienced-software-engineer-developer/8005412
 https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-back-end/7638112
@@ -939,6 +940,7 @@ https://builtin.com/job/software-engineer-iii/7857575
 https://builtin.com/job/software-engineer-iii/7977896
 https://builtin.com/job/software-engineer-iii/7977915
 https://builtin.com/job/software-engineer-infrastructure/7565092
+https://builtin.com/job/software-engineer-integrations/8126112
 https://builtin.com/job/software-engineer-japanese-english/7912083
 https://builtin.com/job/software-engineer-java-full-stack/7689293
 https://builtin.com/job/software-engineer-java-microservices/7610140
