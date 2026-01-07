@@ -699,6 +699,7 @@ https://builtin.com/job/full-stack-software-developer/7399434
 https://builtin.com/job/full-stack-software-engineer-1/7610149
 https://builtin.com/job/full-stack-software-engineer-c-net-typescript-sql-fhir-api-devlopment/7369731
 https://builtin.com/job/full-stack-software-engineer-mid-and-senior/7479726
+https://builtin.com/job/full-stack-software-engineer-new-grad-remote/8112455
 https://builtin.com/job/full-stack-software-engineer/7238081
 https://builtin.com/job/full-stack-software-engineer/7476854
 https://builtin.com/job/full-stack-software-engineer/7514071
@@ -787,6 +788,7 @@ https://builtin.com/job/ios-native-sdet/7329293
 https://builtin.com/job/iot-full-stack-developer/7470716
 https://builtin.com/job/it-associate-developer-june-2026/7386498
 https://builtin.com/job/it-associate-software-engineer-c-hybrid/7490920
+https://builtin.com/job/it-data-analyst-ii/8118450
 https://builtin.com/job/it-infrastructure-operations-intern-hybrid/7074542
 https://builtin.com/job/it-intern/7074408
 https://builtin.com/job/it-manager-i-applications/7505500
