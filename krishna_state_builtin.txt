@@ -216,6 +216,7 @@ https://builtin.com/job/desarrollador-java-con-experiencia-en-adobe-aem/7824911
 https://builtin.com/job/developer-software-engineer-cloud-java-awd/7603900
 https://builtin.com/job/devops-contract/7585579
 https://builtin.com/job/devops-engineer/7625395
+https://builtin.com/job/devops-engineer/8132656
 https://builtin.com/job/devops-software-engineer-ii/7714025
 https://builtin.com/job/devsecops-engineer/8052128
 https://builtin.com/job/digital-marketing-senior-specialist/8008906
@@ -276,6 +277,7 @@ https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-
 https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-back-end/7638173
 https://builtin.com/job/experienced-software-engineer-java-python-full-stack-or-back-end/7638216
 https://builtin.com/job/f-35-software-systems-engineer-sr/7631763
+https://builtin.com/job/field-application-engineer/8127046
 https://builtin.com/job/field-cybersecurity-support-specialist/7683098
 https://builtin.com/job/finance-platform-engineer/7979279
 https://builtin.com/job/fleet-documentation-test-engineer/7955648
@@ -309,6 +311,7 @@ https://builtin.com/job/full-stack-developer/8022059
 https://builtin.com/job/full-stack-developer/8050575
 https://builtin.com/job/full-stack-developer/8110218
 https://builtin.com/job/full-stack-developer/8121476
+https://builtin.com/job/full-stack-developer/8130695
 https://builtin.com/job/full-stack-engineer-angular-java-apis/7798252
 https://builtin.com/job/full-stack-engineer-java-aws-angular-westlake-tx/7764280
 https://builtin.com/job/full-stack-engineer-l4-product-localization-technology/7877742
