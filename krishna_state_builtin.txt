@@ -92,6 +92,7 @@ https://builtin.com/job/associate-software-engineer/7619581
 https://builtin.com/job/associate-software-engineer/7729242
 https://builtin.com/job/associate-software-engineer/7750721
 https://builtin.com/job/associate-software-engineer/7875951
+https://builtin.com/job/associate-software-engineer/8150225
 https://builtin.com/job/associate-solutions-architect/7913305
 https://builtin.com/job/associate-specialist-solution-architect/7924799
 https://builtin.com/job/associate-technology-analyst/7742869
@@ -319,6 +320,7 @@ https://builtin.com/job/full-stack-engineer-l5-ml-insights-visualizations-machin
 https://builtin.com/job/full-stack-engineer-specialist/7847628
 https://builtin.com/job/full-stack-engineer/7630618
 https://builtin.com/job/full-stack-engineer/7916145
+https://builtin.com/job/full-stack-engineer/8151141
 https://builtin.com/job/full-stack-java-developer-basking-ridge-nj-need-w2/7692864
 https://builtin.com/job/full-stack-java-developer-need-gc-and-usc/7678738
 https://builtin.com/job/full-stack-java-developer-need-gc-and-usc/7679026
@@ -804,6 +806,7 @@ https://builtin.com/job/software-engineer-distribution-platform/7571477
 https://builtin.com/job/software-engineer-early-career/7860062
 https://builtin.com/job/software-engineer-edge-data-telemetry/7700151
 https://builtin.com/job/software-engineer-entry/7876652
+https://builtin.com/job/software-engineer-exchange/8154184
 https://builtin.com/job/software-engineer-forecasting-scheduling/8030895
 https://builtin.com/job/software-engineer-front-end/7775904
 https://builtin.com/job/software-engineer-frontend/7956291
@@ -839,6 +842,7 @@ https://builtin.com/job/software-engineer-i/7977520
 https://builtin.com/job/software-engineer-identity-access-management/7905749
 https://builtin.com/job/software-engineer-ii-active-support/7990140
 https://builtin.com/job/software-engineer-ii-ad-apps/7712954
+https://builtin.com/job/software-engineer-ii-ado-remote/8152884
 https://builtin.com/job/software-engineer-ii-ai-security/7573842
 https://builtin.com/job/software-engineer-ii-applied-ai/7668447
 https://builtin.com/job/software-engineer-ii-apps/7890809
@@ -1001,6 +1005,7 @@ https://builtin.com/job/software-engineer-remote/8050712
 https://builtin.com/job/software-engineer-rr-level-1-polygraph-required/7625400
 https://builtin.com/job/software-engineer-sandbox/7575480
 https://builtin.com/job/software-engineer-sdk-test-infrastructure/7929965
+https://builtin.com/job/software-engineer-security/8154106
 https://builtin.com/job/software-engineer-senior-consultant-i/7834042
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585945
 https://builtin.com/job/software-engineer-sme-ts-sci-and-able-obtain-polygraph/7585949
