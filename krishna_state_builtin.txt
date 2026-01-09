@@ -620,6 +620,7 @@ https://builtin.com/job/rsa-software-engineer-2-cloud-java/7579409
 https://builtin.com/job/rsa-software-engineer-cloud-java/7579401
 https://builtin.com/job/sales-engineer-i/7781214
 https://builtin.com/job/sales-engineer/7565167
+https://builtin.com/job/salesforce-developer/8163661
 https://builtin.com/job/sdet-contractor/7589900
 https://builtin.com/job/sdet-engineer/7562761
 https://builtin.com/job/sdet-ii/7902765
