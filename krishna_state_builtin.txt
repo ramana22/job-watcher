@@ -181,6 +181,7 @@ https://builtin.com/job/data-engineer-ii-senior-data-engineer/7856431
 https://builtin.com/job/data-engineer-ii/7730015
 https://builtin.com/job/data-engineer-ii/7755322
 https://builtin.com/job/data-engineer-ii/7912343
+https://builtin.com/job/data-engineer-l5-ads/8166423
 https://builtin.com/job/data-engineer-owned-brands-wholesale/7590159
 https://builtin.com/job/data-engineer-remote/7790341
 https://builtin.com/job/data-engineer-technology/7824172
@@ -439,6 +440,7 @@ https://builtin.com/job/java-services-lead-developer/7713400
 https://builtin.com/job/java-software-engineer-aws-hibernate-saas-product-experienced/7763791
 https://builtin.com/job/java-software-engineer-i/7875488
 https://builtin.com/job/java-software-engineer-ii/7887521
+https://builtin.com/job/java-software-engineer/8165512
 https://builtin.com/job/java-software-engineers/7600664
 https://builtin.com/job/java-spring-iam-software-engineer-iii/7599298
 https://builtin.com/job/jr-java-developer/7680182
@@ -584,6 +586,7 @@ https://builtin.com/job/product-engineer-ii-arcgis-enterprise-sharing-api/761649
 https://builtin.com/job/product-engineer-java-spring-boot/7549148
 https://builtin.com/job/product-engineer-java-spring-boot/8093996
 https://builtin.com/job/product-engineer-java-spring-boot/8104298
+https://builtin.com/job/product-engineer-multiple-levels-available/8167946
 https://builtin.com/job/product-engineer/7998213
 https://builtin.com/job/product-manager-technical/7729279
 https://builtin.com/job/product-operations-specialist-identity-fraud/7978135
@@ -601,6 +604,7 @@ https://builtin.com/job/qa-analyst-ii/7566538
 https://builtin.com/job/qa-analyst/7844918
 https://builtin.com/job/qa-automation-engineer/7644474
 https://builtin.com/job/qa-automation-engineer/7951214
+https://builtin.com/job/qa-engineer-ii/8164578
 https://builtin.com/job/qa-manager/7936969
 https://builtin.com/job/qualification-product-management-engineer/7925461
 https://builtin.com/job/qualification-product-management-engineer/7925467
@@ -1021,6 +1025,7 @@ https://builtin.com/job/software-engineer-test-verification-associate-or-experie
 https://builtin.com/job/software-engineer-ts-sci-w-fs-poly/7993764
 https://builtin.com/job/software-engineer-typescript-aws/7571275
 https://builtin.com/job/software-engineer-u-s-payroll/7629789
+https://builtin.com/job/software-engineer-work-study-program/8165765
 https://builtin.com/job/software-engineer/7497205
 https://builtin.com/job/software-engineer/7503883
 https://builtin.com/job/software-engineer/7503884
