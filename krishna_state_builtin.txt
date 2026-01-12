@@ -250,6 +250,7 @@ https://builtin.com/job/enterprise-sales-engineer-ohio-valley/7752193
 https://builtin.com/job/enterprise-sales-engineer/7554470
 https://builtin.com/job/enterprise-sales-engineer/7640741
 https://builtin.com/job/enterprise-sales-engineer/7696495
+https://builtin.com/job/enterprise-solutions-engineer/8176410
 https://builtin.com/job/entry-level-consultant-java-development/7680455
 https://builtin.com/job/entry-level-software-developer/7574208
 https://builtin.com/job/entry-level-software-developer/7742255
@@ -1117,6 +1118,7 @@ https://builtin.com/job/software-engineer/7995302
 https://builtin.com/job/software-engineer/7998211
 https://builtin.com/job/software-engineer/8030339
 https://builtin.com/job/software-engineer/8119361
+https://builtin.com/job/software-engineer/8178767
 https://builtin.com/job/software-engineering-amts-mts-college-grad/7988016
 https://builtin.com/job/software-engineering-manager/7626527
 https://builtin.com/job/software-engineering-online-instructor-passionclass/7891532
