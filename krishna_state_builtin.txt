@@ -562,6 +562,7 @@ https://builtin.com/job/mobile-app-developer/7904486
 https://builtin.com/job/mobile-app-developer/7956758
 https://builtin.com/job/mobile-app-developer/8110239
 https://builtin.com/job/mobile-app-developer/8121473
+https://builtin.com/job/mobile-app-developer/8183740
 https://builtin.com/job/mobile-application-engineer-android-java/7762504
 https://builtin.com/job/mobile-application-engineer-android-java/7762507
 https://builtin.com/job/moloco-ecosystem-partner-engineer-supply-measurement/7712520
@@ -848,6 +849,7 @@ https://builtin.com/job/software-engineer-full-stack/7780481
 https://builtin.com/job/software-engineer-full-stack/7904325
 https://builtin.com/job/software-engineer-fusion/8039835
 https://builtin.com/job/software-engineer-generalist/7953757
+https://builtin.com/job/software-engineer-hybrid/8175330
 https://builtin.com/job/software-engineer-i-aldp/7722702
 https://builtin.com/job/software-engineer-i-backend-healthcare/7939753
 https://builtin.com/job/software-engineer-i-finance/7731372
