@@ -327,6 +327,7 @@ https://builtin.com/job/full-stack-developer/8050575
 https://builtin.com/job/full-stack-developer/8110218
 https://builtin.com/job/full-stack-developer/8121476
 https://builtin.com/job/full-stack-developer/8130695
+https://builtin.com/job/full-stack-developer/8186995
 https://builtin.com/job/full-stack-engineer-angular-java-apis/7798252
 https://builtin.com/job/full-stack-engineer-java-aws-angular-westlake-tx/7764280
 https://builtin.com/job/full-stack-engineer-l4-product-localization-technology/7877742
@@ -445,6 +446,7 @@ https://builtin.com/job/java-full-stack-developer-cloud-exp/7713695
 https://builtin.com/job/java-full-stack-developer/7722834
 https://builtin.com/job/java-full-stack-development-engineer/7878440
 https://builtin.com/job/java-full-stack-engineer-5882055/7681035
+https://builtin.com/job/java-full-stack-engineer/8187006
 https://builtin.com/job/java-full-stack-software-engineer-iii-aws/7714054
 https://builtin.com/job/java-fullstack-developer/7625897
 https://builtin.com/job/java-integrations-engineer/7936767
@@ -473,6 +475,7 @@ https://builtin.com/job/junior-java-developer/7679751
 https://builtin.com/job/junior-java-developer/7680105
 https://builtin.com/job/junior-level-modeling-simulation-software-engineer/7993525
 https://builtin.com/job/junior-signal-processing-engineer/7588587
+https://builtin.com/job/junior-software-developer/8188331
 https://builtin.com/job/junior-software-engineer/7618060
 https://builtin.com/job/junior-software-engineer/7811130
 https://builtin.com/job/junior-software-engineer/7891155
@@ -1024,6 +1027,9 @@ https://builtin.com/job/software-engineer-multiple-positions-available/7682161
 https://builtin.com/job/software-engineer-multiple-positions-available/7857668
 https://builtin.com/job/software-engineer-multiple-positions-available/7909944
 https://builtin.com/job/software-engineer-multiple-positions-available/7923300
+https://builtin.com/job/software-engineer-new-college-grad-2026-austin-tx/8187593
+https://builtin.com/job/software-engineer-new-college-grad-2026-bellevue-wa/8187570
+https://builtin.com/job/software-engineer-new-college-grad-2026-foster-city/8187595
 https://builtin.com/job/software-engineer-new-grad/7755131
 https://builtin.com/job/software-engineer-new-grad/7755140
 https://builtin.com/job/software-engineer-nyc-or-baltimore-md/7876293
