@@ -822,6 +822,7 @@ https://builtin.com/job/software-engineer-data-platform/7694415
 https://builtin.com/job/software-engineer-data-platform/7788479
 https://builtin.com/job/software-engineer-data-reliability-platform/7602168
 https://builtin.com/job/software-engineer-datacenter/7754762
+https://builtin.com/job/software-engineer-deepgram-restaurants/8184253
 https://builtin.com/job/software-engineer-demand-and-supply-planning/7520617
 https://builtin.com/job/software-engineer-developer-experience/7912371
 https://builtin.com/job/software-engineer-developer-experienced-or-senior-level/8005854
@@ -1246,6 +1247,7 @@ https://builtin.com/job/technical-services-engineer-infrastructure-weekend/79742
 https://builtin.com/job/technical-services-engineer/7574217
 https://builtin.com/job/technical-solutions-engineer/7790324
 https://builtin.com/job/technical-success-manager/7681544
+https://builtin.com/job/technical-success-manager/8184615
 https://builtin.com/job/technical-support-analyst/7713687
 https://builtin.com/job/technical-support-engineer-ii/7858491
 https://builtin.com/job/technical-support-engineer-java-net-pst-mst/7890634
