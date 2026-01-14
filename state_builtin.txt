@@ -642,6 +642,7 @@ https://builtin.com/job/firmware-engineer/7327058
 https://builtin.com/job/firmware-engineer/7464260
 https://builtin.com/job/firmware-engineer/7976413
 https://builtin.com/job/firmware-intern/7091645
+https://builtin.com/job/flight-software-engineer/8204057
 https://builtin.com/job/formation-operator-i/7669922
 https://builtin.com/job/formation-operator-i/7669924
 https://builtin.com/job/formation-operator-i/7669927
@@ -1117,6 +1118,7 @@ https://builtin.com/job/personal-banker-northern-lights-and-c-street/7743983
 https://builtin.com/job/personal-lines-sales-producer-p-c-insurance/7385344
 https://builtin.com/job/php-developer/7679878
 https://builtin.com/job/plan-build-coordinator/7391160
+https://builtin.com/job/plastic-surgery-physician-assistant-pa-c/8204608
 https://builtin.com/job/platform-engineer-cloud-platform-net-azure-kubernetes/7313284
 https://builtin.com/job/platform-full-stack-engineer/7449908
 https://builtin.com/job/platform-professional-services-analyst-remote/7321596
