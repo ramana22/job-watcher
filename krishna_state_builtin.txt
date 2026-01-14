@@ -72,6 +72,7 @@ https://builtin.com/job/associate-architect-oracle-paas-administrator/7845601
 https://builtin.com/job/associate-business-consultant/7809249
 https://builtin.com/job/associate-command-center-engineer/7887464
 https://builtin.com/job/associate-data-analyst/7572796
+https://builtin.com/job/associate-db9413361/8197004
 https://builtin.com/job/associate-electrical-support-equipment-design-and-analysis-engineer/8171779
 https://builtin.com/job/associate-engineer-platform-engineering/7682571
 https://builtin.com/job/associate-full-stack-developer/7742870
@@ -343,6 +344,7 @@ https://builtin.com/job/full-stack-engineer-specialist/7847628
 https://builtin.com/job/full-stack-engineer/7630618
 https://builtin.com/job/full-stack-engineer/7916145
 https://builtin.com/job/full-stack-engineer/8151141
+https://builtin.com/job/full-stack-engineering-senior-analyst/8197159
 https://builtin.com/job/full-stack-java-developer-basking-ridge-nj-need-w2/7692864
 https://builtin.com/job/full-stack-java-developer-need-gc-and-usc/7678738
 https://builtin.com/job/full-stack-java-developer-need-gc-and-usc/7679026
@@ -619,6 +621,7 @@ https://builtin.com/job/product-engineer-java-spring-boot/8093996
 https://builtin.com/job/product-engineer-java-spring-boot/8104298
 https://builtin.com/job/product-engineer-multiple-levels-available/8167946
 https://builtin.com/job/product-engineer/7998213
+https://builtin.com/job/product-engineer/8197200
 https://builtin.com/job/product-manager-technical/7729279
 https://builtin.com/job/product-operations-specialist-identity-fraud/7978135
 https://builtin.com/job/product-software-engineer-ii/7910505
@@ -724,6 +727,7 @@ https://builtin.com/job/software-developer-ii/7876203
 https://builtin.com/job/software-developer-ii/7955779
 https://builtin.com/job/software-developer-java/7758525
 https://builtin.com/job/software-developer-java/7758527
+https://builtin.com/job/software-developer-multiple-openings/8197556
 https://builtin.com/job/software-developer-oo-java/7702622
 https://builtin.com/job/software-developer-senior-software-developer/7517800
 https://builtin.com/job/software-developer-test-engineering/7643585
