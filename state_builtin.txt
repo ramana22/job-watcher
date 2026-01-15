@@ -200,7 +200,9 @@ https://builtin.com/job/associate-vehicle-management-systems-vms-software-engine
 https://builtin.com/job/ata-engineer-ii/7780595
 https://builtin.com/job/attack-monitoring-analyst-gsoc/7590457
 https://builtin.com/job/audio-visual-programmer/8003977
+https://builtin.com/job/audio-visual-programmer/8211202
 https://builtin.com/job/audiovisual-programmer/8005967
+https://builtin.com/job/audiovisual-programmer/8211211
 https://builtin.com/job/automated-test-engineer/7312256
 https://builtin.com/job/automated-trading-strategies-ai-machine-learning-researcher-associate/7322404
 https://builtin.com/job/automation-controls-engineer/7280284
@@ -992,6 +994,7 @@ https://builtin.com/job/mulesoft-engineer-ii/7244340
 https://builtin.com/job/multi-disciplinary-engineer-ii/7529587
 https://builtin.com/job/multimedia-account-exec-ii-c-ajc/7393372
 https://builtin.com/job/multiple-axis-n-c-routing-machine-operator-75307/8004061
+https://builtin.com/job/multiple-axis-n-c-routing-machine-operator-75307/8211031
 https://builtin.com/job/nasa-lunar-gateway-data-services-web-software-developer/7197107
 https://builtin.com/job/nasa-lunar-gateway-data-services-web-software-developer/7916079
 https://builtin.com/job/nascar-software-application-engineer-mid-level/7434313
@@ -1569,6 +1572,7 @@ https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/73
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7313292
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
 https://builtin.com/job/software-engineer-consultant-ii-net-c/7582295
+https://builtin.com/job/software-engineer-developer-development/8210983
 https://builtin.com/job/software-engineer-digital-solutions-implementations/7334505
 https://builtin.com/job/software-engineer-digital/7774004
 https://builtin.com/job/software-engineer-duck-creek/7458808
