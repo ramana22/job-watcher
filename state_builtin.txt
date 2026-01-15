@@ -315,6 +315,7 @@ https://builtin.com/job/c-net-developer/7318747
 https://builtin.com/job/c-net-software-engineer-ii-arcgis-online/7585148
 https://builtin.com/job/c-programmer/7217295
 https://builtin.com/job/c-programmer/7493259
+https://builtin.com/job/c-quant-developer/8206185
 https://builtin.com/job/c-software-engineer-abq/7313008
 https://builtin.com/job/c-software-engineer-dayton/7313009
 https://builtin.com/job/c-software-engineer-dc-nova/7313006
@@ -323,6 +324,7 @@ https://builtin.com/job/c-software-engineer/7126317
 https://builtin.com/job/c-software-engineer/7441370
 https://builtin.com/job/c-software-engineer/7663382
 https://builtin.com/job/c-software-engineer/7828618
+https://builtin.com/job/c-software-engineer/8214050
 https://builtin.com/job/c-tech/7729597
 https://builtin.com/job/c-web-developer/7704100
 https://builtin.com/job/cam-development-engineer/7198257
@@ -891,6 +893,7 @@ https://builtin.com/job/junior-software-engineer/7484591
 https://builtin.com/job/junior-software-engineer/7877667
 https://builtin.com/job/junior-software-engineer/7891155
 https://builtin.com/job/junior-software-engineer/8207793
+https://builtin.com/job/junior-software-engineer/8214320
 https://builtin.com/job/junior-software-engineering-cohort/7654455
 https://builtin.com/job/junior-staff-accountant-remote/7802396
 https://builtin.com/job/junior-systems-architect/7556010
@@ -1470,6 +1473,7 @@ https://builtin.com/job/software-development-engineer-entry-level/7995824
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
+https://builtin.com/job/software-development-engineer-ii-c-enterprise-cybersecurity-platform/8214352
 https://builtin.com/job/software-development-engineer-ii-computer-vision/7266458
 https://builtin.com/job/software-development-engineer-ii-computer-vision/7885331
 https://builtin.com/job/software-development-engineer-ii/7123869
@@ -1782,6 +1786,7 @@ https://builtin.com/job/software-engineer-ts-sci-required-consent-obtain-ci/7344
 https://builtin.com/job/software-engineer-ts-sci-w-fs-poly/7993764
 https://builtin.com/job/software-engineer-u-s-payroll/7629789
 https://builtin.com/job/software-engineer-underwriting/7136509
+https://builtin.com/job/software-engineer-unity/8213729
 https://builtin.com/job/software-engineer-us-remote/7441692
 https://builtin.com/job/software-engineer-voice-ai-agent/7310937
 https://builtin.com/job/software-engineer-warfighter-systems/7460044
