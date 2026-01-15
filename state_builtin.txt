@@ -542,6 +542,7 @@ https://builtin.com/job/engagement-manager/7901508
 https://builtin.com/job/engagement-specialist/7390052
 https://builtin.com/job/engineer-2-selling-empowerment-team/7712551
 https://builtin.com/job/engineer-associate/7891193
+https://builtin.com/job/engineer-autonomy/8217357
 https://builtin.com/job/engineer-i-manufacturing/7283162
 https://builtin.com/job/engineer-i/7926339
 https://builtin.com/job/engineer-ii-full-stack-web-developer/7750266
@@ -1246,6 +1247,10 @@ https://builtin.com/job/sales-engineer/7370455
 https://builtin.com/job/sales-operations-analyst/7991653
 https://builtin.com/job/sales-representative-bs-c/7923889
 https://builtin.com/job/salesforce-developer/8188998
+https://builtin.com/job/salesforce-developer/8217280
+https://builtin.com/job/salesforce-developer/8217294
+https://builtin.com/job/salesforce-developer/8217295
+https://builtin.com/job/salesforce-developer/8217298
 https://builtin.com/job/salesforce-support-manager/7704815
 https://builtin.com/job/salesforce-support-manager/7704817
 https://builtin.com/job/scan-coordinator/7437693
@@ -1712,6 +1717,7 @@ https://builtin.com/job/software-engineer-iii/7602508
 https://builtin.com/job/software-engineer-iii/7751785
 https://builtin.com/job/software-engineer-iii/7977896
 https://builtin.com/job/software-engineer-iii/7977915
+https://builtin.com/job/software-engineer-iii/8215125
 https://builtin.com/job/software-engineer-imaging/7904029
 https://builtin.com/job/software-engineer-internal-systems/7774118
 https://builtin.com/job/software-engineer-it-software-engineers/7610393
@@ -1934,6 +1940,7 @@ https://builtin.com/job/software-engineer/7995302
 https://builtin.com/job/software-engineer/8190845
 https://builtin.com/job/software-engineer/8193740
 https://builtin.com/job/software-engineer/8208152
+https://builtin.com/job/software-engineer/8216052
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -1982,6 +1989,7 @@ https://builtin.com/job/solutions-architect/7710287
 https://builtin.com/job/solutions-engineer-auth0/7209301
 https://builtin.com/job/solutions-engineer-ii/7658014
 https://builtin.com/job/solutions-engineer/7857285
+https://builtin.com/job/solutions-engineering-channel-remote/8215404
 https://builtin.com/job/solutions-engineering-post-sales-remote/7282844
 https://builtin.com/job/solutions-engineering-pre-sales-remote/7175121
 https://builtin.com/job/solutions-engineering-specialist-okta/7284094
@@ -2068,6 +2076,7 @@ https://builtin.com/job/technical-analyst/7319900
 https://builtin.com/job/technical-analyst/7926170
 https://builtin.com/job/technical-architect-pre-sales-all-levels/7901132
 https://builtin.com/job/technical-architect-specialist/7122022
+https://builtin.com/job/technical-artist-temp-nba-2k/8216890
 https://builtin.com/job/technical-artist/7139525
 https://builtin.com/job/technical-artist/7148417
 https://builtin.com/job/technical-artist/7243575
@@ -2145,6 +2154,7 @@ https://builtin.com/job/ux-integration-engineer/7406550
 https://builtin.com/job/ux-integration-engineer/7416317
 https://builtin.com/job/v2x-test-and-development-engineer/7302826
 https://builtin.com/job/vb-net-developer-support/7692523
+https://builtin.com/job/vice-president-front-office-ui-developer/8217474
 https://builtin.com/job/visualization-engineer/7447838
 https://builtin.com/job/vr-software-engineer/7940312
 https://builtin.com/job/vulnerability-assessments-automation-developer/7505203
