@@ -94,6 +94,7 @@ https://builtin.com/job/application-developer/7764542
 https://builtin.com/job/application-development-senior-consultant-business-transformation/7427418
 https://builtin.com/job/application-engineer-engineer-java-c-associate/7500414
 https://builtin.com/job/application-engineer-remote-us-based-candidates/7504636
+https://builtin.com/job/application-engineer-remote-us-based-candidates/8226407
 https://builtin.com/job/application-engineer/7448803
 https://builtin.com/job/application-engineer/7523748
 https://builtin.com/job/application-engineer/7951712
@@ -1422,6 +1423,7 @@ https://builtin.com/job/software-application-development-engineer/7326891
 https://builtin.com/job/software-application-development-engineer/7326892
 https://builtin.com/job/software-application-development-engineer/7334319
 https://builtin.com/job/software-application-development-engineer/7334332
+https://builtin.com/job/software-application-development-engineer/8229369
 https://builtin.com/job/software-application-engineer-ii-net/7808617
 https://builtin.com/job/software-controls-engineer-iii/7533732
 https://builtin.com/job/software-database-developer/7218948
@@ -1960,6 +1962,8 @@ https://builtin.com/job/software-engineer/8193740
 https://builtin.com/job/software-engineer/8208152
 https://builtin.com/job/software-engineer/8216052
 https://builtin.com/job/software-engineer/8219221
+https://builtin.com/job/software-engineer/8228566
+https://builtin.com/job/software-engineer/8229404
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -2067,6 +2071,7 @@ https://builtin.com/job/sustaining-engineer/7707959
 https://builtin.com/job/system-analyst-ii/7929649
 https://builtin.com/job/system-engineer-i/7427239
 https://builtin.com/job/system-owner-elec-mech-i-c/7927830
+https://builtin.com/job/system-publisher-ii/8227238
 https://builtin.com/job/system-reliablity-amp-support-specialist-production-support/7893872
 https://builtin.com/job/system-software-development-engineer/7303186
 https://builtin.com/job/system-validation-engineer/7820687
@@ -2145,6 +2150,7 @@ https://builtin.com/job/test-automation-firmware-engineer/7240587
 https://builtin.com/job/test-development-engineer-i/7210397
 https://builtin.com/job/test-development-engineer/7080496
 https://builtin.com/job/test-development-engineer/7101195
+https://builtin.com/job/test-engineer-ecommerce-cart-team/8228162
 https://builtin.com/job/test-engineer-ii-e2/7887083
 https://builtin.com/job/test-engineer-ii/7418582
 https://builtin.com/job/test-engineer-ii/7616072
