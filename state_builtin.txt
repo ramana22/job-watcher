@@ -63,6 +63,7 @@ https://builtin.com/job/analyst-i-falcon-complete-hybrid/7152362
 https://builtin.com/job/analyst-i-falcon-complete-hybrid/7321589
 https://builtin.com/job/analyst-i-falcon-complete-hybrid/7433376
 https://builtin.com/job/analyst-i-falcon-complete-hybrid/7494666
+https://builtin.com/job/analyst-i-falcon-complete-hybrid/8218038
 https://builtin.com/job/analyst-i-falcon-complete-remote/7493251
 https://builtin.com/job/analyst-i-falcon-complete-remote/7494662
 https://builtin.com/job/analyst-i-falcon-complete-remote/7873456
@@ -209,6 +210,7 @@ https://builtin.com/job/automation-controls-engineer/7280284
 https://builtin.com/job/automation-controls-engineer/7313884
 https://builtin.com/job/automation-controls-engineer/7469966
 https://builtin.com/job/automation-controls-engineer/7740914
+https://builtin.com/job/automation-controls-engineer/8218871
 https://builtin.com/job/automation-controls-integration-engineer-ii/7313875
 https://builtin.com/job/automation-developer/7933947
 https://builtin.com/job/automation-engineer-iii/7123691
@@ -526,6 +528,7 @@ https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7835111
 https://builtin.com/job/embedded-software-engineer-level-4/7915866
+https://builtin.com/job/embedded-software-engineer-linux-focused/8218173
 https://builtin.com/job/embedded-software-engineer/7290861
 https://builtin.com/job/embedded-software-test-development-engineer-c-c-bothell-wa/7795829
 https://builtin.com/job/embedded-systems-engineer/7113343
@@ -613,6 +616,7 @@ https://builtin.com/job/entry-level-software-engineer-application-ripplematch/78
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7883533
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7883547
 https://builtin.com/job/entry-level-software-engineer-application-ripplematch/7883560
+https://builtin.com/job/entry-level-software-engineer-hybrid-norcross-ga/8220682
 https://builtin.com/job/entry-level-software-engineer-labs/7312031
 https://builtin.com/job/entry-level-software-engineer/7101125
 https://builtin.com/job/entry-level-software-engineer/7456438
@@ -1216,6 +1220,7 @@ https://builtin.com/job/quality-assurance-data-analytics/7899949
 https://builtin.com/job/quality-assurance-engineer-investment-management/7740320
 https://builtin.com/job/quality-assurance-engineer/7077531
 https://builtin.com/job/quality-assurance-engineer/7771376
+https://builtin.com/job/quality-assurance-engineer/8218089
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7494725
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7729426
 https://builtin.com/job/quality-development-program/7071392
@@ -1531,6 +1536,7 @@ https://builtin.com/job/software-engineer-3/7600948
 https://builtin.com/job/software-engineer-3/7800639
 https://builtin.com/job/software-engineer-account-management/7303251
 https://builtin.com/job/software-engineer-accounting/7425985
+https://builtin.com/job/software-engineer-ads-applied-data/8219768
 https://builtin.com/job/software-engineer-ai-c/7980526
 https://builtin.com/job/software-engineer-ai-c/7980816
 https://builtin.com/job/software-engineer-ai-systems/7212299
@@ -1580,6 +1586,7 @@ https://builtin.com/job/software-engineer-cloud-cross-platform-net-systems/79938
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7312410
 https://builtin.com/job/software-engineer-cloud-platform-net-azure-kubernetes/7313292
 https://builtin.com/job/software-engineer-common-criteria-lehi/7185712
+https://builtin.com/job/software-engineer-competitive/8219258
 https://builtin.com/job/software-engineer-consultant-ii-net-c/7582295
 https://builtin.com/job/software-engineer-developer-development/8210983
 https://builtin.com/job/software-engineer-digital-solutions-implementations/7334505
@@ -1632,6 +1639,7 @@ https://builtin.com/job/software-engineer-ii-data-applications-hybrid-clinton-pa
 https://builtin.com/job/software-engineer-ii-data-engineer/7754006
 https://builtin.com/job/software-engineer-ii-fintech/7990134
 https://builtin.com/job/software-engineer-ii-full-stack/7996573
+https://builtin.com/job/software-engineer-ii-fullstack-product-engineering/8217862
 https://builtin.com/job/software-engineer-ii-gateway/7494036
 https://builtin.com/job/software-engineer-ii-java-retail/7427250
 https://builtin.com/job/software-engineer-ii-java-retail/7427252
@@ -1693,6 +1701,7 @@ https://builtin.com/job/software-engineer-ii/7929841
 https://builtin.com/job/software-engineer-ii/7944251
 https://builtin.com/job/software-engineer-ii/7977912
 https://builtin.com/job/software-engineer-ii/8038417
+https://builtin.com/job/software-engineer-ii/8220124
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
@@ -1941,6 +1950,7 @@ https://builtin.com/job/software-engineer/8190845
 https://builtin.com/job/software-engineer/8193740
 https://builtin.com/job/software-engineer/8208152
 https://builtin.com/job/software-engineer/8216052
+https://builtin.com/job/software-engineer/8219221
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
