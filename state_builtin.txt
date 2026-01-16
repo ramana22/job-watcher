@@ -198,6 +198,7 @@ https://builtin.com/job/associate-tax/7656322
 https://builtin.com/job/associate-technology/7108930
 https://builtin.com/job/associate-ui-software-engineer/7151286
 https://builtin.com/job/associate-vehicle-management-systems-vms-software-engineer/8005120
+https://builtin.com/job/associate-vehicle-management-systems-vms-software-engineer/8222894
 https://builtin.com/job/ata-engineer-ii/7780595
 https://builtin.com/job/attack-monitoring-analyst-gsoc/7590457
 https://builtin.com/job/audio-visual-programmer/8003977
@@ -523,6 +524,7 @@ https://builtin.com/job/electrical-engineer-hardware-software-integration/781760
 https://builtin.com/job/electrical-engineer/8004077
 https://builtin.com/job/electrical-engineer/8005484
 https://builtin.com/job/electrical-engineer/8005926
+https://builtin.com/job/electrical-engineer/8222908
 https://builtin.com/job/electronic-design-and-analysis-engineer-associate-experienced-or-senior/8005491
 https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
@@ -752,6 +754,7 @@ https://builtin.com/job/gis-analyst-consultant-remote/7466714
 https://builtin.com/job/gis-engineer/7692906
 https://builtin.com/job/gis-enterprise-administrator/7781356
 https://builtin.com/job/government-programs-product-manager/7522918
+https://builtin.com/job/gps-iif-navigation-payload-systems-engineer-associate-or-mid-level/8222918
 https://builtin.com/job/graduate-c-software-engineer/7207731
 https://builtin.com/job/graduate-developer-programme-chicago-2026/7079681
 https://builtin.com/job/grain-elevator-operator-c-s-grains-camilla-ga/7269683
@@ -1064,6 +1067,7 @@ https://builtin.com/job/net-developer/7713930
 https://builtin.com/job/net-developers/7705493
 https://builtin.com/job/net-developers/7705495
 https://builtin.com/job/net-developers/7705500
+https://builtin.com/job/net-engineer-avp/8222561
 https://builtin.com/job/net-engineer-senior-consultant-ii/7091670
 https://builtin.com/job/net-engineer/7656382
 https://builtin.com/job/net-engineer/8222028
@@ -1168,6 +1172,7 @@ https://builtin.com/job/principal-software-engineer-net-c-xaml/7874240
 https://builtin.com/job/product-artificial-intelligence-engineer/7424260
 https://builtin.com/job/product-configuration-it-support-analyst/7730297
 https://builtin.com/job/product-engineer-full-stack-hybrid/7686983
+https://builtin.com/job/product-engineer-full-stack-hybrid/8223422
 https://builtin.com/job/product-engineer-i-gis-applications-desktop-web/7210204
 https://builtin.com/job/product-engineer-ii-customization-and-framework/8205689
 https://builtin.com/job/product-engineer-ii-data-reviewer/7187600
@@ -1186,6 +1191,7 @@ https://builtin.com/job/program-manager/8105022
 https://builtin.com/job/programmer-analyst-associate-mid-level-or-senior/8005039
 https://builtin.com/job/programmer-analyst-associate-or-mid-level/8007602
 https://builtin.com/job/programmer-analyst-ii/7640522
+https://builtin.com/job/programmer-analyst-mid-level-or-senior/8222870
 https://builtin.com/job/programmer-analyst/7138059
 https://builtin.com/job/programmer-developer-lead-software-testing-sylmar-ca/7689119
 https://builtin.com/job/programmer-ii-full-stack-software-developer/7399414
@@ -1804,6 +1810,7 @@ https://builtin.com/job/software-engineer-u-s-payroll/7629789
 https://builtin.com/job/software-engineer-underwriting/7136509
 https://builtin.com/job/software-engineer-unity/8213729
 https://builtin.com/job/software-engineer-us-remote/7441692
+https://builtin.com/job/software-engineer-vehicle-management-systems-experienced-or-senior/8222845
 https://builtin.com/job/software-engineer-voice-ai-agent/7310937
 https://builtin.com/job/software-engineer-warfighter-systems/7460044
 https://builtin.com/job/software-engineer-wex/7456025
