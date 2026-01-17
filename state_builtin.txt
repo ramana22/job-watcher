@@ -70,6 +70,7 @@ https://builtin.com/job/analyst-i-falcon-complete-remote/7873456
 https://builtin.com/job/analyst-i-falcon-complete-remote/8165859
 https://builtin.com/job/analyst-ii-falcon-complete-hybrid/7321579
 https://builtin.com/job/analyst-p-c-financial-planning-analysis/7466600
+https://builtin.com/job/analytics-web-developer-aws-experience/8235904
 https://builtin.com/job/android-sdk-developer-middle-senior-java-c-osmand-customization/7821372
 https://builtin.com/job/android-software-engineer-tactical-command-and-control/7114835
 https://builtin.com/job/angular-developer/7356833
@@ -1441,6 +1442,7 @@ https://builtin.com/job/software-application-development-engineer/7334319
 https://builtin.com/job/software-application-development-engineer/7334332
 https://builtin.com/job/software-application-development-engineer/8229369
 https://builtin.com/job/software-application-engineer-ii-net/7808617
+https://builtin.com/job/software-automation-engineer-ii/8231613
 https://builtin.com/job/software-controls-engineer-iii/7533732
 https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-debugging-engineer/7417194
@@ -2040,6 +2042,7 @@ https://builtin.com/job/solutions-engineering-specialist-okta/7284094
 https://builtin.com/job/specialist-application-engineer/7615531
 https://builtin.com/job/specialist-internal-audit-p-c/7995788
 https://builtin.com/job/specialist-p-c-statistical-reporting/7262962
+https://builtin.com/job/specialist-software-engineer-net/8235984
 https://builtin.com/job/spring-2026-internship-software-engineering/7077255
 https://builtin.com/job/sr-ai-automation-engineer-rpa-workato-powerapps/7528058
 https://builtin.com/job/sr-associate-software-developer-engineer/7470156
