@@ -232,6 +232,7 @@ https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504709
 https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504717
 https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504722
 https://builtin.com/job/aws-software-developer-app-mod-app-dev/7504725
+https://builtin.com/job/aws-software-engineer-iii-python-data-pipeline/8236369
 https://builtin.com/job/aws-solution-architect/7808722
 https://builtin.com/job/azure-ai-apps-architect/7221640
 https://builtin.com/job/azure-developer-internal-posting/7560918
@@ -1735,9 +1736,11 @@ https://builtin.com/job/software-engineer-ii/7977912
 https://builtin.com/job/software-engineer-ii/8038417
 https://builtin.com/job/software-engineer-ii/8220124
 https://builtin.com/job/software-engineer-ii/8225319
+https://builtin.com/job/software-engineer-ii/8236479
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
+https://builtin.com/job/software-engineer-iii-c-net-react/8236403
 https://builtin.com/job/software-engineer-iii-c-react/8005387
 https://builtin.com/job/software-engineer-iii-c/7126915
 https://builtin.com/job/software-engineer-iii-corporate-investment-banking-payments-technology/7773123
