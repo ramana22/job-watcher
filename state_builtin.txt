@@ -534,6 +534,7 @@ https://builtin.com/job/electrical-engineer/8004077
 https://builtin.com/job/electrical-engineer/8005484
 https://builtin.com/job/electrical-engineer/8005926
 https://builtin.com/job/electrical-engineer/8222908
+https://builtin.com/job/electrical-engineer/8235533
 https://builtin.com/job/electronic-design-and-analysis-engineer-associate-experienced-or-senior/8005491
 https://builtin.com/job/electronic-security-application-programmer/7722188
 https://builtin.com/job/embedded-security-c-c-air-dominance-strike/7470435
@@ -1417,6 +1418,8 @@ https://builtin.com/job/simulation-engineer-experienced-mid-level/7255731
 https://builtin.com/job/simulation-software-engineer-c/7810728
 https://builtin.com/job/simulator-engineer-i/8013686
 https://builtin.com/job/site-reliability-engineer-i/7505676
+https://builtin.com/job/site-reliability-engineer-ii/8231505
+https://builtin.com/job/site-reliability-engineer-ii/8231541
 https://builtin.com/job/site-reliability-engineer-ii/8231549
 https://builtin.com/job/site-reliability-engineer-monitoring-and-control-engineering/7863808
 https://builtin.com/job/site-reliability-engineer-talent-day/7449618
