@@ -1082,6 +1082,7 @@ https://builtin.com/job/net-developer/7692887
 https://builtin.com/job/net-developer/7693560
 https://builtin.com/job/net-developer/7693685
 https://builtin.com/job/net-developer/7713930
+https://builtin.com/job/net-developer/8243099
 https://builtin.com/job/net-developers/7705493
 https://builtin.com/job/net-developers/7705495
 https://builtin.com/job/net-developers/7705500
@@ -1140,10 +1141,12 @@ https://builtin.com/job/optical-test-engineer/7406157
 https://builtin.com/job/os-d/7988362
 https://builtin.com/job/overhead-lineworker-gr-c-entry/7828332
 https://builtin.com/job/p-c-actuarial-analyst/7303036
+https://builtin.com/job/p-c-actuarial-assistant/8242310
 https://builtin.com/job/p-c-binding-renewal-uw/7376837
 https://builtin.com/job/p-c-executive-underwriter-middle-market/7911765
 https://builtin.com/job/p-c-operations-specialist/7988035
 https://builtin.com/job/p-c-producer/8194966
+https://builtin.com/job/p-c-senior-actuarial-assistant/8242307
 https://builtin.com/job/part-time-teller-northern-lights-and-c-street/7461862
 https://builtin.com/job/pasting-operator-i/7191442
 https://builtin.com/job/pasting-operator-i/7204204
@@ -1452,6 +1455,7 @@ https://builtin.com/job/software-controls-engineer-iii/7533732
 https://builtin.com/job/software-database-developer/7218948
 https://builtin.com/job/software-debugging-engineer/7417194
 https://builtin.com/job/software-design-engineer/7735142
+https://builtin.com/job/software-design-engineer/8242731
 https://builtin.com/job/software-developer-2/7080988
 https://builtin.com/job/software-developer-2/7354433
 https://builtin.com/job/software-developer-3/7693654
@@ -1510,6 +1514,7 @@ https://builtin.com/job/software-developer/8194027
 https://builtin.com/job/software-developer/8194036
 https://builtin.com/job/software-developer/8194037
 https://builtin.com/job/software-developer/8206560
+https://builtin.com/job/software-developer/8242739
 https://builtin.com/job/software-development-engineer-2/7523292
 https://builtin.com/job/software-development-engineer-entry-level/7995824
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
