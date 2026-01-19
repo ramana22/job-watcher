@@ -927,6 +927,7 @@ https://builtin.com/job/key-account-controller/7927994
 https://builtin.com/job/l4-software-engineer-c-spectacles/7438259
 https://builtin.com/job/lab-automation-analyst/7904825
 https://builtin.com/job/lead-business-systems-analysis/7246494
+https://builtin.com/job/lead-developer/8239824
 https://builtin.com/job/lead-engineer-hybrid/7264645
 https://builtin.com/job/lead-engineer-systems-engineering/7223327
 https://builtin.com/job/lead-engineer-systems-engineering/7482318
@@ -2136,6 +2137,7 @@ https://builtin.com/job/technical-artist/7139525
 https://builtin.com/job/technical-artist/7148417
 https://builtin.com/job/technical-artist/7243575
 https://builtin.com/job/technical-artist/7365144
+https://builtin.com/job/technical-artist/8239825
 https://builtin.com/job/technical-client-support-analyst/7305405
 https://builtin.com/job/technical-client-support-analyst/7334797
 https://builtin.com/job/technical-consultant-digital-twin/7700162
