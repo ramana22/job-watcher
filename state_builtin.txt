@@ -1345,6 +1345,7 @@ https://builtin.com/job/senior-manager-customer-analytics/7074001
 https://builtin.com/job/senior-net-developer-ai-product/7068625
 https://builtin.com/job/senior-net-development-engineer-remote/7515670
 https://builtin.com/job/senior-net-software-developer/7348674
+https://builtin.com/job/senior-net-software-engineer/8243821
 https://builtin.com/job/senior-principal-software-engineer/7077230
 https://builtin.com/job/senior-product-development-analyst-p-c-insurance/7493157
 https://builtin.com/job/senior-product-engineer-net-c-react/7670253
@@ -2105,6 +2106,7 @@ https://builtin.com/job/support-engineer/7101611
 https://builtin.com/job/support-engineering/7987055
 https://builtin.com/job/sustainability-specialist-analytics/7236470
 https://builtin.com/job/sustaining-engineer/7707959
+https://builtin.com/job/sustaining-engineer/8244219
 https://builtin.com/job/system-analyst-ii/7929649
 https://builtin.com/job/system-engineer-i/7427239
 https://builtin.com/job/system-owner-elec-mech-i-c/7927830
