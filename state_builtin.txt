@@ -981,6 +981,7 @@ https://builtin.com/job/mes-sftp-integration-developer/7225959
 https://builtin.com/job/metal-net-network-engineer/8231190
 https://builtin.com/job/mezzanine-generalist-dayshift/7740125
 https://builtin.com/job/microsoft-dynamics-365-developer/7901136
+https://builtin.com/job/microsoft-dynamics-365-developer/8249006
 https://builtin.com/job/microsoft-dynamics-developer/7710304
 https://builtin.com/job/microsoft-dynamics-programmer-mid-level/8193815
 https://builtin.com/job/microsoft-net-core-microservices-developer/7635807
