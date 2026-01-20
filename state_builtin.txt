@@ -1138,6 +1138,7 @@ https://builtin.com/job/operations-automation-analyst/7299322
 https://builtin.com/job/operations-automation-analyst/7615644
 https://builtin.com/job/operations-supervisor-integration-mechanisms/7314631
 https://builtin.com/job/optical-test-engineer/7406157
+https://builtin.com/job/order-selector/8245625
 https://builtin.com/job/os-d/7988362
 https://builtin.com/job/overhead-lineworker-gr-c-entry/7828332
 https://builtin.com/job/p-c-actuarial-analyst/7303036
@@ -1271,6 +1272,7 @@ https://builtin.com/job/red-team-operator/7763006
 https://builtin.com/job/remote-ai-engineer/7404451
 https://builtin.com/job/remote-full-stack-developer/7938306
 https://builtin.com/job/remote-net-software-developer/8022156
+https://builtin.com/job/repack-associate/8245626
 https://builtin.com/job/reset-supervisor/7460190
 https://builtin.com/job/returning-new-grad-software-engineer-i-great-lakes-division-current-former-hntb-interns-only/7543558
 https://builtin.com/job/revenue-assurance-representative/7752487
@@ -1340,12 +1342,14 @@ https://builtin.com/job/senior-full-stack-engineer-member-benefits-rewards/70902
 https://builtin.com/job/senior-full-stack-software-engineer-net-c/7109023
 https://builtin.com/job/senior-full-stack-software-engineer/7089947
 https://builtin.com/job/senior-growth-marketer/7789314
+https://builtin.com/job/senior-growth-marketer/8245852
 https://builtin.com/job/senior-lead-security-engineer/7083962
 https://builtin.com/job/senior-manager-customer-analytics/7074001
 https://builtin.com/job/senior-net-developer-ai-product/7068625
 https://builtin.com/job/senior-net-development-engineer-remote/7515670
 https://builtin.com/job/senior-net-software-developer/7348674
 https://builtin.com/job/senior-net-software-engineer/8243821
+https://builtin.com/job/senior-performance-marketer/8245840
 https://builtin.com/job/senior-principal-software-engineer/7077230
 https://builtin.com/job/senior-product-development-analyst-p-c-insurance/7493157
 https://builtin.com/job/senior-product-engineer-net-c-react/7670253
