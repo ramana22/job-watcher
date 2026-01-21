@@ -83,6 +83,7 @@ https://builtin.com/job/associate-architect-oracle-paas-administrator/7845601
 https://builtin.com/job/associate-business-consultant/7809249
 https://builtin.com/job/associate-command-center-engineer/7887464
 https://builtin.com/job/associate-data-analyst/7572796
+https://builtin.com/job/associate-data-solutions-architect/8260200
 https://builtin.com/job/associate-db9413361/8197004
 https://builtin.com/job/associate-electrical-support-equipment-design-and-analysis-engineer/8171779
 https://builtin.com/job/associate-engineer-plaform/8254500
@@ -158,6 +159,7 @@ https://builtin.com/job/business-analyst-idm-engineering-gis/7592076
 https://builtin.com/job/business-intelligence-engineer-ii-healthcare-b2b/7601526
 https://builtin.com/job/business-process-analyst/7790575
 https://builtin.com/job/business-rules-lead-software-engineer/7780943
+https://builtin.com/job/c-17-avionics-systems-engineer-mid-level-or-senior/8260211
 https://builtin.com/job/c-java-developer/7886685
 https://builtin.com/job/cad-design-automation-engineer-central-engineering/7820798
 https://builtin.com/job/camunda-developer/7594765
@@ -1347,6 +1349,7 @@ https://builtin.com/job/software-engineer/8254635
 https://builtin.com/job/software-engineer/8255881
 https://builtin.com/job/software-engineer/8256303
 https://builtin.com/job/software-engineer/8256797
+https://builtin.com/job/software-engineer/8256875
 https://builtin.com/job/software-engineer/8258056
 https://builtin.com/job/software-engineer/8258731
 https://builtin.com/job/software-engineering-amts-mts-college-grad/7988016
