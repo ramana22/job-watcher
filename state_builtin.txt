@@ -528,6 +528,7 @@ https://builtin.com/job/devops-engineer/7702630
 https://builtin.com/job/devops-engineer/7807826
 https://builtin.com/job/devops-engineer/8257604
 https://builtin.com/job/devops-engineer/8276599
+https://builtin.com/job/devops-engineer/8279343
 https://builtin.com/job/devops-platform-engineer-net-expertise/7534087
 https://builtin.com/job/devrel-technical-solutions-engineer/7502709
 https://builtin.com/job/diagnostics-software-engineer/7631235
@@ -612,6 +613,7 @@ https://builtin.com/job/engineering-lead/7838371
 https://builtin.com/job/engineering-manager-client-solutions/7604784
 https://builtin.com/job/engineering-manager-scheduling/7726059
 https://builtin.com/job/engineering-manager-specialties/7366184
+https://builtin.com/job/engineering-systems-specialist/8278778
 https://builtin.com/job/enshadow-software-engineer/7289951
 https://builtin.com/job/enshadow-software-engineer/7683000
 https://builtin.com/job/enterprise-architect-hospitality-solutions/7088741
@@ -717,6 +719,7 @@ https://builtin.com/job/front-end-engineer/7402131
 https://builtin.com/job/front-end-engineer/7583301
 https://builtin.com/job/front-end-full-stack-net-developer/7688365
 https://builtin.com/job/front-end-software-developer/7423287
+https://builtin.com/job/front-office-equity-derivatives-desk-quant/8279222
 https://builtin.com/job/fta-generalist-dayshift/7433351
 https://builtin.com/job/fta-hi-lo-operator-dayshift/7724679
 https://builtin.com/job/fta-incentive-lift-operator/7979050
@@ -936,6 +939,7 @@ https://builtin.com/job/junior-software-developer/7322705
 https://builtin.com/job/junior-software-developer/7333060
 https://builtin.com/job/junior-software-developer/7370506
 https://builtin.com/job/junior-software-developer/7750142
+https://builtin.com/job/junior-software-developer/8277077
 https://builtin.com/job/junior-software-engineer-ai-agents/7122849
 https://builtin.com/job/junior-software-engineer-ai-agents/7122854
 https://builtin.com/job/junior-software-engineer-remote/7103959
@@ -1043,6 +1047,7 @@ https://builtin.com/job/mobile-engineer/7170909
 https://builtin.com/job/modeling-and-grid-integration-engineer/7449573
 https://builtin.com/job/modeling-and-simulation-engineer/7260082
 https://builtin.com/job/modeling-simulation-engineer/7493275
+https://builtin.com/job/modeling-simulation-engineer/8278247
 https://builtin.com/job/motorsport-vehicle-dynamics-simulation-development-engineer/7878699
 https://builtin.com/job/motorsports-applied-vehicle-dynamics-simulation-operations-engineer-nascar/7956607
 https://builtin.com/job/motorsports-performance-engineer/7632086
@@ -1212,6 +1217,7 @@ https://builtin.com/job/power-platform-developer/7789135
 https://builtin.com/job/power-platform-developer/7823858
 https://builtin.com/job/power-platform-developer/7859160
 https://builtin.com/job/power-platform-developer/7999630
+https://builtin.com/job/power-platform-developer/8278500
 https://builtin.com/job/power-platform-engineer/7370843
 https://builtin.com/job/power-platform-software-engineer/7090511
 https://builtin.com/job/power-platform-software-engineer/7301716
@@ -2054,6 +2060,7 @@ https://builtin.com/job/software-engineer/8250380
 https://builtin.com/job/software-engineer/8256303
 https://builtin.com/job/software-engineer/8270183
 https://builtin.com/job/software-engineer/8275396
+https://builtin.com/job/software-engineer/8277661
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -2269,6 +2276,7 @@ https://builtin.com/job/ui-developer/7679996
 https://builtin.com/job/underwriting-assistant-commercial-p-c/7517275
 https://builtin.com/job/unity-developer/7899911
 https://builtin.com/job/unity-developer/8257498
+https://builtin.com/job/unity-developer/8279588
 https://builtin.com/job/unity-engineer/7890786
 https://builtin.com/job/unity-game-developer/7730268
 https://builtin.com/job/unity-gdk-support-engineer/7524670
