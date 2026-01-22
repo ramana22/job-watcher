@@ -202,6 +202,7 @@ https://builtin.com/job/associate-solutions-analyst/7480234
 https://builtin.com/job/associate-solutions-consultant-eclipse-client-services/7480241
 https://builtin.com/job/associate-sr-associate-laboratory-automation-engineer/8015523
 https://builtin.com/job/associate-staff-accountant/7195313
+https://builtin.com/job/associate-systems-analyst-entry-level/8272018
 https://builtin.com/job/associate-systems-engineer/7111412
 https://builtin.com/job/associate-tax/7656322
 https://builtin.com/job/associate-technology/7108930
@@ -2067,6 +2068,7 @@ https://builtin.com/job/software-quality-assurance-engineer/7775803
 https://builtin.com/job/software-quality-assurance-engineer/7777076
 https://builtin.com/job/software-quality-assurance-engineer/7993182
 https://builtin.com/job/software-quality-assurance-engineer/8234024
+https://builtin.com/job/software-quality-assurance-engineer/8271590
 https://builtin.com/job/software-quality-engineer/7292823
 https://builtin.com/job/software-release-specialist/7873053
 https://builtin.com/job/software-research-engineer/7259955
@@ -2260,6 +2262,7 @@ https://builtin.com/job/ui-developer-net-experience/7680353
 https://builtin.com/job/ui-developer/7679996
 https://builtin.com/job/underwriting-assistant-commercial-p-c/7517275
 https://builtin.com/job/unity-developer/7899911
+https://builtin.com/job/unity-developer/8257498
 https://builtin.com/job/unity-engineer/7890786
 https://builtin.com/job/unity-game-developer/7730268
 https://builtin.com/job/unity-gdk-support-engineer/7524670
