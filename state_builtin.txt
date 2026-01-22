@@ -138,6 +138,7 @@ https://builtin.com/job/associate-and-experienced-level-c-17-engineering-project
 https://builtin.com/job/associate-application-developer/7890783
 https://builtin.com/job/associate-automation-test-engineer/7105453
 https://builtin.com/job/associate-business-analyst-project-manager-l-c-coo-technology-team/7599768
+https://builtin.com/job/associate-bz9413363/8275850
 https://builtin.com/job/associate-client-services-software-engineer-c/7151278
 https://builtin.com/job/associate-data-engineer-p-c-engineering-hybrid-hybrid/7494924
 https://builtin.com/job/associate-data-scientist/7381899
@@ -526,6 +527,7 @@ https://builtin.com/job/devops-engineer/7693672
 https://builtin.com/job/devops-engineer/7702630
 https://builtin.com/job/devops-engineer/7807826
 https://builtin.com/job/devops-engineer/8257604
+https://builtin.com/job/devops-engineer/8276599
 https://builtin.com/job/devops-platform-engineer-net-expertise/7534087
 https://builtin.com/job/devrel-technical-solutions-engineer/7502709
 https://builtin.com/job/diagnostics-software-engineer/7631235
@@ -2051,6 +2053,7 @@ https://builtin.com/job/software-engineer/8236355
 https://builtin.com/job/software-engineer/8250380
 https://builtin.com/job/software-engineer/8256303
 https://builtin.com/job/software-engineer/8270183
+https://builtin.com/job/software-engineer/8275396
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
