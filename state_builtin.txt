@@ -77,6 +77,7 @@ https://builtin.com/job/analytics-web-developer-aws-experience/8235904
 https://builtin.com/job/android-sdk-developer-middle-senior-java-c-osmand-customization/7821372
 https://builtin.com/job/android-software-engineer-tactical-command-and-control/7114835
 https://builtin.com/job/angular-developer/7356833
+https://builtin.com/job/antenna-engineer-satellites-starlink/8285196
 https://builtin.com/job/aoc-qa-tester/7483106
 https://builtin.com/job/apartments-com-senior-software-engineer/7403777
 https://builtin.com/job/apartments-com-software-engineer-api-c-database/7793355
