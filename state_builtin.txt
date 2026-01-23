@@ -737,6 +737,7 @@ https://builtin.com/job/full-case-order-selector/7458007
 https://builtin.com/job/full-stack-analyst-net-angular/7915270
 https://builtin.com/job/full-stack-application-developer/7120025
 https://builtin.com/job/full-stack-application-developer/7282110
+https://builtin.com/job/full-stack-c-developer-software-engineer/8291788
 https://builtin.com/job/full-stack-developer-associate-investor-portal/7381722
 https://builtin.com/job/full-stack-developer-computer-engineer-ii/7249215
 https://builtin.com/job/full-stack-developer-devops-deployment-specialist/7108961
@@ -860,10 +861,12 @@ https://builtin.com/job/integration-engineer/7870100
 https://builtin.com/job/integration-engineer/7870106
 https://builtin.com/job/integration-engineer/7870125
 https://builtin.com/job/integration-engineer/8185975
+https://builtin.com/job/integration-engineer/8291799
 https://builtin.com/job/integration-test-engineer-tuesday-saturday/7325932
 https://builtin.com/job/integrations-engineer/7711473
 https://builtin.com/job/intelligent-controls-and-automation-engineer/7542431
 https://builtin.com/job/intermediate-backend-engineer-payments-platform/7299594
+https://builtin.com/job/international-infrastructure-operations-specialist-starlink/8291114
 https://builtin.com/job/internship-computer-science-engineer/7088796
 https://builtin.com/job/internship-customer-success-software-engineer-summer-2026/7087904
 https://builtin.com/job/internship-software-engineer-summer-2026/7087912
@@ -874,6 +877,7 @@ https://builtin.com/job/investment-analyst/7457870
 https://builtin.com/job/investran-funds-services-systems-analyst/7466724
 https://builtin.com/job/ios-engineer/7691247
 https://builtin.com/job/ios-native-sdet/7329293
+https://builtin.com/job/iot-developer/8290671
 https://builtin.com/job/iot-full-stack-developer/7470716
 https://builtin.com/job/it-associate-developer-june-2026/7386498
 https://builtin.com/job/it-associate-software-engineer-c-hybrid/7490920
@@ -1167,6 +1171,7 @@ https://builtin.com/job/net-ui-developer/7688628
 https://builtin.com/job/net-web-developer/7083246
 https://builtin.com/job/net-web-developer/7680520
 https://builtin.com/job/net-web-developer/8205853
+https://builtin.com/job/net-web-developer/8290721
 https://builtin.com/job/no-corporate-grade-lead-generator-c-b/7374674
 https://builtin.com/job/non-sales-position/7798099
 https://builtin.com/job/not-work-study-student-assistant-journalism-bh-c/7128286
@@ -1583,6 +1588,7 @@ https://builtin.com/job/software-development-engineer-entry-level/7995824
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
 https://builtin.com/job/software-development-engineer-i-product-analytics/7204011
 https://builtin.com/job/software-development-engineer-i/7250391
+https://builtin.com/job/software-development-engineer-i/8291803
 https://builtin.com/job/software-development-engineer-ii-c-enterprise-cybersecurity-platform/8214352
 https://builtin.com/job/software-development-engineer-ii-computer-vision/7266458
 https://builtin.com/job/software-development-engineer-ii-computer-vision/7885331
@@ -1729,6 +1735,7 @@ https://builtin.com/job/software-engineer-i/7640724
 https://builtin.com/job/software-engineer-i/7653072
 https://builtin.com/job/software-engineer-i/7685570
 https://builtin.com/job/software-engineer-i/7772504
+https://builtin.com/job/software-engineer-i/8290182
 https://builtin.com/job/software-engineer-identity-access-management-iam/7489082
 https://builtin.com/job/software-engineer-ii-active-support/7990140
 https://builtin.com/job/software-engineer-ii-ado-remote/7596518
@@ -1812,6 +1819,7 @@ https://builtin.com/job/software-engineer-ii/8038417
 https://builtin.com/job/software-engineer-ii/8220124
 https://builtin.com/job/software-engineer-ii/8225319
 https://builtin.com/job/software-engineer-ii/8236479
+https://builtin.com/job/software-engineer-ii/8291103
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
@@ -1825,6 +1833,7 @@ https://builtin.com/job/software-engineer-iii-net-c/7365870
 https://builtin.com/job/software-engineer-iii-net-developer/7171853
 https://builtin.com/job/software-engineer-iii-net-react/7796740
 https://builtin.com/job/software-engineer-iii-test-automation/7183441
+https://builtin.com/job/software-engineer-iii-trading-platforms-gui-c-wpf-typescript-react/8289296
 https://builtin.com/job/software-engineer-iii/7073822
 https://builtin.com/job/software-engineer-iii/7139373
 https://builtin.com/job/software-engineer-iii/7145722
