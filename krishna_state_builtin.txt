@@ -268,9 +268,11 @@ https://builtin.com/job/database-administrator/7991222
 https://builtin.com/job/database-design-engineer/7927930
 https://builtin.com/job/database-escalation-engineer-federal/7930503
 https://builtin.com/job/decision-analytics-associate-washington-dc/7611875
+https://builtin.com/job/defense-sap-basis-security-analyst/8285324
 https://builtin.com/job/defi-software-engineer/8236724
 https://builtin.com/job/desarrollador-java-con-experiencia-en-adobe-aem/7824911
 https://builtin.com/job/developer-software-engineer-cloud-java-awd/7603900
+https://builtin.com/job/devops-configuration-manager/8282737
 https://builtin.com/job/devops-contract/7585579
 https://builtin.com/job/devops-engineer-fx-ecommerce/8176014
 https://builtin.com/job/devops-engineer/7625395
@@ -478,6 +480,7 @@ https://builtin.com/job/java-backend-developer/7722826
 https://builtin.com/job/java-backend-engineer-associate/7991809
 https://builtin.com/job/java-backend-engineer/7627136
 https://builtin.com/job/java-consultant-salesforce/7782007
+https://builtin.com/job/java-developer-6108102/8283484
 https://builtin.com/job/java-developer-application-support-l3-support/7590787
 https://builtin.com/job/java-developer-atg/7679451
 https://builtin.com/job/java-developer-aws/7693569
