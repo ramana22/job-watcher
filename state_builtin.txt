@@ -430,6 +430,7 @@ https://builtin.com/job/cos-operator-i/7476950
 https://builtin.com/job/cos-operator-i/7747095
 https://builtin.com/job/cos-operator/7305371
 https://builtin.com/job/cpm-systems-sr-manager-onestream/7741719
+https://builtin.com/job/creative-technologist/8288792
 https://builtin.com/job/crm-developer/7680339
 https://builtin.com/job/crm-devops-engineer/7479775
 https://builtin.com/job/customer-account-specialist/7137194
@@ -1856,6 +1857,7 @@ https://builtin.com/job/software-engineer-mid/8256365
 https://builtin.com/job/software-engineer-mid/8260069
 https://builtin.com/job/software-engineer-mid/8260072
 https://builtin.com/job/software-engineer-mid/8268633
+https://builtin.com/job/software-engineer-mid/8280029
 https://builtin.com/job/software-engineer-mr/7303396
 https://builtin.com/job/software-engineer-net-angular-must-work-w2/7314501
 https://builtin.com/job/software-engineer-net-c/7085029
@@ -2295,11 +2297,13 @@ https://builtin.com/job/ui-artist-ux-designer/7709675
 https://builtin.com/job/ui-developer-net-experience/7680353
 https://builtin.com/job/ui-developer/7679996
 https://builtin.com/job/underwriting-assistant-commercial-p-c/7517275
+https://builtin.com/job/unity-developer-soartech/8288283
 https://builtin.com/job/unity-developer/7899911
 https://builtin.com/job/unity-developer/8257498
 https://builtin.com/job/unity-developer/8279588
 https://builtin.com/job/unity-engineer/7890786
 https://builtin.com/job/unity-game-developer/7730268
+https://builtin.com/job/unity-game-tester-soartech/8288286
 https://builtin.com/job/unity-gdk-support-engineer/7524670
 https://builtin.com/job/unity-software-engineer/7417928
 https://builtin.com/job/us-software-engineer-ii-r37/7271017
