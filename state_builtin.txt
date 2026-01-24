@@ -1041,6 +1041,7 @@ https://builtin.com/job/microsoft-dynamics-developer/7710304
 https://builtin.com/job/microsoft-dynamics-programmer-mid-level/8193815
 https://builtin.com/job/microsoft-net-core-microservices-developer/7635807
 https://builtin.com/job/microsoft-net-software-developer/7151498
+https://builtin.com/job/microsoft-power-platforms-solutions-lead/8291353
 https://builtin.com/job/mid-level-backend-engineer/7366367
 https://builtin.com/job/mid-level-full-stack-developer/7182307
 https://builtin.com/job/mid-level-full-stack-developer/7786412
