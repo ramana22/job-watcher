@@ -595,6 +595,7 @@ https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/
 https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7630264
 https://builtin.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/8218120
 https://builtin.com/job/lead-ai-engineer-ai-foundations/7503993
+https://builtin.com/job/lead-ai-engineer-fm-hosting-llm-inference/8297038
 https://builtin.com/job/lead-bizops-engineer/7777318
 https://builtin.com/job/lead-data-engineer/7630249
 https://builtin.com/job/lead-data-engineer/7645438
@@ -604,6 +605,7 @@ https://builtin.com/job/lead-reliability-engineer/8237160
 https://builtin.com/job/lead-sailpoint-engineer/7762607
 https://builtin.com/job/lead-software-engineer-back-end-global-payment-network/7516685
 https://builtin.com/job/lead-software-engineer-back-end-global-payment-network/7696602
+https://builtin.com/job/lead-software-engineer-back-end-global-payment-network/8297051
 https://builtin.com/job/lead-software-engineer-back-end/7714221
 https://builtin.com/job/lead-software-engineer-back-end/7762621
 https://builtin.com/job/lead-software-engineer-back-end/7936773
@@ -1206,6 +1208,7 @@ https://builtin.com/job/software-engineer-iii/8215125
 https://builtin.com/job/software-engineer-iii/8236385
 https://builtin.com/job/software-engineer-iii/8257740
 https://builtin.com/job/software-engineer-iii/8289282
+https://builtin.com/job/software-engineer-iii/8296855
 https://builtin.com/job/software-engineer-infrastructure/7565092
 https://builtin.com/job/software-engineer-infrastucture/8192270
 https://builtin.com/job/software-engineer-integrations/8126112
