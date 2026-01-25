@@ -838,6 +838,7 @@ https://builtin.com/job/senior-software-engineer/7612274
 https://builtin.com/job/senior-software-engineer/7664784
 https://builtin.com/job/senior-software-engineer/7672988
 https://builtin.com/job/senior-solutions-engineer/7747961
+https://builtin.com/job/senior-sw-engineer-big-data-genai/8297457
 https://builtin.com/job/servicenow-developer/8256567
 https://builtin.com/job/silicon-photonics-application-engineer-experienced/8251714
 https://builtin.com/job/simulation-engineer/7582815
@@ -1488,6 +1489,7 @@ https://builtin.com/job/sr-software-engineer-devops-global-payment-network-aws-c
 https://builtin.com/job/sr-sw-engineer-testing/7845409
 https://builtin.com/job/sr-sw-engineer/7745402
 https://builtin.com/job/sr-sw-engineer/7913013
+https://builtin.com/job/sr-sw-engineer/8297458
 https://builtin.com/job/sr-systems-engineer-developer-experience/7565195
 https://builtin.com/job/sr-systems-engineer-developer-experience/7642240
 https://builtin.com/job/sr-technology-consultant/7858330
