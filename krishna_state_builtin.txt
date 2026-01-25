@@ -763,6 +763,7 @@ https://builtin.com/job/programmer-analyst-associate-or-mid-level/8007602
 https://builtin.com/job/programmer-analyst-associate-or-mid-level/8272332
 https://builtin.com/job/programmer-analyst-mid-level-or-senior/8005312
 https://builtin.com/job/programmer-analyst-mid-level-or-senior/8222870
+https://builtin.com/job/programmer-analyst-mid-level-or-senior/8297697
 https://builtin.com/job/python-ai-ml-software-engineer-iii/7857599
 https://builtin.com/job/qa-analyst-ii/7566538
 https://builtin.com/job/qa-analyst/7844918
@@ -1013,6 +1014,7 @@ https://builtin.com/job/software-engineer-data-reliability-platform/7602168
 https://builtin.com/job/software-engineer-datacenter/7754762
 https://builtin.com/job/software-engineer-deepgram-restaurants/8184253
 https://builtin.com/job/software-engineer-demand-and-supply-planning/7520617
+https://builtin.com/job/software-engineer-developer-bixby/8297666
 https://builtin.com/job/software-engineer-developer-development/8210983
 https://builtin.com/job/software-engineer-developer-experience/7912371
 https://builtin.com/job/software-engineer-developer-experienced-or-senior-level/8005854
