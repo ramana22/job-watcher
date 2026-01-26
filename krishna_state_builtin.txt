@@ -1032,6 +1032,7 @@ https://builtin.com/job/software-engineer-front-end/7775904
 https://builtin.com/job/software-engineer-frontend/7956291
 https://builtin.com/job/software-engineer-frontend/7956718
 https://builtin.com/job/software-engineer-frost-signals/7573639
+https://builtin.com/job/software-engineer-full-stack-api-backend-frontend/8298167
 https://builtin.com/job/software-engineer-full-stack-capital-one-software-remote/7571262
 https://builtin.com/job/software-engineer-full-stack-engineer-micro-services-infrastructure/8203863
 https://builtin.com/job/software-engineer-full-stack-engineer-react-typescript-studio-ai/7736584
