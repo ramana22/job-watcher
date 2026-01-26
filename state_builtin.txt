@@ -116,6 +116,7 @@ https://builtin.com/job/application-support/7691192
 https://builtin.com/job/applications-developer/7860702
 https://builtin.com/job/applications-programmer/7524060
 https://builtin.com/job/aprn-pa-c/7644214
+https://builtin.com/job/aprn-pa-c/8298291
 https://builtin.com/job/assistant-chief-engineer-c/7185857
 https://builtin.com/job/assistant-deli-department-manager/7720832
 https://builtin.com/job/assistant-deli-department-manager/7922799
@@ -2238,6 +2239,7 @@ https://builtin.com/job/systems-software-engineer/7388877
 https://builtin.com/job/systems-software-engineer/7763018
 https://builtin.com/job/systems-test-engineer-liberty-lake-wa/7807790
 https://builtin.com/job/syteline-programmer-lake-companies/7766207
+https://builtin.com/job/tax-technology-specialist/8298430
 https://builtin.com/job/tdm-engineer/7164512
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/tech-lead-presales-solutioning/7781540
