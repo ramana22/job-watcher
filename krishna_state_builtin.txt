@@ -156,6 +156,7 @@ https://builtin.com/job/bizops-engineer-ii/7641441
 https://builtin.com/job/bizops-engineer-ii/7699843
 https://builtin.com/job/bizops-engineer-ii/7889700
 https://builtin.com/job/bizops-engineer-ii/7904427
+https://builtin.com/job/blackstone-technology-and-innovations-associate/8298704
 https://builtin.com/job/bot-detection-researcher-engineer/7824051
 https://builtin.com/job/business-analyst-1/7725170
 https://builtin.com/job/business-analyst-idm-engineering-gis/7592076
@@ -973,6 +974,7 @@ https://builtin.com/job/software-engineer-applied-security-engineering/8296021
 https://builtin.com/job/software-engineer-apps-ii/7586905
 https://builtin.com/job/software-engineer-associate/7577324
 https://builtin.com/job/software-engineer-athenacollector/7517698
+https://builtin.com/job/software-engineer-automation-tools/8298472
 https://builtin.com/job/software-engineer-aws-java/7890536
 https://builtin.com/job/software-engineer-back-end-java-spark/7873525
 https://builtin.com/job/software-engineer-back-end-oracle-focused/7777469
@@ -1530,6 +1532,7 @@ https://builtin.com/job/systems-engineer/7977733
 https://builtin.com/job/systems-security-specialist/7804473
 https://builtin.com/job/systems-software-engineer-c2bmc-associate-experienced-or-senior/8005300
 https://builtin.com/job/talent-acquisition-analytics-engineer/8236260
+https://builtin.com/job/tax-technology-specialist/8298430
 https://builtin.com/job/tdi-trade-finance-tech-full-stack-java-engineer-avp/8202708
 https://builtin.com/job/team-lead-developer/7518409
 https://builtin.com/job/team-lead/7577361
