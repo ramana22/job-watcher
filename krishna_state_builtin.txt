@@ -769,6 +769,7 @@ https://builtin.com/job/python-ai-ml-software-engineer-iii/7857599
 https://builtin.com/job/qa-analyst-ii/7566538
 https://builtin.com/job/qa-analyst/7844918
 https://builtin.com/job/qa-automation-engineer-avp/8263317
+https://builtin.com/job/qa-automation-engineer-karate-framework/8300763
 https://builtin.com/job/qa-automation-engineer/7644474
 https://builtin.com/job/qa-automation-engineer/7951214
 https://builtin.com/job/qa-engineer-ii/8164578
@@ -797,6 +798,7 @@ https://builtin.com/job/rsa-software-engineer-cloud-java/7579401
 https://builtin.com/job/sales-engineer-i/7781214
 https://builtin.com/job/sales-engineer/7565167
 https://builtin.com/job/salesforce-developer/8163661
+https://builtin.com/job/scientific-software-developer-abq/8300470
 https://builtin.com/job/sdet-contractor/7589900
 https://builtin.com/job/sdet-engineer/7562761
 https://builtin.com/job/sdet-ii/7902765
