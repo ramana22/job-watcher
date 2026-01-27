@@ -387,6 +387,7 @@ https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163704
 https://builtin.com/job/cloud-engineer-iii-next-gen-siem-remote/7163718
 https://builtin.com/job/cloud-engineer/7960043
 https://builtin.com/job/cloud-full-stack-engineer/8257501
+https://builtin.com/job/cloud-full-stack-engineer/8304547
 https://builtin.com/job/cloud-operations-developer/7114938
 https://builtin.com/job/cloud-operations-engineer-internal/7885822
 https://builtin.com/job/cloud-operations-engineer/7595943
