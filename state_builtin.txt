@@ -346,6 +346,7 @@ https://builtin.com/job/c-programmer/7217295
 https://builtin.com/job/c-programmer/7493259
 https://builtin.com/job/c-quant-developer/8206185
 https://builtin.com/job/c-software-developer-ii-raster-analysis/8280046
+https://builtin.com/job/c-software-development-engineer-ii-graph-algorithms/8304536
 https://builtin.com/job/c-software-engineer-abq/7313008
 https://builtin.com/job/c-software-engineer-abq/8291772
 https://builtin.com/job/c-software-engineer-dayton/7313009
@@ -620,6 +621,7 @@ https://builtin.com/job/engineer-ii/7699204
 https://builtin.com/job/engineer-ii/7843763
 https://builtin.com/job/engineer-ii/8280589
 https://builtin.com/job/engineer-ii/8293010
+https://builtin.com/job/engineer-ii/8307256
 https://builtin.com/job/engineer-stability-analysis-remote-eligible-u-s/7890266
 https://builtin.com/job/engineer-test-automation/7482110
 https://builtin.com/job/engineer-vehicle-ee-system-validation/7489854
@@ -983,6 +985,7 @@ https://builtin.com/job/key-account-controller/7927994
 https://builtin.com/job/l4-software-engineer-c-spectacles/7438259
 https://builtin.com/job/lab-automation-analyst/7904825
 https://builtin.com/job/lead-business-systems-analysis/7246494
+https://builtin.com/job/lead-developer-applications-cobb-vantress-corporate/8303243
 https://builtin.com/job/lead-developer/8239824
 https://builtin.com/job/lead-engineer-hybrid/7264645
 https://builtin.com/job/lead-engineer-systems-engineering/7223327
@@ -2157,6 +2160,7 @@ https://builtin.com/job/software-verification-engineer-ii-crm/7223324
 https://builtin.com/job/software-verification-engineer/7585365
 https://builtin.com/job/solution-architect/7430679
 https://builtin.com/job/solution-architect/7858351
+https://builtin.com/job/solution-engineer-sled/8307031
 https://builtin.com/job/solution-engineer/7709302
 https://builtin.com/job/solutions-architect-25001/7912435
 https://builtin.com/job/solutions-architect/7710287
@@ -2206,6 +2210,7 @@ https://builtin.com/job/staff-deploy-software-engineer/7315735
 https://builtin.com/job/staff-embedded-c-software-engineer-robotics/7888672
 https://builtin.com/job/staff-engineer-wafer-manufacturing-metrology/7903994
 https://builtin.com/job/staff-engineer-wafer-manufacturing-metrology/8303632
+https://builtin.com/job/staff-engineer-wafer-metrology/8307997
 https://builtin.com/job/staff-full-stack-application-developer/7103361
 https://builtin.com/job/staff-r-d-software-engineer-simulation/7082115
 https://builtin.com/job/staff-sdk-engineer/7600392
@@ -2329,6 +2334,7 @@ https://builtin.com/job/ui-artist-ux-designer/7709675
 https://builtin.com/job/ui-developer-net-experience/7680353
 https://builtin.com/job/ui-developer/7679996
 https://builtin.com/job/underwriting-assistant-commercial-p-c/7517275
+https://builtin.com/job/underwriting-specialist-commercial-p-c/8306500
 https://builtin.com/job/unity-developer-soartech/8288283
 https://builtin.com/job/unity-developer/7899911
 https://builtin.com/job/unity-developer/8257498
@@ -2349,6 +2355,7 @@ https://builtin.com/job/visualization-engineer/7447838
 https://builtin.com/job/vr-software-engineer/7940312
 https://builtin.com/job/vulnerability-assessments-automation-developer/7505203
 https://builtin.com/job/way-onward-sales-associate-brandywine-t-c/7737660
+https://builtin.com/job/way-onward-sales-associate-merriam-t-c/8306101
 https://builtin.com/job/we-are-looking-fe-ui-angular-developer-redmond-wa/7680300
 https://builtin.com/job/we-are-looking-net-developer-redmond-wa/7679830
 https://builtin.com/job/weapons-associate-software-engineer/8003931
