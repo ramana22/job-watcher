@@ -216,6 +216,7 @@ https://builtin.com/job/associate-technology/7108930
 https://builtin.com/job/associate-ui-software-engineer/7151286
 https://builtin.com/job/associate-vehicle-management-systems-vms-software-engineer/8005120
 https://builtin.com/job/associate-vehicle-management-systems-vms-software-engineer/8222894
+https://builtin.com/job/associate/8303165
 https://builtin.com/job/ata-engineer-ii/7780595
 https://builtin.com/job/attack-monitoring-analyst-gsoc/7590457
 https://builtin.com/job/audio-visual-programmer/8003977
@@ -1233,6 +1234,7 @@ https://builtin.com/job/personal-banker-northern-lights-and-c-street/7165452
 https://builtin.com/job/personal-banker-northern-lights-and-c-street/7743983
 https://builtin.com/job/personal-lines-sales-producer-p-c-insurance/7385344
 https://builtin.com/job/php-developer/7679878
+https://builtin.com/job/pipeline-technical-artist-temp-nba-2k/8308268
 https://builtin.com/job/plan-build-coordinator/7391160
 https://builtin.com/job/plastic-surgery-physician-assistant-pa-c/8204608
 https://builtin.com/job/platform-engineer-cloud-platform-net-azure-kubernetes/7313284
@@ -1304,6 +1306,7 @@ https://builtin.com/job/qa-analyst/7741265
 https://builtin.com/job/qa-analyst/7741747
 https://builtin.com/job/qa-analyst/7741907
 https://builtin.com/job/qa-analyst/7844918
+https://builtin.com/job/qa-analyst/8308397
 https://builtin.com/job/qa-automation-engineer-net-flutter/7834981
 https://builtin.com/job/qa-automation-engineer/7290762
 https://builtin.com/job/qa-engineer-i-visualization/7123529
@@ -2114,6 +2117,7 @@ https://builtin.com/job/software-engineer/8277661
 https://builtin.com/job/software-engineer/8281830
 https://builtin.com/job/software-engineer/8282043
 https://builtin.com/job/software-engineer/8282760
+https://builtin.com/job/software-engineer/8301655
 https://builtin.com/job/software-engineer/8302222
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
