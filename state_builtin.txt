@@ -358,6 +358,7 @@ https://builtin.com/job/c-software-engineer/7441370
 https://builtin.com/job/c-software-engineer/7663382
 https://builtin.com/job/c-software-engineer/7828618
 https://builtin.com/job/c-software-engineer/8214050
+https://builtin.com/job/c-software-engineer/8313181
 https://builtin.com/job/c-tariff-analyst/8250558
 https://builtin.com/job/c-tech/7729597
 https://builtin.com/job/c-web-developer/7704100
@@ -564,6 +565,7 @@ https://builtin.com/job/e-c-project-manager-ii-power-innovation-project-developm
 https://builtin.com/job/ead-gc-and-citizens-only-urgent-need-full-stack-net-developer/7678607
 https://builtin.com/job/earthquake-engineer/7658863
 https://builtin.com/job/east-region-commercial-p-c-support-representative/8072619
+https://builtin.com/job/ebi-database-developer-i/8313012
 https://builtin.com/job/ecornell-salesforce-developer-remote/7431133
 https://builtin.com/job/edi-data-integrations-engineer-ii/7600523
 https://builtin.com/job/edi-software-engineer/7077347
@@ -639,6 +641,7 @@ https://builtin.com/job/enterprise-architect/7150071
 https://builtin.com/job/enterprise-technical-architect-pre-sales/7526185
 https://builtin.com/job/entry-level-c-software-developer/7164404
 https://builtin.com/job/entry-level-c-software-developer/7164411
+https://builtin.com/job/entry-level-c-software-engineer/8313182
 https://builtin.com/job/entry-level-power-platform-developers-networking-event-aecom-raleigh/7856009
 https://builtin.com/job/entry-level-power-platform-developers-networking-event-aecom-raleigh/8187104
 https://builtin.com/job/entry-level-power-platform-developers-networking-event-aecom-raleigh/8293527
@@ -682,6 +685,7 @@ https://builtin.com/job/entry-level-software-engineer/7101125
 https://builtin.com/job/entry-level-software-engineer/7456438
 https://builtin.com/job/entry-level-software-engineer/7791645
 https://builtin.com/job/entry-level-trader/7495422
+https://builtin.com/job/entry-level-trader/8313179
 https://builtin.com/job/epic-client-systems-administrator-application-ripplematch/7484800
 https://builtin.com/job/epic-client-systems-administrator-application-ripplematch/7780368
 https://builtin.com/job/epic-software-developer-application-ripplematch/7484799
@@ -1015,6 +1019,7 @@ https://builtin.com/job/loader/7262973
 https://builtin.com/job/logistics-operator-4-800-c/7314571
 https://builtin.com/job/looking-net-developer-c-and-c/7679378
 https://builtin.com/job/looking-net-developer/7680417
+https://builtin.com/job/low-level-c-software-engineer/8313180
 https://builtin.com/job/machine-learning-engineer-i-us/8208310
 https://builtin.com/job/machine-learning-reseacher/7544838
 https://builtin.com/job/mailroom-associate/7480227
