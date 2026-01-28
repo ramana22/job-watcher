@@ -92,6 +92,7 @@ https://builtin.com/job/api-technical-support-analyst/7414336
 https://builtin.com/job/application-and-d365-developer/7456952
 https://builtin.com/job/application-developer-hybrid-norcross-ga/7342738
 https://builtin.com/job/application-developer-ii-ncct/7639187
+https://builtin.com/job/application-developer-scientific-applications-entry-level-associate-or-mid-level/8323466
 https://builtin.com/job/application-developer/7112639
 https://builtin.com/job/application-developer/7112642
 https://builtin.com/job/application-developer/7405974
@@ -1346,6 +1347,7 @@ https://builtin.com/job/quality-assurance-representative-c-belgravia-days/749472
 https://builtin.com/job/quality-assurance-representative-c-belgravia-days/7729426
 https://builtin.com/job/quality-development-program/7071392
 https://builtin.com/job/quality-specialist-ii/7210504
+https://builtin.com/job/quant-developer/8324189
 https://builtin.com/job/quantitative-analyst/7248675
 https://builtin.com/job/quantitative-developer/7437981
 https://builtin.com/job/quantitative-developer/7945812
