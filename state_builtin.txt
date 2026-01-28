@@ -111,6 +111,7 @@ https://builtin.com/job/application-engineer/8316363
 https://builtin.com/job/application-engineer/8317877
 https://builtin.com/job/application-infrastructure-developer/7160069
 https://builtin.com/job/application-integration-engineer/7981065
+https://builtin.com/job/application-integration-engineer/8327724
 https://builtin.com/job/application-programmer-analyst/8270234
 https://builtin.com/job/application-security-engineer/7962143
 https://builtin.com/job/application-software-engineer/7915408
@@ -726,6 +727,7 @@ https://builtin.com/job/firmware-engineer-ii/7656045
 https://builtin.com/job/firmware-engineer/7327058
 https://builtin.com/job/firmware-engineer/7464260
 https://builtin.com/job/firmware-engineer/7976413
+https://builtin.com/job/firmware-engineer/8327866
 https://builtin.com/job/firmware-intern/7091645
 https://builtin.com/job/flight-simulation-software-engineers-associate-experienced-and-senior/8273248
 https://builtin.com/job/flight-software-engineer-embedded-c-c-air-dominance-strike-advanced-effects/8322464
@@ -1625,6 +1627,7 @@ https://builtin.com/job/software-developer/8194036
 https://builtin.com/job/software-developer/8194037
 https://builtin.com/job/software-developer/8206560
 https://builtin.com/job/software-developer/8242739
+https://builtin.com/job/software-developer/8329557
 https://builtin.com/job/software-development-engineer-2/7523292
 https://builtin.com/job/software-development-engineer-entry-level/7995824
 https://builtin.com/job/software-development-engineer-full-stack-net-c-react-node-js/7281247
@@ -1867,6 +1870,7 @@ https://builtin.com/job/software-engineer-ii/8220124
 https://builtin.com/job/software-engineer-ii/8225319
 https://builtin.com/job/software-engineer-ii/8236479
 https://builtin.com/job/software-engineer-ii/8291103
+https://builtin.com/job/software-engineer-ii/8328332
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
@@ -2145,6 +2149,8 @@ https://builtin.com/job/software-engineer/8282760
 https://builtin.com/job/software-engineer/8301655
 https://builtin.com/job/software-engineer/8302222
 https://builtin.com/job/software-engineer/8316828
+https://builtin.com/job/software-engineer/8328657
+https://builtin.com/job/software-engineer/8329540
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -2305,6 +2311,7 @@ https://builtin.com/job/technical-client-support-analyst/7334797
 https://builtin.com/job/technical-consultant-digital-twin/7700162
 https://builtin.com/job/technical-consultant-digital-twin/7713327
 https://builtin.com/job/technical-consultant-ii/7788677
+https://builtin.com/job/technical-consultant-ii/8327904
 https://builtin.com/job/technical-consultant-rtsm-remote/7707974
 https://builtin.com/job/technical-consultant-rtsm-remote/7708447
 https://builtin.com/job/technical-consultant-rtsm-remote/7708604
