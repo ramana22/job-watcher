@@ -602,6 +602,7 @@ https://builtin.com/job/energy-manager/7977202
 https://builtin.com/job/eng-ii-identity-lifecycle-engineer/7074832
 https://builtin.com/job/engagement-manager/7901508
 https://builtin.com/job/engagement-specialist/7390052
+https://builtin.com/job/engineer-2-misc-team-hybrid-seattle-wa/8321801
 https://builtin.com/job/engineer-2-selling-empowerment-team/7712551
 https://builtin.com/job/engineer-associate/7891193
 https://builtin.com/job/engineer-autonomy/8217357
@@ -1954,6 +1955,7 @@ https://builtin.com/job/software-engineer-research-development/7453846
 https://builtin.com/job/software-engineer-research-systems/7164868
 https://builtin.com/job/software-engineer-ruby-rails/7449519
 https://builtin.com/job/software-engineer-sales-development/7464564
+https://builtin.com/job/software-engineer-sdet/8320673
 https://builtin.com/job/software-engineer-sdk-test-infrastructure/7929965
 https://builtin.com/job/software-engineer-senior-consultant/7844009
 https://builtin.com/job/software-engineer-senior-consultant/7926536
