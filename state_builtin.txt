@@ -954,6 +954,7 @@ https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226290
 https://builtin.com/job/junior-backend-engineer-c-chicago-or-reston/7226371
 https://builtin.com/job/junior-c-developer/7704095
 https://builtin.com/job/junior-c-developer/7739400
+https://builtin.com/job/junior-c-or-python-engineer-2-adtech-chicago-il-or-denver-co-onsite-4-x-week/8333901
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210415
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7210459
 https://builtin.com/job/junior-c-or-python-engineer-adtech-chicago-il-or-reston-va-onsite-4-x-week/7226287
@@ -1297,6 +1298,7 @@ https://builtin.com/job/product-manager-consumer/7749517
 https://builtin.com/job/product-manager-p-c-commercial-lines/7830780
 https://builtin.com/job/product-manager-p-c-insurance/7929449
 https://builtin.com/job/product-manager/7749542
+https://builtin.com/job/product-security-product-owner/8334492
 https://builtin.com/job/product-software-engineer-java-developer/7550376
 https://builtin.com/job/product-support-engineer/7455085
 https://builtin.com/job/product-support-engineer/7470160
@@ -1767,6 +1769,7 @@ https://builtin.com/job/software-engineer-full-stack-web-applications/8232248
 https://builtin.com/job/software-engineer-full-stack/7369739
 https://builtin.com/job/software-engineer-full-stack/7806710
 https://builtin.com/job/software-engineer-full-stack/7944436
+https://builtin.com/job/software-engineer-full-stack/8334356
 https://builtin.com/job/software-engineer-fullstack/7317579
 https://builtin.com/job/software-engineer-graphics-and-framework/7103575
 https://builtin.com/job/software-engineer-hybrid-or-remote/7344015
@@ -2332,6 +2335,7 @@ https://builtin.com/job/technical-implementation-engineer-i/7788678
 https://builtin.com/job/technical-implementation-manager-paze/7456518
 https://builtin.com/job/technical-product-manager-trainingpeaks/7912401
 https://builtin.com/job/technical-product-manager-trainingpeaks/7912516
+https://builtin.com/job/technical-program-analyst-application-development-automation-power-platform/8334015
 https://builtin.com/job/technical-project-manager/8232060
 https://builtin.com/job/technical-solutions-associate/7114948
 https://builtin.com/job/technical-specialist-junior-remote/7164361
