@@ -239,6 +239,7 @@ https://builtin.com/job/automation-controls-integration-engineer-ii/7313875
 https://builtin.com/job/automation-developer/7933947
 https://builtin.com/job/automation-developer/8263022
 https://builtin.com/job/automation-engineer-iii/7123691
+https://builtin.com/job/automation-engineer-starlink-customer-success/8331368
 https://builtin.com/job/automation-engineer/7137854
 https://builtin.com/job/automation-engineer/7244502
 https://builtin.com/job/automation-engineer/7326435
@@ -780,6 +781,7 @@ https://builtin.com/job/full-stack-developer/8281419
 https://builtin.com/job/full-stack-developer/8281429
 https://builtin.com/job/full-stack-developer/8281441
 https://builtin.com/job/full-stack-developer/8282624
+https://builtin.com/job/full-stack-developer/8332430
 https://builtin.com/job/full-stack-engineer-ii/7801918
 https://builtin.com/job/full-stack-engineer-l4-product-localization-technology/7877742
 https://builtin.com/job/full-stack-engineer-net-react/7464612
@@ -1356,6 +1358,7 @@ https://builtin.com/job/quantitative-developer/7945812
 https://builtin.com/job/quantitative-engineering-investments-technology/7483045
 https://builtin.com/job/quantitative-research-analyst/7370391
 https://builtin.com/job/quantitative-research-analyst/7401952
+https://builtin.com/job/quantitative-risk-management-consultant/8331694
 https://builtin.com/job/r-d-engineer-electromagnetics/8258319
 https://builtin.com/job/r-d-engineer/7881777
 https://builtin.com/job/r-d-software-developer-transformers/7214043
@@ -1380,6 +1383,7 @@ https://builtin.com/job/sales-engineer/8269298
 https://builtin.com/job/sales-engineer/8269311
 https://builtin.com/job/sales-operations-analyst/7991653
 https://builtin.com/job/sales-representative-bs-c/7923889
+https://builtin.com/job/salesforce-developer-loveland-colorado/8331270
 https://builtin.com/job/salesforce-developer/8188998
 https://builtin.com/job/salesforce-developer/8217280
 https://builtin.com/job/salesforce-developer/8217294
@@ -1871,6 +1875,7 @@ https://builtin.com/job/software-engineer-ii/8225319
 https://builtin.com/job/software-engineer-ii/8236479
 https://builtin.com/job/software-engineer-ii/8291103
 https://builtin.com/job/software-engineer-ii/8328332
+https://builtin.com/job/software-engineer-ii/8330614
 https://builtin.com/job/software-engineer-iii-c-c/7183502
 https://builtin.com/job/software-engineer-iii-c-developer-ts-cleared/7157562
 https://builtin.com/job/software-engineer-iii-c-net-java-react/7610466
@@ -2151,6 +2156,9 @@ https://builtin.com/job/software-engineer/8302222
 https://builtin.com/job/software-engineer/8316828
 https://builtin.com/job/software-engineer/8328657
 https://builtin.com/job/software-engineer/8329540
+https://builtin.com/job/software-engineer/8329842
+https://builtin.com/job/software-engineer/8330612
+https://builtin.com/job/software-engineer/8330898
 https://builtin.com/job/software-engineering-lead/7474601
 https://builtin.com/job/software-engineering-manager/7081836
 https://builtin.com/job/software-engineering-manager/7100804
@@ -2196,6 +2204,7 @@ https://builtin.com/job/software-verification-engineer-ii-crm/7223324
 https://builtin.com/job/software-verification-engineer/7585365
 https://builtin.com/job/solution-architect/7430679
 https://builtin.com/job/solution-architect/7858351
+https://builtin.com/job/solution-architect/8331816
 https://builtin.com/job/solution-engineer-sled/8307031
 https://builtin.com/job/solution-engineer/7709302
 https://builtin.com/job/solutions-architect-25001/7912435
@@ -2212,6 +2221,7 @@ https://builtin.com/job/specialist-internal-audit-p-c/7995788
 https://builtin.com/job/specialist-p-c-statistical-reporting/7262962
 https://builtin.com/job/specialist-software-engineer-net/8235984
 https://builtin.com/job/spring-2026-internship-software-engineering/7077255
+https://builtin.com/job/sql-data-engineer/8331921
 https://builtin.com/job/sr-ai-automation-engineer-rpa-workato-powerapps/7528058
 https://builtin.com/job/sr-associate-software-developer-engineer/7470156
 https://builtin.com/job/sr-associate-software-developer-engineer/7616548
